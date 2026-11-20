@@ -1,12 +1,10 @@
 {
  "nama": "ongky",
- "jenis": "dari pustaka (hasil VoxCPM)",
- "prompt": "64295c8936f6",
- "reference": [
-  "64295c8936f6",
-  "a5018ff1173a",
-  "6f95230838fb",
-  "87482480617c"
+ "jenis": "rekaman asli",
+ "sumber": "ongky-asli.wav",
+ "prompt_detik": [
+  0.4,
+  9.9
  ],
- "catatan": "Ganti dengan rekaman asli: pustaka_suara.py profil ongky rekaman.wav \"teks persis\""
+ "dibuat": "2026-11-20"
 }
