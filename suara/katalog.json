@@ -21067,6 +21067,386 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-20"
+  },
+  {
+   "id": "cd49ce797f86",
+   "suara": "ongky",
+   "teks": "Enzim kuncinya baru ditemukan tahun 2002.",
+   "dibaca": "Enzim kuncinya baru ditemukan tahun dua ribu dua.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/cd49ce797f86.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6d67685eb4ed",
+   "suara": "ongky",
+   "teks": "Di dalam sel bawang, bahan kimia dan enzimnya disimpan terpisah.",
+   "dibaca": "Di dalam sel bawang, bahan kimia dan enzimnya disimpan terpisah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/6d67685eb4ed.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e910473aa031",
+   "suara": "ongky",
+   "teks": "Ilmuwan menduga ini cara bawang melindungi diri dari hewan yang menggigitnya.",
+   "dibaca": "Ilmuwan menduga ini cara bawang melindungi diri dari hewan yang menggigitnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/e910473aa031.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "94b48da1a155",
+   "suara": "ongky",
+   "teks": "Kamu nggak lagi sedih. Tapi tiap potong bawang, air matamu tetap keluar.",
+   "dibaca": "Kamu nggak lagi sedih. Tapi tiap potong bawang, air matamu tetap keluar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/94b48da1a155.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "27b134088ca6",
+   "suara": "ongky",
+   "teks": "Itu penghargaan untuk riset yang bikin orang tertawa dulu, lalu berpikir.",
+   "dibaca": "Itu penghargaan untuk riset yang bikin orang tertawa dulu, lalu berpikir.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/27b134088ca6.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "fafbb2c9d2be",
+   "suara": "ongky",
+   "teks": "Tapi ada yang hilang. Yang sudah mencobanya bilang, rasanya jauh lebih manis dan lembut.",
+   "dibaca": "Tapi ada yang hilang. Yang sudah mencobanya bilang, rasanya jauh lebih manis dan lembut.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/fafbb2c9d2be.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c0ccd5c7446b",
+   "suara": "ongky",
+   "teks": "Baru dua kali iris, mata langsung perih. Hampir semua orang pernah ngalamin.",
+   "dibaca": "Baru dua kali iris, mata langsung perih. Hampir semua orang pernah ngalamin.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/c0ccd5c7446b.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "027f5dfcd0c7",
+   "suara": "ongky",
+   "teks": "Wajar kalau kita kira bawang memang pedas dari sananya. Padahal, bawang utuh itu aman.",
+   "dibaca": "Wajar kalau kita kira bawang memang pedas dari sananya. Padahal, bawang utuh itu aman.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/027f5dfcd0c7.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "75c6045f0abd",
+   "suara": "ongky",
+   "teks": "Bawang putih malah menghasilkan allicin, zat yang membuat aromanya tajam khas bawang putih.",
+   "dibaca": "Bawang putih malah menghasilkan alisin, zat yang membuat aromanya tajam khas bawang putih.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/75c6045f0abd.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "abc5702a6cae",
+   "suara": "ongky",
+   "teks": "Bayangkan seekor hewan menggigit bawang di dalam tanah, lalu matanya langsung perih.",
+   "dibaca": "Bayangkan seekor hewan menggigit bawang di dalam tanah, lalu matanya langsung perih.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/abc5702a6cae.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e242409e003c",
+   "suara": "ongky",
+   "teks": "Bedanya, bawang putih nggak punya satu enzim terakhir yang mengubahnya jadi gas perih.",
+   "dibaca": "Bedanya, bawang putih nggak punya satu enzim terakhir yang mengubahnya jadi gas perih.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/e242409e003c.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "30572e0988c1",
+   "suara": "ongky",
+   "teks": "Pakai NotesByAdriy saja. Semua catatan, ide, dan journal tersimpan rapi di satu tempat.",
+   "dibaca": "Pakai NotesByAdriy saja. Semua catatan, ide, dan journal tersimpan rapi di satu tempat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/30572e0988c1.wav",
+   "durasi": 5.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "18f91c341a4f",
+   "suara": "ongky",
+   "teks": "Dan bawang tanpa air mata itu sekarang benar-benar dijual, walau jumlahnya masih terbatas.",
+   "dibaca": "Dan bawang tanpa air mata itu sekarang benar-benar dijual, walau jumlahnya masih terbatas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/18f91c341a4f.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4cb1bc901efd",
+   "suara": "ongky",
+   "teks": "Isinya hampir semua air, dan tugasnya cuma satu: mengusir gas pengganggu itu secepat mungkin.",
+   "dibaca": "Isinya hampir semua air, dan tugasnya cuma satu: mengusir gas pengganggu itu secepat mungkin.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/4cb1bc901efd.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8b291723ed19",
+   "suara": "ongky",
+   "teks": "Tapi tunggu. Bawang putih juga dipotong, juga diiris. Kenapa bawang putih nggak bikin nangis?",
+   "dibaca": "Tapi tunggu. Bawang putih juga dipotong, juga diiris. Kenapa bawang putih nggak bikin nangis?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/8b291723ed19.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8e27b5342d75",
+   "suara": "ongky",
+   "teks": "Artinya, rasa tajam yang kamu suka dan air mata yang kamu benci kemungkinan datang dari paket yang sama.",
+   "dibaca": "Artinya, rasa tajam yang kamu suka dan air mata yang kamu benci kemungkinan datang dari paket yang sama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/8e27b5342d75.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9ec175247d5a",
+   "suara": "ongky",
+   "teks": "Dalam hitungan detik, terbentuk gas yang menguap ke matamu, lalu matamu membanjirinya dengan air mata.",
+   "dibaca": "Dalam hitungan detik, terbentuk gas yang menguap ke matamu, lalu matamu membanjirinya dengan air mata.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/9ec175247d5a.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7f88057f2d5b",
+   "suara": "ongky",
+   "teks": "Dari situ, peneliti di Jepang butuh sekitar 20 tahun untuk mengembangkan bawang yang nggak bikin nangis.",
+   "dibaca": "Dari situ, peneliti di Jepang butuh sekitar dua puluh tahun untuk mengembangkan bawang yang nggak bikin nangis.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/7f88057f2d5b.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3802203b391e",
+   "suara": "hasan",
+   "teks": "Yang kedua.",
+   "dibaca": "Yang kedua.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3802203b391e.wav",
+   "durasi": 0.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d818ed8edd35",
+   "suara": "hasan",
+   "teks": "Luar biasa, kan?",
+   "dibaca": "Luar biasa, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/d818ed8edd35.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "feb4cf9d68f6",
+   "suara": "hasan",
+   "teks": "Simpel, kan?",
+   "dibaca": "Simpel, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/feb4cf9d68f6.wav",
+   "durasi": 0.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7eae1f639831",
+   "suara": "hasan",
+   "teks": "Yang pertama.",
+   "dibaca": "Yang pertama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/7eae1f639831.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f9875461ae9c",
+   "suara": "hasan",
+   "teks": "Nggak nyangka, kan?",
+   "dibaca": "Nggak nyangka, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/f9875461ae9c.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b071ecc8615d",
+   "suara": "hasan",
+   "teks": "Plot twist, kan?",
+   "dibaca": "Plot twist, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/b071ecc8615d.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "66a60a4c5802",
+   "suara": "hasan",
+   "teks": "Mudah, kan?",
+   "dibaca": "Mudah, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/66a60a4c5802.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
   }
  ]
 }
