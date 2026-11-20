@@ -1,0 +1,332 @@
+{
+ "pose": [
+  {
+   "file": "pose/berdiri_tangan_saku.png",
+   "w": 560,
+   "h": 1510,
+   "rowH": 1510,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/bertemu_gurita.png",
+   "w": 758,
+   "h": 503,
+   "rowH": 503,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/betulkan_masker.png",
+   "w": 341,
+   "h": 751,
+   "rowH": 751,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/cek_jam_selam.png",
+   "w": 323,
+   "h": 658,
+   "rowH": 658,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/cek_manometer.png",
+   "w": 362,
+   "h": 775,
+   "rowH": 775,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/dorong_scooter.png",
+   "w": 623,
+   "h": 426,
+   "rowH": 1065,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/foto_kamera.png",
+   "w": 537,
+   "h": 640,
+   "rowH": 640,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/foto_kamera_lampu.png",
+   "w": 513,
+   "h": 683,
+   "rowH": 683,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/isyarat_hentikan.png",
+   "w": 338,
+   "h": 661,
+   "rowH": 661,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_depan_1_kaki_kiri_maju.png",
+   "w": 352,
+   "h": 740,
+   "rowH": 740,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_depan_2_tengah_naik.png",
+   "w": 243,
+   "h": 733,
+   "rowH": 733,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_depan_3_kaki_kanan_maju.png",
+   "w": 370,
+   "h": 738,
+   "rowH": 738,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_depan_4_tengah_turun.png",
+   "w": 244,
+   "h": 703,
+   "rowH": 703,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jempol_regulator.png",
+   "w": 349,
+   "h": 799,
+   "rowH": 799,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_bersihkan_jaring.png",
+   "w": 462,
+   "h": 521,
+   "rowH": 840,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_pegang_bintang_laut.png",
+   "w": 457,
+   "h": 549,
+   "rowH": 885,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_pegang_karang.png",
+   "w": 481,
+   "h": 513,
+   "rowH": 827,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/lipsync_a.png",
+   "w": 332,
+   "h": 858,
+   "rowH": 858,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/lipsync_diam_senyum.png",
+   "w": 330,
+   "h": 857,
+   "rowH": 857,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/lipsync_o.png",
+   "w": 331,
+   "h": 858,
+   "rowH": 858,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/lipsync_tertawa.png",
+   "w": 331,
+   "h": 858,
+   "rowH": 858,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/melayang_tangan_silang.png",
+   "w": 587,
+   "h": 359,
+   "rowH": 898,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/naik_pelampung_sinyal.png",
+   "w": 422,
+   "h": 648,
+   "rowH": 648,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/ok_senter.png",
+   "w": 401,
+   "h": 835,
+   "rowH": 835,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/pasang_sirip.png",
+   "w": 325,
+   "h": 627,
+   "rowH": 627,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/putar_belakang.png",
+   "w": 318,
+   "h": 940,
+   "rowH": 940,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/putar_depan.png",
+   "w": 361,
+   "h": 974,
+   "rowH": 974,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/putar_samping.png",
+   "w": 304,
+   "h": 960,
+   "rowH": 960,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/putar_tiga_perempat.png",
+   "w": 350,
+   "h": 972,
+   "rowH": 972,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/renang_ulur_tangan.png",
+   "w": 739,
+   "h": 320,
+   "rowH": 800,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/tutup_dua_jempol.png",
+   "w": 380,
+   "h": 934,
+   "rowH": 934,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/tutup_hormat.png",
+   "w": 347,
+   "h": 933,
+   "rowH": 933,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/tutup_melambai_jalan_menjauh.png",
+   "w": 281,
+   "h": 871,
+   "rowH": 871,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/tutup_membungkuk.png",
+   "w": 265,
+   "h": 825,
+   "rowH": 825,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_bangga.png",
+   "w": 654,
+   "h": 597,
+   "rowH": 597,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_kaget_regulator.png",
+   "w": 736,
+   "h": 500,
+   "rowH": 500,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_ok_senyum_regulator.png",
+   "w": 734,
+   "h": 506,
+   "rowH": 506,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_takjub_berbinar.png",
+   "w": 652,
+   "h": 596,
+   "rowH": 596,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_takjub_mulut_terbuka.png",
+   "w": 662,
+   "h": 498,
+   "rowH": 498,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_terharu.png",
+   "w": 656,
+   "h": 601,
+   "rowH": 601,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_tertawa_lepas.png",
+   "w": 648,
+   "h": 594,
+   "rowH": 594,
+   "bottomGap": 0,
+   "dariTransparan": true
+  }
+ ]
+}

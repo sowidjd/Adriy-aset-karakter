@@ -1,0 +1,67 @@
+{
+ "keterangan": "ADRIY penyelam: baju selam hitam-biru, tabung kuning, masker, sirip. Untuk hewan laut, menyelam, ekosistem laut.",
+ "siap": true,
+ "tinggi": {
+  "jongkok_": 0.62,
+  "duduk_": 0.6,
+  "renang_": 0.4,
+  "dorong_": 0.4,
+  "melayang_tangan_silang": 0.4,
+  "rebahan_": 0.4,
+  "merangkak": 0.5,
+  "lari_loncat": 0.75,
+  "melayang_terbang": 0.5,
+  "tendang_putar": 0.75,
+  "salto_": 0.7
+ },
+ "penuh": {
+  "netral": "berdiri_tangan_saku",
+  "jelaskan": "lipsync_diam_senyum",
+  "sapa": "jempol_regulator",
+  "tunjuk": "ok_senter",
+  "ajak": "jempol_regulator",
+  "angkat": "naik_pelampung_sinyal",
+  "lihat": "foto_kamera_lampu",
+  "pegang": "jongkok_pegang_bintang_laut",
+  "tunjukkan": "jongkok_pegang_karang",
+  "sentuh": "jongkok_pegang_karang",
+  "banding": "cek_manometer",
+  "pikir": "cek_jam_selam",
+  "tanya": "betulkan_masker",
+  "kaget": "isyarat_hentikan",
+  "simpulkan": "ok_senter",
+  "rayakan": "tutup_dua_jempol",
+  "senang": "tutup_dua_jempol",
+  "jalan": [
+   "jalan_depan_1_kaki_kiri_maju",
+   "jalan_depan_2_tengah_naik",
+   "jalan_depan_3_kaki_kanan_maju",
+   "jalan_depan_4_tengah_turun"
+  ]
+ },
+ "dekat": {
+  "netral": "wajah_ok_senyum_regulator",
+  "jelaskan": "wajah_terharu",
+  "kaget": "wajah_kaget_regulator",
+  "senang": "wajah_tertawa_lepas",
+  "rayakan": "wajah_bangga",
+  "lihat": "wajah_takjub_berbinar",
+  "tanya": "wajah_takjub_mulut_terbuka",
+  "sapa": "wajah_bangga",
+  "simpulkan": "wajah_ok_senyum_regulator"
+ },
+ "bicara": [],
+ "kedip": null,
+ "bicaraPenuh": [
+  "lipsync_a",
+  "lipsync_diam_senyum",
+  "lipsync_o",
+  "lipsync_tertawa"
+ ],
+ "rusak": [
+  "pasang_masker_snorkel",
+  "periksa_tabung",
+  "renang_senter",
+  "turun_tali"
+ ]
+}

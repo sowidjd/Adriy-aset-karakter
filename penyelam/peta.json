@@ -1,0 +1,268 @@
+{
+ "penuh": {
+  "netral": [
+   {
+    "w": 560,
+    "h": 1510,
+    "rowH": 1510,
+    "file": "adri/penyelam/pose/berdiri_tangan_saku.png"
+   }
+  ],
+  "jelaskan": [
+   {
+    "w": 330,
+    "h": 857,
+    "rowH": 857,
+    "file": "adri/penyelam/pose/lipsync_diam_senyum.png"
+   }
+  ],
+  "sapa": [
+   {
+    "w": 349,
+    "h": 799,
+    "rowH": 799,
+    "file": "adri/penyelam/pose/jempol_regulator.png"
+   }
+  ],
+  "tunjuk": [
+   {
+    "w": 401,
+    "h": 835,
+    "rowH": 835,
+    "file": "adri/penyelam/pose/ok_senter.png"
+   }
+  ],
+  "ajak": [
+   {
+    "w": 349,
+    "h": 799,
+    "rowH": 799,
+    "file": "adri/penyelam/pose/jempol_regulator.png"
+   }
+  ],
+  "angkat": [
+   {
+    "w": 422,
+    "h": 648,
+    "rowH": 648,
+    "file": "adri/penyelam/pose/naik_pelampung_sinyal.png"
+   }
+  ],
+  "lihat": [
+   {
+    "w": 513,
+    "h": 683,
+    "rowH": 683,
+    "file": "adri/penyelam/pose/foto_kamera_lampu.png"
+   }
+  ],
+  "pegang": [
+   {
+    "w": 457,
+    "h": 549,
+    "rowH": 885,
+    "file": "adri/penyelam/pose/jongkok_pegang_bintang_laut.png"
+   }
+  ],
+  "tunjukkan": [
+   {
+    "w": 481,
+    "h": 513,
+    "rowH": 827,
+    "file": "adri/penyelam/pose/jongkok_pegang_karang.png"
+   }
+  ],
+  "sentuh": [
+   {
+    "w": 481,
+    "h": 513,
+    "rowH": 827,
+    "file": "adri/penyelam/pose/jongkok_pegang_karang.png"
+   }
+  ],
+  "banding": [
+   {
+    "w": 362,
+    "h": 775,
+    "rowH": 775,
+    "file": "adri/penyelam/pose/cek_manometer.png"
+   }
+  ],
+  "pikir": [
+   {
+    "w": 323,
+    "h": 658,
+    "rowH": 658,
+    "file": "adri/penyelam/pose/cek_jam_selam.png"
+   }
+  ],
+  "tanya": [
+   {
+    "w": 341,
+    "h": 751,
+    "rowH": 751,
+    "file": "adri/penyelam/pose/betulkan_masker.png"
+   }
+  ],
+  "kaget": [
+   {
+    "w": 338,
+    "h": 661,
+    "rowH": 661,
+    "file": "adri/penyelam/pose/isyarat_hentikan.png"
+   }
+  ],
+  "simpulkan": [
+   {
+    "w": 401,
+    "h": 835,
+    "rowH": 835,
+    "file": "adri/penyelam/pose/ok_senter.png"
+   }
+  ],
+  "rayakan": [
+   {
+    "w": 380,
+    "h": 934,
+    "rowH": 934,
+    "file": "adri/penyelam/pose/tutup_dua_jempol.png"
+   }
+  ],
+  "senang": [
+   {
+    "w": 380,
+    "h": 934,
+    "rowH": 934,
+    "file": "adri/penyelam/pose/tutup_dua_jempol.png"
+   }
+  ],
+  "jalan": [
+   {
+    "w": 352,
+    "h": 740,
+    "rowH": 740,
+    "file": "adri/penyelam/pose/jalan_depan_1_kaki_kiri_maju.png"
+   },
+   {
+    "w": 243,
+    "h": 733,
+    "rowH": 733,
+    "file": "adri/penyelam/pose/jalan_depan_2_tengah_naik.png"
+   },
+   {
+    "w": 370,
+    "h": 738,
+    "rowH": 738,
+    "file": "adri/penyelam/pose/jalan_depan_3_kaki_kanan_maju.png"
+   },
+   {
+    "w": 244,
+    "h": 703,
+    "rowH": 703,
+    "file": "adri/penyelam/pose/jalan_depan_4_tengah_turun.png"
+   }
+  ]
+ },
+ "dekat": {
+  "netral": [
+   {
+    "w": 734,
+    "h": 506,
+    "rowH": 506,
+    "file": "adri/penyelam/pose/wajah_ok_senyum_regulator.png"
+   }
+  ],
+  "jelaskan": [
+   {
+    "w": 656,
+    "h": 601,
+    "rowH": 601,
+    "file": "adri/penyelam/pose/wajah_terharu.png"
+   }
+  ],
+  "kaget": [
+   {
+    "w": 736,
+    "h": 500,
+    "rowH": 500,
+    "file": "adri/penyelam/pose/wajah_kaget_regulator.png"
+   }
+  ],
+  "senang": [
+   {
+    "w": 648,
+    "h": 594,
+    "rowH": 594,
+    "file": "adri/penyelam/pose/wajah_tertawa_lepas.png"
+   }
+  ],
+  "rayakan": [
+   {
+    "w": 654,
+    "h": 597,
+    "rowH": 597,
+    "file": "adri/penyelam/pose/wajah_bangga.png"
+   }
+  ],
+  "lihat": [
+   {
+    "w": 652,
+    "h": 596,
+    "rowH": 596,
+    "file": "adri/penyelam/pose/wajah_takjub_berbinar.png"
+   }
+  ],
+  "tanya": [
+   {
+    "w": 662,
+    "h": 498,
+    "rowH": 498,
+    "file": "adri/penyelam/pose/wajah_takjub_mulut_terbuka.png"
+   }
+  ],
+  "sapa": [
+   {
+    "w": 654,
+    "h": 597,
+    "rowH": 597,
+    "file": "adri/penyelam/pose/wajah_bangga.png"
+   }
+  ],
+  "simpulkan": [
+   {
+    "w": 734,
+    "h": 506,
+    "rowH": 506,
+    "file": "adri/penyelam/pose/wajah_ok_senyum_regulator.png"
+   }
+  ]
+ },
+ "bicara": [],
+ "kedip": null,
+ "bicaraPenuh": [
+  {
+   "w": 332,
+   "h": 858,
+   "rowH": 858,
+   "file": "adri/penyelam/pose/lipsync_a.png"
+  },
+  {
+   "w": 330,
+   "h": 857,
+   "rowH": 857,
+   "file": "adri/penyelam/pose/lipsync_diam_senyum.png"
+  },
+  {
+   "w": 331,
+   "h": 858,
+   "rowH": 858,
+   "file": "adri/penyelam/pose/lipsync_o.png"
+  },
+  {
+   "w": 331,
+   "h": 858,
+   "rowH": 858,
+   "file": "adri/penyelam/pose/lipsync_tertawa.png"
+  }
+ ]
+}
