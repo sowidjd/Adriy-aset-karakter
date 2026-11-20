@@ -24472,6 +24472,188 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c0bfbee432f2",
+   "suara": "hasan",
+   "teks": "Jadi, lain kali kamu mengalaminya, kamu sudah tahu alasannya.",
+   "dibaca": "Jadi, lain kali kamu mengalaminya, kamu sudah tahu alasannya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/c0bfbee432f2.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f9f396a130c5",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita bahas hal yang bikin kamu pengin tahu lebih banyak.",
+   "dibaca": "Di Adriy Project, kita bahas hal yang bikin kamu pengin tahu lebih banyak.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/f9f396a130c5.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8f1e3be3be9d",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita jelaskan yang rumit jadi lebih sederhana.",
+   "dibaca": "Di Adriy Project, kita jelaskan yang rumit jadi lebih sederhana.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/8f1e3be3be9d.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "0e933b5409ac",
+   "suara": "hasan",
+   "teks": "Mungkin kamu pernah melihatnya ribuan kali, tanpa menyadarinya.",
+   "dibaca": "Mungkin kamu pernah melihatnya ribuan kali, tanpa menyadarinya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/0e933b5409ac.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5f7f0ad49348",
+   "suara": "hasan",
+   "teks": "Kalau ada penghargaan buat hal ini, kita semua pasti menang.",
+   "dibaca": "Kalau ada penghargaan buat hal ini, kita semua pasti menang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/5f7f0ad49348.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "232d78f9d03f",
+   "suara": "hasan",
+   "teks": "Jadi semua air mata di dapur ternyata bergantung pada satu enzim kecil.",
+   "dibaca": "Jadi semua air mata di dapur ternyata bergantung pada satu enzim kecil.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/232d78f9d03f.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "386a3f1d21df",
+   "suara": "hasan",
+   "teks": "Jadi lain kali matamu perih di dapur, bukan kamu yang cengeng.",
+   "dibaca": "Jadi lain kali matamu perih di dapur, bukan kamu yang cengeng.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/386a3f1d21df.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "043180fc6c73",
+   "suara": "hasan",
+   "teks": "Karena mungkin, cara membuat hidup terasa lebih panjang bukan dengan menambah waktu...",
+   "dibaca": "Karena mungkin, cara membuat hidup terasa lebih panjang bukan dengan menambah waktu...",
+   "fungsi": [
+    "jeda dramatis",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/043180fc6c73.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "733d8973827f",
+   "suara": "hasan",
+   "teks": "Tidak ada suara, tidak ada gerakan, hanya waktu yang terus berjalan.",
+   "dibaca": "Tidak ada suara, tidak ada gerakan, hanya waktu yang terus berjalan.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/hasan/733d8973827f.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8d0dda824f89",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita ubah rasa penasaran jadi pengetahuan baru.",
+   "dibaca": "Di Adriy Project, kita ubah rasa penasaran jadi pengetahuan baru.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/8d0dda824f89.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c845be0f065e",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita bahas sains sehari-hari dengan bahasa yang gampang.",
+   "dibaca": "Di Adriy Project, kita bahas sains sehari-hari dengan bahasa yang gampang.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/c845be0f065e.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "13934a3177ad",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita bahas pertanyaan yang mungkin pernah mampir di kepalamu.",
+   "dibaca": "Di Adriy Project, kita bahas pertanyaan yang mungkin pernah mampir di kepalamu.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/13934a3177ad.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
   }
  ]
 }
