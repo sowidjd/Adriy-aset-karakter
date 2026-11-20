@@ -20674,6 +20674,21 @@
    "catatan": "nada reflektif",
    "sumber": "perpustakaan_suara.py",
    "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a4325d58ca63",
+   "suara": "adriy",
+   "teks": "Explore More, Know More.",
+   "dibaca": "Explore More, Know More.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/adriy/a4325d58ca63.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-20"
   }
  ]
 }
