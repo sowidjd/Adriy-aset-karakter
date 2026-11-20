@@ -20689,6 +20689,384 @@
    "catatan": "",
    "sumber": "naskah:naskah.txt",
    "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3290c0586596",
+   "suara": "adriy",
+   "teks": "Duh, catatanku hilang lagi. Kemarin aku tulis di mana, ya?",
+   "dibaca": "Duh, catatanku hilang lagi. Kemarin aku tulis di mana, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/3290c0586596.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "da37e5abe8cd",
+   "suara": "adriy",
+   "teks": "Bisa scan dokumen juga?",
+   "dibaca": "Bisa scan dokumen juga?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/da37e5abe8cd.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8c796578f30e",
+   "suara": "ongky",
+   "teks": "Explore More, Know More.",
+   "dibaca": "Explore More, Know More.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/ongky/8c796578f30e.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d77bccd42714",
+   "suara": "ongky",
+   "teks": "Jadi anemon adalah rumah yang aman.",
+   "dibaca": "Jadi anemon adalah rumah yang aman.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/d77bccd42714.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d7f352c2e00e",
+   "suara": "ongky",
+   "teks": "Bagikan video ini ke teman yang paling sering nangis di dapur.",
+   "dibaca": "Bagikan video ini ke teman yang paling sering nangis di dapur.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/ongky/d7f352c2e00e.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "87ee1e4c4ad0",
+   "suara": "ongky",
+   "teks": "Jadi semua air mata di dapur ternyata bergantung pada satu enzim kecil.",
+   "dibaca": "Jadi semua air mata di dapur ternyata bergantung pada satu enzim kecil.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/87ee1e4c4ad0.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "45c71c04d7fd",
+   "suara": "ongky",
+   "teks": "Jadi lain kali matamu perih di dapur, bukan kamu yang cengeng.",
+   "dibaca": "Jadi lain kali matamu perih di dapur, bukan kamu yang cengeng.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/45c71c04d7fd.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "317d23ca1dee",
+   "suara": "ongky",
+   "teks": "Dan follow Adriy Project, biar kamu makin sering bilang: oh, ternyata begitu.",
+   "dibaca": "Dan follow Adriy Project, biar kamu makin sering bilang: oh, ternyata begitu.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/ongky/317d23ca1dee.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7180abe57800",
+   "suara": "ongky",
+   "teks": "Coba cium bawang yang belum dikupas. Nggak ada yang bikin perih, kan?",
+   "dibaca": "Coba cium bawang yang belum dikupas. Nggak ada yang bikin perih, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/7180abe57800.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "03da6e3669c7",
+   "suara": "ongky",
+   "teks": "Kalau kamu pernah nangis gara-gara bawang, tulis di komentar, bawang apa yang paling parah buat kamu?",
+   "dibaca": "Kalau kamu pernah nangis gara-gara bawang, tulis di komentar, bawang apa yang paling parah buat kamu?",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/ongky/03da6e3669c7.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ba5c5da4af1f",
+   "suara": "ongky",
+   "teks": "Bahan awalnya mirip.",
+   "dibaca": "Bahan awalnya mirip.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/ba5c5da4af1f.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d755f8ce236a",
+   "suara": "ongky",
+   "teks": "Bisa. Unduh gratis sekarang!",
+   "dibaca": "Bisa. Unduh gratis sekarang!",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/d755f8ce236a.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9ecd95f25275",
+   "suara": "ongky",
+   "teks": "Kenapa langit berwarna biru?",
+   "dibaca": "Kenapa langit berwarna biru?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/9ecd95f25275.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "eb3f941d9feb",
+   "suara": "ongky",
+   "teks": "Itu bawang yang sedang membela diri.",
+   "dibaca": "Itu bawang yang sedang membela diri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/eb3f941d9feb.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a98f4b7b800e",
+   "suara": "ongky",
+   "teks": "Kenapa ikan badut tidak tersengat anemon?",
+   "dibaca": "Kenapa ikan badut tidak tersengat anemon?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/a98f4b7b800e.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c3f128341c0d",
+   "suara": "ongky",
+   "teks": "Lendir ini membuat anemon tidak menyengatnya.",
+   "dibaca": "Lendir ini membuat anemon tidak menyengatnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/c3f128341c0d.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "585e2068cc6d",
+   "suara": "ongky",
+   "teks": "Karena udara menghamburkan cahaya biru.",
+   "dibaca": "Karena udara menghamburkan cahaya biru.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/585e2068cc6d.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c19aa9120230",
+   "suara": "ongky",
+   "teks": "Ternyata tubuhnya dilapisi lendir khusus.",
+   "dibaca": "Ternyata tubuhnya dilapisi lendir khusus.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/c19aa9120230.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3782fe9ec0c8",
+   "suara": "ongky",
+   "teks": "Kemungkinan besar, dia nggak mau menggigit lagi.",
+   "dibaca": "Kemungkinan besar, dia nggak mau menggigit lagi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/3782fe9ec0c8.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "078a20fb30d1",
+   "suara": "ongky",
+   "teks": "Begitu pisau merobek sel, keduanya bercampur.",
+   "dibaca": "Begitu pisau merobek sel, keduanya bercampur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/078a20fb30d1.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "109ac0df67f0",
+   "suara": "ongky",
+   "teks": "Air mata ini beda dengan air mata saat kamu sedih.",
+   "dibaca": "Air mata ini beda dengan air mata saat kamu sedih.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/109ac0df67f0.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "11a927e95177",
+   "suara": "ongky",
+   "teks": "Ini air mata refleks, tugasnya mencuci mata.",
+   "dibaca": "Ini air mata refleks, tugasnya mencuci mata.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/11a927e95177.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6daf0bb277a6",
+   "suara": "ongky",
+   "teks": "Senjatanya baru dirakit, saat kamu memotongnya.",
+   "dibaca": "Senjatanya baru dirakit, saat kamu memotongnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/6daf0bb277a6.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "db0f6c97741d",
+   "suara": "ongky",
+   "teks": "Penemuan enzim itu bahkan dapat penghargaan Ig Nobel.",
+   "dibaca": "Penemuan enzim itu bahkan dapat penghargaan ig nobel.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/db0f6c97741d.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "abdca511504f",
+   "suara": "ongky",
+   "teks": "Tapi kenapa bawang repot-repot bikin senjata?",
+   "dibaca": "Tapi kenapa bawang repot-repot bikin senjata?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/abdca511504f.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
   }
  ]
 }
