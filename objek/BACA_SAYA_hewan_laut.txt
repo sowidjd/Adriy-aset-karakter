@@ -1,0 +1,8 @@
+ADRIY - aset hewan laut
+========================================
+Sumber : repositori NotesByAdriy, cabang ccr-106aa644-jyu1yq
+Lokasi : video/public/adriy/lib/hewan_laut/
+Isi    : 41 gambar PNG, latar transparan, nama asli tidak diubah.
+Tema: hewan laut, menyelam, ekosistem laut.
+Aturan proyek (video/aturan.md): hewan, benda, dan ilustrasi tidak terikat aturan satu-pakaian; boleh dipakai bersama pakaian ADRIY apa pun.
+Aset kecil jangan diperbesar lebih dari sekitar 2,5 kali agar tidak pecah (aturan 8).

@@ -1,0 +1,8 @@
+ADRIY - aset hewan darat
+========================================
+Sumber : repositori NotesByAdriy, cabang ccr-106aa644-jyu1yq
+Lokasi : video/public/adriy/lib/hewan_darat/
+BAGIAN 1 DARI 2: anjing_beagle sampai kuskus_tutul (49 gambar, urut abjad). Gabungkan semua bagian untuk mendapat seluruh 93 gambar.
+Tema: hewan darat, alam.
+Aturan proyek (video/aturan.md): hewan, benda, dan ilustrasi tidak terikat aturan satu-pakaian; boleh dipakai bersama pakaian ADRIY apa pun.
+Aset kecil jangan diperbesar lebih dari sekitar 2,5 kali agar tidak pecah (aturan 8).
