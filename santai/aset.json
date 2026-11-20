@@ -1,0 +1,268 @@
+{
+  "nama": "ADRIY outfit santai",
+  "keterangan": "Aset ADRIY semi-realistis: badan penuh (folder ini) dan close-up wajah/setengah badan (folder dekat/). Sweater abu-abu bertulisan ADRIY biru, celana hitam longgar, sneaker hitam-putih, kacamata hitam persegi, jam tangan hitam, rambut hitam ikal pendek.",
+  "catatan": "Folder ini tidak masuk git (repo publik; berisi wajah orang sungguhan). Lembar bertanda latarTercetak:true punya pola kotak-kotak abu-abu sebagai piksel (bukan transparan) dan perlu dihapus latarnya sebelum dipakai. Beberapa lembar transparan masih punya pinggiran merah/kuning tipis dari penghapusan latar sebelumnya.",
+  "berkas": [
+    {
+      "file": "00-penuh-berdiri.webp",
+      "latarTercetak": true,
+      "pose": [
+        "berdiri netral, tangan di saku (acuan utama)"
+      ]
+    },
+    {
+      "file": "lembar-01.png",
+      "latarTercetak": true,
+      "pose": [
+        "jalan sambil melihat ponsel",
+        "jalan dengan ransel, menoleh",
+        "jalan sambil minum dari tumbler",
+        "jalan, jempol, tersenyum"
+      ]
+    },
+    {
+      "file": "lembar-02.png",
+      "latarTercetak": false,
+      "pose": [
+        "siklus jalan 1",
+        "siklus jalan 2",
+        "siklus jalan 3",
+        "siklus jalan 4 (tangan di saku)"
+      ]
+    },
+    {
+      "file": "lembar-03.png",
+      "latarTercetak": false,
+      "pose": [
+        "jongkok menunjuk lantai",
+        "menulis di tablet",
+        "duduk bersila dengan laptop, merayakan",
+        "berpikir, tangan di dagu, menoleh ke atas"
+      ]
+    },
+    {
+      "file": "lembar-04.png",
+      "latarTercetak": false,
+      "pose": [
+        "jongkok mengamati batu dengan kaca pembesar",
+        "bingung menggaruk kepala (tanda tanya)",
+        "semangat, kepal tangan, lutut naik",
+        "duduk bersila santai, headphone, laptop"
+      ]
+    },
+    {
+      "file": "lembar-05.png",
+      "latarTercetak": true,
+      "pose": [
+        "duduk di kursi, berpikir",
+        "merayakan, tinju ke atas",
+        "jongkok memotret dengan kamera",
+        "jalan dengan ransel"
+      ]
+    },
+    {
+      "file": "lembar-06.png",
+      "latarTercetak": false,
+      "pose": [
+        "berdiri tangan bersilang",
+        "duduk di bangku dengan tablet, berpikir",
+        "memegang kamera, jempol, tersenyum",
+        "berlutut, satu tangan di lantai"
+      ]
+    },
+    {
+      "file": "lembar-07.png",
+      "latarTercetak": false,
+      "pose": [
+        "duduk bersila dengan laptop, berpikir",
+        "membetulkan kacamata sambil membaca buku",
+        "merayakan, tertawa",
+        "telapak tangan 'stop' dan jari telunjuk (peringatan)"
+      ]
+    },
+    {
+      "file": "lembar-08.png",
+      "latarTercetak": true,
+      "pose": [
+        "semangat, dua kepalan tangan",
+        "terkejut, tangan di kepala",
+        "dapat ide (lampu), telunjuk ke atas",
+        "menjelaskan dengan telapak terbuka, memegang tablet"
+      ]
+    },
+    {
+      "file": "lembar-09.png",
+      "latarTercetak": false,
+      "pose": [
+        "berdiri netral, tangan di saku",
+        "menjelaskan, dua tangan ke samping",
+        "berpikir, tangan di dagu",
+        "menunjuk ke penonton"
+      ]
+    }
+  ],
+  "cocokDenganPoseAdri": {
+    "sapa": "lembar-01 #4 (jempol)",
+    "jelaskan": "lembar-09 #2",
+    "tunjuk": "lembar-09 #4",
+    "ajak": "lembar-09 #4",
+    "pikir": "lembar-09 #3",
+    "tanya": "lembar-04 #2",
+    "kaget": "lembar-08 #2",
+    "rayakan": "lembar-07 #3",
+    "senang": "lembar-05 #2",
+    "simpulkan": "lembar-08 #3",
+    "tunjukkan": "lembar-08 #4",
+    "angkat": "lembar-07 #4",
+    "lihat": "lembar-04 #1",
+    "pegang": "lembar-06 #3",
+    "jalan": "lembar-02 #1-4",
+    "netral": "lembar-09 #1"
+  },
+  "dekat": [
+    {
+      "file": "dekat/setengah-badan.webp",
+      "latarTercetak": true,
+      "pose": [
+        "setengah badan netral, tangan di saku (acuan close-up)"
+      ]
+    },
+    {
+      "file": "dekat/dekat-01.png",
+      "latarTercetak": true,
+      "pose": [
+        "berpikir, tangan di dagu (tanda tanya)",
+        "merayakan, tinju, tertawa",
+        "terkejut, tangan di kepala (!!)",
+        "mengedip, jempol (kilau)"
+      ]
+    },
+    {
+      "file": "dekat/dekat-02.png",
+      "latarTercetak": false,
+      "pose": [
+        "menunjuk penonton, serius",
+        "dapat ide, telunjuk ke atas (lampu)",
+        "pusing, tangan di dahi (tetes keringat)",
+        "santai, tangan di belakang kepala"
+      ]
+    },
+    {
+      "file": "dekat/dekat-03.png",
+      "latarTercetak": false,
+      "pose": [
+        "kesal, tangan bersilang (coretan)",
+        "kaget, dua telapak terbuka",
+        "sedih, bertopang dagu (hati patah)",
+        "menahan tawa, menutup mulut"
+      ]
+    },
+    {
+      "file": "dekat/dekat-04.png",
+      "latarTercetak": false,
+      "pose": [
+        "hormat/salut",
+        "berpikir, jari bertaut (gelembung ...)",
+        "semangat, dua kepalan",
+        "canggung, garuk leher (keringat)"
+      ]
+    },
+    {
+      "file": "dekat/dekat-05.png",
+      "latarTercetak": true,
+      "pose": [
+        "ssst, telunjuk di bibir",
+        "tersipu, dua tangan di pipi (hati)",
+        "marah, dua kepalan",
+        "menguap (zzz)"
+      ]
+    },
+    {
+      "file": "dekat/dekat-06.png",
+      "latarTercetak": true,
+      "pose": [
+        "mengedip, menunjuk dengan jempol",
+        "dua jempol, tertawa",
+        "tangan di dada, tersenyum",
+        "merayakan, tinju ke atas"
+      ]
+    },
+    {
+      "file": "dekat/dekat-07.png",
+      "latarTercetak": true,
+      "pose": [
+        "tanda OK",
+        "dapat ide, telunjuk ke atas (lampu)",
+        "mendengarkan musik, headphone",
+        "senang, dua kepalan (kilau)"
+      ]
+    },
+    {
+      "file": "dekat/dekat-08.png",
+      "latarTercetak": true,
+      "pose": [
+        "melambai/menyapa",
+        "telunjuk di pelipis (pintar)",
+        "tepuk tangan, tertawa",
+        "santai, tangan di belakang kepala, tersenyum"
+      ]
+    },
+    {
+      "file": "dekat/dekat-09.png",
+      "latarTercetak": true,
+      "jenis": "bentuk mulut untuk sinkron bibir (lip-sync)",
+      "pose": [
+        "mulut A (terbuka lebar)",
+        "mulut E/I (senyum, gigi)",
+        "mulut U (bibir maju kecil)",
+        "mulut setengah terbuka (bicara biasa)",
+        "mulut O (bulat)"
+      ]
+    },
+    {
+      "file": "dekat/dekat-10.png",
+      "latarTercetak": true,
+      "pose": [
+        "bingung, garuk kepala (??)",
+        "pusing, memijat pelipis (petir)",
+        "murung (coretan)",
+        "kesal, mendengus (urat marah)"
+      ]
+    },
+    {
+      "file": "dekat/dekat-11.png",
+      "latarTercetak": true,
+      "pose": [
+        "bosan, bertopang pipi, menghela napas",
+        "panik, tangan di kepala",
+        "menangis, mengusap air mata",
+        "menolak, telapak tangan (jijik)"
+      ]
+    },
+    {
+      "file": "dekat/dekat-12.png",
+      "latarTercetak": true,
+      "pose": [
+        "netral, menghadap depan",
+        "berpikir, tangan di dagu, melirik",
+        "mata tertutup (berkedip)",
+        "melirik ke samping"
+      ]
+    }
+  ],
+  "cocokDenganPoseAdriDekat": {
+    "sapa": "dekat-08 #1",
+    "tanya": "dekat-10 #1",
+    "pikir": "dekat-01 #1",
+    "kaget": "dekat-01 #3",
+    "rayakan": "dekat-06 #4",
+    "senang": "dekat-07 #4",
+    "simpulkan": "dekat-02 #2",
+    "ajak": "dekat-02 #1",
+    "angkat": "dekat-11 #4",
+    "netral": "dekat-12 #1",
+    "kedip": "dekat-12 #3",
+    "lirik": "dekat-12 #4",
+    "bicara (lip-sync)": "dekat-09 #1-5"
+  }
+}

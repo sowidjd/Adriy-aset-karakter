@@ -1,0 +1,350 @@
+{
+ "penuh": {
+  "sapa": [
+   {
+    "w": 434,
+    "h": 875,
+    "rowH": 887,
+    "file": "adri/santai/pose/lembar-01-4.png"
+   }
+  ],
+  "jelaskan": [
+   {
+    "w": 409,
+    "h": 876,
+    "rowH": 887,
+    "file": "adri/santai/pose/lembar-09-2.png"
+   }
+  ],
+  "tunjuk": [
+   {
+    "w": 295,
+    "h": 877,
+    "rowH": 887,
+    "file": "adri/santai/pose/lembar-09-4.png"
+   }
+  ],
+  "angkat": [
+   {
+    "w": 341,
+    "h": 881,
+    "rowH": 887,
+    "file": "adri/santai/pose/lembar-08-3.png"
+   }
+  ],
+  "jalan": [
+   {
+    "w": 363,
+    "h": 858,
+    "rowH": 887,
+    "file": "adri/santai/pose/lembar-02-1.png"
+   },
+   {
+    "w": 417,
+    "h": 851,
+    "rowH": 887,
+    "file": "adri/santai/pose/lembar-02-2.png"
+   },
+   {
+    "w": 394,
+    "h": 857,
+    "rowH": 887,
+    "file": "adri/santai/pose/lembar-02-3.png"
+   },
+   {
+    "w": 486,
+    "h": 859,
+    "rowH": 887,
+    "file": "adri/santai/pose/lembar-02-4.png"
+   }
+  ],
+  "kaget": [
+   {
+    "w": 371,
+    "h": 881,
+    "rowH": 887,
+    "file": "adri/santai/pose/lembar-08-2.png"
+   }
+  ],
+  "pikir": [
+   {
+    "w": 297,
+    "h": 877,
+    "rowH": 887,
+    "file": "adri/santai/pose/lembar-09-3.png"
+   }
+  ],
+  "pegang": [
+   {
+    "w": 371,
+    "h": 881,
+    "rowH": 887,
+    "file": "adri/santai/pose/lembar-06-3.png"
+   }
+  ],
+  "sentuh": [
+   {
+    "w": 409,
+    "h": 876,
+    "rowH": 887,
+    "file": "adri/santai/pose/lembar-09-2.png"
+   }
+  ],
+  "lihat": [
+   {
+    "w": 424,
+    "h": 744,
+    "rowH": 887,
+    "file": "adri/santai/pose/lembar-04-1.png"
+   }
+  ],
+  "ajak": [
+   {
+    "w": 295,
+    "h": 877,
+    "rowH": 887,
+    "file": "adri/santai/pose/lembar-09-4.png"
+   }
+  ],
+  "senang": [
+   {
+    "w": 376,
+    "h": 878,
+    "rowH": 887,
+    "file": "adri/santai/pose/lembar-05-2.png"
+   }
+  ],
+  "tanya": [
+   {
+    "w": 373,
+    "h": 887,
+    "rowH": 887,
+    "file": "adri/santai/pose/lembar-04-2.png"
+   }
+  ],
+  "banding": [
+   {
+    "w": 409,
+    "h": 876,
+    "rowH": 887,
+    "file": "adri/santai/pose/lembar-09-2.png"
+   }
+  ],
+  "rayakan": [
+   {
+    "w": 402,
+    "h": 876,
+    "rowH": 887,
+    "file": "adri/santai/pose/lembar-07-3.png"
+   }
+  ],
+  "simpulkan": [
+   {
+    "w": 341,
+    "h": 881,
+    "rowH": 887,
+    "file": "adri/santai/pose/lembar-08-3.png"
+   }
+  ],
+  "tunjukkan": [
+   {
+    "w": 380,
+    "h": 882,
+    "rowH": 887,
+    "file": "adri/santai/pose/lembar-08-4.png"
+   }
+  ],
+  "netral": [
+   {
+    "w": 304,
+    "h": 877,
+    "rowH": 887,
+    "file": "adri/santai/pose/lembar-09-1.png"
+   }
+  ]
+ },
+ "dekat": {
+  "sapa": [
+   {
+    "w": 629,
+    "h": 618,
+    "rowH": 627,
+    "file": "adri/santai/pose/dekat-08-1.png"
+   }
+  ],
+  "jelaskan": [
+   {
+    "w": 616,
+    "h": 616,
+    "rowH": 624,
+    "file": "adri/santai/pose/dekat-12-1.png"
+   }
+  ],
+  "tunjuk": [
+   {
+    "w": 553,
+    "h": 615,
+    "rowH": 622,
+    "file": "adri/santai/pose/dekat-02-1.png"
+   }
+  ],
+  "angkat": [
+   {
+    "w": 586,
+    "h": 623,
+    "rowH": 626,
+    "file": "adri/santai/pose/dekat-11-4.png"
+   }
+  ],
+  "kaget": [
+   {
+    "w": 609,
+    "h": 617,
+    "rowH": 628,
+    "file": "adri/santai/pose/dekat-01-3.png"
+   }
+  ],
+  "pikir": [
+   {
+    "w": 515,
+    "h": 621,
+    "rowH": 626,
+    "file": "adri/santai/pose/dekat-01-1.png"
+   }
+  ],
+  "tanya": [
+   {
+    "w": 633,
+    "h": 618,
+    "rowH": 629,
+    "file": "adri/santai/pose/dekat-10-1.png"
+   }
+  ],
+  "rayakan": [
+   {
+    "w": 653,
+    "h": 633,
+    "rowH": 632,
+    "file": "adri/santai/pose/dekat-06-4.png"
+   }
+  ],
+  "senang": [
+   {
+    "w": 609,
+    "h": 628,
+    "rowH": 630,
+    "file": "adri/santai/pose/dekat-07-4.png"
+   }
+  ],
+  "simpulkan": [
+   {
+    "w": 630,
+    "h": 617,
+    "rowH": 622,
+    "file": "adri/santai/pose/dekat-02-2.png"
+   }
+  ],
+  "ajak": [
+   {
+    "w": 553,
+    "h": 615,
+    "rowH": 622,
+    "file": "adri/santai/pose/dekat-02-1.png"
+   }
+  ],
+  "tunjukkan": [
+   {
+    "w": 613,
+    "h": 620,
+    "rowH": 622,
+    "file": "adri/santai/pose/dekat-06-1.png"
+   }
+  ],
+  "lihat": [
+   {
+    "w": 621,
+    "h": 620,
+    "rowH": 630,
+    "file": "adri/santai/pose/dekat-12-4.png"
+   }
+  ],
+  "banding": [
+   {
+    "w": 590,
+    "h": 615,
+    "rowH": 624,
+    "file": "adri/santai/pose/dekat-12-2.png"
+   }
+  ],
+  "pegang": [
+   {
+    "w": 600,
+    "h": 633,
+    "rowH": 632,
+    "file": "adri/santai/pose/dekat-06-3.png"
+   }
+  ],
+  "sentuh": [
+   {
+    "w": 630,
+    "h": 619,
+    "rowH": 624,
+    "file": "adri/santai/pose/dekat-07-1.png"
+   }
+  ],
+  "jalan": [
+   {
+    "w": 616,
+    "h": 616,
+    "rowH": 624,
+    "file": "adri/santai/pose/dekat-12-1.png"
+   }
+  ],
+  "netral": [
+   {
+    "w": 616,
+    "h": 616,
+    "rowH": 624,
+    "file": "adri/santai/pose/dekat-12-1.png"
+   }
+  ]
+ },
+ "bicara": [
+  {
+   "w": 499,
+   "h": 503,
+   "rowH": 507,
+   "file": "adri/santai/pose/dekat-09-1.png"
+  },
+  {
+   "w": 517,
+   "h": 500,
+   "rowH": 517,
+   "file": "adri/santai/pose/dekat-09-4.png"
+  },
+  {
+   "w": 486,
+   "h": 502,
+   "rowH": 507,
+   "file": "adri/santai/pose/dekat-09-2.png"
+  },
+  {
+   "w": 489,
+   "h": 502,
+   "rowH": 507,
+   "file": "adri/santai/pose/dekat-09-3.png"
+  },
+  {
+   "w": 519,
+   "h": 497,
+   "rowH": 517,
+   "file": "adri/santai/pose/dekat-09-5.png"
+  }
+ ],
+ "kedip": {
+  "w": 624,
+  "h": 620,
+  "rowH": 630,
+  "file": "adri/santai/pose/dekat-12-3.png"
+ }
+}
