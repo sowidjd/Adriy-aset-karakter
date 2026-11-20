@@ -1,0 +1,201 @@
+{
+ "penuh": {
+  "netral": [
+   {
+    "w": 401,
+    "h": 904,
+    "rowH": 904,
+    "file": "adri/angkasa/pose/berdiri_helm_pinggang.png"
+   }
+  ],
+  "jelaskan": [
+   {
+    "w": 328,
+    "h": 580,
+    "rowH": 580,
+    "file": "adri/angkasa/pose/jelaskan_tangan_terbuka.png"
+   }
+  ],
+  "sapa": [
+   {
+    "w": 270,
+    "h": 689,
+    "rowH": 689,
+    "file": "adri/angkasa/pose/berdiri_ulur_tangan.png"
+   }
+  ],
+  "tunjuk": [
+   {
+    "w": 320,
+    "h": 738,
+    "rowH": 738,
+    "file": "adri/angkasa/pose/tunjuk_depan.png"
+   }
+  ],
+  "ajak": [
+   {
+    "w": 270,
+    "h": 689,
+    "rowH": 689,
+    "file": "adri/angkasa/pose/berdiri_ulur_tangan.png"
+   }
+  ],
+  "angkat": [
+   {
+    "w": 505,
+    "h": 715,
+    "rowH": 715,
+    "file": "adri/angkasa/pose/bendera_indonesia.png"
+   }
+  ],
+  "lihat": [
+   {
+    "w": 572,
+    "h": 620,
+    "rowH": 620,
+    "file": "adri/angkasa/pose/teleskop.png"
+   }
+  ],
+  "pegang": [
+   {
+    "w": 251,
+    "h": 625,
+    "rowH": 625,
+    "file": "adri/angkasa/pose/pegang_planet.png"
+   }
+  ],
+  "tunjukkan": [
+   {
+    "w": 304,
+    "h": 591,
+    "rowH": 591,
+    "file": "adri/angkasa/pose/sajikan_kanan.png"
+   }
+  ],
+  "sentuh": [
+   {
+    "w": 350,
+    "h": 562,
+    "rowH": 562,
+    "file": "adri/angkasa/pose/sajikan_kiri_tunjuk.png"
+   }
+  ],
+  "banding": [
+   {
+    "w": 304,
+    "h": 591,
+    "rowH": 591,
+    "file": "adri/angkasa/pose/sajikan_kanan.png"
+   }
+  ],
+  "pikir": [
+   {
+    "w": 328,
+    "h": 582,
+    "rowH": 582,
+    "file": "adri/angkasa/pose/cek_jam_tangan.png"
+   }
+  ],
+  "tanya": [
+   {
+    "w": 383,
+    "h": 627,
+    "rowH": 627,
+    "file": "adri/angkasa/pose/berdiri_kantong_sampel.png"
+   }
+  ],
+  "kaget": [
+   {
+    "w": 568,
+    "h": 597,
+    "rowH": 597,
+    "file": "adri/angkasa/pose/melayang_kaget.png"
+   }
+  ],
+  "simpulkan": [
+   {
+    "w": 423,
+    "h": 566,
+    "rowH": 566,
+    "file": "adri/angkasa/pose/tunjuk_kanan.png"
+   }
+  ],
+  "rayakan": [
+   {
+    "w": 446,
+    "h": 609,
+    "rowH": 609,
+    "file": "adri/angkasa/pose/lompat_hore.png"
+   }
+  ],
+  "senang": [
+   {
+    "w": 295,
+    "h": 663,
+    "rowH": 663,
+    "file": "adri/angkasa/pose/berdiri_jempol.png"
+   }
+  ],
+  "jalan": [
+   {
+    "w": 301,
+    "h": 740,
+    "rowH": 740,
+    "file": "adri/angkasa/pose/jalan_maju.png"
+   }
+  ]
+ },
+ "dekat": {
+  "netral": [
+   {
+    "w": 578,
+    "h": 559,
+    "rowH": 559,
+    "file": "adri/angkasa/pose/wajah_netral.png"
+   }
+  ],
+  "jelaskan": [
+   {
+    "w": 581,
+    "h": 573,
+    "rowH": 573,
+    "file": "adri/angkasa/pose/wajah_fokus.png"
+   }
+  ],
+  "kaget": [
+   {
+    "w": 580,
+    "h": 560,
+    "rowH": 560,
+    "file": "adri/angkasa/pose/wajah_kaget.png"
+   }
+  ],
+  "senang": [
+   {
+    "w": 579,
+    "h": 576,
+    "rowH": 576,
+    "file": "adri/angkasa/pose/wajah_takjub.png"
+   }
+  ],
+  "lihat": [
+   {
+    "w": 579,
+    "h": 576,
+    "rowH": 576,
+    "file": "adri/angkasa/pose/wajah_takjub.png"
+   }
+  ],
+  "rayakan": [
+   {
+    "w": 579,
+    "h": 576,
+    "rowH": 576,
+    "file": "adri/angkasa/pose/wajah_takjub.png"
+   }
+  ]
+ },
+ "bicara": [],
+ "kedip": null,
+ "bicaraPenuh": []
+}

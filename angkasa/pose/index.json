@@ -1,0 +1,556 @@
+{
+ "pose": [
+  {
+   "file": "pose/arahkan_antena.png",
+   "w": 585,
+   "h": 586,
+   "rowH": 586,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/bawa_kotak.png",
+   "w": 435,
+   "h": 628,
+   "rowH": 628,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/bendera_indonesia.png",
+   "w": 505,
+   "h": 715,
+   "rowH": 715,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/berdiri_helm_pinggang.png",
+   "w": 401,
+   "h": 904,
+   "rowH": 904,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/berdiri_helm_pinggang_b.png",
+   "w": 373,
+   "h": 700,
+   "rowH": 700,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/berdiri_helm_pinggang_c.png",
+   "w": 332,
+   "h": 560,
+   "rowH": 560,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/berdiri_jempol.png",
+   "w": 295,
+   "h": 663,
+   "rowH": 663,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/berdiri_kantong_batu.png",
+   "w": 419,
+   "h": 589,
+   "rowH": 589,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/berdiri_kantong_sampel.png",
+   "w": 383,
+   "h": 627,
+   "rowH": 627,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/berdiri_kunci_inggris.png",
+   "w": 475,
+   "h": 584,
+   "rowH": 584,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/berdiri_palu_obeng.png",
+   "w": 654,
+   "h": 585,
+   "rowH": 585,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/berdiri_senter.png",
+   "w": 421,
+   "h": 592,
+   "rowH": 592,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/berdiri_ulur_tangan.png",
+   "w": 270,
+   "h": 689,
+   "rowH": 689,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/bor_batu.png",
+   "w": 511,
+   "h": 541,
+   "rowH": 541,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/cek_jam_tangan.png",
+   "w": 328,
+   "h": 582,
+   "rowH": 582,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/dorong_pintu.png",
+   "w": 580,
+   "h": 585,
+   "rowH": 1462,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/duduk_bersila_tablet.png",
+   "w": 450,
+   "h": 598,
+   "rowH": 997,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/duduk_konsol_kontrol.png",
+   "w": 488,
+   "h": 623,
+   "rowH": 1038,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/duduk_konsol_layar.png",
+   "w": 545,
+   "h": 586,
+   "rowH": 977,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/duduk_kursi_kemudi.png",
+   "w": 453,
+   "h": 652,
+   "rowH": 1087,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/duduk_lengan_robot.png",
+   "w": 566,
+   "h": 568,
+   "rowH": 947,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/hormat.png",
+   "w": 333,
+   "h": 745,
+   "rowH": 745,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_maju.png",
+   "w": 301,
+   "h": 740,
+   "rowH": 740,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_santai.png",
+   "w": 312,
+   "h": 906,
+   "rowH": 906,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jelaskan_tangan_terbuka.png",
+   "w": 328,
+   "h": 580,
+   "rowH": 580,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jetpack_terbang.png",
+   "w": 637,
+   "h": 568,
+   "rowH": 568,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_batu_kantong.png",
+   "w": 441,
+   "h": 527,
+   "rowH": 850,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_bor.png",
+   "w": 461,
+   "h": 540,
+   "rowH": 871,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_botol_sampel.png",
+   "w": 413,
+   "h": 575,
+   "rowH": 927,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_palu_geologi.png",
+   "w": 510,
+   "h": 629,
+   "rowH": 1015,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_panel.png",
+   "w": 501,
+   "h": 584,
+   "rowH": 942,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_sekop_batu.png",
+   "w": 436,
+   "h": 624,
+   "rowH": 1006,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_sekop_botol.png",
+   "w": 388,
+   "h": 539,
+   "rowH": 869,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_sekop_kantong.png",
+   "w": 436,
+   "h": 540,
+   "rowH": 871,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_sekop_tabung.png",
+   "w": 466,
+   "h": 568,
+   "rowH": 916,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_sikat_debu.png",
+   "w": 464,
+   "h": 555,
+   "rowH": 895,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/kaca_pembesar_konsol.png",
+   "w": 545,
+   "h": 599,
+   "rowH": 599,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/lompat_hore.png",
+   "w": 446,
+   "h": 609,
+   "rowH": 609,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/masuk_pintu.png",
+   "w": 508,
+   "h": 607,
+   "rowH": 607,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/melayang_baca_peta.png",
+   "w": 510,
+   "h": 562,
+   "rowH": 562,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/melayang_cek_tablet.png",
+   "w": 505,
+   "h": 582,
+   "rowH": 582,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/melayang_kaget.png",
+   "w": 568,
+   "h": 597,
+   "rowH": 597,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/melayang_lambai_selang.png",
+   "w": 543,
+   "h": 595,
+   "rowH": 595,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/melayang_ok_tali.png",
+   "w": 519,
+   "h": 655,
+   "rowH": 655,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/melayang_panik.png",
+   "w": 615,
+   "h": 600,
+   "rowH": 600,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/melayang_tali_ulur_tangan.png",
+   "w": 585,
+   "h": 517,
+   "rowH": 517,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/melayang_ulur_tangan.png",
+   "w": 580,
+   "h": 650,
+   "rowH": 650,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/melayang_ulur_tangan_b.png",
+   "w": 430,
+   "h": 570,
+   "rowH": 570,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/melompat_ulur_tangan.png",
+   "w": 557,
+   "h": 489,
+   "rowH": 489,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/meraih_satelit.png",
+   "w": 725,
+   "h": 546,
+   "rowH": 546,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/merangkak.png",
+   "w": 508,
+   "h": 453,
+   "rowH": 906,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/panjat_tangga.png",
+   "w": 479,
+   "h": 651,
+   "rowH": 651,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/pegang_batu.png",
+   "w": 449,
+   "h": 614,
+   "rowH": 614,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/pegang_planet.png",
+   "w": 251,
+   "h": 625,
+   "rowH": 625,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/pegang_satelit.png",
+   "w": 440,
+   "h": 647,
+   "rowH": 647,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/rawat_panel_surya.png",
+   "w": 589,
+   "h": 580,
+   "rowH": 580,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/rebahan_melayang.png",
+   "w": 410,
+   "h": 598,
+   "rowH": 1495,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/sajikan_kanan.png",
+   "w": 304,
+   "h": 591,
+   "rowH": 591,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/sajikan_kiri_tunjuk.png",
+   "w": 350,
+   "h": 562,
+   "rowH": 562,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/sambung_selang.png",
+   "w": 589,
+   "h": 586,
+   "rowH": 586,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/selfie_peace.png",
+   "w": 481,
+   "h": 599,
+   "rowH": 599,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/teleskop.png",
+   "w": 572,
+   "h": 620,
+   "rowH": 620,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/tempel_peta_bintang.png",
+   "w": 443,
+   "h": 653,
+   "rowH": 653,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/tunjuk_depan.png",
+   "w": 320,
+   "h": 738,
+   "rowH": 738,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/tunjuk_kanan.png",
+   "w": 423,
+   "h": 566,
+   "rowH": 566,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_fokus.png",
+   "w": 581,
+   "h": 573,
+   "rowH": 573,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_kaget.png",
+   "w": 580,
+   "h": 560,
+   "rowH": 560,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_netral.png",
+   "w": 578,
+   "h": 559,
+   "rowH": 559,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_takjub.png",
+   "w": 579,
+   "h": 576,
+   "rowH": 576,
+   "bottomGap": 0,
+   "dariTransparan": true
+  }
+ ]
+}

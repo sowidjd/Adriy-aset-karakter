@@ -1,0 +1,49 @@
+{
+ "keterangan": "ADRIY astronot: baju antariksa putih-biru bertulisan ADRIY. Untuk luar angkasa, atmosfer, planet.",
+ "siap": true,
+ "tinggi": {
+  "jongkok_": 0.62,
+  "duduk_": 0.6,
+  "renang_": 0.4,
+  "dorong_": 0.4,
+  "melayang_tangan_silang": 0.4,
+  "rebahan_": 0.4,
+  "merangkak": 0.5,
+  "lari_loncat": 0.75,
+  "melayang_terbang": 0.5,
+  "tendang_putar": 0.75,
+  "salto_": 0.7
+ },
+ "penuh": {
+  "netral": "berdiri_helm_pinggang",
+  "jelaskan": "jelaskan_tangan_terbuka",
+  "sapa": "berdiri_ulur_tangan",
+  "tunjuk": "tunjuk_depan",
+  "ajak": "berdiri_ulur_tangan",
+  "angkat": "bendera_indonesia",
+  "lihat": "teleskop",
+  "pegang": "pegang_planet",
+  "tunjukkan": "sajikan_kanan",
+  "sentuh": "sajikan_kiri_tunjuk",
+  "banding": "sajikan_kanan",
+  "pikir": "cek_jam_tangan",
+  "tanya": "berdiri_kantong_sampel",
+  "kaget": "melayang_kaget",
+  "simpulkan": "tunjuk_kanan",
+  "rayakan": "lompat_hore",
+  "senang": "berdiri_jempol",
+  "jalan": [
+   "jalan_maju"
+  ]
+ },
+ "dekat": {
+  "netral": "wajah_netral",
+  "jelaskan": "wajah_fokus",
+  "kaget": "wajah_kaget",
+  "senang": "wajah_takjub",
+  "lihat": "wajah_takjub",
+  "rayakan": "wajah_takjub"
+ },
+ "bicara": [],
+ "kedip": null
+}
