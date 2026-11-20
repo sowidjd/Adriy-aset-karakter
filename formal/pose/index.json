@@ -1,0 +1,556 @@
+{
+ "pose": [
+  {
+   "file": "pose/baca_map.png",
+   "w": 318,
+   "h": 728,
+   "rowH": 728,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/bawa_tas_kerja.png",
+   "w": 273,
+   "h": 745,
+   "rowH": 745,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/berdiri_payung.png",
+   "w": 214,
+   "h": 732,
+   "rowH": 732,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/berdiri_tangan_depan.png",
+   "w": 223,
+   "h": 747,
+   "rowH": 747,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/berdiri_tangan_saku.png",
+   "w": 504,
+   "h": 1641,
+   "rowH": 1641,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/bersandar_rapikan_jas.png",
+   "w": 240,
+   "h": 743,
+   "rowH": 743,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/duduk_silang_kaki.png",
+   "w": 312,
+   "h": 688,
+   "rowH": 1147,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/duduk_tangan_di_lutut.png",
+   "w": 344,
+   "h": 696,
+   "rowH": 1160,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/hormat.png",
+   "w": 333,
+   "h": 1066,
+   "rowH": 1066,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/ide_telunjuk.png",
+   "w": 314,
+   "h": 1076,
+   "rowH": 1076,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jabat_tangan.png",
+   "w": 228,
+   "h": 748,
+   "rowH": 748,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_depan_tangan_saku.png",
+   "w": 252,
+   "h": 744,
+   "rowH": 744,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_jas_di_bahu.png",
+   "w": 356,
+   "h": 752,
+   "rowH": 752,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_lihat_jam.png",
+   "w": 269,
+   "h": 746,
+   "rowH": 746,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_minum_kopi.png",
+   "w": 255,
+   "h": 761,
+   "rowH": 761,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_rapikan_jas.png",
+   "w": 286,
+   "h": 738,
+   "rowH": 738,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_tablet.png",
+   "w": 262,
+   "h": 751,
+   "rowH": 751,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_tangan_saku.png",
+   "w": 265,
+   "h": 746,
+   "rowH": 746,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_tarik_koper.png",
+   "w": 322,
+   "h": 702,
+   "rowH": 702,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_tas_kepal_semangat.png",
+   "w": 351,
+   "h": 748,
+   "rowH": 748,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_telepon_tangan_terbuka.png",
+   "w": 285,
+   "h": 743,
+   "rowH": 743,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jempol.png",
+   "w": 264,
+   "h": 1068,
+   "rowH": 1068,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/kancing_jas.png",
+   "w": 296,
+   "h": 742,
+   "rowH": 742,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/lambai.png",
+   "w": 315,
+   "h": 1063,
+   "rowH": 1063,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/naik_tangga_pegangan.png",
+   "w": 466,
+   "h": 747,
+   "rowH": 747,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/namaste.png",
+   "w": 276,
+   "h": 1059,
+   "rowH": 1059,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/pegang_gelas_anggur.png",
+   "w": 248,
+   "h": 744,
+   "rowH": 744,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/rapikan_dasi.png",
+   "w": 271,
+   "h": 744,
+   "rowH": 744,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/sajikan_dua_tangan.png",
+   "w": 323,
+   "h": 1071,
+   "rowH": 1071,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/sajikan_tangan_kiri.png",
+   "w": 368,
+   "h": 739,
+   "rowH": 739,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_benarkan_kacamata.png",
+   "w": 651,
+   "h": 501,
+   "rowH": 501,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_berdoa_tutup_mata.png",
+   "w": 576,
+   "h": 512,
+   "rowH": 512,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_bingung_tangan_terbuka.png",
+   "w": 759,
+   "h": 509,
+   "rowH": 509,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_bingung_tangan_terbuka_b.png",
+   "w": 574,
+   "h": 511,
+   "rowH": 511,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_curiga_silang_tangan.png",
+   "w": 516,
+   "h": 512,
+   "rowH": 512,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_garuk_kepala.png",
+   "w": 636,
+   "h": 498,
+   "rowH": 498,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_ide_telunjuk_kaget.png",
+   "w": 572,
+   "h": 507,
+   "rowH": 507,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_jari_menyatu_b.png",
+   "w": 549,
+   "h": 492,
+   "rowH": 492,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_jari_menyatu_serius.png",
+   "w": 535,
+   "h": 494,
+   "rowH": 494,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_jempol_senyum.png",
+   "w": 516,
+   "h": 495,
+   "rowH": 495,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_jempol_senyum_b.png",
+   "w": 564,
+   "h": 491,
+   "rowH": 491,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_kaget_dua_tangan.png",
+   "w": 658,
+   "h": 498,
+   "rowH": 498,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_kaget_tangan_kepala.png",
+   "w": 683,
+   "h": 489,
+   "rowH": 489,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_kaget_tangan_kepala_b.png",
+   "w": 665,
+   "h": 493,
+   "rowH": 493,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_mikir_dagu.png",
+   "w": 515,
+   "h": 501,
+   "rowH": 501,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_mikir_dagu_b.png",
+   "w": 516,
+   "h": 489,
+   "rowH": 489,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_netral_serius.png",
+   "w": 514,
+   "h": 497,
+   "rowH": 497,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_ok_kedip.png",
+   "w": 612,
+   "h": 490,
+   "rowH": 490,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_ok_senyum.png",
+   "w": 604,
+   "h": 496,
+   "rowH": 496,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_pelipis_b.png",
+   "w": 606,
+   "h": 499,
+   "rowH": 499,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_pijat_hidung_lelah.png",
+   "w": 554,
+   "h": 497,
+   "rowH": 497,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_semangat_kepal.png",
+   "w": 566,
+   "h": 484,
+   "rowH": 484,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_semangat_kepal_b.png",
+   "w": 588,
+   "h": 492,
+   "rowH": 492,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_sorak_dua_kepal.png",
+   "w": 693,
+   "h": 510,
+   "rowH": 510,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_sorak_dua_kepal_b.png",
+   "w": 672,
+   "h": 501,
+   "rowH": 501,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_sorak_kepal.png",
+   "w": 666,
+   "h": 499,
+   "rowH": 499,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_sst.png",
+   "w": 502,
+   "h": 482,
+   "rowH": 482,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_sst_b.png",
+   "w": 545,
+   "h": 500,
+   "rowH": 500,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_stop_tangan.png",
+   "w": 556,
+   "h": 488,
+   "rowH": 488,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_stop_tangan_b.png",
+   "w": 548,
+   "h": 493,
+   "rowH": 493,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_tangan_dada_senyum.png",
+   "w": 570,
+   "h": 508,
+   "rowH": 508,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_tangan_dada_senyum_b.png",
+   "w": 535,
+   "h": 492,
+   "rowH": 492,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_tertawa_pegang_dada.png",
+   "w": 554,
+   "h": 501,
+   "rowH": 501,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_tunjuk_dua_jari.png",
+   "w": 565,
+   "h": 502,
+   "rowH": 502,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_tunjuk_kamera_serius.png",
+   "w": 513,
+   "h": 498,
+   "rowH": 498,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_tunjuk_pelipis.png",
+   "w": 607,
+   "h": 488,
+   "rowH": 488,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/tangan_silang.png",
+   "w": 236,
+   "h": 748,
+   "rowH": 748,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/tangan_silang_serius.png",
+   "w": 270,
+   "h": 1075,
+   "rowH": 1075,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/tunjuk_kamera.png",
+   "w": 264,
+   "h": 1073,
+   "rowH": 1073,
+   "bottomGap": 0,
+   "dariTransparan": true
+  }
+ ]
+}

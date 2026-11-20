@@ -1,0 +1,61 @@
+{
+ "keterangan": "ADRIY jas formal: jas hitam, kemeja putih, dasi biru. Untuk investasi, ekonomi, bisnis, berita.",
+ "siap": true,
+ "tinggi": {
+  "jongkok_": 0.62,
+  "duduk_": 0.6,
+  "renang_": 0.4,
+  "dorong_": 0.4,
+  "melayang_tangan_silang": 0.4,
+  "rebahan_": 0.4,
+  "merangkak": 0.5,
+  "lari_loncat": 0.75,
+  "melayang_terbang": 0.5,
+  "tendang_putar": 0.75,
+  "salto_": 0.7
+ },
+ "penuh": {
+  "netral": "berdiri_tangan_saku",
+  "jelaskan": "sajikan_dua_tangan",
+  "sapa": "lambai",
+  "tunjuk": "tunjuk_kamera",
+  "ajak": "sajikan_tangan_kiri",
+  "angkat": "ide_telunjuk",
+  "lihat": "baca_map",
+  "pegang": "bawa_tas_kerja",
+  "tunjukkan": "sajikan_dua_tangan",
+  "sentuh": "baca_map",
+  "banding": "sajikan_tangan_kiri",
+  "pikir": "tangan_silang",
+  "tanya": "tangan_silang_serius",
+  "kaget": "tangan_silang_serius",
+  "simpulkan": "ide_telunjuk",
+  "rayakan": "jalan_tas_kepal_semangat",
+  "senang": "jempol",
+  "jalan": [
+   "jalan_tangan_saku"
+  ]
+ },
+ "dekat": {
+  "netral": "setengah_netral_serius",
+  "jelaskan": "setengah_tangan_dada_senyum",
+  "sapa": "setengah_jempol_senyum",
+  "tunjuk": "setengah_tunjuk_kamera_serius",
+  "ajak": "setengah_tunjuk_dua_jari",
+  "angkat": "setengah_ide_telunjuk_kaget",
+  "kaget": "setengah_kaget_dua_tangan",
+  "pikir": "setengah_mikir_dagu",
+  "tanya": "setengah_bingung_tangan_terbuka",
+  "banding": "setengah_bingung_tangan_terbuka_b",
+  "rayakan": "setengah_sorak_dua_kepal",
+  "senang": "setengah_semangat_kepal",
+  "simpulkan": "setengah_ok_senyum",
+  "tunjukkan": "setengah_tangan_dada_senyum_b",
+  "lihat": "setengah_benarkan_kacamata",
+  "pegang": "setengah_jari_menyatu_serius",
+  "sentuh": "setengah_tunjuk_pelipis",
+  "jalan": "setengah_netral_serius"
+ },
+ "bicara": [],
+ "kedip": null
+}

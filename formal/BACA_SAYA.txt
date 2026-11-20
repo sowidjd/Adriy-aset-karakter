@@ -1,0 +1,8 @@
+ADRIY - pakaian Jas formal
+========================================
+Sumber : repositori NotesByAdriy, cabang ccr-106aa644-jyu1yq
+Lokasi : video/public/adriy/lib/formal/  (69 gambar PNG, latar transparan)
+Tema   : Investasi, ekonomi, bisnis, berita
+Isi zip: folder formal/ (semua gambar, nama asli tidak diubah) dan DAFTAR_formal.jpg (gambar ringkasan beserta nama).
+Aturan proyek (video/aturan.md): satu video memakai satu keluarga pakaian; jangan dicampur.
+Aset kecil jangan diperbesar lebih dari sekitar 2,5 kali agar tidak pecah (aturan 8).
