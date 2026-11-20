@@ -1,0 +1,61 @@
+{
+ "keterangan": "ADRIY outfit arkeolog/petualang lapangan: topi rimba, kemeja khaki ADRIY, rompi saku, syal, ransel, celana kargo. 85 gambar sudah terpotong dan transparan.",
+ "siap": true,
+ "tinggi": {
+  "jongkok_": 0.62,
+  "duduk_": 0.6,
+  "renang_": 0.4,
+  "dorong_": 0.4,
+  "melayang_tangan_silang": 0.4,
+  "rebahan_": 0.4,
+  "merangkak": 0.5,
+  "lari_loncat": 0.75,
+  "melayang_terbang": 0.5,
+  "tendang_putar": 0.75,
+  "salto_": 0.7
+ },
+ "penuh": {
+  "netral": "berdiri_tangan_saku",
+  "jelaskan": "berdiri_tangan_saku",
+  "sapa": "angkat_cermin_sinyal",
+  "angkat": "angkat_cermin_sinyal",
+  "tunjuk": "cek_gps",
+  "ajak": "jalan_walkie_talkie",
+  "lihat": "teropong",
+  "pegang": "baca_peta",
+  "tunjukkan": "baca_peta",
+  "sentuh": "cek_kompas",
+  "banding": "cek_kompas",
+  "pikir": "catat_buku_teropong",
+  "tanya": "jongkok_lihat_jejak",
+  "kaget": "jongkok_lihat_jejak",
+  "simpulkan": "sekstan",
+  "rayakan": "lompat_kepal_naik",
+  "senang": "lompat_kepal_naik",
+  "jalan": [
+   "jalan_samping"
+  ]
+ },
+ "dekat": {
+  "netral": "setengah_tangan_silang_serius",
+  "jelaskan": "wajah_ulur_tangan_senyum",
+  "sapa": "setengah_lambai_senyum",
+  "tunjuk": "setengah_tunjuk_kamera",
+  "ajak": "setengah_hormat_ulur_tangan",
+  "angkat": "wajah_ide_telunjuk",
+  "kaget": "wajah_kaget_benarkan_kacamata",
+  "pikir": "wajah_mikir_dagu",
+  "tanya": "wajah_ragu_tangan_terbuka",
+  "banding": "wajah_ragu_tangan_terbuka",
+  "rayakan": "wajah_sorak_kepal",
+  "senang": "wajah_semangat_dua_kepal",
+  "simpulkan": "wajah_ide_telunjuk",
+  "tunjukkan": "wajah_kaca_pembesar",
+  "lihat": "wajah_kaca_pembesar",
+  "pegang": "wajah_catat_pulpen",
+  "sentuh": "wajah_kedip_tunjuk_dua_jari",
+  "jalan": "setengah_jempol_tangan_pinggang"
+ },
+ "bicara": [],
+ "kedip": null
+}

@@ -1,0 +1,35 @@
+BAGIAN 2 DARI 2 (zip ini berdiri sendiri; gabungkan kedua bagian untuk mendapat seluruh 85 gambar)
+Isi bagian ini dari SEMUA_pendaki: lompat_kepal_naik sampai wajah_ulur_tangan_senyum (48 gambar, urut abjad)
+PILIHAN_arkeolog (16 pose pilihan) ada di bagian 1.
+======================================================================
+
+ADRIY - pakaian petualang / arkeolog lapangan
+==============================================
+Sumber  : repositori NotesByAdriy, cabang ccr-106aa644-jyu1yq
+Lokasi  : video/public/adriy/lib/pendaki/   (85 gambar PNG, latar transparan)
+Catatan : Tidak ada folder yang secara khusus bernama "arkeolog". Folder "pendaki" adalah pakaian
+          ekspedisi lapangan: topi rimba, kemeja khaki bertulisan ADRIY, rompi saku, ransel, syal, celana kargo.
+          Menurut video/aturan.md, tema "sejarah lapangan / petualangan" memakai keluarga pakaian ini.
+
+Isi zip
+-------
+SEMUA_pendaki/              seluruh 85 gambar pakaian pendaki (nama asli tidak diubah)
+PILIHAN_arkeolog/           16 pose yang paling cocok untuk adegan arkeologi (salinan dari SEMUA_pendaki)
+PILIHAN_arkeolog_kontak.png gambar ringkasan 16 pose pilihan
+DAFTAR_GAMBAR_semua.jpg     gambar ringkasan seluruh 85 pose beserta namanya
+
+16 pose pilihan
+---------------
+wajah_kaca_pembesar      memeriksa dengan kaca pembesar
+jongkok_lihat_jejak      berjongkok memeriksa jejak di tanah
+jongkok_ukur_gua         mengukur lubang / gua dengan tali
+jongkok_ambil_tanaman    menggali dengan sekop kecil, sampel masuk kantong
+wajah_catat_pulpen       mencatat di buku
+catat_buku_teropong      mencatat sambil membawa teropong
+baca_peta / jalan_baca_peta   membaca peta
+cek_kompas / sekstan     alat navigasi dan survei
+foto_kamera / teropong   mendokumentasikan dan mengamati
+wajah_serius_kepal, setengah_lambai_senyum, setengah_tunjuk_kamera, berdiri_tangan_saku   ekspresi dan sapaan
+
+Belum ada (perlu pose baru bila dibutuhkan): kuas arkeolog, mencangkul di lubang galian, memegang artefak/tembikar.
+Aturan proyek: jangan memperbesar aset kecil lebih dari sekitar 2,5 kali agar tidak pecah (video/aturan.md, aturan 8).

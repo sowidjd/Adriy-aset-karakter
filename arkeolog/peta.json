@@ -1,0 +1,297 @@
+{
+ "penuh": {
+  "netral": [
+   {
+    "w": 535,
+    "h": 1635,
+    "rowH": 1635,
+    "file": "adri/arkeolog/pose/berdiri_tangan_saku.png"
+   }
+  ],
+  "jelaskan": [
+   {
+    "w": 535,
+    "h": 1635,
+    "rowH": 1635,
+    "file": "adri/arkeolog/pose/berdiri_tangan_saku.png"
+   }
+  ],
+  "sapa": [
+   {
+    "w": 362,
+    "h": 635,
+    "rowH": 635,
+    "file": "adri/arkeolog/pose/angkat_cermin_sinyal.png"
+   }
+  ],
+  "angkat": [
+   {
+    "w": 362,
+    "h": 635,
+    "rowH": 635,
+    "file": "adri/arkeolog/pose/angkat_cermin_sinyal.png"
+   }
+  ],
+  "tunjuk": [
+   {
+    "w": 262,
+    "h": 638,
+    "rowH": 638,
+    "file": "adri/arkeolog/pose/cek_gps.png"
+   }
+  ],
+  "ajak": [
+   {
+    "w": 371,
+    "h": 648,
+    "rowH": 648,
+    "file": "adri/arkeolog/pose/jalan_walkie_talkie.png"
+   }
+  ],
+  "lihat": [
+   {
+    "w": 306,
+    "h": 757,
+    "rowH": 757,
+    "file": "adri/arkeolog/pose/teropong.png"
+   }
+  ],
+  "pegang": [
+   {
+    "w": 307,
+    "h": 742,
+    "rowH": 742,
+    "file": "adri/arkeolog/pose/baca_peta.png"
+   }
+  ],
+  "tunjukkan": [
+   {
+    "w": 307,
+    "h": 742,
+    "rowH": 742,
+    "file": "adri/arkeolog/pose/baca_peta.png"
+   }
+  ],
+  "sentuh": [
+   {
+    "w": 398,
+    "h": 626,
+    "rowH": 626,
+    "file": "adri/arkeolog/pose/cek_kompas.png"
+   }
+  ],
+  "banding": [
+   {
+    "w": 398,
+    "h": 626,
+    "rowH": 626,
+    "file": "adri/arkeolog/pose/cek_kompas.png"
+   }
+  ],
+  "pikir": [
+   {
+    "w": 290,
+    "h": 647,
+    "rowH": 647,
+    "file": "adri/arkeolog/pose/catat_buku_teropong.png"
+   }
+  ],
+  "tanya": [
+   {
+    "w": 384,
+    "h": 614,
+    "rowH": 990,
+    "file": "adri/arkeolog/pose/jongkok_lihat_jejak.png"
+   }
+  ],
+  "kaget": [
+   {
+    "w": 384,
+    "h": 614,
+    "rowH": 990,
+    "file": "adri/arkeolog/pose/jongkok_lihat_jejak.png"
+   }
+  ],
+  "simpulkan": [
+   {
+    "w": 290,
+    "h": 646,
+    "rowH": 646,
+    "file": "adri/arkeolog/pose/sekstan.png"
+   }
+  ],
+  "rayakan": [
+   {
+    "w": 353,
+    "h": 647,
+    "rowH": 647,
+    "file": "adri/arkeolog/pose/lompat_kepal_naik.png"
+   }
+  ],
+  "senang": [
+   {
+    "w": 353,
+    "h": 647,
+    "rowH": 647,
+    "file": "adri/arkeolog/pose/lompat_kepal_naik.png"
+   }
+  ],
+  "jalan": [
+   {
+    "w": 407,
+    "h": 632,
+    "rowH": 632,
+    "file": "adri/arkeolog/pose/jalan_samping.png"
+   }
+  ]
+ },
+ "dekat": {
+  "netral": [
+   {
+    "w": 497,
+    "h": 629,
+    "rowH": 629,
+    "file": "adri/arkeolog/pose/setengah_tangan_silang_serius.png"
+   }
+  ],
+  "jelaskan": [
+   {
+    "w": 590,
+    "h": 598,
+    "rowH": 598,
+    "file": "adri/arkeolog/pose/wajah_ulur_tangan_senyum.png"
+   }
+  ],
+  "sapa": [
+   {
+    "w": 566,
+    "h": 636,
+    "rowH": 636,
+    "file": "adri/arkeolog/pose/setengah_lambai_senyum.png"
+   }
+  ],
+  "tunjuk": [
+   {
+    "w": 578,
+    "h": 640,
+    "rowH": 640,
+    "file": "adri/arkeolog/pose/setengah_tunjuk_kamera.png"
+   }
+  ],
+  "ajak": [
+   {
+    "w": 586,
+    "h": 644,
+    "rowH": 644,
+    "file": "adri/arkeolog/pose/setengah_hormat_ulur_tangan.png"
+   }
+  ],
+  "angkat": [
+   {
+    "w": 563,
+    "h": 594,
+    "rowH": 594,
+    "file": "adri/arkeolog/pose/wajah_ide_telunjuk.png"
+   }
+  ],
+  "kaget": [
+   {
+    "w": 619,
+    "h": 578,
+    "rowH": 578,
+    "file": "adri/arkeolog/pose/wajah_kaget_benarkan_kacamata.png"
+   }
+  ],
+  "pikir": [
+   {
+    "w": 575,
+    "h": 579,
+    "rowH": 579,
+    "file": "adri/arkeolog/pose/wajah_mikir_dagu.png"
+   }
+  ],
+  "tanya": [
+   {
+    "w": 646,
+    "h": 598,
+    "rowH": 598,
+    "file": "adri/arkeolog/pose/wajah_ragu_tangan_terbuka.png"
+   }
+  ],
+  "banding": [
+   {
+    "w": 646,
+    "h": 598,
+    "rowH": 598,
+    "file": "adri/arkeolog/pose/wajah_ragu_tangan_terbuka.png"
+   }
+  ],
+  "rayakan": [
+   {
+    "w": 642,
+    "h": 598,
+    "rowH": 598,
+    "file": "adri/arkeolog/pose/wajah_sorak_kepal.png"
+   }
+  ],
+  "senang": [
+   {
+    "w": 603,
+    "h": 594,
+    "rowH": 594,
+    "file": "adri/arkeolog/pose/wajah_semangat_dua_kepal.png"
+   }
+  ],
+  "simpulkan": [
+   {
+    "w": 563,
+    "h": 594,
+    "rowH": 594,
+    "file": "adri/arkeolog/pose/wajah_ide_telunjuk.png"
+   }
+  ],
+  "tunjukkan": [
+   {
+    "w": 611,
+    "h": 581,
+    "rowH": 581,
+    "file": "adri/arkeolog/pose/wajah_kaca_pembesar.png"
+   }
+  ],
+  "lihat": [
+   {
+    "w": 611,
+    "h": 581,
+    "rowH": 581,
+    "file": "adri/arkeolog/pose/wajah_kaca_pembesar.png"
+   }
+  ],
+  "pegang": [
+   {
+    "w": 590,
+    "h": 595,
+    "rowH": 595,
+    "file": "adri/arkeolog/pose/wajah_catat_pulpen.png"
+   }
+  ],
+  "sentuh": [
+   {
+    "w": 595,
+    "h": 593,
+    "rowH": 593,
+    "file": "adri/arkeolog/pose/wajah_kedip_tunjuk_dua_jari.png"
+   }
+  ],
+  "jalan": [
+   {
+    "w": 519,
+    "h": 643,
+    "rowH": 643,
+    "file": "adri/arkeolog/pose/setengah_jempol_tangan_pinggang.png"
+   }
+  ]
+ },
+ "bicara": [],
+ "kedip": null,
+ "bicaraPenuh": []
+}

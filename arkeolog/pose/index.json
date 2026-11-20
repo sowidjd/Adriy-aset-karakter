@@ -1,0 +1,684 @@
+{
+ "pose": [
+  {
+   "file": "pose/angkat_cermin_sinyal.png",
+   "w": 362,
+   "h": 635,
+   "rowH": 635,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/ayun_tali.png",
+   "w": 431,
+   "h": 651,
+   "rowH": 651,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/baca_peta.png",
+   "w": 307,
+   "h": 742,
+   "rowH": 742,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/berdiri_tangan_saku.png",
+   "w": 535,
+   "h": 1635,
+   "rowH": 1635,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/catat_buku_teropong.png",
+   "w": 290,
+   "h": 647,
+   "rowH": 647,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/cek_gps.png",
+   "w": 262,
+   "h": 638,
+   "rowH": 638,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/cek_kompas.png",
+   "w": 398,
+   "h": 626,
+   "rowH": 626,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/dayung_rakit.png",
+   "w": 524,
+   "h": 646,
+   "rowH": 646,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/duduk_batu_sketsa_burung.png",
+   "w": 546,
+   "h": 571,
+   "rowH": 952,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/duduk_bersila_jempol.png",
+   "w": 537,
+   "h": 647,
+   "rowH": 1078,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/duduk_bersila_ulur_tangan_mug.png",
+   "w": 511,
+   "h": 630,
+   "rowH": 1050,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/duduk_meditasi.png",
+   "w": 589,
+   "h": 654,
+   "rowH": 1090,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/foto_kamera.png",
+   "w": 301,
+   "h": 757,
+   "rowH": 757,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_baca_peta.png",
+   "w": 290,
+   "h": 632,
+   "rowH": 632,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_belakang.png",
+   "w": 242,
+   "h": 638,
+   "rowH": 638,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_depan.png",
+   "w": 243,
+   "h": 643,
+   "rowH": 643,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_kamera_di_dada.png",
+   "w": 293,
+   "h": 646,
+   "rowH": 646,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_samping.png",
+   "w": 407,
+   "h": 632,
+   "rowH": 632,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_serong.png",
+   "w": 284,
+   "h": 646,
+   "rowH": 646,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_tongkat_menatap_jauh.png",
+   "w": 376,
+   "h": 742,
+   "rowH": 742,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_tongkat_trekking.png",
+   "w": 383,
+   "h": 644,
+   "rowH": 644,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_walkie_talkie.png",
+   "w": 371,
+   "h": 648,
+   "rowH": 648,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_ambil_tanaman.png",
+   "w": 400,
+   "h": 534,
+   "rowH": 861,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_angkat_mug.png",
+   "w": 516,
+   "h": 649,
+   "rowH": 1047,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_api_unggun.png",
+   "w": 440,
+   "h": 626,
+   "rowH": 1010,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_lihat_jejak.png",
+   "w": 384,
+   "h": 614,
+   "rowH": 990,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_masak_kompor.png",
+   "w": 370,
+   "h": 502,
+   "rowH": 810,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_palu_patok_tenda.png",
+   "w": 477,
+   "h": 588,
+   "rowH": 948,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_peace_batu.png",
+   "w": 513,
+   "h": 654,
+   "rowH": 1055,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_tuang_air.png",
+   "w": 445,
+   "h": 619,
+   "rowH": 998,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_ukur_gua.png",
+   "w": 579,
+   "h": 636,
+   "rowH": 1026,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jongkok_ulur_tangan.png",
+   "w": 482,
+   "h": 645,
+   "rowH": 1040,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jungkir_satu_tangan.png",
+   "w": 471,
+   "h": 645,
+   "rowH": 645,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/lari_loncat_panjang.png",
+   "w": 591,
+   "h": 547,
+   "rowH": 729,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/lompat_batang_kayu.png",
+   "w": 540,
+   "h": 628,
+   "rowH": 628,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/lompat_besar_ulur_tangan.png",
+   "w": 576,
+   "h": 535,
+   "rowH": 535,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/lompat_kaki_ditekuk.png",
+   "w": 575,
+   "h": 545,
+   "rowH": 545,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/lompat_kepal_naik.png",
+   "w": 353,
+   "h": 647,
+   "rowH": 647,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/lompat_tendang_ulur_tangan.png",
+   "w": 589,
+   "h": 562,
+   "rowH": 562,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/lompat_turun_tangan_terentang.png",
+   "w": 586,
+   "h": 623,
+   "rowH": 623,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/melayang_terbang.png",
+   "w": 575,
+   "h": 435,
+   "rowH": 870,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/panjat_tebing.png",
+   "w": 449,
+   "h": 748,
+   "rowH": 748,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/pasang_antena_radio.png",
+   "w": 388,
+   "h": 627,
+   "rowH": 627,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/pasang_stasiun_cuaca.png",
+   "w": 439,
+   "h": 649,
+   "rowH": 649,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/salto_gulung.png",
+   "w": 419,
+   "h": 519,
+   "rowH": 741,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/seberangi_sungai.png",
+   "w": 499,
+   "h": 750,
+   "rowH": 750,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/sekstan.png",
+   "w": 290,
+   "h": 646,
+   "rowH": 646,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_hormat_ulur_tangan.png",
+   "w": 586,
+   "h": 644,
+   "rowH": 644,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_hormat_ulur_tangan_b.png",
+   "w": 574,
+   "h": 630,
+   "rowH": 630,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_jempol_menoleh_ransel.png",
+   "w": 534,
+   "h": 654,
+   "rowH": 654,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_jempol_tangan_pinggang.png",
+   "w": 519,
+   "h": 643,
+   "rowH": 643,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_lambai_belakang_ransel.png",
+   "w": 459,
+   "h": 654,
+   "rowH": 654,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_lambai_menoleh_ransel.png",
+   "w": 488,
+   "h": 654,
+   "rowH": 654,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_lambai_senyum.png",
+   "w": 566,
+   "h": 636,
+   "rowH": 636,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_namaste_menunduk.png",
+   "w": 481,
+   "h": 649,
+   "rowH": 649,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_ok_kedip.png",
+   "w": 514,
+   "h": 654,
+   "rowH": 654,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_rentang_tangan.png",
+   "w": 574,
+   "h": 639,
+   "rowH": 639,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_rentang_tangan_santai.png",
+   "w": 596,
+   "h": 623,
+   "rowH": 623,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_semangat_kepal.png",
+   "w": 502,
+   "h": 644,
+   "rowH": 644,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_tangan_silang_serius.png",
+   "w": 497,
+   "h": 629,
+   "rowH": 629,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_tunjuk_kamera.png",
+   "w": 578,
+   "h": 640,
+   "rowH": 640,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/tebas_semak_parang.png",
+   "w": 421,
+   "h": 649,
+   "rowH": 649,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/tendang_putar.png",
+   "w": 584,
+   "h": 486,
+   "rowH": 648,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/teropong.png",
+   "w": 306,
+   "h": 757,
+   "rowH": 757,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/turun_tali.png",
+   "w": 582,
+   "h": 652,
+   "rowH": 652,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_bingkai_foto.png",
+   "w": 654,
+   "h": 598,
+   "rowH": 598,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_catat_pulpen.png",
+   "w": 590,
+   "h": 595,
+   "rowH": 595,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_ide_telunjuk.png",
+   "w": 563,
+   "h": 594,
+   "rowH": 594,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_kaca_pembesar.png",
+   "w": 611,
+   "h": 581,
+   "rowH": 581,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_kaget_benarkan_kacamata.png",
+   "w": 619,
+   "h": 578,
+   "rowH": 578,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_kedip_tunjuk_dua_jari.png",
+   "w": 595,
+   "h": 593,
+   "rowH": 593,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_lap_keringat.png",
+   "w": 650,
+   "h": 598,
+   "rowH": 598,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_menggigil_peluk_diri.png",
+   "w": 544,
+   "h": 583,
+   "rowH": 583,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_menguap.png",
+   "w": 570,
+   "h": 594,
+   "rowH": 594,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_mikir_dagu.png",
+   "w": 575,
+   "h": 579,
+   "rowH": 579,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_panik_dua_tangan.png",
+   "w": 634,
+   "h": 589,
+   "rowH": 589,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_pegal_leher.png",
+   "w": 610,
+   "h": 598,
+   "rowH": 598,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_ragu_tangan_terbuka.png",
+   "w": 646,
+   "h": 598,
+   "rowH": 598,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_semangat_dua_kepal.png",
+   "w": 603,
+   "h": 594,
+   "rowH": 594,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_serius_kepal.png",
+   "w": 594,
+   "h": 592,
+   "rowH": 592,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_sorak_kepal.png",
+   "w": 642,
+   "h": 598,
+   "rowH": 598,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_sst.png",
+   "w": 579,
+   "h": 598,
+   "rowH": 598,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_teropong_kaget.png",
+   "w": 645,
+   "h": 595,
+   "rowH": 595,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_tolak_silang.png",
+   "w": 560,
+   "h": 598,
+   "rowH": 598,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/wajah_ulur_tangan_senyum.png",
+   "w": 590,
+   "h": 598,
+   "rowH": 598,
+   "bottomGap": 0,
+   "dariTransparan": true
+  }
+ ]
+}
