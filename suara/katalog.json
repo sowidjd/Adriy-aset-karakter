@@ -27790,6 +27790,382 @@
    "catatan": "nada inspiratif",
    "sumber": "perpustakaan_suara.py",
    "dibuat": "2026-11-20"
+  },
+  {
+   "id": "1a0d36b3b0fb",
+   "suara": "hasan",
+   "teks": "Titik.",
+   "dibaca": "Titik.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/hasan/1a0d36b3b0fb.wav",
+   "durasi": 0.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bd7ad5afb9b5",
+   "suara": "hasan",
+   "teks": "Jadi, mari luruskan dulu.",
+   "dibaca": "Jadi, mari luruskan dulu.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/bd7ad5afb9b5.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "aa9bd8f14b78",
+   "suara": "hasan",
+   "teks": "Waktu memang tidak pernah menunggu.",
+   "dibaca": "Waktu memang tidak pernah menunggu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/aa9bd8f14b78.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e13f33855005",
+   "suara": "hasan",
+   "teks": "Kamu tidak harus hebat untuk memulai.",
+   "dibaca": "Kamu tidak harus hebat untuk memulai.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e13f33855005.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "cf741b3448d3",
+   "suara": "hasan",
+   "teks": "Belajar tidak pernah ada kata terlambat.",
+   "dibaca": "Belajar tidak pernah ada kata terlambat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/cf741b3448d3.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "84a830e5b0f1",
+   "suara": "hasan",
+   "teks": "Ada kehangatan dalam hal-hal kecil.",
+   "dibaca": "Ada kehangatan dalam hal-hal kecil.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/84a830e5b0f1.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "cecc94cdc5c5",
+   "suara": "hasan",
+   "teks": "Dan itulah yang sebenarnya terjadi.",
+   "dibaca": "Dan itulah yang sebenarnya terjadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/cecc94cdc5c5.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "78215f1c7e2e",
+   "suara": "hasan",
+   "teks": "Setiap orang punya waktunya masing-masing.",
+   "dibaca": "Setiap orang punya waktunya masing-masing.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/78215f1c7e2e.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "04ed5f0a39b4",
+   "suara": "hasan",
+   "teks": "Ada pelajaran di balik setiap kejadian.",
+   "dibaca": "Ada pelajaran di balik setiap kejadian.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/04ed5f0a39b4.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8751c0f58772",
+   "suara": "hasan",
+   "teks": "Hidup memang tidak selalu bisa ditebak.",
+   "dibaca": "Hidup memang tidak selalu bisa ditebak.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/8751c0f58772.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5afbe7442b12",
+   "suara": "hasan",
+   "teks": "Terkadang, air mata bukan tanda lemah.",
+   "dibaca": "Terkadang, air mata bukan tanda lemah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/5afbe7442b12.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "55d3e6081821",
+   "suara": "hasan",
+   "teks": "Jadi, kesimpulannya cukup jelas.",
+   "dibaca": "Jadi, kesimpulannya cukup jelas.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/55d3e6081821.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7485a9e15da7",
+   "suara": "hasan",
+   "teks": "Setiap ahli dulunya juga pemula.",
+   "dibaca": "Setiap ahli dulunya juga pemula.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/7485a9e15da7.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ad621a59eca0",
+   "suara": "hasan",
+   "teks": "Konsisten lebih penting daripada sempurna.",
+   "dibaca": "Konsisten lebih penting daripada sempurna.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ad621a59eca0.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "04d1e8e731d9",
+   "suara": "hasan",
+   "teks": "Jangan bandingkan langkahmu dengan orang lain.",
+   "dibaca": "Jangan bandingkan langkahmu dengan orang lain.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/04d1e8e731d9.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "609e9779165a",
+   "suara": "hasan",
+   "teks": "Mungkin, kamu adalah orang berikutnya.",
+   "dibaca": "Mungkin, kamu adalah orang berikutnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/609e9779165a.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "cf9816ebd620",
+   "suara": "hasan",
+   "teks": "Rasanya seperti kembali ke masa kecil.",
+   "dibaca": "Rasanya seperti kembali ke masa kecil.",
+   "fungsi": [
+    "memberikan analogi",
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/hasan/cf9816ebd620.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "23a1e85cffcb",
+   "suara": "hasan",
+   "teks": "Ada yang berubah, dan kita merasakannya.",
+   "dibaca": "Ada yang berubah, dan kita merasakannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/23a1e85cffcb.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6e283a553eaf",
+   "suara": "hasan",
+   "teks": "Jadi, jawabannya adalah: tergantung.",
+   "dibaca": "Jadi, jawabannya adalah: tergantung.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/6e283a553eaf.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "622cb6c0f572",
+   "suara": "hasan",
+   "teks": "Kadang, diam adalah jawaban terbaik.",
+   "dibaca": "Kadang, diam adalah jawaban terbaik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/622cb6c0f572.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "eedede7a3d43",
+   "suara": "hasan",
+   "teks": "Mungkin, kita hanya perlu berhenti sejenak.",
+   "dibaca": "Mungkin, kita hanya perlu berhenti sejenak.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/eedede7a3d43.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5ac0fa7ab8c4",
+   "suara": "hasan",
+   "teks": "Semua yang terjadi, punya alasannya sendiri.",
+   "dibaca": "Semua yang terjadi, punya alasannya sendiri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/5ac0fa7ab8c4.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ac3ae786ca43",
+   "suara": "hasan",
+   "teks": "Ada rasa yang sulit dijelaskan dengan kata-kata.",
+   "dibaca": "Ada rasa yang sulit dijelaskan dengan kata-kata.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ac3ae786ca43.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "733ac4069fee",
+   "suara": "hasan",
+   "teks": "Mereka juga pernah gagal, berkali-kali.",
+   "dibaca": "Mereka juga pernah gagal, berkali-kali.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/733ac4069fee.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "dd825a37d77c",
+   "suara": "hasan",
+   "teks": "Mungkin, ini cara alam mengingatkan kita.",
+   "dibaca": "Mungkin, ini cara alam mengingatkan kita.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/dd825a37d77c.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
   }
  ]
 }
