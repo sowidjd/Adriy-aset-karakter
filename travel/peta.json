@@ -1,0 +1,314 @@
+{
+ "penuh": {
+  "sapa": [
+   {
+    "w": 359,
+    "h": 988,
+    "rowH": 1024,
+    "file": "adri/travel/pose/lembar-01-1.png"
+   }
+  ],
+  "jelaskan": [
+   {
+    "w": 452,
+    "h": 990,
+    "rowH": 1024,
+    "file": "adri/travel/pose/lembar-01-3.png"
+   }
+  ],
+  "tunjuk": [
+   {
+    "w": 333,
+    "h": 987,
+    "rowH": 1024,
+    "file": "adri/travel/pose/lembar-01-2.png"
+   }
+  ],
+  "angkat": [
+   {
+    "w": 271,
+    "h": 627,
+    "rowH": 626,
+    "file": "adri/travel/pose/lembar-09-1.png"
+   }
+  ],
+  "jalan": [
+   {
+    "w": 330,
+    "h": 1016,
+    "rowH": 1254,
+    "file": "adri/travel/pose/lembar-03-1.png"
+   },
+   {
+    "w": 329,
+    "h": 975,
+    "rowH": 1254,
+    "file": "adri/travel/pose/lembar-04-1.png"
+   },
+   {
+    "w": 318,
+    "h": 1013,
+    "rowH": 1254,
+    "file": "adri/travel/pose/lembar-03-4.png"
+   },
+   {
+    "w": 382,
+    "h": 644,
+    "rowH": 643,
+    "file": "adri/travel/pose/lembar-06-4.png"
+   }
+  ],
+  "kaget": [
+   {
+    "w": 326,
+    "h": 1054,
+    "rowH": 1254,
+    "file": "adri/travel/pose/lembar-08-3.png"
+   }
+  ],
+  "pikir": [
+   {
+    "w": 326,
+    "h": 1054,
+    "rowH": 1254,
+    "file": "adri/travel/pose/lembar-08-3.png"
+   }
+  ],
+  "pegang": [
+   {
+    "w": 624,
+    "h": 569,
+    "rowH": 570,
+    "file": "adri/travel/pose/lembar-05-2.png"
+   }
+  ],
+  "sentuh": [
+   {
+    "w": 318,
+    "h": 1057,
+    "rowH": 1254,
+    "file": "adri/travel/pose/lembar-08-2.png"
+   }
+  ],
+  "lihat": [
+   {
+    "w": 624,
+    "h": 569,
+    "rowH": 570,
+    "file": "adri/travel/pose/lembar-05-2.png"
+   }
+  ],
+  "ajak": [
+   {
+    "w": 318,
+    "h": 1057,
+    "rowH": 1254,
+    "file": "adri/travel/pose/lembar-08-2.png"
+   }
+  ],
+  "senang": [
+   {
+    "w": 336,
+    "h": 626,
+    "rowH": 628,
+    "file": "adri/travel/pose/lembar-09-3.png"
+   }
+  ],
+  "tanya": [
+   {
+    "w": 272,
+    "h": 625,
+    "rowH": 626,
+    "file": "adri/travel/pose/lembar-09-2.png"
+   }
+  ],
+  "banding": [
+   {
+    "w": 452,
+    "h": 990,
+    "rowH": 1024,
+    "file": "adri/travel/pose/lembar-01-3.png"
+   }
+  ],
+  "rayakan": [
+   {
+    "w": 334,
+    "h": 1072,
+    "rowH": 1254,
+    "file": "adri/travel/pose/lembar-08-4.png"
+   }
+  ],
+  "simpulkan": [
+   {
+    "w": 271,
+    "h": 627,
+    "rowH": 626,
+    "file": "adri/travel/pose/lembar-09-1.png"
+   }
+  ],
+  "tunjukkan": [
+   {
+    "w": 452,
+    "h": 990,
+    "rowH": 1024,
+    "file": "adri/travel/pose/lembar-01-3.png"
+   }
+  ],
+  "netral": [
+   {
+    "w": 604,
+    "h": 1529,
+    "rowH": 1536,
+    "file": "adri/travel/pose/penuh-berdiri-1.png"
+   }
+  ]
+ },
+ "dekat": {
+  "sapa": [
+   {
+    "w": 528,
+    "h": 623,
+    "rowH": 622,
+    "file": "adri/travel/pose/dekat-02-4.png"
+   }
+  ],
+  "jelaskan": [
+   {
+    "w": 552,
+    "h": 627,
+    "rowH": 631,
+    "file": "adri/travel/pose/dekat-03-2.png"
+   }
+  ],
+  "tunjuk": [
+   {
+    "w": 492,
+    "h": 628,
+    "rowH": 631,
+    "file": "adri/travel/pose/dekat-03-1.png"
+   }
+  ],
+  "ajak": [
+   {
+    "w": 492,
+    "h": 628,
+    "rowH": 631,
+    "file": "adri/travel/pose/dekat-03-1.png"
+   }
+  ],
+  "angkat": [
+   {
+    "w": 552,
+    "h": 627,
+    "rowH": 631,
+    "file": "adri/travel/pose/dekat-03-2.png"
+   }
+  ],
+  "kaget": [
+   {
+    "w": 570,
+    "h": 632,
+    "rowH": 639,
+    "file": "adri/travel/pose/dekat-04-3.png"
+   }
+  ],
+  "pikir": [
+   {
+    "w": 455,
+    "h": 624,
+    "rowH": 632,
+    "file": "adri/travel/pose/dekat-02-2.png"
+   }
+  ],
+  "tanya": [
+   {
+    "w": 620,
+    "h": 626,
+    "rowH": 623,
+    "file": "adri/travel/pose/dekat-05-4.png"
+   }
+  ],
+  "rayakan": [
+   {
+    "w": 568,
+    "h": 622,
+    "rowH": 622,
+    "file": "adri/travel/pose/dekat-02-3.png"
+   }
+  ],
+  "senang": [
+   {
+    "w": 547,
+    "h": 611,
+    "rowH": 615,
+    "file": "adri/travel/pose/dekat-04-1.png"
+   }
+  ],
+  "simpulkan": [
+   {
+    "w": 552,
+    "h": 627,
+    "rowH": 631,
+    "file": "adri/travel/pose/dekat-03-2.png"
+   }
+  ],
+  "tunjukkan": [
+   {
+    "w": 455,
+    "h": 637,
+    "rowH": 634,
+    "file": "adri/travel/pose/dekat-01-1.png"
+   }
+  ],
+  "lihat": [
+   {
+    "w": 524,
+    "h": 610,
+    "rowH": 615,
+    "file": "adri/travel/pose/dekat-04-2.png"
+   }
+  ],
+  "banding": [
+   {
+    "w": 620,
+    "h": 626,
+    "rowH": 623,
+    "file": "adri/travel/pose/dekat-05-4.png"
+   }
+  ],
+  "pegang": [
+   {
+    "w": 524,
+    "h": 610,
+    "rowH": 615,
+    "file": "adri/travel/pose/dekat-04-2.png"
+   }
+  ],
+  "sentuh": [
+   {
+    "w": 492,
+    "h": 628,
+    "rowH": 631,
+    "file": "adri/travel/pose/dekat-03-1.png"
+   }
+  ],
+  "jalan": [
+   {
+    "w": 487,
+    "h": 629,
+    "rowH": 632,
+    "file": "adri/travel/pose/dekat-02-1.png"
+   }
+  ],
+  "netral": [
+   {
+    "w": 487,
+    "h": 629,
+    "rowH": 632,
+    "file": "adri/travel/pose/dekat-02-1.png"
+   }
+  ]
+ },
+ "bicara": [],
+ "kedip": null
+}

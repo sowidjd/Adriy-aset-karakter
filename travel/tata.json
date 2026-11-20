@@ -1,0 +1,218 @@
+{
+ "keterangan": "ADRIY outfit travel: jaket abu-abu di atas sweater ADRIY, ransel hitam, tas pinggang ADRIY, headphone di leher, botol minum, bantal leher, celana kargo hitam, sneaker hitam-putih.",
+ "layout": {
+  "lembar-01.png": [
+   4
+  ],
+  "lembar-02.png": [
+   2,
+   2
+  ],
+  "lembar-03.png": [
+   4
+  ],
+  "lembar-04.png": [
+   4
+  ],
+  "lembar-05.png": [
+   2,
+   2
+  ],
+  "lembar-06.png": [
+   2,
+   2
+  ],
+  "lembar-07.png": [
+   2,
+   2
+  ],
+  "lembar-08.png": [
+   4
+  ],
+  "lembar-09.png": [
+   2,
+   2
+  ],
+  "dekat/dekat-01.png": [
+   2,
+   2
+  ],
+  "dekat/dekat-02.png": [
+   2,
+   2
+  ],
+  "dekat/dekat-03.png": [
+   2,
+   2
+  ],
+  "dekat/dekat-04.png": [
+   2,
+   2
+  ],
+  "dekat/dekat-05.png": [
+   2,
+   2
+  ],
+  "dekat/dekat-06.png": [
+   2,
+   2
+  ],
+  "dekat/mulut.png": [
+   3,
+   2
+  ],
+  "dekat/penuh-berdiri.jpg": [
+   1
+  ]
+ },
+ "pose": {
+  "lembar-01": [
+   "melambai",
+   "menunjuk penonton",
+   "menunjukkan dengan dua tangan",
+   "merayakan, lutut naik"
+  ],
+  "lembar-02": [
+   "mengulurkan tangan (setengah badan)",
+   "melambai dengan kamera vlog",
+   "telunjuk ke atas, menjelaskan",
+   "merayakan, mengedip"
+  ],
+  "lembar-03": [
+   "jalan, pegang tali ransel",
+   "jalan, jempol",
+   "jalan sambil menulis di buku",
+   "jalan menatap ke atas, tangan di saku"
+  ],
+  "lembar-04": [
+   "jalan, pegang tali ransel",
+   "jalan, jempol",
+   "jalan sambil melihat ponsel",
+   "jalan mendengarkan headphone"
+  ],
+  "lembar-05": [
+   "jongkok mengikat tali sepatu",
+   "duduk di batang kayu memegang peta, memandang jauh",
+   "swafoto, tanda damai",
+   "merentangkan tangan, menikmati"
+  ],
+  "lembar-06": [
+   "jongkok, tanda damai",
+   "duduk di batu menulis buku, berpikir",
+   "melihat jam tangan (setengah badan)",
+   "jalan bersemangat, pegang tali ransel"
+  ],
+  "lembar-07": [
+   "jongkok memotret",
+   "duduk bersila dengan laptop",
+   "merentangkan tangan (setengah badan)",
+   "duduk di batu, minum dari botol"
+  ],
+  "lembar-08": [
+   "berdiri, tangan bersilang",
+   "mengulurkan tangan, tersenyum",
+   "berpikir, tangan di dagu",
+   "merayakan, tinju ke atas, lutut naik"
+  ],
+  "lembar-09": [
+   "berdiri, jempol",
+   "berpikir, tangan di dagu",
+   "merayakan, dua kepalan",
+   "melambai sambil berjalan"
+  ],
+  "dekat/dekat-01": [
+   "jempol",
+   "melambai, mengedip",
+   "tangan bertaut (terima kasih)",
+   "mengedip, menunjuk penonton"
+  ],
+  "dekat/dekat-02": [
+   "jempol, tersenyum",
+   "berpikir, tangan di dagu",
+   "merayakan, tinju ke atas",
+   "melambai"
+  ],
+  "dekat/dekat-03": [
+   "menunjuk penonton",
+   "dapat ide, telunjuk ke atas, memegang tablet",
+   "mendengarkan headphone",
+   "tanda damai dan jempol"
+  ],
+  "dekat/dekat-04": [
+   "semangat, dua kepalan",
+   "berpikir dengan pena dan buku",
+   "terkejut, tangan di kepala",
+   "tangan bersilang, mata tertutup"
+  ],
+  "dekat/dekat-05": [
+   "frustrasi, tangan di kepala",
+   "jempol ke bawah",
+   "menangis",
+   "mengangkat bahu, bingung"
+  ],
+  "dekat/dekat-06": [
+   "marah, kepal tangan",
+   "pusing, tangan di dahi",
+   "menguap",
+   "mual, tangan di mulut"
+  ],
+  "dekat/mulut": [
+   "mulut A",
+   "mulut I",
+   "mulut U",
+   "mulut E",
+   "mulut O"
+  ],
+  "dekat/penuh-berdiri": [
+   "berdiri netral, tangan di saku (acuan)"
+  ]
+ },
+ "penuh": {
+  "sapa": "lembar-01-1",
+  "jelaskan": "lembar-01-3",
+  "tunjuk": "lembar-01-2",
+  "angkat": "lembar-09-1",
+  "jalan": [
+   "lembar-03-1",
+   "lembar-04-1",
+   "lembar-03-4",
+   "lembar-06-4"
+  ],
+  "kaget": "lembar-08-3",
+  "pikir": "lembar-08-3",
+  "pegang": "lembar-05-2",
+  "sentuh": "lembar-08-2",
+  "lihat": "lembar-05-2",
+  "ajak": "lembar-08-2",
+  "senang": "lembar-09-3",
+  "tanya": "lembar-09-2",
+  "banding": "lembar-01-3",
+  "rayakan": "lembar-08-4",
+  "simpulkan": "lembar-09-1",
+  "tunjukkan": "lembar-01-3",
+  "netral": "penuh-berdiri-1"
+ },
+ "dekat": {
+  "sapa": "dekat-02-4",
+  "jelaskan": "dekat-03-2",
+  "tunjuk": "dekat-03-1",
+  "ajak": "dekat-03-1",
+  "angkat": "dekat-03-2",
+  "kaget": "dekat-04-3",
+  "pikir": "dekat-02-2",
+  "tanya": "dekat-05-4",
+  "rayakan": "dekat-02-3",
+  "senang": "dekat-04-1",
+  "simpulkan": "dekat-03-2",
+  "tunjukkan": "dekat-01-1",
+  "lihat": "dekat-04-2",
+  "banding": "dekat-05-4",
+  "pegang": "dekat-04-2",
+  "sentuh": "dekat-03-1",
+  "jalan": "dekat-02-1",
+  "netral": "dekat-02-1"
+ },
+ "bicara": [],
+ "kedip": null,
+ "catatan": "dekat/mulut.png: tiap bentuk mulut berbeda gerak tangannya, jadi belum dipakai untuk sinkron bibir. Butuh 5 bentuk mulut dengan pose tubuh yang sama."
+}
