@@ -1,0 +1,8 @@
+ADRIY - pakaian Jas lab
+========================================
+Sumber : repositori NotesByAdriy, cabang ccr-106aa644-jyu1yq
+Lokasi : video/public/adriy/lib/lab/  (78 gambar PNG, latar transparan)
+Tema   : Sains, kimia, biologi, kedokteran, penemuan
+Isi zip: folder lab/ (semua gambar, nama asli tidak diubah) dan DAFTAR_lab.jpg (gambar ringkasan beserta nama).
+Aturan proyek (video/aturan.md): satu video memakai satu keluarga pakaian; jangan dicampur.
+Aset kecil jangan diperbesar lebih dari sekitar 2,5 kali agar tidak pecah (aturan 8).

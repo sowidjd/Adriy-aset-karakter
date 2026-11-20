@@ -1,0 +1,628 @@
+{
+ "pose": [
+  {
+   "file": "pose/angka_1.png",
+   "w": 212,
+   "h": 638,
+   "rowH": 638,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/angka_2.png",
+   "w": 211,
+   "h": 637,
+   "rowH": 637,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/angka_3.png",
+   "w": 214,
+   "h": 637,
+   "rowH": 637,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/angka_4.png",
+   "w": 225,
+   "h": 635,
+   "rowH": 635,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/angka_5.png",
+   "w": 220,
+   "h": 634,
+   "rowH": 634,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/atur_mesin_vakum.png",
+   "w": 501,
+   "h": 618,
+   "rowH": 618,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/bawa_nampan.png",
+   "w": 302,
+   "h": 657,
+   "rowH": 657,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/berdiri_jas_lab_tangan_saku.png",
+   "w": 525,
+   "h": 1648,
+   "rowH": 1648,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/bingung_garuk_kepala.png",
+   "w": 301,
+   "h": 627,
+   "rowH": 627,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/bunsen.png",
+   "w": 439,
+   "h": 631,
+   "rowH": 631,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/catat_clipboard.png",
+   "w": 222,
+   "h": 662,
+   "rowH": 662,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/cawan_petri_angkat.png",
+   "w": 261,
+   "h": 642,
+   "rowH": 642,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/cawan_petri_kawat.png",
+   "w": 243,
+   "h": 640,
+   "rowH": 640,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/eureka_tangan_naik.png",
+   "w": 317,
+   "h": 638,
+   "rowH": 638,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/gesture_jempol.png",
+   "w": 195,
+   "h": 638,
+   "rowH": 638,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/gesture_stop.png",
+   "w": 197,
+   "h": 638,
+   "rowH": 638,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/gesture_tangan_gosok.png",
+   "w": 200,
+   "h": 636,
+   "rowH": 636,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/gesture_tepuk.png",
+   "w": 233,
+   "h": 627,
+   "rowH": 627,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/glovebox.png",
+   "w": 479,
+   "h": 627,
+   "rowH": 627,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/ide_telunjuk.png",
+   "w": 269,
+   "h": 653,
+   "rowH": 653,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/ide_telunjuk_b.png",
+   "w": 270,
+   "h": 645,
+   "rowH": 645,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_clipboard.png",
+   "w": 298,
+   "h": 618,
+   "rowH": 618,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jalan_rak_tabung.png",
+   "w": 337,
+   "h": 617,
+   "rowH": 617,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jelaskan_papan_tulis.png",
+   "w": 512,
+   "h": 634,
+   "rowH": 634,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jelaskan_tangan_terbuka.png",
+   "w": 341,
+   "h": 612,
+   "rowH": 612,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/jelaskan_tangan_terbuka_b.png",
+   "w": 367,
+   "h": 615,
+   "rowH": 615,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/kecewa_duduk_meja.png",
+   "w": 441,
+   "h": 577,
+   "rowH": 577,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/ketik_laptop.png",
+   "w": 430,
+   "h": 631,
+   "rowH": 631,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/kolom_kromatografi.png",
+   "w": 375,
+   "h": 633,
+   "rowH": 633,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/label_botol.png",
+   "w": 224,
+   "h": 651,
+   "rowH": 651,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/labu_angkat.png",
+   "w": 242,
+   "h": 630,
+   "rowH": 630,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/lari_clipboard.png",
+   "w": 419,
+   "h": 621,
+   "rowH": 621,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/lemari_asam.png",
+   "w": 431,
+   "h": 628,
+   "rowH": 628,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/lompat_gembira.png",
+   "w": 314,
+   "h": 550,
+   "rowH": 550,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/lup_batu.png",
+   "w": 316,
+   "h": 632,
+   "rowH": 632,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/menoleh_belakang.png",
+   "w": 225,
+   "h": 642,
+   "rowH": 642,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/mikroskop_duduk.png",
+   "w": 402,
+   "h": 548,
+   "rowH": 548,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/mikroskop_meja_sarung.png",
+   "w": 405,
+   "h": 582,
+   "rowH": 582,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/multipipet.png",
+   "w": 441,
+   "h": 634,
+   "rowH": 634,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/mundur_kaget_asap.png",
+   "w": 482,
+   "h": 610,
+   "rowH": 610,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/pegang_dna.png",
+   "w": 256,
+   "h": 628,
+   "rowH": 628,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/pegang_molekul.png",
+   "w": 230,
+   "h": 630,
+   "rowH": 630,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/pegang_rak_tabung.png",
+   "w": 225,
+   "h": 641,
+   "rowH": 641,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/penemuan_kaget_laptop.png",
+   "w": 426,
+   "h": 571,
+   "rowH": 571,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/pipet_rak_tabung.png",
+   "w": 357,
+   "h": 626,
+   "rowH": 626,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/puas_tabung_jempol.png",
+   "w": 272,
+   "h": 642,
+   "rowH": 642,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/rotavap.png",
+   "w": 392,
+   "h": 628,
+   "rowH": 628,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/sajikan_kanan.png",
+   "w": 340,
+   "h": 655,
+   "rowH": 655,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/sajikan_kanan_b.png",
+   "w": 351,
+   "h": 647,
+   "rowH": 647,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/sentrifus.png",
+   "w": 422,
+   "h": 637,
+   "rowH": 637,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_bingung_garuk.png",
+   "w": 578,
+   "h": 506,
+   "rowH": 506,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_eureka_kepal.png",
+   "w": 513,
+   "h": 485,
+   "rowH": 485,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_ide_telunjuk.png",
+   "w": 332,
+   "h": 514,
+   "rowH": 514,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_jempol.png",
+   "w": 662,
+   "h": 502,
+   "rowH": 502,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_jempol_senyum.png",
+   "w": 522,
+   "h": 492,
+   "rowH": 492,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_kaget_dua_tangan.png",
+   "w": 510,
+   "h": 504,
+   "rowH": 504,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_kaget_tangan_terbuka.png",
+   "w": 588,
+   "h": 500,
+   "rowH": 500,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_mikir_dagu.png",
+   "w": 783,
+   "h": 506,
+   "rowH": 506,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_mikir_dagu_2.png",
+   "w": 495,
+   "h": 490,
+   "rowH": 490,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_mikir_gir.png",
+   "w": 414,
+   "h": 507,
+   "rowH": 507,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_pusing_swirl.png",
+   "w": 399,
+   "h": 484,
+   "rowH": 484,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_semangat_kedip.png",
+   "w": 587,
+   "h": 498,
+   "rowH": 498,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_senang_kepal.png",
+   "w": 538,
+   "h": 503,
+   "rowH": 503,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_serius_tangan_silang.png",
+   "w": 804,
+   "h": 503,
+   "rowH": 503,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_tenang_tangan_dada.png",
+   "w": 515,
+   "h": 509,
+   "rowH": 509,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/setengah_tunjuk_kamera_marah.png",
+   "w": 471,
+   "h": 502,
+   "rowH": 502,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/spektrometer.png",
+   "w": 471,
+   "h": 649,
+   "rowH": 649,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/tabung_menyala.png",
+   "w": 236,
+   "h": 638,
+   "rowH": 638,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/tabung_reaksi_angkat.png",
+   "w": 242,
+   "h": 602,
+   "rowH": 602,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/timbang_serbuk.png",
+   "w": 377,
+   "h": 641,
+   "rowH": 641,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/titrasi.png",
+   "w": 408,
+   "h": 637,
+   "rowH": 637,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/tuang_labu.png",
+   "w": 266,
+   "h": 655,
+   "rowH": 655,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/tunjuk_dua_arah_b.png",
+   "w": 391,
+   "h": 614,
+   "rowH": 614,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/tunjuk_kiri_saku.png",
+   "w": 321,
+   "h": 611,
+   "rowH": 611,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/tunjuk_lembar_hasil.png",
+   "w": 299,
+   "h": 642,
+   "rowH": 642,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/tutup_hidung_bau.png",
+   "w": 338,
+   "h": 634,
+   "rowH": 634,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/ukur_ph.png",
+   "w": 383,
+   "h": 642,
+   "rowH": 642,
+   "bottomGap": 0,
+   "dariTransparan": true
+  },
+  {
+   "file": "pose/vortex.png",
+   "w": 373,
+   "h": 633,
+   "rowH": 633,
+   "bottomGap": 0,
+   "dariTransparan": true
+  }
+ ]
+}

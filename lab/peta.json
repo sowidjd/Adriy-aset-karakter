@@ -1,0 +1,273 @@
+{
+ "penuh": {
+  "netral": [
+   {
+    "w": 525,
+    "h": 1648,
+    "rowH": 1648,
+    "file": "adri/lab/pose/berdiri_jas_lab_tangan_saku.png"
+   }
+  ],
+  "jelaskan": [
+   {
+    "w": 341,
+    "h": 612,
+    "rowH": 612,
+    "file": "adri/lab/pose/jelaskan_tangan_terbuka.png"
+   }
+  ],
+  "sapa": [
+   {
+    "w": 195,
+    "h": 638,
+    "rowH": 638,
+    "file": "adri/lab/pose/gesture_jempol.png"
+   }
+  ],
+  "tunjuk": [
+   {
+    "w": 321,
+    "h": 611,
+    "rowH": 611,
+    "file": "adri/lab/pose/tunjuk_kiri_saku.png"
+   }
+  ],
+  "ajak": [
+   {
+    "w": 340,
+    "h": 655,
+    "rowH": 655,
+    "file": "adri/lab/pose/sajikan_kanan.png"
+   }
+  ],
+  "angkat": [
+   {
+    "w": 269,
+    "h": 653,
+    "rowH": 653,
+    "file": "adri/lab/pose/ide_telunjuk.png"
+   }
+  ],
+  "lihat": [
+   {
+    "w": 405,
+    "h": 582,
+    "rowH": 582,
+    "file": "adri/lab/pose/mikroskop_meja_sarung.png"
+   }
+  ],
+  "pegang": [
+   {
+    "w": 242,
+    "h": 630,
+    "rowH": 630,
+    "file": "adri/lab/pose/labu_angkat.png"
+   }
+  ],
+  "tunjukkan": [
+   {
+    "w": 351,
+    "h": 647,
+    "rowH": 647,
+    "file": "adri/lab/pose/sajikan_kanan_b.png"
+   }
+  ],
+  "sentuh": [
+   {
+    "w": 299,
+    "h": 642,
+    "rowH": 642,
+    "file": "adri/lab/pose/tunjuk_lembar_hasil.png"
+   }
+  ],
+  "banding": [
+   {
+    "w": 391,
+    "h": 614,
+    "rowH": 614,
+    "file": "adri/lab/pose/tunjuk_dua_arah_b.png"
+   }
+  ],
+  "pikir": [
+   {
+    "w": 222,
+    "h": 662,
+    "rowH": 662,
+    "file": "adri/lab/pose/catat_clipboard.png"
+   }
+  ],
+  "tanya": [
+   {
+    "w": 301,
+    "h": 627,
+    "rowH": 627,
+    "file": "adri/lab/pose/bingung_garuk_kepala.png"
+   }
+  ],
+  "kaget": [
+   {
+    "w": 482,
+    "h": 610,
+    "rowH": 610,
+    "file": "adri/lab/pose/mundur_kaget_asap.png"
+   }
+  ],
+  "simpulkan": [
+   {
+    "w": 270,
+    "h": 645,
+    "rowH": 645,
+    "file": "adri/lab/pose/ide_telunjuk_b.png"
+   }
+  ],
+  "rayakan": [
+   {
+    "w": 317,
+    "h": 638,
+    "rowH": 638,
+    "file": "adri/lab/pose/eureka_tangan_naik.png"
+   }
+  ],
+  "senang": [
+   {
+    "w": 314,
+    "h": 550,
+    "rowH": 550,
+    "file": "adri/lab/pose/lompat_gembira.png"
+   }
+  ],
+  "jalan": [
+   {
+    "w": 298,
+    "h": 618,
+    "rowH": 618,
+    "file": "adri/lab/pose/jalan_clipboard.png"
+   }
+  ]
+ },
+ "dekat": {
+  "netral": [
+   {
+    "w": 515,
+    "h": 509,
+    "rowH": 509,
+    "file": "adri/lab/pose/setengah_tenang_tangan_dada.png"
+   }
+  ],
+  "jelaskan": [
+   {
+    "w": 515,
+    "h": 509,
+    "rowH": 509,
+    "file": "adri/lab/pose/setengah_tenang_tangan_dada.png"
+   }
+  ],
+  "sapa": [
+   {
+    "w": 522,
+    "h": 492,
+    "rowH": 492,
+    "file": "adri/lab/pose/setengah_jempol_senyum.png"
+   }
+  ],
+  "tunjuk": [
+   {
+    "w": 587,
+    "h": 498,
+    "rowH": 498,
+    "file": "adri/lab/pose/setengah_semangat_kedip.png"
+   }
+  ],
+  "angkat": [
+   {
+    "w": 332,
+    "h": 514,
+    "rowH": 514,
+    "file": "adri/lab/pose/setengah_ide_telunjuk.png"
+   }
+  ],
+  "kaget": [
+   {
+    "w": 510,
+    "h": 504,
+    "rowH": 504,
+    "file": "adri/lab/pose/setengah_kaget_dua_tangan.png"
+   }
+  ],
+  "pikir": [
+   {
+    "w": 495,
+    "h": 490,
+    "rowH": 490,
+    "file": "adri/lab/pose/setengah_mikir_dagu_2.png"
+   }
+  ],
+  "tanya": [
+   {
+    "w": 578,
+    "h": 506,
+    "rowH": 506,
+    "file": "adri/lab/pose/setengah_bingung_garuk.png"
+   }
+  ],
+  "banding": [
+   {
+    "w": 414,
+    "h": 507,
+    "rowH": 507,
+    "file": "adri/lab/pose/setengah_mikir_gir.png"
+   }
+  ],
+  "rayakan": [
+   {
+    "w": 513,
+    "h": 485,
+    "rowH": 485,
+    "file": "adri/lab/pose/setengah_eureka_kepal.png"
+   }
+  ],
+  "senang": [
+   {
+    "w": 538,
+    "h": 503,
+    "rowH": 503,
+    "file": "adri/lab/pose/setengah_senang_kepal.png"
+   }
+  ],
+  "simpulkan": [
+   {
+    "w": 332,
+    "h": 514,
+    "rowH": 514,
+    "file": "adri/lab/pose/setengah_ide_telunjuk.png"
+   }
+  ],
+  "tunjukkan": [
+   {
+    "w": 588,
+    "h": 500,
+    "rowH": 500,
+    "file": "adri/lab/pose/setengah_kaget_tangan_terbuka.png"
+   }
+  ],
+  "lihat": [
+   {
+    "w": 495,
+    "h": 490,
+    "rowH": 490,
+    "file": "adri/lab/pose/setengah_mikir_dagu_2.png"
+   }
+  ],
+  "jalan": [
+   {
+    "w": 662,
+    "h": 502,
+    "rowH": 502,
+    "file": "adri/lab/pose/setengah_jempol.png"
+   }
+  ]
+ },
+ "bicara": [],
+ "kedip": null,
+ "bicaraPenuh": []
+}

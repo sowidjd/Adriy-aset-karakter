@@ -1,0 +1,58 @@
+{
+ "keterangan": "ADRIY jas lab: jas lab putih, kemeja biru tua, kartu identitas. Untuk sains, kimia, biologi, kedokteran, penemuan.",
+ "siap": true,
+ "tinggi": {
+  "jongkok_": 0.62,
+  "duduk_": 0.6,
+  "renang_": 0.4,
+  "dorong_": 0.4,
+  "melayang_tangan_silang": 0.4,
+  "rebahan_": 0.4,
+  "merangkak": 0.5,
+  "lari_loncat": 0.75,
+  "melayang_terbang": 0.5,
+  "tendang_putar": 0.75,
+  "salto_": 0.7
+ },
+ "penuh": {
+  "netral": "berdiri_jas_lab_tangan_saku",
+  "jelaskan": "jelaskan_tangan_terbuka",
+  "sapa": "gesture_jempol",
+  "tunjuk": "tunjuk_kiri_saku",
+  "ajak": "sajikan_kanan",
+  "angkat": "ide_telunjuk",
+  "lihat": "mikroskop_meja_sarung",
+  "pegang": "labu_angkat",
+  "tunjukkan": "sajikan_kanan_b",
+  "sentuh": "tunjuk_lembar_hasil",
+  "banding": "tunjuk_dua_arah_b",
+  "pikir": "catat_clipboard",
+  "tanya": "bingung_garuk_kepala",
+  "kaget": "mundur_kaget_asap",
+  "simpulkan": "ide_telunjuk_b",
+  "rayakan": "eureka_tangan_naik",
+  "senang": "lompat_gembira",
+  "jalan": [
+   "jalan_clipboard"
+  ]
+ },
+ "dekat": {
+  "netral": "setengah_tenang_tangan_dada",
+  "jelaskan": "setengah_tenang_tangan_dada",
+  "sapa": "setengah_jempol_senyum",
+  "tunjuk": "setengah_semangat_kedip",
+  "angkat": "setengah_ide_telunjuk",
+  "kaget": "setengah_kaget_dua_tangan",
+  "pikir": "setengah_mikir_dagu_2",
+  "tanya": "setengah_bingung_garuk",
+  "banding": "setengah_mikir_gir",
+  "rayakan": "setengah_eureka_kepal",
+  "senang": "setengah_senang_kepal",
+  "simpulkan": "setengah_ide_telunjuk",
+  "tunjukkan": "setengah_kaget_tangan_terbuka",
+  "lihat": "setengah_mikir_dagu_2",
+  "jalan": "setengah_jempol"
+ },
+ "bicara": [],
+ "kedip": null
+}
