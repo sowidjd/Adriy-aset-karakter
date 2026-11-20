@@ -50,7 +50,14 @@ transportasi, sejarah). Semua dari Openclipart.org, lisensi CC0 (bebas tanpa kre
 maks. 800 px. Terdaftar di `objek/katalog.json` (kategori "benda", kolom `kelompok`, `kata`, `sumber`):
 gambar muncul otomatis bila naskah menyebut salah satu `kata`.
 
+## suara/ — perpustakaan suara
+
+Kalimat yang sudah dibuat VoxCPM, per model suara (`suara/<suara>/<id>.wav`), dengan `suara/katalog.json`
+(teks, durasi, kategori, catatan, sumber). Pipeline mengambil kalimat yang persis sama dari sini tanpa membuat
+ulang, dan menyimpan setiap kalimat baru ke sini. Tambah manual:
+`python3 pipeline/perpustakaan_suara.py tambah "Kalimat..." --suara adriy ongky --kategori hook`
+
 ## Catatan
 
-- Disalin dari `adriyarfiyfadilclash-lang/adriy-karakter-aset` (commit 22539ca). Folder `suara/` (perpustakaan suara VoxCPM) tidak ikut disalin, karena aturan AdriyMine: file tiruan suara pemilik tidak diunggah ke GitHub.
+- Disalin dari `adriyarfiyfadilclash-lang/adriy-karakter-aset` (commit 22539ca). Folder `suara/` ikut disalin atas izin pemilik (20 Nov 2026); repo ini harus tetap privat.
 - Di AdriyMine, ambil aset dengan `bash projects/karakter/ambil_aset.sh` (disalin ke `projects/karakter/aset/`, tidak masuk git).
