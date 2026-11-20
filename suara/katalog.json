@@ -24093,6 +24093,385 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-20"
+  },
+  {
+   "id": "350df4deecbb",
+   "suara": "hasan",
+   "teks": "Tidak ada suara, hanya detak jantung yang semakin cepat.",
+   "dibaca": "Tidak ada suara, hanya detak jantung yang semakin cepat.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/hasan/350df4deecbb.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b7d197ed715f",
+   "suara": "hasan",
+   "teks": "Jadi, kalau kamu tiba-tiba lupa tujuanmu setelah melewati pintu...",
+   "dibaca": "Jadi, kalau kamu tiba-tiba lupa tujuanmu setelah melewati pintu...",
+   "fungsi": [
+    "jeda dramatis",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/b7d197ed715f.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3fd3a55f9df2",
+   "suara": "hasan",
+   "teks": "Ada kalanya jawaban justru muncul dari pertanyaan yang paling sederhana.",
+   "dibaca": "Ada kalanya jawaban justru muncul dari pertanyaan yang paling sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3fd3a55f9df2.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "593745f0a748",
+   "suara": "hasan",
+   "teks": "Simpan video ini, biar kamu bisa cerita ke temanmu nanti.",
+   "dibaca": "Simpan video ini, biar kamu bisa cerita ke temanmu nanti.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/593745f0a748.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b4d3356dd4ee",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita mulai dari satu pertanyaan sederhana.",
+   "dibaca": "Di Adriy Project, kita mulai dari satu pertanyaan sederhana.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/b4d3356dd4ee.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "77b780cd475f",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita bongkar fakta yang jarang dibahas.",
+   "dibaca": "Di Adriy Project, kita bongkar fakta yang jarang dibahas.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/77b780cd475f.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "0aced1d26e93",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita lihat dari sudut yang jarang orang perhatikan.",
+   "dibaca": "Di Adriy Project, kita lihat dari sudut yang jarang orang perhatikan.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/0aced1d26e93.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6371adca0dc9",
+   "suara": "hasan",
+   "teks": "Jangan lupa follow Adriy Project untuk fakta seru setiap minggu.",
+   "dibaca": "Jangan lupa follow Adriy Project untuk fakta seru setiap minggu.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/6371adca0dc9.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "26a64ab7bf82",
+   "suara": "hasan",
+   "teks": "Follow Adriy Project, karena belajar ternyata bisa seseru ini.",
+   "dibaca": "Follow Adriy Project, karena belajar ternyata bisa seseru ini.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/26a64ab7bf82.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "95d0cafe3d5d",
+   "suara": "hasan",
+   "teks": "Kalau sudah paham bagian ini, sisanya jadi lebih mudah.",
+   "dibaca": "Kalau sudah paham bagian ini, sisanya jadi lebih mudah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/95d0cafe3d5d.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6e2db58309cf",
+   "suara": "hasan",
+   "teks": "Jadi, kalau ditarik ke belakang, semuanya saling terhubung.",
+   "dibaca": "Jadi, kalau ditarik ke belakang, semuanya saling terhubung.",
+   "fungsi": [
+    "menghubungkan dua topik",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/6e2db58309cf.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5ecc4b1ec566",
+   "suara": "hasan",
+   "teks": "Kalau kamu ketawa sendiri, berarti kamu pernah ngalamin.",
+   "dibaca": "Kalau kamu ketawa sendiri, berarti kamu pernah ngalamin.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/5ecc4b1ec566.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "fa91943b046f",
+   "suara": "hasan",
+   "teks": "Kalau saja semuanya semudah membalikkan telapak tangan.",
+   "dibaca": "Kalau saja semuanya semudah membalikkan telapak tangan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/fa91943b046f.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9ea4a9111800",
+   "suara": "hasan",
+   "teks": "Sampai jumpa di video berikutnya, dan jangan lupa follow Adriy Project.",
+   "dibaca": "Sampai jumpa di video berikutnya, dan jangan lupa follow Adriy Project.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/9ea4a9111800.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b38da5340451",
+   "suara": "hasan",
+   "teks": "Mau tahu fakta menarik lainnya? Tulis topiknya di komentar.",
+   "dibaca": "Mau tahu fakta menarik lainnya? Tulis topiknya di komentar.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/b38da5340451.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "98fe8db861c6",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, setiap pertanyaan kecil punya jawaban yang menarik.",
+   "dibaca": "Di Adriy Project, setiap pertanyaan kecil punya jawaban yang menarik.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/98fe8db861c6.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3acf3406564d",
+   "suara": "hasan",
+   "teks": "Terima kasih sudah menonton, sampai jumpa di Adriy Project berikutnya.",
+   "dibaca": "Terima kasih sudah menonton, sampai jumpa di Adriy Project berikutnya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/3acf3406564d.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "20e5e8b64fb0",
+   "suara": "hasan",
+   "teks": "Follow Adriy Project, biar rasa penasaranmu selalu terjawab.",
+   "dibaca": "Follow Adriy Project, biar rasa penasaranmu selalu terjawab.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/20e5e8b64fb0.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "92d597be20e0",
+   "suara": "hasan",
+   "teks": "Kalau kamu sering mengalami ini, kamu nggak sendirian.",
+   "dibaca": "Kalau kamu sering mengalami ini, kamu nggak sendirian.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/hasan/92d597be20e0.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d36fdcb8f70e",
+   "suara": "hasan",
+   "teks": "Itulah sebabnya hal ini lebih sering terjadi pada kondisi tertentu.",
+   "dibaca": "Itulah sebabnya hal ini lebih sering terjadi pada kondisi tertentu.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/d36fdcb8f70e.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c2199b304aec",
+   "suara": "hasan",
+   "teks": "Dengan kata lain, ini adalah cara alami tubuh untuk beradaptasi.",
+   "dibaca": "Dengan kata lain, ini adalah cara alami tubuh untuk beradaptasi.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/c2199b304aec.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "428bd701e141",
+   "suara": "hasan",
+   "teks": "Setelah semua penjelasan tadi, kita bisa ambil satu kesimpulan.",
+   "dibaca": "Setelah semua penjelasan tadi, kita bisa ambil satu kesimpulan.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/428bd701e141.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6494bfb636d8",
+   "suara": "hasan",
+   "teks": "Duh, catatanku hilang lagi. Kemarin aku tulis di mana, ya?",
+   "dibaca": "Duh, catatanku hilang lagi. Kemarin aku tulis di mana, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/6494bfb636d8.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "33d1fc95716b",
+   "suara": "hasan",
+   "teks": "Kadang, kita baru menyadari sesuatu ketika semuanya sudah berubah.",
+   "dibaca": "Kadang, kita baru menyadari sesuatu ketika semuanya sudah berubah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/33d1fc95716b.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "03b01f27f31f",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita belajar hal baru dengan cara yang ringan.",
+   "dibaca": "Di Adriy Project, kita belajar hal baru dengan cara yang ringan.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/03b01f27f31f.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
   }
  ]
 }
