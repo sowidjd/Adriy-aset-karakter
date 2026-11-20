@@ -1,0 +1,12 @@
+{
+ "nama": "adriy",
+ "jenis": "dari pustaka (hasil VoxCPM)",
+ "prompt": "44acec416ad1",
+ "reference": [
+  "44acec416ad1",
+  "6936b400b36e",
+  "ab5c8e47e95f",
+  "002815956330"
+ ],
+ "catatan": "Ganti dengan rekaman asli: pustaka_suara.py profil adriy rekaman.wav \"teks persis\""
+}
