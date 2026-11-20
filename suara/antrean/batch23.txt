@@ -1,0 +1,125 @@
+# mengawali cerita
+[Bercerita]
+Ceritanya dimulai dari sebuah pertanyaan sederhana.
+[Bercerita]
+Semua ini berawal dari sebuah kebetulan.
+[Bercerita]
+Pada suatu hari, seseorang menyadari sesuatu yang aneh.
+[Bercerita]
+Ratusan tahun yang lalu, orang-orang punya pertanyaan yang sama.
+[Bercerita]
+Kita mulai dari sebuah kejadian yang mungkin kamu kenal.
+[Bercerita]
+Bayangkan, kamu sedang menjalani hari seperti biasa.
+[Bercerita]
+Dulu, orang mengira jawabannya sangat sederhana.
+[Bercerita]
+Semuanya dimulai di sebuah laboratorium kecil.
+[Bercerita]
+Kisah ini dimulai dari hal yang paling sepele.
+[Bercerita]
+Pagi itu, semuanya terlihat normal.
+[Bercerita]
+Awalnya, tidak ada yang memperhatikan hal ini.
+[Bercerita]
+Ada satu kisah yang jarang diceritakan.
+# menghubungkan dua topik
+[Informatif]
+Menariknya, hal ini ternyata berhubungan dengan topik yang sama sekali berbeda.
+[Informatif]
+Dan ternyata, prinsip yang sama juga berlaku di tempat lain.
+[Informatif]
+Hal yang sama juga terjadi di dunia hewan.
+[Informatif]
+Kalau ditarik lebih jauh, ini juga berkaitan dengan kebiasaan kita.
+[Informatif]
+Ini mirip dengan yang terjadi pada tubuh kita.
+[Informatif]
+Sekarang, kita hubungkan dengan pertanyaan tadi.
+[Informatif]
+Dari sini, kita bisa melihat benang merahnya.
+[Informatif]
+Dua hal yang tampak berbeda ini ternyata punya akar yang sama.
+[Informatif]
+Fenomena ini juga punya saudara dekat.
+[Informatif]
+Ini juga menjelaskan hal lain yang sering kita alami.
+[Informatif]
+Konsep yang sama ternyata dipakai dalam teknologi sehari-hari.
+[Informatif]
+Dan di sinilah dua cerita ini bertemu.
+# jeda dramatis
+[Hening]
+Dan kemudian...
+[Hening]
+Sampai akhirnya...
+[Hening]
+Semuanya diam.
+[Hening]
+Lalu...
+[Pelan]
+Dan jawabannya adalah...
+[Pelan]
+Tapi ternyata...
+[Hening]
+Tidak ada yang bergerak.
+[Pelan]
+Satu detik. Dua detik.
+[Hening]
+Sampai sesuatu terjadi.
+[Pelan]
+Dan saat itu juga...
+[Hening]
+Lalu, semuanya berubah.
+[Pelan]
+Mereka menunggu.
+# pertanyaan retoris
+[Reflektif]
+Siapa yang tidak pernah mengalaminya?
+[Reflektif]
+Bukankah itu yang selama ini kita cari?
+[Reflektif]
+Aneh, bukan?
+[Reflektif]
+Masuk akal, kan?
+[Reflektif]
+Siapa yang mengira hal sekecil ini sepenting itu?
+[Reflektif]
+Bukankah hidup memang penuh kejutan?
+[Reflektif]
+Untuk apa repot-repot, kalau ternyata sesederhana itu?
+[Reflektif]
+Bukankah itu yang membuat semuanya menarik?
+[Reflektif]
+Lalu, apa bedanya dengan kita?
+[Reflektif]
+Bukankah kita juga sering begitu?
+[Reflektif]
+Mengagumkan, bukan?
+[Reflektif]
+Kalau bukan sekarang, kapan lagi?
+# memberikan analogi
+[Santai]
+Ibaratnya seperti baterai yang hampir habis.
+[Santai]
+Bayangkan otakmu seperti perpustakaan raksasa.
+[Santai]
+Ini mirip seperti saat kamu menunggu loading di ponsel.
+[Santai]
+Sama seperti mesin yang perlu dipanaskan dulu.
+[Santai]
+Anggap saja seperti tombol reset di dalam tubuh.
+[Santai]
+Ibarat air yang selalu mencari tempat yang lebih rendah.
+[Santai]
+Seperti lampu yang menyala otomatis saat gelap.
+[Santai]
+Mirip seperti GPS yang kehilangan sinyal.
+[Santai]
+Bayangkan seperti menumpuk balok, satu demi satu.
+[Santai]
+Seperti rem darurat yang tiba-tiba ditarik.
+[Santai]
+Kira-kira seperti menyimpan file di tempat yang salah.
+[Santai]
+Bayangkan seperti kerumunan orang yang berebut keluar pintu.
