@@ -56210,6 +56210,143 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8dd1071703a9",
+   "suara": "mia",
+   "teks": "Apa yang terjadi berikutnya akan mengubah cara kita melihat semuanya.",
+   "dibaca": "Apa yang terjadi berikutnya akan mengubah cara kita melihat semuanya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/8dd1071703a9.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8b6d7eb550d8",
+   "suara": "mia",
+   "teks": "Bayangkan jika hal ini terjadi tepat di depan mata kita.",
+   "dibaca": "Bayangkan jika hal ini terjadi tepat di depan mata kita.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/8b6d7eb550d8.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5e46321546a7",
+   "suara": "mia",
+   "teks": "Perbedaannya terletak pada satu detail kecil yang sering terlewatkan.",
+   "dibaca": "Perbedaannya terletak pada satu detail kecil yang sering terlewatkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5e46321546a7.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "73f278c7d103",
+   "suara": "mia",
+   "teks": "Dan sekarang, kita sampai pada bagian yang paling mengejutkan.",
+   "dibaca": "Dan sekarang, kita sampai pada bagian yang paling mengejutkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/73f278c7d103.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "75cd4f3f6a44",
+   "suara": "mia",
+   "teks": "Perubahan kecil ini ternyata memicu efek yang luar biasa besar.",
+   "dibaca": "Perubahan kecil ini ternyata memicu efek yang luar biasa besar.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/75cd4f3f6a44.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e13bfc39a5b3",
+   "suara": "mia",
+   "teks": "Ternyata, hal sesederhana ini punya penjelasan ilmiah.",
+   "dibaca": "Ternyata, hal sesederhana ini punya penjelasan ilmiah.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/e13bfc39a5b3.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "387b02c4f630",
+   "suara": "mia",
+   "teks": "Fakta yang satu ini mungkin bakal mengubah cara kamu melihatnya.",
+   "dibaca": "Fakta yang satu ini mungkin bakal mengubah cara kamu melihatnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/387b02c4f630.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "224414b61f22",
+   "suara": "mia",
+   "teks": "Menurut penelitian, jawabannya ternyata cukup mengejutkan.",
+   "dibaca": "Menurut penelitian, jawabannya ternyata cukup mengejutkan.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/224414b61f22.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "50176d07efd5",
+   "suara": "mia",
+   "teks": "Tapi ingat, ini bukan berarti berlaku untuk semua orang.",
+   "dibaca": "Tapi ingat, ini bukan berarti berlaku untuk semua orang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/50176d07efd5.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
