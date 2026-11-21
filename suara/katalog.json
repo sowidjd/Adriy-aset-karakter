@@ -58853,6 +58853,203 @@
    "catatan": "",
    "sumber": "naskah:naskah.txt",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b8522b8dc332",
+   "suara": "hasan",
+   "teks": "Bayangkan kucing yang kaget: bulunya mengembang, dan tubuhnya terlihat jauh lebih besar.",
+   "dibaca": "Bayangkan kucing yang kaget: bulunya mengembang, dan tubuhnya terlihat jauh lebih besar.",
+   "fungsi": [
+    "memberikan analogi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/b8522b8dc332.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a2aeb69ca3a0",
+   "suara": "hasan",
+   "teks": "Nah, sekarang pertanyaannya: kalau kamu nggak sedang kedinginan, kenapa otot yang sama bisa aktif saat terharu?",
+   "dibaca": "Nah, sekarang pertanyaannya: kalau kamu nggak sedang kedinginan, kenapa otot yang sama bisa aktif saat terharu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/a2aeb69ca3a0.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "23b2cd03ee16",
+   "suara": "hasan",
+   "teks": "Peneliti menyebut pengalaman ini sebagai emotional chills atau frisson.",
+   "dibaca": "Peneliti menyebut pengalaman ini sebagai emotional chills atau frisong.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/23b2cd03ee16.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "10477562874a",
+   "suara": "hasan",
+   "teks": "Ini bisa terjadi ketika musik atau pengalaman tertentu memicu respons emosional yang kuat.",
+   "dibaca": "Ini bisa terjadi ketika musik atau pengalaman tertentu memicu respons emosional yang kuat.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/10477562874a.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5bce165ee439",
+   "suara": "hasan",
+   "teks": "Satu penelitian menemukan, di puncak lagu favorit, otak melepaskan dopamin, zat yang berhubungan dengan rasa senang.",
+   "dibaca": "Satu penelitian menemukan, di puncak lagu favorit, otak melepaskan dopamin, zat yang berhubungan dengan rasa senang.",
+   "fungsi": [
+    "menghubungkan dua topik",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/5bce165ee439.wav",
+   "durasi": 6.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4d57b069fe1b",
+   "suara": "hasan",
+   "teks": "Kalau kamu pernah mengalami ini, coba ingat lagu yang paling sering membuatmu merinding.",
+   "dibaca": "Kalau kamu pernah mengalami ini, coba ingat lagu yang paling sering membuatmu merinding.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/4d57b069fe1b.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c82fe48e0ee9",
+   "suara": "hasan",
+   "teks": "Tulis di komentar, siapa tahu lagu kita sama.",
+   "dibaca": "Tulis di komentar, siapa tahu lagu kita sama.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/c82fe48e0ee9.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "75815389a6f9",
+   "suara": "hasan",
+   "teks": "Tapi para peneliti belum sepenuhnya memahami mengapa setiap orang merespons musik secara berbeda.",
+   "dibaca": "Tapi para peneliti belum sepenuhnya memahami mengapa setiap orang merespons musik secara berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/75815389a6f9.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "862a4f9cc484",
+   "suara": "hasan",
+   "teks": "Lagu yang membuatmu merinding, belum tentu memberi sensasi yang sama kepada orang lain.",
+   "dibaca": "Lagu yang membuatmu merinding, belum tentu memberi sensasi yang sama kepada orang lain.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/862a4f9cc484.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "eaa8f7d84965",
+   "suara": "hasan",
+   "teks": "Kepribadian, kenangan, dan selera musik diduga ikut berperan.",
+   "dibaca": "Kepribadian, kenangan, dan selera musik diduga ikut berperan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/eaa8f7d84965.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a3c31fc69aae",
+   "suara": "hasan",
+   "teks": "Jadi, saat sebuah lagu membuat kulitmu meremang, itu bukan berarti tubuhmu aneh.",
+   "dibaca": "Jadi, saat sebuah lagu membuat kulitmu meremang, itu bukan berarti tubuhmu aneh.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/a3c31fc69aae.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a9ab5bfa8233",
+   "suara": "hasan",
+   "teks": "Ada pengalaman emosional yang sedang diterjemahkan menjadi respons fisik.",
+   "dibaca": "Ada pengalaman emosional yang sedang diterjemahkan menjadi respons fisik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/a9ab5bfa8233.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0bfea33e0739",
+   "suara": "hasan",
+   "teks": "Mungkin itulah cara tubuh berkata: momen ini penting.",
+   "dibaca": "Mungkin itulah cara tubuh berkata: momen ini penting.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/0bfea33e0739.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
   }
  ]
 }
