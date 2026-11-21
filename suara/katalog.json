@@ -68359,6 +68359,82 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "61e74da91c70",
+   "suara": "adriy",
+   "teks": "Jangan panik dulu.",
+   "dibaca": "Jangan panik dulu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/61e74da91c70.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "72365ce29fb8",
+   "suara": "adriy",
+   "teks": "Oke, ini agak memalukan, tapi benar.",
+   "dibaca": "Oke, ini agak memalukan, tapi benar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/72365ce29fb8.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a75910d3fb2d",
+   "suara": "adriy",
+   "teks": "Ya, otak kita memang kadang lucu.",
+   "dibaca": "Ya, otak kita memang kadang lucu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/a75910d3fb2d.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8f38ef83f345",
+   "suara": "adriy",
+   "teks": "Siapa yang langsung mencoba setelah dengar ini?",
+   "dibaca": "Siapa yang langsung mencoba setelah dengar ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/8f38ef83f345.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c06e96dbd136",
+   "suara": "adriy",
+   "teks": "Hayo, ngaku, siapa yang pernah begini?",
+   "dibaca": "Hayo, ngaku, siapa yang pernah begini?",
+   "fungsi": [
+    "memancing rasa penasaran",
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/c06e96dbd136.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
   }
  ]
 }
