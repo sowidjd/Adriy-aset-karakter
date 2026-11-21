@@ -30799,6 +30799,96 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c75153c18338",
+   "suara": "hasan",
+   "teks": "Ini yang sering disalahpahami.",
+   "dibaca": "Ini yang sering disalahpahami.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/c75153c18338.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "64d1b7c20248",
+   "suara": "hasan",
+   "teks": "Hal mustahil hanya belum pernah dicoba.",
+   "dibaca": "Hal mustahil hanya belum pernah dicoba.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/64d1b7c20248.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7877cfd68c09",
+   "suara": "hasan",
+   "teks": "Kenapa ikan badut tidak tersengat anemon?",
+   "dibaca": "Kenapa ikan badut tidak tersengat anemon?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/7877cfd68c09.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3b86cce28af9",
+   "suara": "hasan",
+   "teks": "Lendir ini membuat anemon tidak menyengatnya.",
+   "dibaca": "Lendir ini membuat anemon tidak menyengatnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3b86cce28af9.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3804eb2fb15e",
+   "suara": "hasan",
+   "teks": "Dan waktu yang tersisa semakin sedikit.",
+   "dibaca": "Dan waktu yang tersisa semakin sedikit.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3804eb2fb15e.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e85ef9ebeed9",
+   "suara": "hasan",
+   "teks": "Pertanyaannya, kenapa bisa begitu?",
+   "dibaca": "Pertanyaannya, kenapa bisa begitu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/e85ef9ebeed9.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
