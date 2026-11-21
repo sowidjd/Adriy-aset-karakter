@@ -62722,6 +62722,158 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7242261545e1",
+   "suara": "mia",
+   "teks": "Kedengarannya sepele, padahal tidak sesederhana itu.",
+   "dibaca": "Kedengarannya sepele, padahal tidak sesederhana itu.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/7242261545e1.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0e3dd19f8e92",
+   "suara": "mia",
+   "teks": "Kita sering melihatnya, tapi jarang benar-benar memperhatikannya.",
+   "dibaca": "Kita sering melihatnya, tapi jarang benar-benar memperhatikannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0e3dd19f8e92.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "56ebafadf8aa",
+   "suara": "mia",
+   "teks": "Hampir semua orang pernah mengalaminya, tapi jarang yang tahu alasannya.",
+   "dibaca": "Hampir semua orang pernah mengalaminya, tapi jarang yang tahu alasannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/56ebafadf8aa.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "765c12e90864",
+   "suara": "adriy",
+   "teks": "Tulis di komentar, siapa tahu lagu kita sama.",
+   "dibaca": "Tulis di komentar, siapa tahu lagu kita sama.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/adriy/765c12e90864.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "504790479294",
+   "suara": "adriy",
+   "teks": "Di Adriy Project, kita membongkar hal kecil yang ternyata punya penjelasan menarik.",
+   "dibaca": "Di Adriy Project, kita membongkar hal kecil yang ternyata punya penjelasan menarik.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/adriy/504790479294.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a81c13c6e01d",
+   "suara": "adriy",
+   "teks": "Jadi, saat sebuah lagu membuat kulitmu meremang, itu bukan berarti tubuhmu aneh.",
+   "dibaca": "Jadi, saat sebuah lagu membuat kulitmu meremang, itu bukan berarti tubuhmu aneh.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/a81c13c6e01d.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2eb5ea19a34c",
+   "suara": "adriy",
+   "teks": "Satu penelitian menemukan, di puncak lagu favorit, otak melepaskan dopamin, zat yang berhubungan dengan rasa senang.",
+   "dibaca": "Satu penelitian menemukan, di puncak lagu favorit, otak melepaskan dopamin, zat yang berhubungan dengan rasa senang.",
+   "fungsi": [
+    "menghubungkan dua topik",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/2eb5ea19a34c.wav",
+   "durasi": 7.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "85e5233ea9e9",
+   "suara": "adriy",
+   "teks": "Bukan cuma musik.",
+   "dibaca": "Bukan cuma musik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/85e5233ea9e9.wav",
+   "durasi": 0.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0de823826507",
+   "suara": "adriy",
+   "teks": "Inilah yang kita kenal sebagai bulu kuduk berdiri.",
+   "dibaca": "Inilah yang kita kenal sebagai bulu kuduk berdiri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/0de823826507.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7e7f5624903d",
+   "suara": "adriy",
+   "teks": "Pernah merinding gara-gara lagu, padahal nggak kedinginan?",
+   "dibaca": "Pernah merinding gara-gara lagu, padahal nggak kedinginan?",
+   "fungsi": [
+    "membantah asumsi",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/7e7f5624903d.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
