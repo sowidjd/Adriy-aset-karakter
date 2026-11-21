@@ -71255,6 +71255,186 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d60a8d59f8ca",
+   "suara": "hasan",
+   "teks": "Waktu terasa lebih cepat saat kita sibuk.",
+   "dibaca": "Waktu terasa lebih cepat saat kita sibuk.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d60a8d59f8ca.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "37ea35307ace",
+   "suara": "hasan",
+   "teks": "Menunda pekerjaan ternyata bukan soal malas.",
+   "dibaca": "Menunda pekerjaan ternyata bukan soal malas.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/37ea35307ace.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "66ee81955d1a",
+   "suara": "hasan",
+   "teks": "Kebiasaan kecil soal uang bisa berdampak besar dalam setahun.",
+   "dibaca": "Kebiasaan kecil soal uang bisa berdampak besar dalam setahun.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/66ee81955d1a.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a701105457b6",
+   "suara": "hasan",
+   "teks": "Pagi hari ternyata punya pengaruh besar untuk seharian.",
+   "dibaca": "Pagi hari ternyata punya pengaruh besar untuk seharian.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/a701105457b6.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "14f17126f4dd",
+   "suara": "mia",
+   "teks": "Waktu terasa lebih cepat saat kita sibuk.",
+   "dibaca": "Waktu terasa lebih cepat saat kita sibuk.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/14f17126f4dd.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d9005d30dc98",
+   "suara": "mia",
+   "teks": "Menunda pekerjaan ternyata bukan soal malas.",
+   "dibaca": "Menunda pekerjaan ternyata bukan soal malas.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/d9005d30dc98.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ab8d99c63465",
+   "suara": "mia",
+   "teks": "Kebiasaan kecil soal uang bisa berdampak besar dalam setahun.",
+   "dibaca": "Kebiasaan kecil soal uang bisa berdampak besar dalam setahun.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/ab8d99c63465.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6f586cd3a6b5",
+   "suara": "mia",
+   "teks": "Pagi hari ternyata punya pengaruh besar untuk seharian.",
+   "dibaca": "Pagi hari ternyata punya pengaruh besar untuk seharian.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/6f586cd3a6b5.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5ed8025144bc",
+   "suara": "ongky",
+   "teks": "Waktu terasa lebih cepat saat kita sibuk.",
+   "dibaca": "Waktu terasa lebih cepat saat kita sibuk.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/5ed8025144bc.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "aef8b39df18a",
+   "suara": "ongky",
+   "teks": "Menunda pekerjaan ternyata bukan soal malas.",
+   "dibaca": "Menunda pekerjaan ternyata bukan soal malas.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/aef8b39df18a.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "30bbd24c4c75",
+   "suara": "ongky",
+   "teks": "Kebiasaan kecil soal uang bisa berdampak besar dalam setahun.",
+   "dibaca": "Kebiasaan kecil soal uang bisa berdampak besar dalam setahun.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/30bbd24c4c75.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5de357c9a5da",
+   "suara": "ongky",
+   "teks": "Pagi hari ternyata punya pengaruh besar untuk seharian.",
+   "dibaca": "Pagi hari ternyata punya pengaruh besar untuk seharian.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/5de357c9a5da.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
