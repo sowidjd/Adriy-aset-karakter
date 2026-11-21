@@ -56981,6 +56981,127 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a5e63ecfd633",
+   "suara": "mia",
+   "teks": "Hasil akhirnya bergantung pada bagaimana prosesnya berjalan.",
+   "dibaca": "Hasil akhirnya bergantung pada bagaimana prosesnya berjalan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a5e63ecfd633.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fb0ed948c8db",
+   "suara": "mia",
+   "teks": "Yang kita lihat, belum tentu yang sebenarnya terjadi.",
+   "dibaca": "Yang kita lihat, belum tentu yang sebenarnya terjadi.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/fb0ed948c8db.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "36e4205f726b",
+   "suara": "mia",
+   "teks": "Ternyata, ada sains di balik kebiasaan sehari-hari kita.",
+   "dibaca": "Ternyata, ada sains di balik kebiasaan sehari-hari kita.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/36e4205f726b.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4ed0e6212089",
+   "suara": "mia",
+   "teks": "Otak cenderung menyimpan lebih sedikit pengalaman yang benar-benar berbeda.",
+   "dibaca": "Otak cenderung menyimpan lebih sedikit pengalaman yang benar-benar berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4ed0e6212089.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9ef6407df634",
+   "suara": "mia",
+   "teks": "Bukan kebetulan, melainkan hasil dari proses yang berlangsung secara bertahap.",
+   "dibaca": "Bukan kebetulan, melainkan hasil dari proses yang berlangsung secara bertahap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9ef6407df634.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dc03a58d4a2a",
+   "suara": "mia",
+   "teks": "Sayangnya, tidak semua hal berjalan sesuai dengan apa yang kita harapkan.",
+   "dibaca": "Sayangnya, tidak semua hal berjalan sesuai dengan apa yang kita harapkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/dc03a58d4a2a.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ccf96200516c",
+   "suara": "mia",
+   "teks": "Apa jadinya jika sesuatu yang kita anggap mustahil ternyata benar-benar terjadi?",
+   "dibaca": "Apa jadinya jika sesuatu yang kita anggap mustahil ternyata benar-benar terjadi?",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/ccf96200516c.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3a1a9403557b",
+   "suara": "mia",
+   "teks": "Ada alasan mengapa fenomena ini terus menjadi bahan perbincangan hingga sekarang.",
+   "dibaca": "Ada alasan mengapa fenomena ini terus menjadi bahan perbincangan hingga sekarang.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/3a1a9403557b.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
