@@ -71105,6 +71105,96 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0a815377929f",
+   "suara": "hasan",
+   "teks": "Ternyata, cara kita melihat harga bisa dipermainkan.",
+   "dibaca": "Ternyata, cara kita melihat harga bisa dipermainkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/0a815377929f.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "37e93fb465b5",
+   "suara": "hasan",
+   "teks": "Menabung sedikit demi sedikit tetap lebih baik daripada tidak sama sekali.",
+   "dibaca": "Menabung sedikit demi sedikit tetap lebih baik daripada tidak sama sekali.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/37e93fb465b5.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "670aac60ac6f",
+   "suara": "mia",
+   "teks": "Ternyata, cara kita melihat harga bisa dipermainkan.",
+   "dibaca": "Ternyata, cara kita melihat harga bisa dipermainkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/670aac60ac6f.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7360f4d88677",
+   "suara": "mia",
+   "teks": "Menabung sedikit demi sedikit tetap lebih baik daripada tidak sama sekali.",
+   "dibaca": "Menabung sedikit demi sedikit tetap lebih baik daripada tidak sama sekali.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/7360f4d88677.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3d4dd1f0a277",
+   "suara": "ongky",
+   "teks": "Ternyata, cara kita melihat harga bisa dipermainkan.",
+   "dibaca": "Ternyata, cara kita melihat harga bisa dipermainkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/3d4dd1f0a277.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c07145d42aaa",
+   "suara": "ongky",
+   "teks": "Menabung sedikit demi sedikit tetap lebih baik daripada tidak sama sekali.",
+   "dibaca": "Menabung sedikit demi sedikit tetap lebih baik daripada tidak sama sekali.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/c07145d42aaa.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
