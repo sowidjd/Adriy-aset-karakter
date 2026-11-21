@@ -61111,6 +61111,171 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a771eaa9901a",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita belajar dari hal-hal kecil di sekitar kita.",
+   "dibaca": "Di Adriy Project, kita belajar dari hal-hal kecil di sekitar kita.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/a771eaa9901a.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "96416ef523ba",
+   "suara": "hasan",
+   "teks": "Kalau kamu sudah tahu soal ini, tulis \"sudah\" di komentar.",
+   "dibaca": "Kalau kamu sudah tahu soal ini, tulis \"sudah\" di komentar.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/96416ef523ba.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e68a9c37c3dc",
+   "suara": "hasan",
+   "teks": "Kalau ini pertama kalinya kamu dengar, tulis \"baru tahu\" di komentar.",
+   "dibaca": "Kalau ini pertama kalinya kamu dengar, tulis \"baru tahu\" di komentar.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/e68a9c37c3dc.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "47d2b1ff938b",
+   "suara": "hasan",
+   "teks": "Follow Adriy Project, siapa tahu pertanyaanmu yang kita bahas berikutnya.",
+   "dibaca": "Follow Adriy Project, siapa tahu pertanyaanmu yang kita bahas berikutnya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/47d2b1ff938b.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7a20d09629ba",
+   "suara": "hasan",
+   "teks": "Follow Adriy Project, masih banyak hal sederhana yang menyimpan rahasia.",
+   "dibaca": "Follow Adriy Project, masih banyak hal sederhana yang menyimpan rahasia.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/7a20d09629ba.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e147c8a9fb06",
+   "suara": "hasan",
+   "teks": "Dan jawabannya.",
+   "dibaca": "Dan jawabannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e147c8a9fb06.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ccaa70d8065b",
+   "suara": "hasan",
+   "teks": "Banyak orang salah paham soal ini.",
+   "dibaca": "Banyak orang salah paham soal ini.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/ccaa70d8065b.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a58463807dc8",
+   "suara": "hasan",
+   "teks": "Sekarang, bagian yang paling menarik.",
+   "dibaca": "Sekarang, bagian yang paling menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/a58463807dc8.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "274ce37a8a84",
+   "suara": "hasan",
+   "teks": "Kita kembali sebentar ke awal cerita.",
+   "dibaca": "Kita kembali sebentar ke awal cerita.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/274ce37a8a84.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1c3cf1a4c9e5",
+   "suara": "hasan",
+   "teks": "Jawabannya mungkin bukan yang kamu bayangkan.",
+   "dibaca": "Jawabannya mungkin bukan yang kamu bayangkan.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/1c3cf1a4c9e5.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3dd63d22fd58",
+   "suara": "hasan",
+   "teks": "Sekarang, kita lihat dari sisi yang lain.",
+   "dibaca": "Sekarang, kita lihat dari sisi yang lain.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3dd63d22fd58.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
