@@ -64197,6 +64197,204 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ccbb3743a364",
+   "suara": "ongky",
+   "teks": "Ternyata, ada alasan ilmiah di baliknya.",
+   "dibaca": "Ternyata, ada alasan ilmiah di baliknya.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/ccbb3743a364.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a2cf23206b48",
+   "suara": "ongky",
+   "teks": "Tapi ternyata ceritanya belum selesai.",
+   "dibaca": "Tapi ternyata ceritanya belum selesai.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/a2cf23206b48.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "02fb05694167",
+   "suara": "ongky",
+   "teks": "Cara pertama, saat kita sedang menjalaninya.",
+   "dibaca": "Cara pertama, saat kita sedang menjalaninya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/02fb05694167.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e48016524d29",
+   "suara": "ongky",
+   "teks": "Setiap hari liburan menambah banyak buku baru ke raknya.",
+   "dibaca": "Setiap hari liburan menambah banyak buku baru ke raknya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/e48016524d29.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e63beae05233",
+   "suara": "ongky",
+   "teks": "Nah, di sinilah semuanya mulai masuk akal.",
+   "dibaca": "Nah, di sinilah semuanya mulai masuk akal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/e63beae05233.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f75954d50578",
+   "suara": "ongky",
+   "teks": "Ini salah satu hal paling aneh yang pernah aku pelajari.",
+   "dibaca": "Ini salah satu hal paling aneh yang pernah aku pelajari.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/f75954d50578.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d3a5595bd71a",
+   "suara": "ongky",
+   "teks": "Ini terdengar seperti mitos, tapi ternyata nyata.",
+   "dibaca": "Ini terdengar seperti mitos, tapi ternyata nyata.",
+   "fungsi": [
+    "memberikan analogi",
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/d3a5595bd71a.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f36bd6a75688",
+   "suara": "ongky",
+   "teks": "Cara kedua, saat kita mengingatnya kembali.",
+   "dibaca": "Cara kedua, saat kita mengingatnya kembali.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/f36bd6a75688.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "eeafabc54430",
+   "suara": "ongky",
+   "teks": "Makin dewasa, makin banyak hari yang mirip satu sama lain.",
+   "dibaca": "Makin dewasa, makin banyak hari yang mirip satu sama lain.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/eeafabc54430.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "42728c0e4ab5",
+   "suara": "ongky",
+   "teks": "Kalau kamu pikir ini biasa saja, tunggu sampai akhir.",
+   "dibaca": "Kalau kamu pikir ini biasa saja, tunggu sampai akhir.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/42728c0e4ab5.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8d82160214bf",
+   "suara": "ongky",
+   "teks": "Perhatian kita habis untuk hal seru, jadi waktunya terasa melesat.",
+   "dibaca": "Perhatian kita habis untuk hal seru, jadi waktunya terasa melesat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/8d82160214bf.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ddeb23353488",
+   "suara": "ongky",
+   "teks": "Ada satu hal kecil yang ternyata punya cerita besar.",
+   "dibaca": "Ada satu hal kecil yang ternyata punya cerita besar.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "mengawali cerita"
+   ],
+   "file": "suara/ongky/ddeb23353488.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3e92f78fe34a",
+   "suara": "ongky",
+   "teks": "Pertanyaannya sederhana, tapi jawabannya bikin kaget.",
+   "dibaca": "Pertanyaannya sederhana, tapi jawabannya bikin kaget.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/3e92f78fe34a.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
