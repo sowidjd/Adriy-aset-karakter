@@ -58099,6 +58099,383 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "61b2a63c1bec",
+   "suara": "mia",
+   "teks": "Satu hal yang perlu diingat, tidak semua yang terlihat benar-benar seperti kenyataannya.",
+   "dibaca": "Satu hal yang perlu diingat, tidak semua yang terlihat benar-benar seperti kenyataannya.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/61b2a63c1bec.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f94b1a554da7",
+   "suara": "mia",
+   "teks": "Seandainya keputusan itu diambil sedikit lebih awal, mungkin hasilnya akan berbeda.",
+   "dibaca": "Seandainya keputusan itu diambil sedikit lebih awal, mungkin hasilnya akan berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f94b1a554da7.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e43b0c27b470",
+   "suara": "mia",
+   "teks": "Kamu mungkin melakukannya tanpa sadar, bahkan saat menonton video ini.",
+   "dibaca": "Kamu mungkin melakukannya tanpa sadar, bahkan saat menonton video ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/e43b0c27b470.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "56fca3ff382e",
+   "suara": "mia",
+   "teks": "Sebaliknya, seminggu sekolah atau kerja terasa lama sekali saat dijalani.",
+   "dibaca": "Sebaliknya, seminggu sekolah atau kerja terasa lama sekali saat dijalani.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/56fca3ff382e.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5b81367731b9",
+   "suara": "mia",
+   "teks": "Senin sampai Jumat terasa mirip, jadi otak menumpuknya jadi satu buku tipis.",
+   "dibaca": "Senin sampai Jumat terasa mirip, jadi otak menumpuknya jadi satu buku tipis.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/5b81367731b9.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3597f2cb23ae",
+   "suara": "mia",
+   "teks": "Perubahan ini bukan terjadi dalam semalam, melainkan melalui serangkaian proses panjang.",
+   "dibaca": "Perubahan ini bukan terjadi dalam semalam, melainkan melalui serangkaian proses panjang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3597f2cb23ae.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cfeaf785ba76",
+   "suara": "mia",
+   "teks": "Yang paling aneh adalah, fenomena ini tetap terjadi meskipun kondisinya berbeda.",
+   "dibaca": "Yang paling aneh adalah, fenomena ini tetap terjadi meskipun kondisinya berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/cfeaf785ba76.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4a73021897a9",
+   "suara": "mia",
+   "teks": "Hampir setiap hari kamu melakukannya, tapi mungkin belum pernah benar-benar memikirkannya.",
+   "dibaca": "Hampir setiap hari kamu melakukannya, tapi mungkin belum pernah benar-benar memikirkannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4a73021897a9.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9c2aa1822b29",
+   "suara": "mia",
+   "teks": "Siap-siap, karena fakta ini bakal bikin kamu melihat semuanya dengan cara berbeda.",
+   "dibaca": "Siap-siap, karena fakta ini bakal bikin kamu melihat semuanya dengan cara berbeda.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9c2aa1822b29.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f952e5819785",
+   "suara": "mia",
+   "teks": "Tapi anehnya, waktu diingat-ingat lagi, liburan itu terasa panjang sekali.",
+   "dibaca": "Tapi anehnya, waktu diingat-ingat lagi, liburan itu terasa panjang sekali.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f952e5819785.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "44f98c668246",
+   "suara": "mia",
+   "teks": "Psikolog Inggris, Claudia Hammond, menyebut keanehan ini paradoks liburan.",
+   "dibaca": "Psikolog Inggris, Claudia Hammond, menyebut keanehan ini paradoks liburan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/44f98c668246.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "919071a80bc3",
+   "suara": "mia",
+   "teks": "Pulang lewat jalan lain, coba resep baru, atau ngobrol dengan orang yang belum kamu kenal.",
+   "dibaca": "Pulang lewat jalan lain, coba resep baru, atau ngobrol dengan orang yang belum kamu kenal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/919071a80bc3.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "240c4819c043",
+   "suara": "mia",
+   "teks": "Bedanya, bawang putih nggak punya satu enzim terakhir yang mengubahnya jadi gas perih.",
+   "dibaca": "Bedanya, bawang putih nggak punya satu enzim terakhir yang mengubahnya jadi gas perih.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/240c4819c043.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "921a2416c8cb",
+   "suara": "mia",
+   "teks": "Namun, selalu ada kesempatan untuk mencoba kembali dan melakukan sesuatu dengan lebih baik.",
+   "dibaca": "Namun, selalu ada kesempatan untuk mencoba kembali dan melakukan sesuatu dengan lebih baik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/921a2416c8cb.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "75054a1e34e4",
+   "suara": "mia",
+   "teks": "Jangan meremehkan langkah kecil, karena perjalanan yang jauh selalu dimulai dari satu langkah.",
+   "dibaca": "Jangan meremehkan langkah kecil, karena perjalanan yang jauh selalu dimulai dari satu langkah.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/75054a1e34e4.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "695cfbdd654c",
+   "suara": "mia",
+   "teks": "Kadang, kita hanya ingin semuanya selesai tanpa harus memikirkan terlalu banyak hal.",
+   "dibaca": "Kadang, kita hanya ingin semuanya selesai tanpa harus memikirkan terlalu banyak hal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/695cfbdd654c.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b98fd52cc692",
+   "suara": "mia",
+   "teks": "Berdasarkan berbagai pengamatan, terdapat sejumlah faktor yang memengaruhi hasil akhirnya.",
+   "dibaca": "Berdasarkan berbagai pengamatan, terdapat sejumlah faktor yang memengaruhi hasil akhirnya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/b98fd52cc692.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "04c511e290d2",
+   "suara": "mia",
+   "teks": "Fenomena ini pertama kali dijelaskan oleh para peneliti puluhan tahun yang lalu.",
+   "dibaca": "Fenomena ini pertama kali dijelaskan oleh para peneliti puluhan tahun yang lalu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/04c511e290d2.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e2cf5fda51f7",
+   "suara": "mia",
+   "teks": "Pakai NotesByAdriy saja. Semua catatan, ide, dan journal tersimpan rapi di satu tempat.",
+   "dibaca": "Pakai NotesByAdriy saja. Semua catatan, ide, dan journal tersimpan rapi di satu tempat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/e2cf5fda51f7.wav",
+   "durasi": 6.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5fe2c375c530",
+   "suara": "mia",
+   "teks": "Pernah nggak kamu merasa, semakin bertambah umur, waktu terasa semakin cepat berlalu?",
+   "dibaca": "Pernah nggak kamu merasa, semakin bertambah umur, waktu terasa semakin cepat berlalu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/5fe2c375c530.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5e473bf9803c",
+   "suara": "mia",
+   "teks": "Akibatnya, ketika kita melihat ke belakang, waktu terasa seolah-olah berlalu begitu cepat.",
+   "dibaca": "Akibatnya, ketika kita melihat ke belakang, waktu terasa seolah-olah berlalu begitu cepat.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/5e473bf9803c.wav",
+   "durasi": 5.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "19343ee088e9",
+   "suara": "mia",
+   "teks": "Seolah-olah kamu sedang membuka halaman baru, sementara halaman sebelumnya belum selesai dibaca.",
+   "dibaca": "Seolah-olah kamu sedang membuka halaman baru, sementara halaman sebelumnya belum selesai dibaca.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/19343ee088e9.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b113291a8022",
+   "suara": "mia",
+   "teks": "Situasi yang awalnya terkendali, perlahan berubah menjadi sesuatu yang tidak terduga.",
+   "dibaca": "Situasi yang awalnya terkendali, perlahan berubah menjadi sesuatu yang tidak terduga.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b113291a8022.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5bf6e21dabd8",
+   "suara": "mia",
+   "teks": "Setiap kegagalan membawa informasi baru yang bisa kita gunakan untuk melangkah lebih jauh.",
+   "dibaca": "Setiap kegagalan membawa informasi baru yang bisa kita gunakan untuk melangkah lebih jauh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5bf6e21dabd8.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5373f98d908a",
+   "suara": "mia",
+   "teks": "Waktu liburan, kita sibuk melihat tempat baru, mencoba makanan baru, dan jarang melirik jam.",
+   "dibaca": "Waktu liburan, kita sibuk melihat tempat baru, mencoba makanan baru, dan jarang melirik jam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5373f98d908a.wav",
+   "durasi": 6.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
