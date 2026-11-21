@@ -47251,6 +47251,171 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d2fe70be3373",
+   "suara": "mia",
+   "teks": "Ini sering banget terjadi, tapi jarang kita sadari.",
+   "dibaca": "Ini sering banget terjadi, tapi jarang kita sadari.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d2fe70be3373.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1985db561e8d",
+   "suara": "mia",
+   "teks": "Kalau video ini bikin kamu tersenyum, follow Adriy Project.",
+   "dibaca": "Kalau video ini bikin kamu tersenyum, follow Adriy Project.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/1985db561e8d.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "329c6919eb41",
+   "suara": "mia",
+   "teks": "Follow Adriy Project dan aktifkan notifikasinya, ya.",
+   "dibaca": "Follow Adriy Project dan aktifkan notifikasinya, ya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/329c6919eb41.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "89aa1da4de84",
+   "suara": "mia",
+   "teks": "Dengan kata lain, semuanya kembali pada cara kerja otak.",
+   "dibaca": "Dengan kata lain, semuanya kembali pada cara kerja otak.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/89aa1da4de84.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5980c365bea4",
+   "suara": "mia",
+   "teks": "Dan saat semuanya hampir berakhir, sesuatu terjadi.",
+   "dibaca": "Dan saat semuanya hampir berakhir, sesuatu terjadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5980c365bea4.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "49e228be282c",
+   "suara": "mia",
+   "teks": "Semua usaha itu dipertaruhkan dalam satu malam.",
+   "dibaca": "Semua usaha itu dipertaruhkan dalam satu malam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/49e228be282c.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "830b2da6664f",
+   "suara": "mia",
+   "teks": "Dan untuk pertama kalinya, mereka merasa takut.",
+   "dibaca": "Dan untuk pertama kalinya, mereka merasa takut.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/830b2da6664f.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "86dad06cc032",
+   "suara": "mia",
+   "teks": "Tidak ada yang pernah membicarakan apa yang terjadi malam itu.",
+   "dibaca": "Tidak ada yang pernah membicarakan apa yang terjadi malam itu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/86dad06cc032.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5228f7649a22",
+   "suara": "mia",
+   "teks": "Nggak perlu hafal, cukup pahami intinya.",
+   "dibaca": "Nggak perlu hafal, cukup pahami intinya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/5228f7649a22.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7a0d171b3d98",
+   "suara": "mia",
+   "teks": "Mungkin, ini saatnya melihat dari sudut yang berbeda.",
+   "dibaca": "Mungkin, ini saatnya melihat dari sudut yang berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/7a0d171b3d98.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1a91405bf2d8",
+   "suara": "mia",
+   "teks": "Dan di situlah, semuanya terasa begitu berarti.",
+   "dibaca": "Dan di situlah, semuanya terasa begitu berarti.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1a91405bf2d8.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
