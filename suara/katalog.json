@@ -70923,6 +70923,158 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f652caccbf69",
+   "suara": "ongky",
+   "teks": "Ternyata, hewan juga bisa merasakan hal yang mirip dengan kita.",
+   "dibaca": "Ternyata, hewan juga bisa merasakan hal yang mirip dengan kita.",
+   "fungsi": [
+    "memberikan analogi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/f652caccbf69.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "268cd6b0c614",
+   "suara": "ongky",
+   "teks": "Hewan ini sudah ada jauh sebelum manusia muncul.",
+   "dibaca": "Hewan ini sudah ada jauh sebelum manusia muncul.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/268cd6b0c614.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "34fb58bc4b83",
+   "suara": "ongky",
+   "teks": "Pengeluaran kecil yang rutin bisa jadi besar kalau dijumlahkan.",
+   "dibaca": "Pengeluaran kecil yang rutin bisa jadi besar kalau dijumlahkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/34fb58bc4b83.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "820f71b07300",
+   "suara": "ongky",
+   "teks": "Cahaya yang kita lihat ternyata sudah berangkat lama sekali.",
+   "dibaca": "Cahaya yang kita lihat ternyata sudah berangkat lama sekali.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/820f71b07300.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "68de7ef1dd14",
+   "suara": "ongky",
+   "teks": "Bumi terus bergerak, walaupun kita tidak merasakannya.",
+   "dibaca": "Bumi terus bergerak, walaupun kita tidak merasakannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/68de7ef1dd14.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cc887c76b85f",
+   "suara": "ongky",
+   "teks": "Hewan ini punya kemampuan yang tidak dimiliki manusia.",
+   "dibaca": "Hewan ini punya kemampuan yang tidak dimiliki manusia.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/cc887c76b85f.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "658febe96c9e",
+   "suara": "ongky",
+   "teks": "Para peneliti masih terus mempelajari perilaku hewan ini.",
+   "dibaca": "Para peneliti masih terus mempelajari perilaku hewan ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/658febe96c9e.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3d6482183490",
+   "suara": "ongky",
+   "teks": "Di alam liar, kemampuan ini sangat berguna untuk bertahan hidup.",
+   "dibaca": "Di alam liar, kemampuan ini sangat berguna untuk bertahan hidup.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/3d6482183490.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "38dd51a92301",
+   "suara": "ongky",
+   "teks": "Tanpa fenomena ini, kehidupan di Bumi akan sangat berbeda.",
+   "dibaca": "Tanpa fenomena ini, kehidupan di Bumi akan sangat berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/38dd51a92301.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "21175dda70a8",
+   "suara": "ongky",
+   "teks": "Alam semesta ternyata jauh lebih luas dari dugaan para ilmuwan dulu.",
+   "dibaca": "Alam semesta ternyata jauh lebih luas dari dugaan para ilmuwan dulu.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/21175dda70a8.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
