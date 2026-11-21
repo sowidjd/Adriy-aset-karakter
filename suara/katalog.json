@@ -65920,6 +65920,209 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4758baf54a20",
+   "suara": "hasan",
+   "teks": "Dan yang lebih aneh lagi, ini terjadi pada hampir semua orang.",
+   "dibaca": "Dan yang lebih aneh lagi, ini terjadi pada hampir semua orang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/4758baf54a20.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a8ab6861b16e",
+   "suara": "mia",
+   "teks": "Kamu juga pernah, kan?",
+   "dibaca": "Kamu juga pernah, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/a8ab6861b16e.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4bcba3d83cd3",
+   "suara": "mia",
+   "teks": "Lucu juga, ya?",
+   "dibaca": "Lucu juga, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/4bcba3d83cd3.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "90d96a560db6",
+   "suara": "mia",
+   "teks": "Nggak kepikiran, kan?",
+   "dibaca": "Nggak kepikiran, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/90d96a560db6.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "884079dc800c",
+   "suara": "mia",
+   "teks": "Agak menyeramkan, ya?",
+   "dibaca": "Agak menyeramkan, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/884079dc800c.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ab44b8e58391",
+   "suara": "mia",
+   "teks": "Kenapa bisa begitu, ya?",
+   "dibaca": "Kenapa bisa begitu, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/ab44b8e58391.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9a2bf1395d46",
+   "suara": "mia",
+   "teks": "Sederhana, tapi jarang disadari, kan?",
+   "dibaca": "Sederhana, tapi jarang disadari, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/9a2bf1395d46.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0f735a1ffc7b",
+   "suara": "mia",
+   "teks": "Ternyata penyebabnya sangat sederhana.",
+   "dibaca": "Ternyata penyebabnya sangat sederhana.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/0f735a1ffc7b.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "25958b6daba2",
+   "suara": "mia",
+   "teks": "Bahkan para ilmuwan pun sempat terkejut.",
+   "dibaca": "Bahkan para ilmuwan pun sempat terkejut.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/25958b6daba2.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "eb2e7902e96b",
+   "suara": "mia",
+   "teks": "Ternyata selama ini kita keliru.",
+   "dibaca": "Ternyata selama ini kita keliru.",
+   "fungsi": [
+    "membantah asumsi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/eb2e7902e96b.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7c1bb8ddb007",
+   "suara": "mia",
+   "teks": "Faktanya jauh lebih menarik dari dugaan kita.",
+   "dibaca": "Faktanya jauh lebih menarik dari dugaan kita.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/7c1bb8ddb007.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "491a5d939707",
+   "suara": "mia",
+   "teks": "Dan ternyata, jawabannya justru sebaliknya.",
+   "dibaca": "Dan ternyata, jawabannya justru sebaliknya.",
+   "fungsi": [
+    "membantah asumsi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/491a5d939707.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fecee7df4f77",
+   "suara": "mia",
+   "teks": "Yang mengejutkan, ini terjadi setiap hari.",
+   "dibaca": "Yang mengejutkan, ini terjadi setiap hari.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/fecee7df4f77.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
