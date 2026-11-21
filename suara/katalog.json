@@ -49649,6 +49649,186 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b3f7e805631d",
+   "suara": "mia",
+   "teks": "Tuh, kan!",
+   "dibaca": "Tuh, kan!",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b3f7e805631d.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d792f19acf0a",
+   "suara": "mia",
+   "teks": "Wah, keren!",
+   "dibaca": "Wah, keren!",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/d792f19acf0a.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dd36fb7805b8",
+   "suara": "mia",
+   "teks": "Bahan awalnya mirip.",
+   "dibaca": "Bahan awalnya mirip.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/dd36fb7805b8.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ef67b289e53e",
+   "suara": "mia",
+   "teks": "Misalnya seperti ini.",
+   "dibaca": "Misalnya seperti ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/ef67b289e53e.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9a1d713f9a69",
+   "suara": "mia",
+   "teks": "Ini yang jarang orang tahu.",
+   "dibaca": "Ini yang jarang orang tahu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9a1d713f9a69.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a1a5d03bd583",
+   "suara": "mia",
+   "teks": "Tapi ada satu masalah.",
+   "dibaca": "Tapi ada satu masalah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a1a5d03bd583.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "356a128241b5",
+   "suara": "mia",
+   "teks": "Dan ini bukan kebetulan.",
+   "dibaca": "Dan ini bukan kebetulan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/356a128241b5.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a186e5a805e0",
+   "suara": "mia",
+   "teks": "Dan ini yang bikin kaget.",
+   "dibaca": "Dan ini yang bikin kaget.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/a186e5a805e0.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "38d05aca758a",
+   "suara": "mia",
+   "teks": "Ingat pertanyaan di awal video?",
+   "dibaca": "Ingat pertanyaan di awal video?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/38d05aca758a.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2a94e2503d16",
+   "suara": "mia",
+   "teks": "Alam memang penuh kejutan.",
+   "dibaca": "Alam memang penuh kejutan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2a94e2503d16.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "74d6777f6b3d",
+   "suara": "mia",
+   "teks": "Angka tidak pernah berbohong.",
+   "dibaca": "Angka tidak pernah berbohong.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/74d6777f6b3d.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "124b250874fc",
+   "suara": "mia",
+   "teks": "Masalahnya bukan di situ.",
+   "dibaca": "Masalahnya bukan di situ.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/124b250874fc.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
