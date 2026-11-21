@@ -48883,6 +48883,157 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0d4b3293a865",
+   "suara": "mia",
+   "teks": "Follow Adriy Project untuk fakta-fakta kecil yang bikin kita melihat dunia dengan cara berbeda.",
+   "dibaca": "Follow Adriy Project untuk fakta-fakta kecil yang bikin kita melihat dunia dengan cara berbeda.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/0d4b3293a865.wav",
+   "durasi": 5.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4d034b44f191",
+   "suara": "mia",
+   "teks": "Kadang, jawaban terbaik justru datang dari hal-hal kecil di sekitar kita.",
+   "dibaca": "Kadang, jawaban terbaik justru datang dari hal-hal kecil di sekitar kita.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4d034b44f191.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "289b2653c0ad",
+   "suara": "mia",
+   "teks": "Jangan biarkan rasa takut terhadap kegagalan menghalangi sesuatu yang belum pernah kamu coba.",
+   "dibaca": "Jangan biarkan rasa takut terhadap kegagalan menghalangi sesuatu yang belum pernah kamu coba.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/289b2653c0ad.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8c0d7a6c6412",
+   "suara": "mia",
+   "teks": "Mungkin, setelah mengetahui semua ini, kita tidak akan melihat dunia dengan cara yang sama lagi.",
+   "dibaca": "Mungkin, setelah mengetahui semua ini, kita tidak akan melihat dunia dengan cara yang sama lagi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/8c0d7a6c6412.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6cd4f928ae7c",
+   "suara": "mia",
+   "teks": "Di Adriy Project, kita kupas hal yang kelihatannya biasa, tapi ternyata nggak sesederhana itu.",
+   "dibaca": "Di Adriy Project, kita kupas hal yang kelihatannya biasa, tapi ternyata nggak sesederhana itu.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/6cd4f928ae7c.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0a4d0028fef7",
+   "suara": "mia",
+   "teks": "Di Adriy Project, kita cari tahu bareng, pelan-pelan, tanpa ribet.",
+   "dibaca": "Di Adriy Project, kita cari tahu bareng, pelan-pelan, tanpa ribet.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/0a4d0028fef7.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6992db9faa29",
+   "suara": "mia",
+   "teks": "Di Adriy Project, kita bongkar hal kecil di sekitar kita yang ternyata punya cerita besar.",
+   "dibaca": "Di Adriy Project, kita bongkar hal kecil di sekitar kita yang ternyata punya cerita besar.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/6992db9faa29.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "456aad569ffa",
+   "suara": "mia",
+   "teks": "Kalau kamu pernah nangis gara-gara bawang, tulis di komentar, bawang apa yang paling parah buat kamu?",
+   "dibaca": "Kalau kamu pernah nangis gara-gara bawang, tulis di komentar, bawang apa yang paling parah buat kamu?",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/456aad569ffa.wav",
+   "durasi": 5.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0b78b7962808",
+   "suara": "mia",
+   "teks": "Jadi, kalau kamu pernah mengalami ini, tenang... bukan berarti kasurmu tiba-tiba berubah menjadi jurang.",
+   "dibaca": "Jadi, kalau kamu pernah mengalami ini, tenang... bukan berarti kasurmu tiba-tiba berubah menjadi jurang.",
+   "fungsi": [
+    "menyampaikan kesimpulan",
+    "mengubah suasana"
+   ],
+   "file": "suara/mia/0b78b7962808.wav",
+   "durasi": 6.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e54472841e62",
+   "suara": "mia",
+   "teks": "Jadi lain kali ketika tubuhmu tersentak saat tidur, ingat... otakmu mungkin cuma sedang terlalu waspada.",
+   "dibaca": "Jadi lain kali ketika tubuhmu tersentak saat tidur, ingat... otakmu mungkin cuma sedang terlalu waspada.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/e54472841e62.wav",
+   "durasi": 7.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
