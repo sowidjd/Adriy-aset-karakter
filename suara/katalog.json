@@ -28257,6 +28257,382 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3248fbcbb9a8",
+   "suara": "hasan",
+   "teks": "Yang membedakan hanyalah, mereka tidak menyerah.",
+   "dibaca": "Yang membedakan hanyalah, mereka tidak menyerah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3248fbcbb9a8.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6c70b22bad3f",
+   "suara": "hasan",
+   "teks": "Setiap hari adalah kesempatan untuk menjadi lebih baik.",
+   "dibaca": "Setiap hari adalah kesempatan untuk menjadi lebih baik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/6c70b22bad3f.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2c833b0f993e",
+   "suara": "hasan",
+   "teks": "Mungkin, itu yang membuat kita tetap bertahan.",
+   "dibaca": "Mungkin, itu yang membuat kita tetap bertahan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/2c833b0f993e.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ea04b75c0504",
+   "suara": "hasan",
+   "teks": "Semua perjuangan itu akhirnya terbayar.",
+   "dibaca": "Semua perjuangan itu akhirnya terbayar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ea04b75c0504.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "39417b766ceb",
+   "suara": "hasan",
+   "teks": "Kita hanya manusia, dan itu tidak apa-apa.",
+   "dibaca": "Kita hanya manusia, dan itu tidak apa-apa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/39417b766ceb.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "21398b2bf0c1",
+   "suara": "hasan",
+   "teks": "Jadi, anggapan itu tidak sepenuhnya tepat.",
+   "dibaca": "Jadi, anggapan itu tidak sepenuhnya tepat.",
+   "fungsi": [
+    "membantah asumsi",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/21398b2bf0c1.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a3cfc2d6c27d",
+   "suara": "hasan",
+   "teks": "Percaya pada dirimu sendiri, itu langkah pertama.",
+   "dibaca": "Percaya pada dirimu sendiri, itu langkah pertama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/a3cfc2d6c27d.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5dea7277ec5a",
+   "suara": "hasan",
+   "teks": "Tapi di sisi lain, ada hal yang perlu dipertimbangkan.",
+   "dibaca": "Tapi di sisi lain, ada hal yang perlu dipertimbangkan.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/hasan/5dea7277ec5a.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ba9a21b8f932",
+   "suara": "hasan",
+   "teks": "Mulailah dari yang kecil, tapi mulailah hari ini.",
+   "dibaca": "Mulailah dari yang kecil, tapi mulailah hari ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ba9a21b8f932.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "69af7ddd74dc",
+   "suara": "hasan",
+   "teks": "Setiap langkah tetap berarti, sekecil apa pun.",
+   "dibaca": "Setiap langkah tetap berarti, sekecil apa pun.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/69af7ddd74dc.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b0f659c39995",
+   "suara": "hasan",
+   "teks": "Jangan takut salah, takutlah kalau tidak pernah mencoba.",
+   "dibaca": "Jangan takut salah, takutlah kalau tidak pernah mencoba.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b0f659c39995.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b22bc30c4a65",
+   "suara": "hasan",
+   "teks": "Kita semua punya potensi yang belum kita sadari.",
+   "dibaca": "Kita semua punya potensi yang belum kita sadari.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b22bc30c4a65.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8e7218495470",
+   "suara": "hasan",
+   "teks": "Mungkin, ini saatnya melihat dari sudut yang berbeda.",
+   "dibaca": "Mungkin, ini saatnya melihat dari sudut yang berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/8e7218495470.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b000a0141881",
+   "suara": "hasan",
+   "teks": "Dan di situlah, semuanya terasa begitu berarti.",
+   "dibaca": "Dan di situlah, semuanya terasa begitu berarti.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b000a0141881.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f3fc92b46337",
+   "suara": "hasan",
+   "teks": "Kita semua pernah merasakannya, meski dengan cara yang berbeda.",
+   "dibaca": "Kita semua pernah merasakannya, meski dengan cara yang berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/f3fc92b46337.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ff015ceb6dc7",
+   "suara": "hasan",
+   "teks": "Di balik semua itu, ada cerita yang jarang didengar.",
+   "dibaca": "Di balik semua itu, ada cerita yang jarang didengar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ff015ceb6dc7.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fae0638a0d61",
+   "suara": "hasan",
+   "teks": "Kadang, kita hanya butuh seseorang yang mengerti.",
+   "dibaca": "Kadang, kita hanya butuh seseorang yang mengerti.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/fae0638a0d61.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "274469b8163a",
+   "suara": "hasan",
+   "teks": "Rasa ingin tahu bisa membawamu ke tempat yang tak terduga.",
+   "dibaca": "Rasa ingin tahu bisa membawamu ke tempat yang tak terduga.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/274469b8163a.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "08513bd5d372",
+   "suara": "hasan",
+   "teks": "Kita tumbuh dari hal-hal yang dulu kita anggap sepele.",
+   "dibaca": "Kita tumbuh dari hal-hal yang dulu kita anggap sepele.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/08513bd5d372.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "56c038746cec",
+   "suara": "hasan",
+   "teks": "Momen itu terasa begitu dekat, sekaligus begitu jauh.",
+   "dibaca": "Momen itu terasa begitu dekat, sekaligus begitu jauh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/56c038746cec.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6af57a553d40",
+   "suara": "hasan",
+   "teks": "Kadang, yang paling sederhana justru yang paling menyentuh.",
+   "dibaca": "Kadang, yang paling sederhana justru yang paling menyentuh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/6af57a553d40.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2e33cb0e01eb",
+   "suara": "hasan",
+   "teks": "Hari ini mungkin berat, tapi kamu bisa melewatinya.",
+   "dibaca": "Hari ini mungkin berat, tapi kamu bisa melewatinya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/2e33cb0e01eb.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0236487f2f44",
+   "suara": "hasan",
+   "teks": "Dan rasa itu tetap tinggal, bahkan setelah semuanya berlalu.",
+   "dibaca": "Dan rasa itu tetap tinggal, bahkan setelah semuanya berlalu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/0236487f2f44.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ae9154d4e45a",
+   "suara": "hasan",
+   "teks": "Yang hari ini terasa sulit, besok mungkin jadi kebiasaan.",
+   "dibaca": "Yang hari ini terasa sulit, besok mungkin jadi kebiasaan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ae9154d4e45a.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3790010910cb",
+   "suara": "hasan",
+   "teks": "Setiap hari adalah kesempatan untuk memahami sesuatu yang baru.",
+   "dibaca": "Setiap hari adalah kesempatan untuk memahami sesuatu yang baru.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3790010910cb.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
