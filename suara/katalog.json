@@ -48641,6 +48641,142 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bc7a3b6e6ba5",
+   "suara": "mia",
+   "teks": "Kalau video ini bermanfaat, follow Adriy Project dan bagikan ke orang terdekatmu.",
+   "dibaca": "Kalau video ini bermanfaat, follow Adriy Project dan bagikan ke orang terdekatmu.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/bc7a3b6e6ba5.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b6ec785f75eb",
+   "suara": "mia",
+   "teks": "Kalau kamu punya pengalaman unik soal ini, cerita di komentar, ya.",
+   "dibaca": "Kalau kamu punya pengalaman unik soal ini, cerita di komentar, ya.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/b6ec785f75eb.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b14741eee784",
+   "suara": "mia",
+   "teks": "Oke, itu dia jawabannya. Follow Adriy Project untuk fakta lainnya.",
+   "dibaca": "Oke, itu dia jawabannya. Follow Adriy Project untuk fakta lainnya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/b14741eee784.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7e99d09022d8",
+   "suara": "mia",
+   "teks": "Menurutmu, kenapa hal ini bisa terjadi? Tulis tebakanmu di komentar.",
+   "dibaca": "Menurutmu, kenapa hal ini bisa terjadi? Tulis tebakanmu di komentar.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/7e99d09022d8.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ca41c422fc27",
+   "suara": "mia",
+   "teks": "Coba cium bawang yang belum dikupas. Nggak ada yang bikin perih, kan?",
+   "dibaca": "Coba cium bawang yang belum dikupas. Nggak ada yang bikin perih, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/ca41c422fc27.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3cb6e780f4fc",
+   "suara": "mia",
+   "teks": "Kita sering kali terlalu sibuk mengejar sesuatu hingga lupa menikmati perjalanan.",
+   "dibaca": "Kita sering kali terlalu sibuk mengejar sesuatu hingga lupa menikmati perjalanan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3cb6e780f4fc.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0a3952cbb053",
+   "suara": "mia",
+   "teks": "Dan itulah sesuatu yang mungkin akan terus kita ingat setelah cerita ini berakhir.",
+   "dibaca": "Dan itulah sesuatu yang mungkin akan terus kita ingat setelah cerita ini berakhir.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0a3952cbb053.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0b73e0d7b6bd",
+   "suara": "mia",
+   "teks": "Follow Adriy Project, karena masih banyak hal sederhana yang ternyata menyimpan rahasia.",
+   "dibaca": "Follow Adriy Project, karena masih banyak hal sederhana yang ternyata menyimpan rahasia.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/0b73e0d7b6bd.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0d4479dfd4e5",
+   "suara": "mia",
+   "teks": "Di Adriy Project, kita bahas hal-hal yang sering kita alami tapi jarang kita pahami.",
+   "dibaca": "Di Adriy Project, kita bahas hal-hal yang sering kita alami tapi jarang kita pahami.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/0d4479dfd4e5.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
