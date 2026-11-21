@@ -66371,6 +66371,172 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bfdd0f103506",
+   "suara": "adriy",
+   "teks": "Banyak yang mengira begitu, padahal tidak.",
+   "dibaca": "Banyak yang mengira begitu, padahal tidak.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/bfdd0f103506.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d8ec83167d83",
+   "suara": "adriy",
+   "teks": "Ini bukan sekadar kebetulan.",
+   "dibaca": "Ini bukan sekadar kebetulan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/d8ec83167d83.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6ae34d250b30",
+   "suara": "adriy",
+   "teks": "Kedengarannya logis, tapi faktanya berbeda.",
+   "dibaca": "Kedengarannya logis, tapi faktanya berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/6ae34d250b30.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7555077198c6",
+   "suara": "adriy",
+   "teks": "Mitos ini sudah lama dipercaya, padahal keliru.",
+   "dibaca": "Mitos ini sudah lama dipercaya, padahal keliru.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/7555077198c6.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f8c5e4fbb084",
+   "suara": "adriy",
+   "teks": "Tidak semua yang kita dengar itu benar.",
+   "dibaca": "Tidak semua yang kita dengar itu benar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/f8c5e4fbb084.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9a0a98d3b1c7",
+   "suara": "adriy",
+   "teks": "Ternyata, anggapan itu cuma setengah benar.",
+   "dibaca": "Ternyata, anggapan itu cuma setengah benar.",
+   "fungsi": [
+    "membantah asumsi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/9a0a98d3b1c7.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7414dc4ab4ca",
+   "suara": "adriy",
+   "teks": "Belum tentu, dan ini alasannya.",
+   "dibaca": "Belum tentu, dan ini alasannya.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/7414dc4ab4ca.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4b2d8cae2620",
+   "suara": "adriy",
+   "teks": "Penyebabnya ternyata ada di dalam tubuh kita sendiri.",
+   "dibaca": "Penyebabnya ternyata ada di dalam tubuh kita sendiri.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/4b2d8cae2620.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d64ff714643a",
+   "suara": "adriy",
+   "teks": "Semua ini terjadi karena satu proses kecil.",
+   "dibaca": "Semua ini terjadi karena satu proses kecil.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/d64ff714643a.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b62dd2915b9a",
+   "suara": "adriy",
+   "teks": "Akibatnya, tubuh bereaksi tanpa kita sadari.",
+   "dibaca": "Akibatnya, tubuh bereaksi tanpa kita sadari.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/b62dd2915b9a.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b9771bf5e415",
+   "suara": "adriy",
+   "teks": "Itulah kenapa hal ini lebih sering terjadi di malam hari.",
+   "dibaca": "Itulah kenapa hal ini lebih sering terjadi di malam hari.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/b9771bf5e415.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
   }
  ]
 }
