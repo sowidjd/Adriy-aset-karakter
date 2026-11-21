@@ -53744,6 +53744,156 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "82d8c8fc98f7",
+   "suara": "mia",
+   "teks": "Jawabannya ternyata lebih sederhana dari yang kamu kira.",
+   "dibaca": "Jawabannya ternyata lebih sederhana dari yang kamu kira.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/82d8c8fc98f7.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f3899c72caa2",
+   "suara": "mia",
+   "teks": "Para ilmuwan punya penjelasan menarik soal ini.",
+   "dibaca": "Para ilmuwan punya penjelasan menarik soal ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f3899c72caa2.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "69dae282b093",
+   "suara": "mia",
+   "teks": "Angkanya ternyata jauh lebih kecil dari dugaan kita.",
+   "dibaca": "Angkanya ternyata jauh lebih kecil dari dugaan kita.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/69dae282b093.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ec3743461ca9",
+   "suara": "mia",
+   "teks": "Sekarang kita tahu apa yang terjadi. Tapi kenapa?",
+   "dibaca": "Sekarang kita tahu apa yang terjadi. Tapi kenapa?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/ec3743461ca9.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "187cd68723d2",
+   "suara": "mia",
+   "teks": "Kenapa jawabannya justru berlawanan dengan dugaan kita?",
+   "dibaca": "Kenapa jawabannya justru berlawanan dengan dugaan kita?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/187cd68723d2.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "14dc86818291",
+   "suara": "mia",
+   "teks": "Kenapa tubuh kita melakukan hal ini tanpa kita minta?",
+   "dibaca": "Kenapa tubuh kita melakukan hal ini tanpa kita minta?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/14dc86818291.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b24b6cbe9a35",
+   "suara": "mia",
+   "teks": "Kesalahan kecil ini ternyata sering dilakukan banyak orang.",
+   "dibaca": "Kesalahan kecil ini ternyata sering dilakukan banyak orang.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/b24b6cbe9a35.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1532db3fe7fc",
+   "suara": "mia",
+   "teks": "Ini terjadi pada hampir semua orang, termasuk kamu.",
+   "dibaca": "Ini terjadi pada hampir semua orang, termasuk kamu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1532db3fe7fc.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6b2cc45fc8b1",
+   "suara": "mia",
+   "teks": "Ada rahasia kecil di balik hal yang kamu lihat setiap hari.",
+   "dibaca": "Ada rahasia kecil di balik hal yang kamu lihat setiap hari.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/6b2cc45fc8b1.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "37b0cded7f5a",
+   "suara": "mia",
+   "teks": "Setelah itu, prosesnya berlanjut ke tahap berikutnya.",
+   "dibaca": "Setelah itu, prosesnya berlanjut ke tahap berikutnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/37b0cded7f5a.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
