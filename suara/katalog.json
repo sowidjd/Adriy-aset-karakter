@@ -43952,6 +43952,237 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1d6086f8e015",
+   "suara": "mia",
+   "teks": "Sekarang giliran kamu.",
+   "dibaca": "Sekarang giliran kamu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1d6086f8e015.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "598d1ddfd367",
+   "suara": "mia",
+   "teks": "Explore More, Know More.",
+   "dibaca": "Explore More, Know More.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/598d1ddfd367.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7d475359aa5a",
+   "suara": "mia",
+   "teks": "Benar, kan?",
+   "dibaca": "Benar, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/7d475359aa5a.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "586e6108ee0b",
+   "suara": "mia",
+   "teks": "Eits, tunggu dulu.",
+   "dibaca": "Eits, tunggu dulu.",
+   "fungsi": [
+    "jeda dramatis",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/586e6108ee0b.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0e8b517c39f7",
+   "suara": "mia",
+   "teks": "Aneh, bukan?",
+   "dibaca": "Aneh, bukan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/0e8b517c39f7.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "53644f87593c",
+   "suara": "mia",
+   "teks": "Kok bisa, ya?",
+   "dibaca": "Kok bisa, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/53644f87593c.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6fed0274274a",
+   "suara": "mia",
+   "teks": "Jangan lupa like dan share, ya.",
+   "dibaca": "Jangan lupa like dan share, ya.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/6fed0274274a.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "267b2f4eec42",
+   "suara": "mia",
+   "teks": "Siapa sangka jawabannya seperti ini?",
+   "dibaca": "Siapa sangka jawabannya seperti ini?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/267b2f4eec42.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c54b4776a4d1",
+   "suara": "mia",
+   "teks": "Dan saat itulah, semuanya berubah.",
+   "dibaca": "Dan saat itulah, semuanya berubah.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/mia/c54b4776a4d1.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "812e602d6de6",
+   "suara": "mia",
+   "teks": "Iya, kamu nggak salah dengar.",
+   "dibaca": "Iya, kamu nggak salah dengar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/812e602d6de6.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "360fc5c48986",
+   "suara": "mia",
+   "teks": "Nah, gitu ceritanya.",
+   "dibaca": "Nah, gitu ceritanya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/360fc5c48986.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "660c7b8b89ec",
+   "suara": "mia",
+   "teks": "Yuk, kita bahas bareng-bareng.",
+   "dibaca": "Yuk, kita bahas bareng-bareng.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/660c7b8b89ec.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e3e910894399",
+   "suara": "mia",
+   "teks": "Nggak ada salahnya mencoba, kan?",
+   "dibaca": "Nggak ada salahnya mencoba, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/e3e910894399.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e0fec228d2c3",
+   "suara": "mia",
+   "teks": "Jadi, mari luruskan dulu.",
+   "dibaca": "Jadi, mari luruskan dulu.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/e0fec228d2c3.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8d02092ab9e3",
+   "suara": "mia",
+   "teks": "Sebentar.",
+   "dibaca": "Sebentar.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/mia/8d02092ab9e3.wav",
+   "durasi": 0.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
