@@ -28166,6 +28166,97 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9da3e7e4f1f6",
+   "suara": "hasan",
+   "teks": "Ada kenangan yang tidak akan pernah benar-benar hilang.",
+   "dibaca": "Ada kenangan yang tidak akan pernah benar-benar hilang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/9da3e7e4f1f6.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "59e33dc45d33",
+   "suara": "hasan",
+   "teks": "Mungkin, itulah arti sebenarnya dari pulang.",
+   "dibaca": "Mungkin, itulah arti sebenarnya dari pulang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/59e33dc45d33.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3865165f2380",
+   "suara": "hasan",
+   "teks": "Dan tanpa sadar, kita sudah sejauh ini.",
+   "dibaca": "Dan tanpa sadar, kita sudah sejauh ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3865165f2380.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4a326ea6cc9f",
+   "suara": "hasan",
+   "teks": "Dengan kata lain, mitos itu terbantahkan.",
+   "dibaca": "Dengan kata lain, mitos itu terbantahkan.",
+   "fungsi": [
+    "membantah asumsi",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/4a326ea6cc9f.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "243ff6b745fc",
+   "suara": "hasan",
+   "teks": "Satu kebiasaan kecil bisa mengubah banyak hal.",
+   "dibaca": "Satu kebiasaan kecil bisa mengubah banyak hal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/243ff6b745fc.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "1faaa60a61a7",
+   "suara": "hasan",
+   "teks": "Yang kamu lakukan hari ini menentukan dirimu besok.",
+   "dibaca": "Yang kamu lakukan hari ini menentukan dirimu besok.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/1faaa60a61a7.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-20"
   }
  ]
 }
