@@ -57749,6 +57749,142 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f9e2ff063826",
+   "suara": "mia",
+   "teks": "Untuk memahami hal ini, kita perlu melihat apa yang terjadi sebelumnya.",
+   "dibaca": "Untuk memahami hal ini, kita perlu melihat apa yang terjadi sebelumnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f9e2ff063826.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3df73e7ec91d",
+   "suara": "mia",
+   "teks": "Dalam hitungan detik, keadaan bisa berubah menjadi jauh lebih berbahaya.",
+   "dibaca": "Dalam hitungan detik, keadaan bisa berubah menjadi jauh lebih berbahaya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3df73e7ec91d.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c18ce8ca295b",
+   "suara": "mia",
+   "teks": "Skala sebenarnya dari fenomena ini jauh lebih besar daripada yang bisa kita bayangkan.",
+   "dibaca": "Skala sebenarnya dari fenomena ini jauh lebih besar daripada yang bisa kita bayangkan.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/c18ce8ca295b.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "225d49c8b1bb",
+   "suara": "mia",
+   "teks": "Kamu pasti pernah ngalamin ini, tapi jarang yang tahu alasannya.",
+   "dibaca": "Kamu pasti pernah ngalamin ini, tapi jarang yang tahu alasannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/225d49c8b1bb.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4a239313a063",
+   "suara": "mia",
+   "teks": "Pernah nggak kamu merasa sesuatu terjadi terlalu cepat, atau terlalu lambat?",
+   "dibaca": "Pernah nggak kamu merasa sesuatu terjadi terlalu cepat, atau terlalu lambat?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/4a239313a063.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3aad5464af02",
+   "suara": "mia",
+   "teks": "Mitos ini sudah dipercaya turun-temurun. Tapi, apakah benar?",
+   "dibaca": "Mitos ini sudah dipercaya turun-temurun. Tapi, apakah benar?",
+   "fungsi": [
+    "membantah asumsi",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/3aad5464af02.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "50fc45f80464",
+   "suara": "mia",
+   "teks": "Yang kelihatan sederhana ternyata jauh lebih rumit dari bayangan kita.",
+   "dibaca": "Yang kelihatan sederhana ternyata jauh lebih rumit dari bayangan kita.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/50fc45f80464.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4fde59b9246f",
+   "suara": "mia",
+   "teks": "Pernah nggak kamu merasa, liburan tiga hari kok lewat secepat kedipan mata?",
+   "dibaca": "Pernah nggak kamu merasa, liburan tiga hari kok lewat secepat kedipan mata?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/4fde59b9246f.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "223325a34ef1",
+   "suara": "mia",
+   "teks": "Tapi ada yang hilang. Yang sudah mencobanya bilang, rasanya jauh lebih manis dan lembut.",
+   "dibaca": "Tapi ada yang hilang. Yang sudah mencobanya bilang, rasanya jauh lebih manis dan lembut.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/223325a34ef1.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
