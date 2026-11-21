@@ -40502,6 +40502,347 @@
    "catatan": "nada santai",
    "sumber": "perpustakaan_suara.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "55d03d81ca30",
+   "suara": "hasan",
+   "teks": "Lalu...",
+   "dibaca": "Lalu...",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/hasan/55d03d81ca30.wav",
+   "durasi": 0.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fee0da5a7199",
+   "suara": "hasan",
+   "teks": "Dan kemudian...",
+   "dibaca": "Dan kemudian...",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/hasan/fee0da5a7199.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6b789c446b81",
+   "suara": "hasan",
+   "teks": "Masa, sih?",
+   "dibaca": "Masa, sih?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/6b789c446b81.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f296a5293831",
+   "suara": "hasan",
+   "teks": "Seru, kan?",
+   "dibaca": "Seru, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/f296a5293831.wav",
+   "durasi": 0.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dd21f8516eb8",
+   "suara": "hasan",
+   "teks": "Lucu, ya?",
+   "dibaca": "Lucu, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/dd21f8516eb8.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2af032ec0664",
+   "suara": "hasan",
+   "teks": "Sampai akhirnya...",
+   "dibaca": "Sampai akhirnya...",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/hasan/2af032ec0664.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c25691410d8a",
+   "suara": "hasan",
+   "teks": "Tidak ada yang bergerak.",
+   "dibaca": "Tidak ada yang bergerak.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/c25691410d8a.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ff0986893256",
+   "suara": "hasan",
+   "teks": "Lalu, semuanya berubah.",
+   "dibaca": "Lalu, semuanya berubah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ff0986893256.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f7d3a7375bf0",
+   "suara": "hasan",
+   "teks": "Tunggu sebentar.",
+   "dibaca": "Tunggu sebentar.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/hasan/f7d3a7375bf0.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3c4536197c20",
+   "suara": "hasan",
+   "teks": "Mereka menunggu.",
+   "dibaca": "Mereka menunggu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3c4536197c20.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f9e372da8023",
+   "suara": "hasan",
+   "teks": "Aneh, ya?",
+   "dibaca": "Aneh, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/f9e372da8023.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "929090791ee8",
+   "suara": "hasan",
+   "teks": "Kok gitu, sih?",
+   "dibaca": "Kok gitu, sih?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/929090791ee8.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d4a1cd604ef4",
+   "suara": "hasan",
+   "teks": "Semuanya diam.",
+   "dibaca": "Semuanya diam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d4a1cd604ef4.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2780e5d8df67",
+   "suara": "hasan",
+   "teks": "Dan jawabannya adalah...",
+   "dibaca": "Dan jawabannya adalah...",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/hasan/2780e5d8df67.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6dbd628565d2",
+   "suara": "hasan",
+   "teks": "Dan saat itu juga...",
+   "dibaca": "Dan saat itu juga...",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/hasan/6dbd628565d2.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ce1624c9dd2a",
+   "suara": "hasan",
+   "teks": "Masuk akal, kan?",
+   "dibaca": "Masuk akal, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/ce1624c9dd2a.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d3520b07548d",
+   "suara": "hasan",
+   "teks": "Mengagumkan, bukan?",
+   "dibaca": "Mengagumkan, bukan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/d3520b07548d.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ce73396e78e6",
+   "suara": "hasan",
+   "teks": "Benar, kan?",
+   "dibaca": "Benar, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/ce73396e78e6.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dace310ad11c",
+   "suara": "hasan",
+   "teks": "Eits, tunggu dulu.",
+   "dibaca": "Eits, tunggu dulu.",
+   "fungsi": [
+    "jeda dramatis",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/dace310ad11c.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a74f4a9797cb",
+   "suara": "hasan",
+   "teks": "Aneh, bukan?",
+   "dibaca": "Aneh, bukan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/a74f4a9797cb.wav",
+   "durasi": 0.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c7709dd5bdd1",
+   "suara": "hasan",
+   "teks": "Sebentar.",
+   "dibaca": "Sebentar.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/hasan/c7709dd5bdd1.wav",
+   "durasi": 0.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bb19839dfbe2",
+   "suara": "hasan",
+   "teks": "Tapi ternyata...",
+   "dibaca": "Tapi ternyata...",
+   "fungsi": [
+    "jeda dramatis",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/bb19839dfbe2.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
