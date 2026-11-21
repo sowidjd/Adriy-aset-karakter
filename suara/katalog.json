@@ -40843,6 +40843,251 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fe231d3797ec",
+   "suara": "hasan",
+   "teks": "Sampai sesuatu terjadi.",
+   "dibaca": "Sampai sesuatu terjadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/fe231d3797ec.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7124fac1db0b",
+   "suara": "hasan",
+   "teks": "Dan begitulah cara kerjanya.",
+   "dibaca": "Dan begitulah cara kerjanya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/7124fac1db0b.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "24a22bc6dd34",
+   "suara": "hasan",
+   "teks": "Jadi, itulah jawabannya.",
+   "dibaca": "Jadi, itulah jawabannya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/24a22bc6dd34.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "64c2516e3ca9",
+   "suara": "hasan",
+   "teks": "Jadi, sekarang kamu tahu kenapa.",
+   "dibaca": "Jadi, sekarang kamu tahu kenapa.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/64c2516e3ca9.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b7211bb1e72f",
+   "suara": "hasan",
+   "teks": "Jadi, sudah terjawab, kan?",
+   "dibaca": "Jadi, sudah terjawab, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/b7211bb1e72f.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0a1e4fa620ff",
+   "suara": "hasan",
+   "teks": "Sampai jumpa di pertanyaan berikutnya.",
+   "dibaca": "Sampai jumpa di pertanyaan berikutnya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/0a1e4fa620ff.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "de4ef1c3a2bb",
+   "suara": "hasan",
+   "teks": "Bukankah itu yang selama ini kita cari?",
+   "dibaca": "Bukankah itu yang selama ini kita cari?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/de4ef1c3a2bb.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "450f4bed79d6",
+   "suara": "hasan",
+   "teks": "Lain kali, coba perhatikan baik-baik.",
+   "dibaca": "Lain kali, coba perhatikan baik-baik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/450f4bed79d6.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f2513b9a5443",
+   "suara": "hasan",
+   "teks": "Itulah sedikit penjelasan dari kami.",
+   "dibaca": "Itulah sedikit penjelasan dari kami.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/f2513b9a5443.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "634b5033ab52",
+   "suara": "hasan",
+   "teks": "Sampai di sini dulu pembahasan kita.",
+   "dibaca": "Sampai di sini dulu pembahasan kita.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/634b5033ab52.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9554cb09e294",
+   "suara": "hasan",
+   "teks": "Satu detik. Dua detik.",
+   "dibaca": "Satu detik. Dua detik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/9554cb09e294.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dfd23cb87be3",
+   "suara": "hasan",
+   "teks": "Bukankah itu yang membuat semuanya menarik?",
+   "dibaca": "Bukankah itu yang membuat semuanya menarik?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/dfd23cb87be3.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2e7b29d467f4",
+   "suara": "hasan",
+   "teks": "Bukankah hidup memang penuh kejutan?",
+   "dibaca": "Bukankah hidup memang penuh kejutan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/2e7b29d467f4.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d7721f12f169",
+   "suara": "hasan",
+   "teks": "Bukankah kita juga sering begitu?",
+   "dibaca": "Bukankah kita juga sering begitu?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/d7721f12f169.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2adede071e4a",
+   "suara": "hasan",
+   "teks": "Ingat, tidak semua yang viral itu benar.",
+   "dibaca": "Ingat, tidak semua yang viral itu benar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/2adede071e4a.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3165c35d287e",
+   "suara": "hasan",
+   "teks": "Terima kasih sudah ikut penasaran bersama kami.",
+   "dibaca": "Terima kasih sudah ikut penasaran bersama kami.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/3165c35d287e.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
