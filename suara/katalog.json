@@ -49829,6 +49829,186 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4ff54e3d8dae",
+   "suara": "mia",
+   "teks": "Hmm, menarik.",
+   "dibaca": "Hmm, menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4ff54e3d8dae.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "24c8c43ef9d9",
+   "suara": "mia",
+   "teks": "Oh, ternyata begitu.",
+   "dibaca": "Oh, ternyata begitu.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/24c8c43ef9d9.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cd9794b034a5",
+   "suara": "mia",
+   "teks": "Nah, itu dia!",
+   "dibaca": "Nah, itu dia!",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/cd9794b034a5.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c8fc9d79c712",
+   "suara": "mia",
+   "teks": "Oke, oke.",
+   "dibaca": "Oke, oke.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c8fc9d79c712.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c32331f17f5f",
+   "suara": "mia",
+   "teks": "Bisa scan dokumen juga?",
+   "dibaca": "Bisa scan dokumen juga?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/c32331f17f5f.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "67784bcc9c09",
+   "suara": "mia",
+   "teks": "Wajar kalau kita mengira begitu.",
+   "dibaca": "Wajar kalau kita mengira begitu.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/67784bcc9c09.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b840a2dd7488",
+   "suara": "mia",
+   "teks": "Tapi, apa benar begitu?",
+   "dibaca": "Tapi, apa benar begitu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/b840a2dd7488.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a4ec23879980",
+   "suara": "mia",
+   "teks": "Ternyata bukan itu jawabannya.",
+   "dibaca": "Ternyata bukan itu jawabannya.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/a4ec23879980.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "585dc8fb6e8a",
+   "suara": "mia",
+   "teks": "Apa kamu tahu jawabannya?",
+   "dibaca": "Apa kamu tahu jawabannya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/585dc8fb6e8a.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d11c48af9b01",
+   "suara": "mia",
+   "teks": "Usia juga ikut menentukan.",
+   "dibaca": "Usia juga ikut menentukan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d11c48af9b01.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "69584e001dbc",
+   "suara": "mia",
+   "teks": "Tapi itu baru setengah ceritanya.",
+   "dibaca": "Tapi itu baru setengah ceritanya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/69584e001dbc.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b264d120ea1d",
+   "suara": "mia",
+   "teks": "Kita lihat apa yang terjadi selanjutnya.",
+   "dibaca": "Kita lihat apa yang terjadi selanjutnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b264d120ea1d.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
