@@ -69008,6 +69008,171 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "51b97d2b1430",
+   "suara": "mia",
+   "teks": "Kulit kita adalah organ terbesar di tubuh manusia.",
+   "dibaca": "Kulit kita adalah organ terbesar di tubuh manusia.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/51b97d2b1430.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e78f5178e4f7",
+   "suara": "mia",
+   "teks": "Tubuh manusia jauh lebih rumit dari mesin mana pun.",
+   "dibaca": "Tubuh manusia jauh lebih rumit dari mesin mana pun.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/e78f5178e4f7.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bf7156431a8a",
+   "suara": "mia",
+   "teks": "Ini adalah reaksi alami tubuh, bukan tanda penyakit.",
+   "dibaca": "Ini adalah reaksi alami tubuh, bukan tanda penyakit.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/bf7156431a8a.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f5e518d7f747",
+   "suara": "mia",
+   "teks": "Ternyata, jantung kita tidak pernah benar-benar istirahat.",
+   "dibaca": "Ternyata, jantung kita tidak pernah benar-benar istirahat.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/f5e518d7f747.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3e6937fb1e32",
+   "suara": "mia",
+   "teks": "Kurang tidur bisa memengaruhi hampir semua bagian tubuh.",
+   "dibaca": "Kurang tidur bisa memengaruhi hampir semua bagian tubuh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3e6937fb1e32.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ceeb91263489",
+   "suara": "ongky",
+   "teks": "Setiap tubuh bisa bereaksi sedikit berbeda.",
+   "dibaca": "Setiap tubuh bisa bereaksi sedikit berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/ceeb91263489.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "20029672780e",
+   "suara": "ongky",
+   "teks": "Minum air yang cukup ternyata berpengaruh besar.",
+   "dibaca": "Minum air yang cukup ternyata berpengaruh besar.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/20029672780e.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "21628c7894c2",
+   "suara": "ongky",
+   "teks": "Tubuh kita bekerja keras bahkan saat kita tidur.",
+   "dibaca": "Tubuh kita bekerja keras bahkan saat kita tidur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/21628c7894c2.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0af6e112046b",
+   "suara": "ongky",
+   "teks": "Kulit kita adalah organ terbesar di tubuh manusia.",
+   "dibaca": "Kulit kita adalah organ terbesar di tubuh manusia.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/0af6e112046b.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fddadd7c488c",
+   "suara": "ongky",
+   "teks": "Tubuh manusia jauh lebih rumit dari mesin mana pun.",
+   "dibaca": "Tubuh manusia jauh lebih rumit dari mesin mana pun.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/fddadd7c488c.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8d17a70e9fe3",
+   "suara": "ongky",
+   "teks": "Ini adalah reaksi alami tubuh, bukan tanda penyakit.",
+   "dibaca": "Ini adalah reaksi alami tubuh, bukan tanda penyakit.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/8d17a70e9fe3.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
