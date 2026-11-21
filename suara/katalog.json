@@ -65043,6 +65043,220 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d15edb060f06",
+   "suara": "hasan",
+   "teks": "Aneh, kan?",
+   "dibaca": "Aneh, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/d15edb060f06.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3a7cb2b50168",
+   "suara": "hasan",
+   "teks": "Siapa sangka, ya?",
+   "dibaca": "Siapa sangka, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/3a7cb2b50168.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dae7ad54e455",
+   "suara": "hasan",
+   "teks": "Ini dia.",
+   "dibaca": "Ini dia.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/dae7ad54e455.wav",
+   "durasi": 0.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6470292f281a",
+   "suara": "hasan",
+   "teks": "Coba dengarkan baik-baik.",
+   "dibaca": "Coba dengarkan baik-baik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/6470292f281a.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9ffa50adddc8",
+   "suara": "hasan",
+   "teks": "Tidak ada yang menyangka.",
+   "dibaca": "Tidak ada yang menyangka.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/9ffa50adddc8.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d4557475ddc6",
+   "suara": "hasan",
+   "teks": "Semua orang terdiam.",
+   "dibaca": "Semua orang terdiam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d4557475ddc6.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2aeb1c7b0a09",
+   "suara": "hasan",
+   "teks": "Hasilnya mengejutkan.",
+   "dibaca": "Hasilnya mengejutkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/2aeb1c7b0a09.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "24e8e4c64ea0",
+   "suara": "hasan",
+   "teks": "Dan ternyata, mereka salah.",
+   "dibaca": "Dan ternyata, mereka salah.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/24e8e4c64ea0.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d7faa4e13e2a",
+   "suara": "hasan",
+   "teks": "Lalu sesuatu yang aneh terjadi.",
+   "dibaca": "Lalu sesuatu yang aneh terjadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d7faa4e13e2a.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "da1259ffc90f",
+   "suara": "hasan",
+   "teks": "Dan semuanya berubah dalam sekejap.",
+   "dibaca": "Dan semuanya berubah dalam sekejap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/da1259ffc90f.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8b417e7a947d",
+   "suara": "mia",
+   "teks": "Aneh, kan?",
+   "dibaca": "Aneh, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/8b417e7a947d.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4a3edf1ef2ed",
+   "suara": "mia",
+   "teks": "Siapa sangka, ya?",
+   "dibaca": "Siapa sangka, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/4a3edf1ef2ed.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5c03048307b1",
+   "suara": "mia",
+   "teks": "Ini dia.",
+   "dibaca": "Ini dia.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5c03048307b1.wav",
+   "durasi": 0.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "42b7217abc83",
+   "suara": "mia",
+   "teks": "Coba dengarkan baik-baik.",
+   "dibaca": "Coba dengarkan baik-baik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/42b7217abc83.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
