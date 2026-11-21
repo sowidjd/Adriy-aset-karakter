@@ -54885,6 +54885,384 @@
    "catatan": "",
    "sumber": "naskah:naskah.txt",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f9487d720e14",
+   "suara": "mia",
+   "teks": "Jadi waktu kamu menengok ke belakang, raknya penuh, dan liburan itu terasa panjang.",
+   "dibaca": "Jadi waktu kamu menengok ke belakang, raknya penuh, dan liburan itu terasa panjang.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/f9487d720e14.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "255c501d1f86",
+   "suara": "mia",
+   "teks": "Ada hal baru, atau tidak.",
+   "dibaca": "Ada hal baru, atau tidak.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/255c501d1f86.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2a3457c8dd0f",
+   "suara": "mia",
+   "teks": "Menurutnya, kita menilai waktu dengan dua cara.",
+   "dibaca": "Menurutnya, kita menilai waktu dengan dua cara.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2a3457c8dd0f.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "efe8e02539b4",
+   "suara": "mia",
+   "teks": "Siapa yang mengira hal sekecil ini sepenting itu?",
+   "dibaca": "Siapa yang mengira hal sekecil ini sepenting itu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/efe8e02539b4.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e03239830ab8",
+   "suara": "mia",
+   "teks": "Bayangkan seperti menumpuk balok, satu demi satu.",
+   "dibaca": "Bayangkan seperti menumpuk balok, satu demi satu.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/e03239830ab8.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7da213677b23",
+   "suara": "mia",
+   "teks": "Cara pertama, saat kita sedang menjalaninya.",
+   "dibaca": "Cara pertama, saat kita sedang menjalaninya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/7da213677b23.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a9795e4527a1",
+   "suara": "mia",
+   "teks": "Setiap hari liburan menambah banyak buku baru ke raknya.",
+   "dibaca": "Setiap hari liburan menambah banyak buku baru ke raknya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a9795e4527a1.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8c735d199a64",
+   "suara": "mia",
+   "teks": "Senjatanya baru dirakit, saat kamu memotongnya.",
+   "dibaca": "Senjatanya baru dirakit, saat kamu memotongnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/8c735d199a64.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2d11cc9adb1d",
+   "suara": "mia",
+   "teks": "Fenomena ini sering disebut sebagai Doorway Effect, atau efek pintu.",
+   "dibaca": "Fenomena ini sering disebut sebagai dorwei efek, atau efek pintu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2d11cc9adb1d.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "beba5f664a21",
+   "suara": "mia",
+   "teks": "Tidak ada yang menyangka semuanya akan berakhir seperti ini.",
+   "dibaca": "Tidak ada yang menyangka semuanya akan berakhir seperti ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/beba5f664a21.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "646788bfd512",
+   "suara": "mia",
+   "teks": "Mari kita lihat lebih dekat bagaimana proses ini sebenarnya berlangsung.",
+   "dibaca": "Mari kita lihat lebih dekat bagaimana proses ini sebenarnya berlangsung.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/646788bfd512.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6496f5a1a8db",
+   "suara": "mia",
+   "teks": "Bagaimana jika selama ini kita justru salah memahami hal tersebut?",
+   "dibaca": "Bagaimana jika selama ini kita justru salah memahami hal tersebut?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/6496f5a1a8db.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5e5eabd788f6",
+   "suara": "mia",
+   "teks": "Namun, apakah semua informasi yang kita dengar selama ini benar?",
+   "dibaca": "Namun, apakah semua informasi yang kita dengar selama ini benar?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/5e5eabd788f6.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1b6a8de6ebd9",
+   "suara": "mia",
+   "teks": "Tapi, penelitian soal ini masih terus berjalan.",
+   "dibaca": "Tapi, penelitian soal ini masih terus berjalan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1b6a8de6ebd9.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1b0a3d38ba00",
+   "suara": "mia",
+   "teks": "Bagian kedua bakal lebih seru, jadi tunggu, ya.",
+   "dibaca": "Bagian kedua bakal lebih seru, jadi tunggu, ya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1b0a3d38ba00.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fed856e5073a",
+   "suara": "mia",
+   "teks": "Di balik itu semua, ada alasan yang masuk akal.",
+   "dibaca": "Di balik itu semua, ada alasan yang masuk akal.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/fed856e5073a.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e0e8b63031f0",
+   "suara": "mia",
+   "teks": "Tetap konsultasikan dengan ahlinya, ya.",
+   "dibaca": "Tetap konsultasikan dengan ahlinya, ya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/e0e8b63031f0.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1c00a1d36e6d",
+   "suara": "mia",
+   "teks": "Bagaimana mungkin hal ini belum banyak diketahui orang?",
+   "dibaca": "Bagaimana mungkin hal ini belum banyak diketahui orang?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/1c00a1d36e6d.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "eb12ed62bfb2",
+   "suara": "mia",
+   "teks": "Ada sesuatu yang aneh dari kebiasaan sehari-hari kita.",
+   "dibaca": "Ada sesuatu yang aneh dari kebiasaan sehari-hari kita.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/eb12ed62bfb2.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "44a065de05c9",
+   "suara": "mia",
+   "teks": "Bagaimana jika semua yang kamu tahu soal ini ternyata keliru?",
+   "dibaca": "Bagaimana jika semua yang kamu tahu soal ini ternyata keliru?",
+   "fungsi": [
+    "membantah asumsi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/44a065de05c9.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "82e8a6916803",
+   "suara": "mia",
+   "teks": "Ada satu fakta yang jarang dibahas di sekolah.",
+   "dibaca": "Ada satu fakta yang jarang dibahas di sekolah.",
+   "fungsi": [
+    "mengawali cerita",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/82e8a6916803.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "281f05b085e8",
+   "suara": "mia",
+   "teks": "Diam-diam, otakmu sedang menipumu sekarang juga.",
+   "dibaca": "Diam-diam, otakmu sedang menipumu sekarang juga.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/281f05b085e8.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0d4bfa7c77df",
+   "suara": "mia",
+   "teks": "Satu detik ini ternyata lebih rumit dari yang kamu kira.",
+   "dibaca": "Satu detik ini ternyata lebih rumit dari yang kamu kira.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/0d4bfa7c77df.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "17e348fe68a8",
+   "suara": "mia",
+   "teks": "Kebiasaan kecil ini ternyata bisa berdampak besar.",
+   "dibaca": "Kebiasaan kecil ini ternyata bisa berdampak besar.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/17e348fe68a8.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8de59e82ad11",
+   "suara": "mia",
+   "teks": "Ini salah satu fakta paling unik yang pernah aku temukan.",
+   "dibaca": "Ini salah satu fakta paling unik yang pernah aku temukan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/8de59e82ad11.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
