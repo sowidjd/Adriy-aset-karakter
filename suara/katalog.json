@@ -43259,6 +43259,21 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3e36f069520e",
+   "suara": "hasan",
+   "teks": "Yang kelihatan sederhana ternyata jauh lebih rumit dari bayangan kita.",
+   "dibaca": "Yang kelihatan sederhana ternyata jauh lebih rumit dari bayangan kita.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/3e36f069520e.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
