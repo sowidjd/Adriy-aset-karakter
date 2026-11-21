@@ -50189,6 +50189,186 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c6b9b2e9f3c7",
+   "suara": "mia",
+   "teks": "Ini bukan sekadar mitos.",
+   "dibaca": "Ini bukan sekadar mitos.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/c6b9b2e9f3c7.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cd872d5627b6",
+   "suara": "mia",
+   "teks": "Faktanya justru sebaliknya.",
+   "dibaca": "Faktanya justru sebaliknya.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/cd872d5627b6.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c00f3ac6562e",
+   "suara": "mia",
+   "teks": "Coba bayangkan sebentar.",
+   "dibaca": "Coba bayangkan sebentar.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/c00f3ac6562e.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8202280270aa",
+   "suara": "mia",
+   "teks": "Analoginya seperti ini.",
+   "dibaca": "Analoginya seperti ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/8202280270aa.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6531604d58da",
+   "suara": "mia",
+   "teks": "Tapi ceritanya belum berhenti di sini.",
+   "dibaca": "Tapi ceritanya belum berhenti di sini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/6531604d58da.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0504030fe420",
+   "suara": "mia",
+   "teks": "Ini dia fakta pentingnya.",
+   "dibaca": "Ini dia fakta pentingnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0504030fe420.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "00a6119f6e89",
+   "suara": "mia",
+   "teks": "Apakah ini bisa dicegah?",
+   "dibaca": "Apakah ini bisa dicegah?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/00a6119f6e89.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4fae113aadd0",
+   "suara": "mia",
+   "teks": "Siapa yang pertama kali menemukannya?",
+   "dibaca": "Siapa yang pertama kali menemukannya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/4fae113aadd0.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5df68852d38f",
+   "suara": "mia",
+   "teks": "Dari sinilah semuanya bermula.",
+   "dibaca": "Dari sinilah semuanya bermula.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/5df68852d38f.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c066a44a2428",
+   "suara": "mia",
+   "teks": "Ini benar-benar mengejutkan.",
+   "dibaca": "Ini benar-benar mengejutkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/c066a44a2428.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0b7a89da3187",
+   "suara": "mia",
+   "teks": "Benar-benar desain yang sempurna.",
+   "dibaca": "Benar-benar desain yang sempurna.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0b7a89da3187.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2bfc5927c261",
+   "suara": "mia",
+   "teks": "Ini bukan kebetulan semata.",
+   "dibaca": "Ini bukan kebetulan semata.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2bfc5927c261.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
