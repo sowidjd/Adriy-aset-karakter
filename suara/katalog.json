@@ -50866,6 +50866,201 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "eaae99c089b1",
+   "suara": "mia",
+   "teks": "Kuncinya ada pada keseimbangan.",
+   "dibaca": "Kuncinya ada pada keseimbangan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/eaae99c089b1.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c5f6457fa06d",
+   "suara": "mia",
+   "teks": "Istilah ini berasal dari bahasa Yunani.",
+   "dibaca": "Istilah ini berasal dari bahasa Yunani.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c5f6457fa06d.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f4c7706a281b",
+   "suara": "mia",
+   "teks": "Tapi, apakah hasilnya selalu sama?",
+   "dibaca": "Tapi, apakah hasilnya selalu sama?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/f4c7706a281b.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2ca4798562a7",
+   "suara": "mia",
+   "teks": "Yang ini benar-benar bikin kaget.",
+   "dibaca": "Yang ini benar-benar bikin kaget.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/2ca4798562a7.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bf39e6afe126",
+   "suara": "mia",
+   "teks": "Tubuh manusia memang luar biasa.",
+   "dibaca": "Tubuh manusia memang luar biasa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/bf39e6afe126.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "44504df2fc2c",
+   "suara": "mia",
+   "teks": "Otak kita benar-benar mengagumkan.",
+   "dibaca": "Otak kita benar-benar mengagumkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/44504df2fc2c.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d426b2a7b465",
+   "suara": "mia",
+   "teks": "Ada yang tidak beres di sini.",
+   "dibaca": "Ada yang tidak beres di sini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d426b2a7b465.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8a4fb7139f7b",
+   "suara": "mia",
+   "teks": "Rasanya pengin protes, tapi ke siapa?",
+   "dibaca": "Rasanya pengin protes, tapi ke siapa?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/8a4fb7139f7b.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a5ff8cc5a48f",
+   "suara": "mia",
+   "teks": "Tubuh kita memang suka bikin kejutan.",
+   "dibaca": "Tubuh kita memang suka bikin kejutan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a5ff8cc5a48f.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ab993d1f1253",
+   "suara": "mia",
+   "teks": "Yang perlu digarisbawahi adalah ini.",
+   "dibaca": "Yang perlu digarisbawahi adalah ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ab993d1f1253.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a320fb8b8a29",
+   "suara": "mia",
+   "teks": "Ini bukan soal benar atau salah.",
+   "dibaca": "Ini bukan soal benar atau salah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a320fb8b8a29.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a4da93ea70d2",
+   "suara": "mia",
+   "teks": "Ini yang sering disalahpahami.",
+   "dibaca": "Ini yang sering disalahpahami.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a4da93ea70d2.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0ca8f4df489c",
+   "suara": "mia",
+   "teks": "Hal mustahil hanya belum pernah dicoba.",
+   "dibaca": "Hal mustahil hanya belum pernah dicoba.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0ca8f4df489c.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
