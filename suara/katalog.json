@@ -67035,6 +67035,66 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a6f9fe8605c3",
+   "suara": "adriy",
+   "teks": "Satu perubahan kecil bisa memicu efek yang besar.",
+   "dibaca": "Satu perubahan kecil bisa memicu efek yang besar.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/a6f9fe8605c3.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "596709ac3cf4",
+   "suara": "adriy",
+   "teks": "Ternyata, otak kita yang mengatur semuanya.",
+   "dibaca": "Ternyata, otak kita yang mengatur semuanya.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/596709ac3cf4.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4a897f6e2bd8",
+   "suara": "adriy",
+   "teks": "Semakin sering dilakukan, semakin kuat efeknya.",
+   "dibaca": "Semakin sering dilakukan, semakin kuat efeknya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/4a897f6e2bd8.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9ad52bc78e50",
+   "suara": "adriy",
+   "teks": "Gampangnya, bayangkan seperti lampu yang dinyalakan dan dimatikan.",
+   "dibaca": "Gampangnya, bayangkan seperti lampu yang dinyalakan dan dimatikan.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/9ad52bc78e50.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
   }
  ]
 }
