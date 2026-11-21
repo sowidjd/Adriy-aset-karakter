@@ -48172,6 +48172,82 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0fc1f26bdd99",
+   "suara": "mia",
+   "teks": "Mungkin kamu pernah melihatnya ribuan kali, tanpa menyadarinya.",
+   "dibaca": "Mungkin kamu pernah melihatnya ribuan kali, tanpa menyadarinya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0fc1f26bdd99.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b40cfaf7a4cf",
+   "suara": "mia",
+   "teks": "Kalau ada penghargaan buat hal ini, kita semua pasti menang.",
+   "dibaca": "Kalau ada penghargaan buat hal ini, kita semua pasti menang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b40cfaf7a4cf.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "16184dda2809",
+   "suara": "mia",
+   "teks": "Setiap hari adalah kesempatan untuk memahami sesuatu yang baru.",
+   "dibaca": "Setiap hari adalah kesempatan untuk memahami sesuatu yang baru.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/16184dda2809.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c893ce09ffde",
+   "suara": "mia",
+   "teks": "Jadi semua air mata di dapur ternyata bergantung pada satu enzim kecil.",
+   "dibaca": "Jadi semua air mata di dapur ternyata bergantung pada satu enzim kecil.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/c893ce09ffde.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3ade6677ab6a",
+   "suara": "mia",
+   "teks": "Jadi lain kali matamu perih di dapur, bukan kamu yang cengeng.",
+   "dibaca": "Jadi lain kali matamu perih di dapur, bukan kamu yang cengeng.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/3ade6677ab6a.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
