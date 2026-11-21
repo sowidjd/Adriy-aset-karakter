@@ -56149,6 +56149,67 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d200753b3204",
+   "suara": "mia",
+   "teks": "Enzim kuncinya baru ditemukan tahun 2002.",
+   "dibaca": "Enzim kuncinya baru ditemukan tahun dua ribu dua.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d200753b3204.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "70fc338f0f29",
+   "suara": "mia",
+   "teks": "Ternyata, ada penjelasan menarik di balik fenomena ini.",
+   "dibaca": "Ternyata, ada penjelasan menarik di balik fenomena ini.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/70fc338f0f29.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "637d886e2bd1",
+   "suara": "mia",
+   "teks": "Bayangkan ketika kamu pertama kali mengunjungi suatu tempat",
+   "dibaca": "Bayangkan ketika kamu pertama kali mengunjungi suatu tempat",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/637d886e2bd1.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9cabea305559",
+   "suara": "mia",
+   "teks": "Tapi ternyata, kejadian ini bukan sekadar karena kamu pelupa.",
+   "dibaca": "Tapi ternyata, kejadian ini bukan sekadar karena kamu pelupa.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/9cabea305559.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
