@@ -46708,6 +46708,278 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9b8f49dda412",
+   "suara": "mia",
+   "teks": "Inilah awal dari sesuatu yang jauh lebih besar.",
+   "dibaca": "Inilah awal dari sesuatu yang jauh lebih besar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9b8f49dda412.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d3b3607f037f",
+   "suara": "mia",
+   "teks": "Siapa yang sering begini? Ngaku aja.",
+   "dibaca": "Siapa yang sering begini? Ngaku aja.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/mia/d3b3607f037f.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "47902d0dead2",
+   "suara": "mia",
+   "teks": "Dan ya, ini sains, bukan sulap.",
+   "dibaca": "Dan ya, ini sains, bukan sulap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/47902d0dead2.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f76c39690374",
+   "suara": "mia",
+   "teks": "Santai saja, ini normal, kok.",
+   "dibaca": "Santai saja, ini normal, kok.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/mia/f76c39690374.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "61f7240dab9f",
+   "suara": "mia",
+   "teks": "Siapa sangka, hal sepele ini ada penelitiannya?",
+   "dibaca": "Siapa sangka, hal sepele ini ada penelitiannya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/61f7240dab9f.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2c2bfd4c8dfc",
+   "suara": "mia",
+   "teks": "Jangan dicoba di rumah, eh, sebenarnya boleh, sih.",
+   "dibaca": "Jangan dicoba di rumah, eh, sebenarnya boleh, sih.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2c2bfd4c8dfc.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7efa189a370f",
+   "suara": "mia",
+   "teks": "Sebenarnya, nggak ada yang perlu dikhawatirkan.",
+   "dibaca": "Sebenarnya, nggak ada yang perlu dikhawatirkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/7efa189a370f.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3d7321a27671",
+   "suara": "mia",
+   "teks": "Mungkin, itu yang membuat kita tetap bertahan.",
+   "dibaca": "Mungkin, itu yang membuat kita tetap bertahan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3d7321a27671.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "162eb49e5f83",
+   "suara": "mia",
+   "teks": "Semua perjuangan itu akhirnya terbayar.",
+   "dibaca": "Semua perjuangan itu akhirnya terbayar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/162eb49e5f83.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "daef46a614db",
+   "suara": "mia",
+   "teks": "Kita hanya manusia, dan itu tidak apa-apa.",
+   "dibaca": "Kita hanya manusia, dan itu tidak apa-apa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/daef46a614db.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "24a8b643fbfd",
+   "suara": "mia",
+   "teks": "Jadi, anggapan itu tidak sepenuhnya tepat.",
+   "dibaca": "Jadi, anggapan itu tidak sepenuhnya tepat.",
+   "fungsi": [
+    "membantah asumsi",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/24a8b643fbfd.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "665ea1acd5d4",
+   "suara": "mia",
+   "teks": "Percaya pada dirimu sendiri, itu langkah pertama.",
+   "dibaca": "Percaya pada dirimu sendiri, itu langkah pertama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/665ea1acd5d4.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c636d7584fa6",
+   "suara": "mia",
+   "teks": "Singkatnya, ini adalah cara tubuh melindungi diri.",
+   "dibaca": "Singkatnya, ini adalah cara tubuh melindungi diri.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/c636d7584fa6.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "10e737a89100",
+   "suara": "mia",
+   "teks": "Dan itulah satu lagi rahasia kecil dari kehidupan kita.",
+   "dibaca": "Dan itulah satu lagi rahasia kecil dari kehidupan kita.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/10e737a89100.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b2418dd32350",
+   "suara": "mia",
+   "teks": "Ingat, setiap pertanyaan layak dicari jawabannya.",
+   "dibaca": "Ingat, setiap pertanyaan layak dicari jawabannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b2418dd32350.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5c9eb488cd05",
+   "suara": "mia",
+   "teks": "Semoga hari-harimu makin penuh rasa ingin tahu.",
+   "dibaca": "Semoga hari-harimu makin penuh rasa ingin tahu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5c9eb488cd05.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "43a044cb89f2",
+   "suara": "mia",
+   "teks": "Tapi dengan membuat lebih banyak momen yang layak untuk diingat.",
+   "dibaca": "Tapi dengan membuat lebih banyak momen yang layak untuk diingat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/43a044cb89f2.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "00d1f0973a95",
+   "suara": "mia",
+   "teks": "Tidak harus sempurna untuk memulai sesuatu yang berarti.",
+   "dibaca": "Tidak harus sempurna untuk memulai sesuatu yang berarti.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/00d1f0973a95.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
