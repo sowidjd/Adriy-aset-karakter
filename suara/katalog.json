@@ -55773,6 +55773,382 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6a05f93e46f9",
+   "suara": "mia",
+   "teks": "Kita selama ini mengira begitu, padahal kenyataannya berbeda.",
+   "dibaca": "Kita selama ini mengira begitu, padahal kenyataannya berbeda.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/6a05f93e46f9.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "41ce97d267cb",
+   "suara": "mia",
+   "teks": "Fakta ini kedengarannya seperti lelucon, tapi nyata.",
+   "dibaca": "Fakta ini kedengarannya seperti lelucon, tapi nyata.",
+   "fungsi": [
+    "memberikan analogi",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/41ce97d267cb.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7c8183ef207d",
+   "suara": "mia",
+   "teks": "Hal sepele ini ternyata menyimpan cerita yang panjang.",
+   "dibaca": "Hal sepele ini ternyata menyimpan cerita yang panjang.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/7c8183ef207d.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0c354a26b3ad",
+   "suara": "mia",
+   "teks": "Ini mungkin hal paling biasa yang ternyata paling sering disalahpahami.",
+   "dibaca": "Ini mungkin hal paling biasa yang ternyata paling sering disalahpahami.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/0c354a26b3ad.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b21a7b94ecea",
+   "suara": "mia",
+   "teks": "Banyak yang percaya ini benar, tapi sains berkata lain.",
+   "dibaca": "Banyak yang percaya ini benar, tapi sains berkata lain.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b21a7b94ecea.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ed200bc63350",
+   "suara": "mia",
+   "teks": "Sesuatu yang kamu anggap biasa, ternyata luar biasa.",
+   "dibaca": "Sesuatu yang kamu anggap biasa, ternyata luar biasa.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/ed200bc63350.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "27d4c328cfcd",
+   "suara": "mia",
+   "teks": "Kalau kamu pikir kamu tahu jawabannya, tunggu dulu.",
+   "dibaca": "Kalau kamu pikir kamu tahu jawabannya, tunggu dulu.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/27d4c328cfcd.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a2b47dfa1f86",
+   "suara": "mia",
+   "teks": "Dalam satu menit ke depan, kamu akan tahu jawabannya.",
+   "dibaca": "Dalam satu menit ke depan, kamu akan tahu jawabannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a2b47dfa1f86.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "78a147153ff9",
+   "suara": "mia",
+   "teks": "Ketika keseimbangan itu terganggu, masalah mulai muncul.",
+   "dibaca": "Ketika keseimbangan itu terganggu, masalah mulai muncul.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/78a147153ff9.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "851864eed341",
+   "suara": "mia",
+   "teks": "Penjelasan ini masih berupa teori yang paling banyak diterima.",
+   "dibaca": "Penjelasan ini masih berupa teori yang paling banyak diterima.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/851864eed341.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "27feded3f64d",
+   "suara": "mia",
+   "teks": "Satu perubahan kecil bisa memicu rangkaian reaksi.",
+   "dibaca": "Satu perubahan kecil bisa memicu rangkaian reaksi.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/27feded3f64d.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2f8c19b3a8bb",
+   "suara": "mia",
+   "teks": "Bayangkan, semua itu terjadi tanpa kita sadari!",
+   "dibaca": "Bayangkan, semua itu terjadi tanpa kita sadari!",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/2f8c19b3a8bb.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a9783264ca5a",
+   "suara": "mia",
+   "teks": "Dan yang lebih gila lagi, ini terjadi setiap hari.",
+   "dibaca": "Dan yang lebih gila lagi, ini terjadi setiap hari.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a9783264ca5a.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "228063d51ac9",
+   "suara": "mia",
+   "teks": "Semakin lama, situasinya semakin genting.",
+   "dibaca": "Semakin lama, situasinya semakin genting.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/228063d51ac9.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "99f8421ea480",
+   "suara": "mia",
+   "teks": "Satu kesalahan kecil bisa berakibat fatal.",
+   "dibaca": "Satu kesalahan kecil bisa berakibat fatal.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/99f8421ea480.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "61057ad62e93",
+   "suara": "mia",
+   "teks": "Ini dia, misteri yang selama ini bikin kita bingung.",
+   "dibaca": "Ini dia, misteri yang selama ini bikin kita bingung.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/61057ad62e93.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d003514a3bca",
+   "suara": "mia",
+   "teks": "Kadang, kita lupa bahwa semuanya butuh proses.",
+   "dibaca": "Kadang, kita lupa bahwa semuanya butuh proses.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d003514a3bca.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "358ae059fe3c",
+   "suara": "mia",
+   "teks": "Hal yang terlihat biasa, ternyata menyimpan banyak cerita.",
+   "dibaca": "Hal yang terlihat biasa, ternyata menyimpan banyak cerita.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/358ae059fe3c.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c11812632c71",
+   "suara": "mia",
+   "teks": "Sekarang, kamu punya satu fakta baru untuk dibagikan.",
+   "dibaca": "Sekarang, kamu punya satu fakta baru untuk dibagikan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c11812632c71.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0603a728f7c6",
+   "suara": "mia",
+   "teks": "Dan ternyata, prinsip yang sama juga berlaku di tempat lain.",
+   "dibaca": "Dan ternyata, prinsip yang sama juga berlaku di tempat lain.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/0603a728f7c6.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "da057f30173a",
+   "suara": "mia",
+   "teks": "Mirip seperti GPS yang kehilangan sinyal.",
+   "dibaca": "Mirip seperti ji pi es yang kehilangan sinyal.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/da057f30173a.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0460db4b1f6d",
+   "suara": "mia",
+   "teks": "Kira-kira seperti menyimpan file di tempat yang salah.",
+   "dibaca": "Kira-kira seperti menyimpan file di tempat yang salah.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/0460db4b1f6d.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b955614199ac",
+   "suara": "mia",
+   "teks": "Cara kedua, saat kita mengingatnya kembali.",
+   "dibaca": "Cara kedua, saat kita mengingatnya kembali.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b955614199ac.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9cb73a59c6ca",
+   "suara": "mia",
+   "teks": "Makin dewasa, makin banyak hari yang mirip satu sama lain.",
+   "dibaca": "Makin dewasa, makin banyak hari yang mirip satu sama lain.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/9cb73a59c6ca.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7dd916c8df14",
+   "suara": "mia",
+   "teks": "Tapi kenapa bawang repot-repot bikin senjata?",
+   "dibaca": "Tapi kenapa bawang repot-repot bikin senjata?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/7dd916c8df14.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
