@@ -58008,6 +58008,97 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "379a76f872b8",
+   "suara": "mia",
+   "teks": "Wajar kalau kita kira bawang memang pedas dari sananya. Padahal, bawang utuh itu aman.",
+   "dibaca": "Wajar kalau kita kira bawang memang pedas dari sananya. Padahal, bawang utuh itu aman.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/379a76f872b8.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9c862aab571a",
+   "suara": "mia",
+   "teks": "Bawang putih malah menghasilkan allicin, zat yang membuat aromanya tajam khas bawang putih.",
+   "dibaca": "Bawang putih malah menghasilkan alisin, zat yang membuat aromanya tajam khas bawang putih.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9c862aab571a.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a41bb0ce8b5c",
+   "suara": "mia",
+   "teks": "Bayangkan seekor hewan menggigit bawang di dalam tanah, lalu matanya langsung perih.",
+   "dibaca": "Bayangkan seekor hewan menggigit bawang di dalam tanah, lalu matanya langsung perih.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/a41bb0ce8b5c.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "010b79edd7d8",
+   "suara": "mia",
+   "teks": "Pernah terpikir bagaimana sesuatu yang begitu kecil bisa memberikan dampak sebesar ini?",
+   "dibaca": "Pernah terpikir bagaimana sesuatu yang begitu kecil bisa memberikan dampak sebesar ini?",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/010b79edd7d8.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ded873103167",
+   "suara": "mia",
+   "teks": "Jika kita melihatnya dari sudut pandang yang berbeda, hasilnya bisa sangat mengejutkan.",
+   "dibaca": "Jika kita melihatnya dari sudut pandang yang berbeda, hasilnya bisa sangat mengejutkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/ded873103167.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "045fcbc78189",
+   "suara": "mia",
+   "teks": "Masalahnya, kita terus melakukan hal yang sama sambil berharap hasilnya berbeda.",
+   "dibaca": "Masalahnya, kita terus melakukan hal yang sama sambil berharap hasilnya berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/045fcbc78189.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
