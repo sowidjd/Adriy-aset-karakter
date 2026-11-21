@@ -68495,6 +68495,174 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a8d2149b1984",
+   "suara": "hasan",
+   "teks": "Hayo, ngaku, siapa yang pernah begini?",
+   "dibaca": "Hayo, ngaku, siapa yang pernah begini?",
+   "fungsi": [
+    "memancing rasa penasaran",
+    "mengubah suasana"
+   ],
+   "file": "suara/hasan/a8d2149b1984.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ed13066b5af1",
+   "suara": "hasan",
+   "teks": "Jangan panik dulu.",
+   "dibaca": "Jangan panik dulu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ed13066b5af1.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4677613e3bf5",
+   "suara": "hasan",
+   "teks": "Siapa yang langsung mencoba setelah dengar ini?",
+   "dibaca": "Siapa yang langsung mencoba setelah dengar ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/4677613e3bf5.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "98a4e5566401",
+   "suara": "hasan",
+   "teks": "Ya, otak kita memang kadang lucu.",
+   "dibaca": "Ya, otak kita memang kadang lucu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/98a4e5566401.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c624fc488e72",
+   "suara": "hasan",
+   "teks": "Oke, ini agak memalukan, tapi benar.",
+   "dibaca": "Oke, ini agak memalukan, tapi benar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/c624fc488e72.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "94644e5043e5",
+   "suara": "mia",
+   "teks": "Hayo, ngaku, siapa yang pernah begini?",
+   "dibaca": "Hayo, ngaku, siapa yang pernah begini?",
+   "fungsi": [
+    "memancing rasa penasaran",
+    "mengubah suasana"
+   ],
+   "file": "suara/mia/94644e5043e5.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "083f37907c2c",
+   "suara": "mia",
+   "teks": "Jangan panik dulu.",
+   "dibaca": "Jangan panik dulu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/083f37907c2c.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "55b8ccd9c48f",
+   "suara": "mia",
+   "teks": "Siapa yang langsung mencoba setelah dengar ini?",
+   "dibaca": "Siapa yang langsung mencoba setelah dengar ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/55b8ccd9c48f.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1dc56ef9320e",
+   "suara": "mia",
+   "teks": "Ya, otak kita memang kadang lucu.",
+   "dibaca": "Ya, otak kita memang kadang lucu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1dc56ef9320e.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "58a88a65c690",
+   "suara": "mia",
+   "teks": "Oke, ini agak memalukan, tapi benar.",
+   "dibaca": "Oke, ini agak memalukan, tapi benar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/58a88a65c690.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5d0224b8fd29",
+   "suara": "ongky",
+   "teks": "Hayo, ngaku, siapa yang pernah begini?",
+   "dibaca": "Hayo, ngaku, siapa yang pernah begini?",
+   "fungsi": [
+    "memancing rasa penasaran",
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/5d0224b8fd29.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
