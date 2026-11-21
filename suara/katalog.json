@@ -32593,6 +32593,190 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "347df6f67025",
+   "suara": "hasan",
+   "teks": "Semua ini berawal dari cara kerja tubuh kita.",
+   "dibaca": "Semua ini berawal dari cara kerja tubuh kita.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/347df6f67025.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "663675deed50",
+   "suara": "hasan",
+   "teks": "Menurutmu, fakta mana yang paling mengejutkan?",
+   "dibaca": "Menurutmu, fakta mana yang paling mengejutkan?",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/663675deed50.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3d8cea94539e",
+   "suara": "hasan",
+   "teks": "Kenapa hal sekecil ini bisa berdampak sebesar itu?",
+   "dibaca": "Kenapa hal sekecil ini bisa berdampak sebesar itu?",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/3d8cea94539e.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2b65be4ac33c",
+   "suara": "hasan",
+   "teks": "Apakah ini pertanda baik, atau justru sebaliknya?",
+   "dibaca": "Apakah ini pertanda baik, atau justru sebaliknya?",
+   "fungsi": [
+    "membantah asumsi",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/2b65be4ac33c.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6639b4e64dc2",
+   "suara": "hasan",
+   "teks": "Jawabannya ternyata nggak seperti yang kamu bayangkan.",
+   "dibaca": "Jawabannya ternyata nggak seperti yang kamu bayangkan.",
+   "fungsi": [
+    "memberikan analogi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/6639b4e64dc2.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0c0aca2ebfce",
+   "suara": "hasan",
+   "teks": "Jangan langsung percaya, sebelum kamu tahu faktanya.",
+   "dibaca": "Jangan langsung percaya, sebelum kamu tahu faktanya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/0c0aca2ebfce.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b655ba4cac7c",
+   "suara": "hasan",
+   "teks": "Penelitian terbaru memberikan gambaran yang lebih jelas.",
+   "dibaca": "Penelitian terbaru memberikan gambaran yang lebih jelas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b655ba4cac7c.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b55e43249621",
+   "suara": "hasan",
+   "teks": "Hasilnya menunjukkan pola yang cukup konsisten.",
+   "dibaca": "Hasilnya menunjukkan pola yang cukup konsisten.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b55e43249621.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "27bda096378f",
+   "suara": "hasan",
+   "teks": "Pada anak-anak, hal ini terjadi lebih sering.",
+   "dibaca": "Pada anak-anak, hal ini terjadi lebih sering.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/27bda096378f.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "706c768de43e",
+   "suara": "hasan",
+   "teks": "Di Indonesia, hal ini juga sering kita jumpai.",
+   "dibaca": "Di Indonesia, hal ini juga sering kita jumpai.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/706c768de43e.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d651b7bec7ac",
+   "suara": "hasan",
+   "teks": "Dan sekarang, semuanya jadi lebih masuk akal.",
+   "dibaca": "Dan sekarang, semuanya jadi lebih masuk akal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d651b7bec7ac.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6a48e571b967",
+   "suara": "hasan",
+   "teks": "Dan ternyata, itu baru sebagian kecilnya.",
+   "dibaca": "Dan ternyata, itu baru sebagian kecilnya.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/6a48e571b967.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
