@@ -65257,6 +65257,248 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "47608c2f627c",
+   "suara": "mia",
+   "teks": "Tidak ada yang menyangka.",
+   "dibaca": "Tidak ada yang menyangka.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/47608c2f627c.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8c37695e777e",
+   "suara": "mia",
+   "teks": "Semua orang terdiam.",
+   "dibaca": "Semua orang terdiam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/8c37695e777e.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "49b240837090",
+   "suara": "mia",
+   "teks": "Hasilnya mengejutkan.",
+   "dibaca": "Hasilnya mengejutkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/49b240837090.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4015bf916f6c",
+   "suara": "mia",
+   "teks": "Dan ternyata, mereka salah.",
+   "dibaca": "Dan ternyata, mereka salah.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/4015bf916f6c.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ee96063e9a68",
+   "suara": "mia",
+   "teks": "Lalu sesuatu yang aneh terjadi.",
+   "dibaca": "Lalu sesuatu yang aneh terjadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ee96063e9a68.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4da1d82b1897",
+   "suara": "mia",
+   "teks": "Dan semuanya berubah dalam sekejap.",
+   "dibaca": "Dan semuanya berubah dalam sekejap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4da1d82b1897.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b44789feb964",
+   "suara": "ongky",
+   "teks": "Aneh, kan?",
+   "dibaca": "Aneh, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/b44789feb964.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "74be6af70a59",
+   "suara": "ongky",
+   "teks": "Siapa sangka, ya?",
+   "dibaca": "Siapa sangka, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/74be6af70a59.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "aca3e2cac32e",
+   "suara": "ongky",
+   "teks": "Ini dia.",
+   "dibaca": "Ini dia.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/aca3e2cac32e.wav",
+   "durasi": 0.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "332c02aa419c",
+   "suara": "ongky",
+   "teks": "Coba dengarkan baik-baik.",
+   "dibaca": "Coba dengarkan baik-baik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/332c02aa419c.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9044a9b2442d",
+   "suara": "ongky",
+   "teks": "Tidak ada yang menyangka.",
+   "dibaca": "Tidak ada yang menyangka.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/9044a9b2442d.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1a342c7e1a3a",
+   "suara": "ongky",
+   "teks": "Semua orang terdiam.",
+   "dibaca": "Semua orang terdiam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/1a342c7e1a3a.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4fc7b217f192",
+   "suara": "ongky",
+   "teks": "Hasilnya mengejutkan.",
+   "dibaca": "Hasilnya mengejutkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/4fc7b217f192.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8b2b9da44304",
+   "suara": "ongky",
+   "teks": "Dan ternyata, mereka salah.",
+   "dibaca": "Dan ternyata, mereka salah.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/8b2b9da44304.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b19a0fa4ebd0",
+   "suara": "ongky",
+   "teks": "Lalu sesuatu yang aneh terjadi.",
+   "dibaca": "Lalu sesuatu yang aneh terjadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/b19a0fa4ebd0.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e9292959f056",
+   "suara": "ongky",
+   "teks": "Dan semuanya berubah dalam sekejap.",
+   "dibaca": "Dan semuanya berubah dalam sekejap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/e9292959f056.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
