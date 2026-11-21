@@ -61864,6 +61864,171 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0f71366af754",
+   "suara": "mia",
+   "teks": "Di Adriy Project, pertanyaan aneh pun layak dijawab.",
+   "dibaca": "Di Adriy Project, pertanyaan aneh pun layak dijawab.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/0f71366af754.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8e3431aecbfb",
+   "suara": "mia",
+   "teks": "Di Adriy Project, setiap fakta punya ceritanya sendiri.",
+   "dibaca": "Di Adriy Project, setiap fakta punya ceritanya sendiri.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/8e3431aecbfb.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8a3bb771c5c8",
+   "suara": "mia",
+   "teks": "Kami di Adriy Project juga sempat kaget waktu pertama tahu.",
+   "dibaca": "Kami di Adriy Project juga sempat kaget waktu pertama tahu.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/8a3bb771c5c8.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3db0ba8b17cb",
+   "suara": "mia",
+   "teks": "Kalau kamu suka video seperti ini, follow Adriy Project, ya.",
+   "dibaca": "Kalau kamu suka video seperti ini, follow Adriy Project, ya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/3db0ba8b17cb.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d9d7cad2e480",
+   "suara": "mia",
+   "teks": "Di Adriy Project, kita cari tahu jawabannya bareng-bareng.",
+   "dibaca": "Di Adriy Project, kita cari tahu jawabannya bareng-bareng.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/d9d7cad2e480.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e421874ce35d",
+   "suara": "mia",
+   "teks": "Tulis di komentar, kamu pernah mengalaminya atau belum?",
+   "dibaca": "Tulis di komentar, kamu pernah mengalaminya atau belum?",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/e421874ce35d.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f56cedf3e602",
+   "suara": "mia",
+   "teks": "Komentar angka satu sampai sepuluh, seberapa kaget kamu?",
+   "dibaca": "Komentar angka satu sampai sepuluh, seberapa kaget kamu?",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/f56cedf3e602.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cfd17b1d4e79",
+   "suara": "mia",
+   "teks": "Simpan dulu, biar nanti bisa kamu tunjukkan ke teman.",
+   "dibaca": "Simpan dulu, biar nanti bisa kamu tunjukkan ke teman.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/cfd17b1d4e79.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "af55cae1bed5",
+   "suara": "mia",
+   "teks": "Kalau menurutmu ini berguna, bagikan, ya.",
+   "dibaca": "Kalau menurutmu ini berguna, bagikan, ya.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/af55cae1bed5.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "91d6c9a7f92d",
+   "suara": "mia",
+   "teks": "Follow Adriy Project, biar kamu nggak ketinggalan fakta berikutnya.",
+   "dibaca": "Follow Adriy Project, biar kamu nggak ketinggalan fakta berikutnya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/91d6c9a7f92d.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7a3740e6f9c2",
+   "suara": "mia",
+   "teks": "Follow Adriy Project kalau kamu suka belajar dengan cara santai.",
+   "dibaca": "Follow Adriy Project kalau kamu suka belajar dengan cara santai.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/7a3740e6f9c2.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
