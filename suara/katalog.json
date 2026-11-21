@@ -68663,6 +68663,21 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fa67735c04a2",
+   "suara": "adriy",
+   "teks": "Tubuh kita punya cara sendiri untuk melindungi diri.",
+   "dibaca": "Tubuh kita punya cara sendiri untuk melindungi diri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/fa67735c04a2.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
   }
  ]
 }
