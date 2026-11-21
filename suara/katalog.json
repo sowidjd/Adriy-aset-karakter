@@ -63025,6 +63025,126 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "83008dc32e04",
+   "suara": "adriy",
+   "teks": "Tapi para peneliti belum sepenuhnya memahami mengapa setiap orang merespons musik secara berbeda.",
+   "dibaca": "Tapi para peneliti belum sepenuhnya memahami mengapa setiap orang merespons musik secara berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/83008dc32e04.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e932a8872e83",
+   "suara": "adriy",
+   "teks": "Suara penyanyi naik, musik membesar, dan entah kenapa tubuhmu ikut bereaksi.",
+   "dibaca": "Suara penyanyi naik, musik membesar, dan entah kenapa tubuhmu ikut bereaksi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/e932a8872e83.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "12e7ffd0f171",
+   "suara": "adriy",
+   "teks": "Tapi ternyata, sensasi merinding itu punya nama dan bentuk respons tubuh yang bisa diamati.",
+   "dibaca": "Tapi ternyata, sensasi merinding itu punya nama dan bentuk respons tubuh yang bisa diamati.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/12e7ffd0f171.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d2ce32b30235",
+   "suara": "adriy",
+   "teks": "Ketika otot ini berkontraksi, rambut tertarik berdiri dan permukaan kulit membentuk benjolan kecil.",
+   "dibaca": "Ketika otot ini berkontraksi, rambut tertarik berdiri dan permukaan kulit membentuk benjolan kecil.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/d2ce32b30235.wav",
+   "durasi": 6.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "71588f9d022d",
+   "suara": "adriy",
+   "teks": "Nah, sekarang pertanyaannya: kalau kamu nggak sedang kedinginan, kenapa otot yang sama bisa aktif saat terharu?",
+   "dibaca": "Nah, sekarang pertanyaannya: kalau kamu nggak sedang kedinginan, kenapa otot yang sama bisa aktif saat terharu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/71588f9d022d.wav",
+   "durasi": 7.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "13c105dcb0c5",
+   "suara": "adriy",
+   "teks": "Pemandangan luar biasa, momen haru, atau sesuatu yang bikin kamu kagum juga bisa memunculkan sensasi serupa.",
+   "dibaca": "Pemandangan luar biasa, momen haru, atau sesuatu yang bikin kamu kagum juga bisa memunculkan sensasi serupa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/13c105dcb0c5.wav",
+   "durasi": 6.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9d603532eba5",
+   "suara": "adriy",
+   "teks": "Pada hewan berbulu, respons ini bisa membantu membuat tubuh tampak lebih besar atau membantu memerangkap lapisan udara untuk menjaga kehangatan.",
+   "dibaca": "Pada hewan berbulu, respons ini bisa membantu membuat tubuh tampak lebih besar atau membantu memerangkap lapisan udara untuk menjaga kehangatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/9d603532eba5.wav",
+   "durasi": 8.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b58bf012d20c",
+   "suara": "ongky",
+   "teks": "Sampai jumpa di video berikutnya.",
+   "dibaca": "Sampai jumpa di video berikutnya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/ongky/b58bf012d20c.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
