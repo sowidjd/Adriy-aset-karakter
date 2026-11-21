@@ -66718,6 +66718,202 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "da276bec1af2",
+   "suara": "mia",
+   "teks": "Tidak semua yang kita dengar itu benar.",
+   "dibaca": "Tidak semua yang kita dengar itu benar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/da276bec1af2.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "57e217845f59",
+   "suara": "mia",
+   "teks": "Belum tentu, dan ini alasannya.",
+   "dibaca": "Belum tentu, dan ini alasannya.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/57e217845f59.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "13e7108e960f",
+   "suara": "mia",
+   "teks": "Banyak yang mengira begitu, padahal tidak.",
+   "dibaca": "Banyak yang mengira begitu, padahal tidak.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/13e7108e960f.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ea679011aa62",
+   "suara": "mia",
+   "teks": "Kedengarannya logis, tapi faktanya berbeda.",
+   "dibaca": "Kedengarannya logis, tapi faktanya berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ea679011aa62.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a49119ec392d",
+   "suara": "mia",
+   "teks": "Semua ini terjadi karena satu proses kecil.",
+   "dibaca": "Semua ini terjadi karena satu proses kecil.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/a49119ec392d.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6cf7574cf1fd",
+   "suara": "mia",
+   "teks": "Ini bukan sekadar kebetulan.",
+   "dibaca": "Ini bukan sekadar kebetulan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/6cf7574cf1fd.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1ba6a79cb923",
+   "suara": "mia",
+   "teks": "Mitos ini sudah lama dipercaya, padahal keliru.",
+   "dibaca": "Mitos ini sudah lama dipercaya, padahal keliru.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/1ba6a79cb923.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f97690b3e6f0",
+   "suara": "mia",
+   "teks": "Penyebabnya ternyata ada di dalam tubuh kita sendiri.",
+   "dibaca": "Penyebabnya ternyata ada di dalam tubuh kita sendiri.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/f97690b3e6f0.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d4b34c217b45",
+   "suara": "mia",
+   "teks": "Ternyata, anggapan itu cuma setengah benar.",
+   "dibaca": "Ternyata, anggapan itu cuma setengah benar.",
+   "fungsi": [
+    "membantah asumsi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/d4b34c217b45.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "63638f99afcf",
+   "suara": "mia",
+   "teks": "Akibatnya, tubuh bereaksi tanpa kita sadari.",
+   "dibaca": "Akibatnya, tubuh bereaksi tanpa kita sadari.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/63638f99afcf.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dbbfba6e4c5e",
+   "suara": "ongky",
+   "teks": "Itulah kenapa hal ini lebih sering terjadi di malam hari.",
+   "dibaca": "Itulah kenapa hal ini lebih sering terjadi di malam hari.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/dbbfba6e4c5e.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a9f80be899c0",
+   "suara": "ongky",
+   "teks": "Tidak semua yang kita dengar itu benar.",
+   "dibaca": "Tidak semua yang kita dengar itu benar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/a9f80be899c0.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0d028a2c083f",
+   "suara": "ongky",
+   "teks": "Belum tentu, dan ini alasannya.",
+   "dibaca": "Belum tentu, dan ini alasannya.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/0d028a2c083f.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
