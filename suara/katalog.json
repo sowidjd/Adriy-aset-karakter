@@ -41813,6 +41813,231 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3dbb6783966c",
+   "suara": "hasan",
+   "teks": "Oke, oke.",
+   "dibaca": "Oke, oke.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3dbb6783966c.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e05f704d5685",
+   "suara": "hasan",
+   "teks": "Ah, masuk akal.",
+   "dibaca": "Ah, masuk akal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e05f704d5685.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "87c98891e911",
+   "suara": "hasan",
+   "teks": "Hah, serius?",
+   "dibaca": "Hah, serius?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/87c98891e911.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bddb9d48fc14",
+   "suara": "hasan",
+   "teks": "Fenomena ini juga punya saudara dekat.",
+   "dibaca": "Fenomena ini juga punya saudara dekat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/bddb9d48fc14.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d9e89fbba82a",
+   "suara": "hasan",
+   "teks": "Siapa yang tidak pernah mengalaminya?",
+   "dibaca": "Siapa yang tidak pernah mengalaminya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/d9e89fbba82a.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7b73c3d55972",
+   "suara": "hasan",
+   "teks": "Semua ini berawal dari sebuah kebetulan.",
+   "dibaca": "Semua ini berawal dari sebuah kebetulan.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/7b73c3d55972.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9b76fb74d504",
+   "suara": "hasan",
+   "teks": "Ada satu kisah yang jarang diceritakan.",
+   "dibaca": "Ada satu kisah yang jarang diceritakan.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/9b76fb74d504.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b9cddf65281b",
+   "suara": "hasan",
+   "teks": "Lalu, apa bedanya dengan kita?",
+   "dibaca": "Lalu, apa bedanya dengan kita?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/b9cddf65281b.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4fea1c8268fd",
+   "suara": "hasan",
+   "teks": "Seperti rem darurat yang tiba-tiba ditarik.",
+   "dibaca": "Seperti rem darurat yang tiba-tiba ditarik.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/4fea1c8268fd.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "35796d0ee3e1",
+   "suara": "hasan",
+   "teks": "Semua berawal dari rasa ingin tahu.",
+   "dibaca": "Semua berawal dari rasa ingin tahu.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/35796d0ee3e1.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "45903ec7cff6",
+   "suara": "hasan",
+   "teks": "Dan ingat, oh, ternyata begitu.",
+   "dibaca": "Dan ingat, oh, ternyata begitu.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/45903ec7cff6.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "eaf85bfc7ab7",
+   "suara": "hasan",
+   "teks": "Hal yang sama juga terjadi di dunia hewan.",
+   "dibaca": "Hal yang sama juga terjadi di dunia hewan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/eaf85bfc7ab7.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "803225c491ad",
+   "suara": "hasan",
+   "teks": "Ini mirip dengan yang terjadi pada tubuh kita.",
+   "dibaca": "Ini mirip dengan yang terjadi pada tubuh kita.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/803225c491ad.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b3aabb5a11ff",
+   "suara": "hasan",
+   "teks": "Dari sini, kita bisa melihat benang merahnya.",
+   "dibaca": "Dari sini, kita bisa melihat benang merahnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b3aabb5a11ff.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f4028bed8d0c",
+   "suara": "hasan",
+   "teks": "Ibaratnya seperti baterai yang hampir habis.",
+   "dibaca": "Ibaratnya seperti baterai yang hampir habis.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/f4028bed8d0c.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
