@@ -66356,6 +66356,21 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "40e9d9fec0b1",
+   "suara": "ongky",
+   "teks": "Dan yang lebih aneh lagi, ini terjadi pada hampir semua orang.",
+   "dibaca": "Dan yang lebih aneh lagi, ini terjadi pada hampir semua orang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/40e9d9fec0b1.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
