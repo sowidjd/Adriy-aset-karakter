@@ -69807,6 +69807,323 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "17bce0f248e3",
+   "suara": "adriy",
+   "teks": "Alam punya caranya sendiri untuk menjaga keseimbangan.",
+   "dibaca": "Alam punya caranya sendiri untuk menjaga keseimbangan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/17bce0f248e3.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "629d6f68a8dd",
+   "suara": "adriy",
+   "teks": "Di luar angkasa, aturannya ternyata sangat berbeda.",
+   "dibaca": "Di luar angkasa, aturannya ternyata sangat berbeda.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/629d6f68a8dd.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "288fb9f5a315",
+   "suara": "adriy",
+   "teks": "Planet kita ternyata tidak sebulat yang kita kira.",
+   "dibaca": "Planet kita ternyata tidak sebulat yang kita kira.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/288fb9f5a315.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "56b60ddae233",
+   "suara": "adriy",
+   "teks": "Cahaya yang kita lihat ternyata sudah berangkat lama sekali.",
+   "dibaca": "Cahaya yang kita lihat ternyata sudah berangkat lama sekali.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/56b60ddae233.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "21eb6810dbad",
+   "suara": "adriy",
+   "teks": "Cuaca bisa berubah karena hal yang sangat kecil.",
+   "dibaca": "Cuaca bisa berubah karena hal yang sangat kecil.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/21eb6810dbad.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "40a438236494",
+   "suara": "adriy",
+   "teks": "Lautan masih menyimpan banyak misteri.",
+   "dibaca": "Lautan masih menyimpan banyak misteri.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/40a438236494.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0b4a0c9ca1ff",
+   "suara": "adriy",
+   "teks": "Matahari jauh lebih besar dari yang bisa kita bayangkan.",
+   "dibaca": "Matahari jauh lebih besar dari yang bisa kita bayangkan.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/0b4a0c9ca1ff.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5d1d53622e70",
+   "suara": "adriy",
+   "teks": "Bumi terus bergerak, walaupun kita tidak merasakannya.",
+   "dibaca": "Bumi terus bergerak, walaupun kita tidak merasakannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/5d1d53622e70.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0c679cd71287",
+   "suara": "adriy",
+   "teks": "Alam semesta ternyata jauh lebih luas dari dugaan para ilmuwan dulu.",
+   "dibaca": "Alam semesta ternyata jauh lebih luas dari dugaan para ilmuwan dulu.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/0c679cd71287.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "20a4935d85f3",
+   "suara": "adriy",
+   "teks": "Tanpa fenomena ini, kehidupan di Bumi akan sangat berbeda.",
+   "dibaca": "Tanpa fenomena ini, kehidupan di Bumi akan sangat berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/20a4935d85f3.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "13a0d90c2423",
+   "suara": "adriy",
+   "teks": "Hewan ini punya kemampuan yang tidak dimiliki manusia.",
+   "dibaca": "Hewan ini punya kemampuan yang tidak dimiliki manusia.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/13a0d90c2423.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "65297543bb45",
+   "suara": "adriy",
+   "teks": "Ternyata, hewan juga bisa merasakan hal yang mirip dengan kita.",
+   "dibaca": "Ternyata, hewan juga bisa merasakan hal yang mirip dengan kita.",
+   "fungsi": [
+    "memberikan analogi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/65297543bb45.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "44c4d7ad5e10",
+   "suara": "adriy",
+   "teks": "Cara hewan ini bertahan hidup benar-benar unik.",
+   "dibaca": "Cara hewan ini bertahan hidup benar-benar unik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/44c4d7ad5e10.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e744fc22f0c5",
+   "suara": "adriy",
+   "teks": "Hewan kecil ini ternyata sangat penting bagi alam.",
+   "dibaca": "Hewan kecil ini ternyata sangat penting bagi alam.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/e744fc22f0c5.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cce124524515",
+   "suara": "adriy",
+   "teks": "Para peneliti masih terus mempelajari perilaku hewan ini.",
+   "dibaca": "Para peneliti masih terus mempelajari perilaku hewan ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/cce124524515.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4310cbd64c1d",
+   "suara": "adriy",
+   "teks": "Di alam liar, kemampuan ini sangat berguna untuk bertahan hidup.",
+   "dibaca": "Di alam liar, kemampuan ini sangat berguna untuk bertahan hidup.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/4310cbd64c1d.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "77af38a5dc77",
+   "suara": "adriy",
+   "teks": "Hewan ini sudah ada jauh sebelum manusia muncul.",
+   "dibaca": "Hewan ini sudah ada jauh sebelum manusia muncul.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/77af38a5dc77.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "32f86c87ecd1",
+   "suara": "adriy",
+   "teks": "Tubuhnya kecil, tapi kemampuannya luar biasa.",
+   "dibaca": "Tubuhnya kecil, tapi kemampuannya luar biasa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/32f86c87ecd1.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0ac25d2cb44a",
+   "suara": "adriy",
+   "teks": "Pengeluaran kecil yang rutin bisa jadi besar kalau dijumlahkan.",
+   "dibaca": "Pengeluaran kecil yang rutin bisa jadi besar kalau dijumlahkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/0ac25d2cb44a.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "68bb0b502f0c",
+   "suara": "adriy",
+   "teks": "Diskon tidak selalu berarti hemat.",
+   "dibaca": "Diskon tidak selalu berarti hemat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/68bb0b502f0c.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6e5281aef1e7",
+   "suara": "adriy",
+   "teks": "Otak kita lebih senang menerima sekarang daripada nanti.",
+   "dibaca": "Otak kita lebih senang menerima sekarang daripada nanti.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/6e5281aef1e7.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
   }
  ]
 }
