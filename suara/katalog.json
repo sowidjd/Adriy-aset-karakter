@@ -49214,6 +49214,231 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5ac55df3daff",
+   "suara": "mia",
+   "teks": "Waduh!",
+   "dibaca": "Waduh!",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5ac55df3daff.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3da6eb060e7c",
+   "suara": "mia",
+   "teks": "Nah, kan.",
+   "dibaca": "Nah, kan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3da6eb060e7c.wav",
+   "durasi": 0.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a398d62aea6e",
+   "suara": "mia",
+   "teks": "Ya, betul.",
+   "dibaca": "Ya, betul.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a398d62aea6e.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9881f456a8db",
+   "suara": "mia",
+   "teks": "Mantap!",
+   "dibaca": "Mantap!",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9881f456a8db.wav",
+   "durasi": 0.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7bd2f82cdb0b",
+   "suara": "mia",
+   "teks": "Serius?",
+   "dibaca": "Serius?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/7bd2f82cdb0b.wav",
+   "durasi": 0.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "70c72f088162",
+   "suara": "mia",
+   "teks": "Faktanya jelas.",
+   "dibaca": "Faktanya jelas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/70c72f088162.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "aa1889a2a866",
+   "suara": "mia",
+   "teks": "Percaya pada prosesnya.",
+   "dibaca": "Percaya pada prosesnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/aa1889a2a866.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ba4dfec5db90",
+   "suara": "mia",
+   "teks": "Wow!",
+   "dibaca": "Wow!",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/ba4dfec5db90.wav",
+   "durasi": 0.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "968354a353e1",
+   "suara": "mia",
+   "teks": "Yang benar?",
+   "dibaca": "Yang benar?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/968354a353e1.wav",
+   "durasi": 0.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e8050694b0ce",
+   "suara": "mia",
+   "teks": "Gila!",
+   "dibaca": "Gila!",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/e8050694b0ce.wav",
+   "durasi": 0.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "97e1fd3cc221",
+   "suara": "mia",
+   "teks": "Astaga!",
+   "dibaca": "Astaga!",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/97e1fd3cc221.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8ea5f6ac59f2",
+   "suara": "mia",
+   "teks": "Ternyata!",
+   "dibaca": "Ternyata!",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/8ea5f6ac59f2.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "04786abd177e",
+   "suara": "mia",
+   "teks": "Ini bagian yang paling penting.",
+   "dibaca": "Ini bagian yang paling penting.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/04786abd177e.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ee7a507c891a",
+   "suara": "mia",
+   "teks": "Ih, serem.",
+   "dibaca": "Ih, serem.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ee7a507c891a.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "85cd717d9305",
+   "suara": "mia",
+   "teks": "Hebat banget!",
+   "dibaca": "Hebat banget!",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/85cd717d9305.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
