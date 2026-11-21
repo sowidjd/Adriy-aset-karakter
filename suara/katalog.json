@@ -35096,6 +35096,202 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9e0d86d27e65",
+   "suara": "hasan",
+   "teks": "Data menunjukkan bahwa hal ini cukup umum terjadi.",
+   "dibaca": "Data menunjukkan bahwa hal ini cukup umum terjadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/9e0d86d27e65.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5099956badc1",
+   "suara": "hasan",
+   "teks": "Sampai sekarang, para ahli belum sepenuhnya sepakat.",
+   "dibaca": "Sampai sekarang, para ahli belum sepenuhnya sepakat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/5099956badc1.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d22f27f29d82",
+   "suara": "hasan",
+   "teks": "Sederhananya, otak sedang mencoba menghemat energi.",
+   "dibaca": "Sederhananya, otak sedang mencoba menghemat energi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d22f27f29d82.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7029416dd855",
+   "suara": "hasan",
+   "teks": "Mirip seperti alarm yang berbunyi terlalu cepat.",
+   "dibaca": "Mirip seperti alarm yang berbunyi terlalu cepat.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/7029416dd855.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dbd774d44ec2",
+   "suara": "hasan",
+   "teks": "Seiring bertambahnya usia, prosesnya mulai berubah.",
+   "dibaca": "Seiring bertambahnya usia, prosesnya mulai berubah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/dbd774d44ec2.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "13043437b07c",
+   "suara": "hasan",
+   "teks": "Semua berjalan lancar, sampai sesuatu yang tak terduga terjadi.",
+   "dibaca": "Semua berjalan lancar, sampai sesuatu yang tak terduga terjadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/13043437b07c.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "58fba6084795",
+   "suara": "hasan",
+   "teks": "Padahal, beberapa detik yang lalu kamu masih ingat dengan jelas.",
+   "dibaca": "Padahal, beberapa detik yang lalu kamu masih ingat dengan jelas.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/58fba6084795.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3243501a0983",
+   "suara": "hasan",
+   "teks": "Hal yang terlihat sederhana ternyata menyimpan proses yang cukup rumit.",
+   "dibaca": "Hal yang terlihat sederhana ternyata menyimpan proses yang cukup rumit.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/3243501a0983.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fbdcad48646a",
+   "suara": "hasan",
+   "teks": "Kabar baiknya, masih ada cara untuk memahami dan mengatasi masalah ini.",
+   "dibaca": "Kabar baiknya, masih ada cara untuk memahami dan mengatasi masalah ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/fbdcad48646a.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6fbfde56409c",
+   "suara": "hasan",
+   "teks": "Jawabannya ternyata tersembunyi di tempat yang tidak pernah kita duga.",
+   "dibaca": "Jawabannya ternyata tersembunyi di tempat yang tidak pernah kita duga.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/6fbfde56409c.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e511f1759c6f",
+   "suara": "hasan",
+   "teks": "Dan rahasia sebenarnya baru akan terungkap setelah kita memahami bagian ini.",
+   "dibaca": "Dan rahasia sebenarnya baru akan terungkap setelah kita memahami bagian ini.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/e511f1759c6f.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f1ae6b5651c6",
+   "suara": "hasan",
+   "teks": "Ada satu pertanyaan sederhana yang ternyata jawabannya rumit.",
+   "dibaca": "Ada satu pertanyaan sederhana yang ternyata jawabannya rumit.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/f1ae6b5651c6.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e9ee657f9398",
+   "suara": "hasan",
+   "teks": "Hasil akhirnya bergantung pada bagaimana prosesnya berjalan.",
+   "dibaca": "Hasil akhirnya bergantung pada bagaimana prosesnya berjalan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e9ee657f9398.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
