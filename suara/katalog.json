@@ -42218,6 +42218,201 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2050a8b28cd1",
+   "suara": "hasan",
+   "teks": "Ini juga menjelaskan hal lain yang sering kita alami.",
+   "dibaca": "Ini juga menjelaskan hal lain yang sering kita alami.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/2050a8b28cd1.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a855fe08ffd8",
+   "suara": "hasan",
+   "teks": "Kita mulai dari sebuah kejadian yang mungkin kamu kenal.",
+   "dibaca": "Kita mulai dari sebuah kejadian yang mungkin kamu kenal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/a855fe08ffd8.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6cc048260017",
+   "suara": "hasan",
+   "teks": "Semuanya dimulai di sebuah laboratorium kecil.",
+   "dibaca": "Semuanya dimulai di sebuah laboratorium kecil.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/6cc048260017.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "96bb8102899d",
+   "suara": "hasan",
+   "teks": "Pagi itu, semuanya terlihat normal.",
+   "dibaca": "Pagi itu, semuanya terlihat normal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/96bb8102899d.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0a202ab91ca5",
+   "suara": "hasan",
+   "teks": "Ibarat air yang selalu mencari tempat yang lebih rendah.",
+   "dibaca": "Ibarat air yang selalu mencari tempat yang lebih rendah.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/0a202ab91ca5.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8bb76a06f677",
+   "suara": "hasan",
+   "teks": "Dunia ini memang penuh kejutan, kalau kita mau memperhatikan.",
+   "dibaca": "Dunia ini memang penuh kejutan, kalau kita mau memperhatikan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/8bb76a06f677.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5413a782a558",
+   "suara": "hasan",
+   "teks": "Mungkin, itu sebabnya kita perlu lebih sering bertanya.",
+   "dibaca": "Mungkin, itu sebabnya kita perlu lebih sering bertanya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/5413a782a558.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "af4c7ddf7ef3",
+   "suara": "hasan",
+   "teks": "Pada suatu hari, seseorang menyadari sesuatu yang aneh.",
+   "dibaca": "Pada suatu hari, seseorang menyadari sesuatu yang aneh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/af4c7ddf7ef3.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "85ecbe7eeb52",
+   "suara": "hasan",
+   "teks": "Bayangkan, kamu sedang menjalani hari seperti biasa.",
+   "dibaca": "Bayangkan, kamu sedang menjalani hari seperti biasa.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/85ecbe7eeb52.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "798121b94ddb",
+   "suara": "hasan",
+   "teks": "Awalnya, tidak ada yang memperhatikan hal ini.",
+   "dibaca": "Awalnya, tidak ada yang memperhatikan hal ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/798121b94ddb.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ed3898005502",
+   "suara": "hasan",
+   "teks": "Siapa yang mengira hal sekecil ini sepenting itu?",
+   "dibaca": "Siapa yang mengira hal sekecil ini sepenting itu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/ed3898005502.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "543ae3ccc2b7",
+   "suara": "hasan",
+   "teks": "Bayangkan seperti menumpuk balok, satu demi satu.",
+   "dibaca": "Bayangkan seperti menumpuk balok, satu demi satu.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/543ae3ccc2b7.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "712c4c1308cf",
+   "suara": "hasan",
+   "teks": "Semoga video ini menjawab rasa penasaranmu.",
+   "dibaca": "Semoga video ini menjawab rasa penasaranmu.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/712c4c1308cf.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
