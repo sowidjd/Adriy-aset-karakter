@@ -45016,6 +45016,202 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9e0d5d703086",
+   "suara": "mia",
+   "teks": "Sampai di sini dulu pembahasan kita.",
+   "dibaca": "Sampai di sini dulu pembahasan kita.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9e0d5d703086.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "eae8a3b4f864",
+   "suara": "mia",
+   "teks": "Satu detik. Dua detik.",
+   "dibaca": "Satu detik. Dua detik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/eae8a3b4f864.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dc6e886a21bd",
+   "suara": "mia",
+   "teks": "Bukankah itu yang membuat semuanya menarik?",
+   "dibaca": "Bukankah itu yang membuat semuanya menarik?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/dc6e886a21bd.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "738d90487d98",
+   "suara": "mia",
+   "teks": "Terima kasih sudah menonton sampai akhir.",
+   "dibaca": "Terima kasih sudah menonton sampai akhir.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/738d90487d98.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "196a1b865bae",
+   "suara": "mia",
+   "teks": "Mungkin kamu juga pernah merasakannya.",
+   "dibaca": "Mungkin kamu juga pernah merasakannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/196a1b865bae.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1b6f4b8f2c39",
+   "suara": "mia",
+   "teks": "Dunia ini memang penuh hal yang belum kita pahami.",
+   "dibaca": "Dunia ini memang penuh hal yang belum kita pahami.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1b6f4b8f2c39.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f135a2bfb018",
+   "suara": "mia",
+   "teks": "Bagikan ke temanmu yang sering ngalamin ini.",
+   "dibaca": "Bagikan ke temanmu yang sering ngalamin ini.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/f135a2bfb018.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "27a38f38ad97",
+   "suara": "mia",
+   "teks": "Sampai ketemu lagi di Adriy Project.",
+   "dibaca": "Sampai ketemu lagi di Adriy Project.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/27a38f38ad97.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dc4d91969838",
+   "suara": "mia",
+   "teks": "Kita lihat lebih dekat, yuk.",
+   "dibaca": "Kita lihat lebih dekat, yuk.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/dc4d91969838.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f7f50498560c",
+   "suara": "mia",
+   "teks": "Sekarang, kita lihat kenyataannya.",
+   "dibaca": "Sekarang, kita lihat kenyataannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f7f50498560c.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9e73834fa703",
+   "suara": "mia",
+   "teks": "Tapi tidak ada jalan untuk kembali.",
+   "dibaca": "Tapi tidak ada jalan untuk kembali.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9e73834fa703.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "07c9a12b6c57",
+   "suara": "mia",
+   "teks": "Dan tiba-tiba, semuanya menjadi sunyi.",
+   "dibaca": "Dan tiba-tiba, semuanya menjadi sunyi.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/mia/07c9a12b6c57.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1259984d880d",
+   "suara": "mia",
+   "teks": "Inilah momen yang menentukan segalanya.",
+   "dibaca": "Inilah momen yang menentukan segalanya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1259984d880d.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
