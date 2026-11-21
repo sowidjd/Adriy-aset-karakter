@@ -44620,6 +44620,219 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "98dfebd7dc37",
+   "suara": "mia",
+   "teks": "Kurang lebih, itu gambarannya.",
+   "dibaca": "Kurang lebih, itu gambarannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/98dfebd7dc37.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "27e2b3b7d3bb",
+   "suara": "mia",
+   "teks": "Gampang diingat, kan?",
+   "dibaca": "Gampang diingat, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/27e2b3b7d3bb.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9a1f2054f77b",
+   "suara": "mia",
+   "teks": "Ya sudah, sekarang kamu sudah tahu.",
+   "dibaca": "Ya sudah, sekarang kamu sudah tahu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9a1f2054f77b.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0f411091b4ce",
+   "suara": "mia",
+   "teks": "Santai, ini bukan ujian.",
+   "dibaca": "Santai, ini bukan ujian.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/mia/0f411091b4ce.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1ef5452b78f3",
+   "suara": "mia",
+   "teks": "Kamu tidak harus hebat untuk memulai.",
+   "dibaca": "Kamu tidak harus hebat untuk memulai.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1ef5452b78f3.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "290e5b66ffb7",
+   "suara": "mia",
+   "teks": "Belajar tidak pernah ada kata terlambat.",
+   "dibaca": "Belajar tidak pernah ada kata terlambat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/290e5b66ffb7.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5d453038fd01",
+   "suara": "mia",
+   "teks": "Jadi, itulah jawabannya.",
+   "dibaca": "Jadi, itulah jawabannya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/5d453038fd01.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "283323d4b9f4",
+   "suara": "mia",
+   "teks": "Jadi, sekarang kamu tahu kenapa.",
+   "dibaca": "Jadi, sekarang kamu tahu kenapa.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/283323d4b9f4.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a783fa7166cd",
+   "suara": "mia",
+   "teks": "Jadi, sudah terjawab, kan?",
+   "dibaca": "Jadi, sudah terjawab, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/a783fa7166cd.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d66f56a4e461",
+   "suara": "mia",
+   "teks": "Sampai jumpa di pertanyaan berikutnya.",
+   "dibaca": "Sampai jumpa di pertanyaan berikutnya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/d66f56a4e461.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "053fb36d17ec",
+   "suara": "mia",
+   "teks": "Bukankah itu yang selama ini kita cari?",
+   "dibaca": "Bukankah itu yang selama ini kita cari?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/053fb36d17ec.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "417424c9be2a",
+   "suara": "mia",
+   "teks": "Jadi anemon adalah rumah yang aman.",
+   "dibaca": "Jadi anemon adalah rumah yang aman.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/417424c9be2a.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "325c5323fbb4",
+   "suara": "mia",
+   "teks": "Semoga bermanfaat, ya.",
+   "dibaca": "Semoga bermanfaat, ya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/325c5323fbb4.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "08664cf7a3fb",
+   "suara": "mia",
+   "teks": "Tag temanmu yang perlu tahu soal ini.",
+   "dibaca": "Tag temanmu yang perlu tahu soal ini.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/08664cf7a3fb.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
