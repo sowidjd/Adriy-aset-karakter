@@ -32187,6 +32187,217 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ca6a2e44f177",
+   "suara": "hasan",
+   "teks": "Hal kecil seperti ini ternyata punya cerita panjang.",
+   "dibaca": "Hal kecil seperti ini ternyata punya cerita panjang.",
+   "fungsi": [
+    "memberikan analogi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/ca6a2e44f177.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d047c3eee6b0",
+   "suara": "hasan",
+   "teks": "Nah, sekarang bagian yang ditunggu-tunggu.",
+   "dibaca": "Nah, sekarang bagian yang ditunggu-tunggu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d047c3eee6b0.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d73ae9de9b53",
+   "suara": "hasan",
+   "teks": "Kenapa kita nggak pernah mempertanyakan hal ini sebelumnya?",
+   "dibaca": "Kenapa kita nggak pernah mempertanyakan hal ini sebelumnya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/d73ae9de9b53.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c070e153b207",
+   "suara": "hasan",
+   "teks": "Apa benar semua orang mengalami hal yang sama?",
+   "dibaca": "Apa benar semua orang mengalami hal yang sama?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/c070e153b207.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "323568850c3e",
+   "suara": "hasan",
+   "teks": "Seberapa sering sebenarnya hal ini terjadi?",
+   "dibaca": "Seberapa sering sebenarnya hal ini terjadi?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/323568850c3e.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ec6033c08ec1",
+   "suara": "hasan",
+   "teks": "Mungkinkah ini terjadi pada siapa saja?",
+   "dibaca": "Mungkinkah ini terjadi pada siapa saja?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/ec6033c08ec1.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6e4d58721b25",
+   "suara": "hasan",
+   "teks": "Ada alasan kenapa kamu merasakan hal ini.",
+   "dibaca": "Ada alasan kenapa kamu merasakan hal ini.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/6e4d58721b25.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "599942f25d36",
+   "suara": "hasan",
+   "teks": "Tahap pertama dimulai dari hal yang paling kecil.",
+   "dibaca": "Tahap pertama dimulai dari hal yang paling kecil.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/599942f25d36.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9a85d0283b44",
+   "suara": "hasan",
+   "teks": "Proses ini bisa berlangsung selama bertahun-tahun.",
+   "dibaca": "Proses ini bisa berlangsung selama bertahun-tahun.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/9a85d0283b44.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3dd38a624d4c",
+   "suara": "hasan",
+   "teks": "Faktor pertama adalah lingkungan di sekitarnya.",
+   "dibaca": "Faktor pertama adalah lingkungan di sekitarnya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/3dd38a624d4c.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "89eca712d8ea",
+   "suara": "hasan",
+   "teks": "Kira-kira seperti mesin yang sedang beradaptasi.",
+   "dibaca": "Kira-kira seperti mesin yang sedang beradaptasi.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/89eca712d8ea.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ff9a1e3bcfc2",
+   "suara": "hasan",
+   "teks": "Bayangkan seperti lalu lintas yang tiba-tiba macet.",
+   "dibaca": "Bayangkan seperti lalu lintas yang tiba-tiba macet.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/ff9a1e3bcfc2.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0be873b38111",
+   "suara": "hasan",
+   "teks": "Hal ini juga dipengaruhi oleh faktor genetik.",
+   "dibaca": "Hal ini juga dipengaruhi oleh faktor genetik.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/0be873b38111.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9e622104e4b5",
+   "suara": "hasan",
+   "teks": "Nggak ada yang menyangka hasilnya bakal seperti ini.",
+   "dibaca": "Nggak ada yang menyangka hasilnya bakal seperti ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/9e622104e4b5.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
