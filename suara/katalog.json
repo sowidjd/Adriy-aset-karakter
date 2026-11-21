@@ -70124,6 +70124,383 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b70189c7ab01",
+   "suara": "hasan",
+   "teks": "Diskon tidak selalu berarti hemat.",
+   "dibaca": "Diskon tidak selalu berarti hemat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b70189c7ab01.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8d603d91cff2",
+   "suara": "hasan",
+   "teks": "Planet kita ternyata tidak sebulat yang kita kira.",
+   "dibaca": "Planet kita ternyata tidak sebulat yang kita kira.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/8d603d91cff2.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6a4dc3e31f60",
+   "suara": "hasan",
+   "teks": "Lautan masih menyimpan banyak misteri.",
+   "dibaca": "Lautan masih menyimpan banyak misteri.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/6a4dc3e31f60.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a140b38568f1",
+   "suara": "hasan",
+   "teks": "Cara hewan ini bertahan hidup benar-benar unik.",
+   "dibaca": "Cara hewan ini bertahan hidup benar-benar unik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/a140b38568f1.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4608825dc7d0",
+   "suara": "hasan",
+   "teks": "Alam punya caranya sendiri untuk menjaga keseimbangan.",
+   "dibaca": "Alam punya caranya sendiri untuk menjaga keseimbangan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/4608825dc7d0.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "39f8862ed30b",
+   "suara": "hasan",
+   "teks": "Di luar angkasa, aturannya ternyata sangat berbeda.",
+   "dibaca": "Di luar angkasa, aturannya ternyata sangat berbeda.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/39f8862ed30b.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6148a9a34164",
+   "suara": "hasan",
+   "teks": "Cuaca bisa berubah karena hal yang sangat kecil.",
+   "dibaca": "Cuaca bisa berubah karena hal yang sangat kecil.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/6148a9a34164.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "58606e628a89",
+   "suara": "hasan",
+   "teks": "Tubuhnya kecil, tapi kemampuannya luar biasa.",
+   "dibaca": "Tubuhnya kecil, tapi kemampuannya luar biasa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/58606e628a89.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5f3142ae5333",
+   "suara": "hasan",
+   "teks": "Hewan kecil ini ternyata sangat penting bagi alam.",
+   "dibaca": "Hewan kecil ini ternyata sangat penting bagi alam.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/5f3142ae5333.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f8f6cda745dc",
+   "suara": "hasan",
+   "teks": "Otak kita lebih senang menerima sekarang daripada nanti.",
+   "dibaca": "Otak kita lebih senang menerima sekarang daripada nanti.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/f8f6cda745dc.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4603e463a4eb",
+   "suara": "hasan",
+   "teks": "Matahari jauh lebih besar dari yang bisa kita bayangkan.",
+   "dibaca": "Matahari jauh lebih besar dari yang bisa kita bayangkan.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/4603e463a4eb.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "32978a381ef8",
+   "suara": "hasan",
+   "teks": "Ternyata, hewan juga bisa merasakan hal yang mirip dengan kita.",
+   "dibaca": "Ternyata, hewan juga bisa merasakan hal yang mirip dengan kita.",
+   "fungsi": [
+    "memberikan analogi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/32978a381ef8.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ac03f4351af2",
+   "suara": "hasan",
+   "teks": "Hewan ini sudah ada jauh sebelum manusia muncul.",
+   "dibaca": "Hewan ini sudah ada jauh sebelum manusia muncul.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ac03f4351af2.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bd2e8968cf2a",
+   "suara": "hasan",
+   "teks": "Pengeluaran kecil yang rutin bisa jadi besar kalau dijumlahkan.",
+   "dibaca": "Pengeluaran kecil yang rutin bisa jadi besar kalau dijumlahkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/bd2e8968cf2a.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "95b4a6ee6afe",
+   "suara": "hasan",
+   "teks": "Cahaya yang kita lihat ternyata sudah berangkat lama sekali.",
+   "dibaca": "Cahaya yang kita lihat ternyata sudah berangkat lama sekali.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/95b4a6ee6afe.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "aaedbc0e953d",
+   "suara": "hasan",
+   "teks": "Bumi terus bergerak, walaupun kita tidak merasakannya.",
+   "dibaca": "Bumi terus bergerak, walaupun kita tidak merasakannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/aaedbc0e953d.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "10ff1e20cf59",
+   "suara": "hasan",
+   "teks": "Hewan ini punya kemampuan yang tidak dimiliki manusia.",
+   "dibaca": "Hewan ini punya kemampuan yang tidak dimiliki manusia.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/10ff1e20cf59.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "92dc79db8137",
+   "suara": "hasan",
+   "teks": "Para peneliti masih terus mempelajari perilaku hewan ini.",
+   "dibaca": "Para peneliti masih terus mempelajari perilaku hewan ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/92dc79db8137.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6ba6e29bac1f",
+   "suara": "hasan",
+   "teks": "Di alam liar, kemampuan ini sangat berguna untuk bertahan hidup.",
+   "dibaca": "Di alam liar, kemampuan ini sangat berguna untuk bertahan hidup.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/6ba6e29bac1f.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e59b22c41bc3",
+   "suara": "hasan",
+   "teks": "Tanpa fenomena ini, kehidupan di Bumi akan sangat berbeda.",
+   "dibaca": "Tanpa fenomena ini, kehidupan di Bumi akan sangat berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e59b22c41bc3.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d1726f98e05b",
+   "suara": "hasan",
+   "teks": "Alam semesta ternyata jauh lebih luas dari dugaan para ilmuwan dulu.",
+   "dibaca": "Alam semesta ternyata jauh lebih luas dari dugaan para ilmuwan dulu.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d1726f98e05b.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e4e8dff99cff",
+   "suara": "mia",
+   "teks": "Diskon tidak selalu berarti hemat.",
+   "dibaca": "Diskon tidak selalu berarti hemat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/e4e8dff99cff.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "89d8bd54e7d2",
+   "suara": "mia",
+   "teks": "Planet kita ternyata tidak sebulat yang kita kira.",
+   "dibaca": "Planet kita ternyata tidak sebulat yang kita kira.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/89d8bd54e7d2.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bb2cca9b7066",
+   "suara": "mia",
+   "teks": "Lautan masih menyimpan banyak misteri.",
+   "dibaca": "Lautan masih menyimpan banyak misteri.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/bb2cca9b7066.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d850004f9c76",
+   "suara": "mia",
+   "teks": "Cara hewan ini bertahan hidup benar-benar unik.",
+   "dibaca": "Cara hewan ini bertahan hidup benar-benar unik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d850004f9c76.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
