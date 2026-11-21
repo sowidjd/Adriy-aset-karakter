@@ -66123,6 +66123,239 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dc73b42fda64",
+   "suara": "mia",
+   "teks": "Angkanya jauh lebih besar dari yang dibayangkan.",
+   "dibaca": "Angkanya jauh lebih besar dari yang dibayangkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/dc73b42fda64.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "361344b4c23d",
+   "suara": "mia",
+   "teks": "Dan yang lebih aneh lagi, ini terjadi pada hampir semua orang.",
+   "dibaca": "Dan yang lebih aneh lagi, ini terjadi pada hampir semua orang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/361344b4c23d.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d20456f519df",
+   "suara": "ongky",
+   "teks": "Kamu juga pernah, kan?",
+   "dibaca": "Kamu juga pernah, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/d20456f519df.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ea97450acd73",
+   "suara": "ongky",
+   "teks": "Lucu juga, ya?",
+   "dibaca": "Lucu juga, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/ea97450acd73.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "512ba84740c7",
+   "suara": "ongky",
+   "teks": "Nggak kepikiran, kan?",
+   "dibaca": "Nggak kepikiran, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/512ba84740c7.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "063bc3843411",
+   "suara": "ongky",
+   "teks": "Agak menyeramkan, ya?",
+   "dibaca": "Agak menyeramkan, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/063bc3843411.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d3336ac92a2c",
+   "suara": "ongky",
+   "teks": "Kenapa bisa begitu, ya?",
+   "dibaca": "Kenapa bisa begitu, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/d3336ac92a2c.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9fd4a96eb3c9",
+   "suara": "ongky",
+   "teks": "Sederhana, tapi jarang disadari, kan?",
+   "dibaca": "Sederhana, tapi jarang disadari, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/9fd4a96eb3c9.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c5641ec3fbf8",
+   "suara": "ongky",
+   "teks": "Ternyata penyebabnya sangat sederhana.",
+   "dibaca": "Ternyata penyebabnya sangat sederhana.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/c5641ec3fbf8.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "384d11a3ba07",
+   "suara": "ongky",
+   "teks": "Bahkan para ilmuwan pun sempat terkejut.",
+   "dibaca": "Bahkan para ilmuwan pun sempat terkejut.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/384d11a3ba07.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7a85edc5b67c",
+   "suara": "ongky",
+   "teks": "Ternyata selama ini kita keliru.",
+   "dibaca": "Ternyata selama ini kita keliru.",
+   "fungsi": [
+    "membantah asumsi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/7a85edc5b67c.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "931f274a9dde",
+   "suara": "ongky",
+   "teks": "Faktanya jauh lebih menarik dari dugaan kita.",
+   "dibaca": "Faktanya jauh lebih menarik dari dugaan kita.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/931f274a9dde.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "80b2e54b9965",
+   "suara": "ongky",
+   "teks": "Dan ternyata, jawabannya justru sebaliknya.",
+   "dibaca": "Dan ternyata, jawabannya justru sebaliknya.",
+   "fungsi": [
+    "membantah asumsi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/80b2e54b9965.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "724b5c008050",
+   "suara": "ongky",
+   "teks": "Yang mengejutkan, ini terjadi setiap hari.",
+   "dibaca": "Yang mengejutkan, ini terjadi setiap hari.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/724b5c008050.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e7b1a6bf6014",
+   "suara": "ongky",
+   "teks": "Angkanya jauh lebih besar dari yang dibayangkan.",
+   "dibaca": "Angkanya jauh lebih besar dari yang dibayangkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/e7b1a6bf6014.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
