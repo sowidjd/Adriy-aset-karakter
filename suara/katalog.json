@@ -34735,6 +34735,186 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4de3797eb06f",
+   "suara": "hasan",
+   "teks": "Ternyata, tubuh kita jauh lebih pintar dari yang kita kira.",
+   "dibaca": "Ternyata, tubuh kita jauh lebih pintar dari yang kita kira.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/4de3797eb06f.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2abd2a39eb8e",
+   "suara": "hasan",
+   "teks": "Dan ternyata, jawabannya ada di tempat yang nggak kita duga.",
+   "dibaca": "Dan ternyata, jawabannya ada di tempat yang nggak kita duga.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/2abd2a39eb8e.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0be1709e9339",
+   "suara": "hasan",
+   "teks": "Pernah nggak kamu bertanya-tanya, kenapa hal ini selalu terjadi?",
+   "dibaca": "Pernah nggak kamu bertanya-tanya, kenapa hal ini selalu terjadi?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/0be1709e9339.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "af3f7f2d3f96",
+   "suara": "hasan",
+   "teks": "Ternyata, selama ini kita melakukannya dengan cara yang kurang tepat.",
+   "dibaca": "Ternyata, selama ini kita melakukannya dengan cara yang kurang tepat.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/af3f7f2d3f96.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fbd53600a0bf",
+   "suara": "hasan",
+   "teks": "Yuk, kita bahas sesuatu yang mungkin terjadi padamu tadi pagi.",
+   "dibaca": "Yuk, kita bahas sesuatu yang mungkin terjadi padamu tadi pagi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/fbd53600a0bf.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1d3dd9e19413",
+   "suara": "hasan",
+   "teks": "Faktor berikutnya berasal dari dalam tubuh kita sendiri.",
+   "dibaca": "Faktor berikutnya berasal dari dalam tubuh kita sendiri.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/1d3dd9e19413.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "310bdc07adb9",
+   "suara": "hasan",
+   "teks": "Meski begitu, setiap orang bisa mengalaminya dengan cara yang berbeda.",
+   "dibaca": "Meski begitu, setiap orang bisa mengalaminya dengan cara yang berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/310bdc07adb9.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "de705c1cfffa",
+   "suara": "hasan",
+   "teks": "Otak kita bekerja seperti komputer yang terus memilah informasi.",
+   "dibaca": "Otak kita bekerja seperti komputer yang terus memilah informasi.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/de705c1cfffa.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "27c94c5aa01d",
+   "suara": "hasan",
+   "teks": "Di alam, hal ini sebenarnya cukup umum ditemukan.",
+   "dibaca": "Di alam, hal ini sebenarnya cukup umum ditemukan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/27c94c5aa01d.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "eb33801aaa70",
+   "suara": "hasan",
+   "teks": "Di setiap negara, kebiasaan ini bisa sangat berbeda.",
+   "dibaca": "Di setiap negara, kebiasaan ini bisa sangat berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/eb33801aaa70.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9d5eef31ff23",
+   "suara": "hasan",
+   "teks": "Kalau terlambat sedikit saja, ceritanya mungkin akan berbeda.",
+   "dibaca": "Kalau terlambat sedikit saja, ceritanya mungkin akan berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/9d5eef31ff23.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fdf186a91407",
+   "suara": "hasan",
+   "teks": "Bahaya itu ternyata jauh lebih dekat dari dugaan.",
+   "dibaca": "Bahaya itu ternyata jauh lebih dekat dari dugaan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/fdf186a91407.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
