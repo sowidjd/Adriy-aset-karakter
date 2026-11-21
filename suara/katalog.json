@@ -36106,6 +36106,144 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "338a8770b311",
+   "suara": "hasan",
+   "teks": "Satu hal yang pasti, fakta tidak berubah hanya karena kita tidak mempercayainya.",
+   "dibaca": "Satu hal yang pasti, fakta tidak berubah hanya karena kita tidak mempercayainya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/338a8770b311.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f9c65093c4ac",
+   "suara": "hasan",
+   "teks": "Tunggu dulu, ternyata ada sesuatu yang jauh lebih menarik di balik kejadian ini.",
+   "dibaca": "Tunggu dulu, ternyata ada sesuatu yang jauh lebih menarik di balik kejadian ini.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/f9c65093c4ac.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5c9fbd5606fd",
+   "suara": "hasan",
+   "teks": "Ada pola tertentu yang mulai terlihat ketika kita menghubungkan semua kejadian tersebut.",
+   "dibaca": "Ada pola tertentu yang mulai terlihat ketika kita menghubungkan semua kejadian tersebut.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/5c9fbd5606fd.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4899b6ca8ef0",
+   "suara": "hasan",
+   "teks": "Prosesnya sebenarnya cukup sederhana jika kita memahami prinsip dasarnya.",
+   "dibaca": "Prosesnya sebenarnya cukup sederhana jika kita memahami prinsip dasarnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/4899b6ca8ef0.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "934fd2237fb9",
+   "suara": "hasan",
+   "teks": "Jadi, yang selama ini kita anggap aneh, ternyata punya alasan.",
+   "dibaca": "Jadi, yang selama ini kita anggap aneh, ternyata punya alasan.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/934fd2237fb9.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b9cba65e5b1d",
+   "suara": "hasan",
+   "teks": "Baru dua kali iris, mata langsung perih. Hampir semua orang pernah ngalamin.",
+   "dibaca": "Baru dua kali iris, mata langsung perih. Hampir semua orang pernah ngalamin.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b9cba65e5b1d.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d8e12d7693d4",
+   "suara": "hasan",
+   "teks": "Wajar kalau kita kira bawang memang pedas dari sananya. Padahal, bawang utuh itu aman.",
+   "dibaca": "Wajar kalau kita kira bawang memang pedas dari sananya. Padahal, bawang utuh itu aman.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/d8e12d7693d4.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "64aba77c17f9",
+   "suara": "hasan",
+   "teks": "Bawang putih malah menghasilkan allicin, zat yang membuat aromanya tajam khas bawang putih.",
+   "dibaca": "Bawang putih malah menghasilkan alisin, zat yang membuat aromanya tajam khas bawang putih.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/64aba77c17f9.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5eb4fec3c0df",
+   "suara": "hasan",
+   "teks": "Bayangkan seekor hewan menggigit bawang di dalam tanah, lalu matanya langsung perih.",
+   "dibaca": "Bayangkan seekor hewan menggigit bawang di dalam tanah, lalu matanya langsung perih.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/5eb4fec3c0df.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
