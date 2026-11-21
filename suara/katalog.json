@@ -34915,6 +34915,187 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b0f25fcef6a6",
+   "suara": "hasan",
+   "teks": "Mungkin ini alasan kenapa kita sering bilang: nanti aja.",
+   "dibaca": "Mungkin ini alasan kenapa kita sering bilang: nanti aja.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/b0f25fcef6a6.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "98b0eae21f30",
+   "suara": "hasan",
+   "teks": "Perlu ditegaskan, ini berlaku dalam kondisi tertentu.",
+   "dibaca": "Perlu ditegaskan, ini berlaku dalam kondisi tertentu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/98b0eae21f30.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d0cd9e4358d3",
+   "suara": "hasan",
+   "teks": "Klaim itu terdengar meyakinkan, tapi tidak didukung bukti.",
+   "dibaca": "Klaim itu terdengar meyakinkan, tapi tidak didukung bukti.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d0cd9e4358d3.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f6a87f973388",
+   "suara": "hasan",
+   "teks": "Dan yang lebih menarik, semuanya bisa terjadi tanpa kita sadari.",
+   "dibaca": "Dan yang lebih menarik, semuanya bisa terjadi tanpa kita sadari.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/f6a87f973388.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ec4b37dc0d09",
+   "suara": "hasan",
+   "teks": "Bayangkan betapa banyak kemungkinan yang masih bisa kita temukan.",
+   "dibaca": "Bayangkan betapa banyak kemungkinan yang masih bisa kita temukan.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/ec4b37dc0d09.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ae70ee252f05",
+   "suara": "hasan",
+   "teks": "Apa yang dahulu terasa mustahil, kini berhasil kita lewati.",
+   "dibaca": "Apa yang dahulu terasa mustahil, kini berhasil kita lewati.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ae70ee252f05.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3c9c39ca4edc",
+   "suara": "hasan",
+   "teks": "Satu kesalahan kecil saja dapat mengubah keseluruhan hasil.",
+   "dibaca": "Satu kesalahan kecil saja dapat mengubah keseluruhan hasil.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3c9c39ca4edc.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "640e75bde0cd",
+   "suara": "hasan",
+   "teks": "Bayangkan jika teknologi ini benar-benar bisa digunakan oleh semua orang.",
+   "dibaca": "Bayangkan jika teknologi ini benar-benar bisa digunakan oleh semua orang.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/640e75bde0cd.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "449d3f4e2aef",
+   "suara": "hasan",
+   "teks": "Kalau kamu suka konten seperti ini, tunggu video berikutnya.",
+   "dibaca": "Kalau kamu suka konten seperti ini, tunggu video berikutnya.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/449d3f4e2aef.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ee00b6f8e552",
+   "suara": "hasan",
+   "teks": "Apa yang kamu lakukan barusan, ternyata punya alasan ilmiah.",
+   "dibaca": "Apa yang kamu lakukan barusan, ternyata punya alasan ilmiah.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/ee00b6f8e552.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1829816084ba",
+   "suara": "hasan",
+   "teks": "Ini terdengar mustahil, tapi benar-benar terjadi.",
+   "dibaca": "Ini terdengar mustahil, tapi benar-benar terjadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/1829816084ba.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9444848596e9",
+   "suara": "hasan",
+   "teks": "Ada alasan kenapa hal ini selalu terasa begitu nyata.",
+   "dibaca": "Ada alasan kenapa hal ini selalu terasa begitu nyata.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/9444848596e9.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
