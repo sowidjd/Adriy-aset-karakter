@@ -61276,6 +61276,216 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "33215f66f208",
+   "suara": "hasan",
+   "teks": "Dan dari sinilah semuanya bermula.",
+   "dibaca": "Dan dari sinilah semuanya bermula.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/33215f66f208.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b5a7bdcf729e",
+   "suara": "hasan",
+   "teks": "Tapi tunggu, masih ada yang lebih aneh.",
+   "dibaca": "Tapi tunggu, masih ada yang lebih aneh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b5a7bdcf729e.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "873054d5fb4f",
+   "suara": "hasan",
+   "teks": "Oke, lalu bagaimana cara kerjanya?",
+   "dibaca": "Oke, lalu bagaimana cara kerjanya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/873054d5fb4f.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e2071acb8012",
+   "suara": "hasan",
+   "teks": "Pertanyaan berikutnya jauh lebih menarik.",
+   "dibaca": "Pertanyaan berikutnya jauh lebih menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e2071acb8012.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "448a0dffc113",
+   "suara": "hasan",
+   "teks": "Dan ini yang jarang dibahas orang.",
+   "dibaca": "Dan ini yang jarang dibahas orang.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/448a0dffc113.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d74fc932bf2c",
+   "suara": "hasan",
+   "teks": "Kamu mungkin melakukannya setiap hari tanpa sadar.",
+   "dibaca": "Kamu mungkin melakukannya setiap hari tanpa sadar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d74fc932bf2c.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f51f10b2b5f7",
+   "suara": "hasan",
+   "teks": "Pernah kepikiran kenapa hal ini bisa terjadi?",
+   "dibaca": "Pernah kepikiran kenapa hal ini bisa terjadi?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/f51f10b2b5f7.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6030a8d45e1a",
+   "suara": "hasan",
+   "teks": "Bayangkan kalau hal ini tidak pernah terjadi.",
+   "dibaca": "Bayangkan kalau hal ini tidak pernah terjadi.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/6030a8d45e1a.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9dd0fa3ff98f",
+   "suara": "hasan",
+   "teks": "Ada yang aneh dari kebiasaan yang satu ini.",
+   "dibaca": "Ada yang aneh dari kebiasaan yang satu ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/9dd0fa3ff98f.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7d5f7a9d43bb",
+   "suara": "hasan",
+   "teks": "Semua berawal dari pertanyaan seorang anak kecil.",
+   "dibaca": "Semua berawal dari pertanyaan seorang anak kecil.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/7d5f7a9d43bb.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6c72562dae8f",
+   "suara": "hasan",
+   "teks": "Oke, sekarang kita bandingkan.",
+   "dibaca": "Oke, sekarang kita bandingkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/6c72562dae8f.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ee064d5cd0f1",
+   "suara": "hasan",
+   "teks": "Coba tebak, berapa banyak orang yang tahu soal ini?",
+   "dibaca": "Coba tebak, berapa banyak orang yang tahu soal ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/ee064d5cd0f1.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f5f03243d4de",
+   "suara": "hasan",
+   "teks": "Mari kita mulai dari pertanyaan yang paling sederhana.",
+   "dibaca": "Mari kita mulai dari pertanyaan yang paling sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/f5f03243d4de.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "036869dab388",
+   "suara": "hasan",
+   "teks": "Jangan langsung percaya, kita cek dulu faktanya.",
+   "dibaca": "Jangan langsung percaya, kita cek dulu faktanya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/036869dab388.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
