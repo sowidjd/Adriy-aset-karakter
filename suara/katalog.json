@@ -67590,6 +67590,201 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "484d98b84f8f",
+   "suara": "mia",
+   "teks": "Jadi, lain kali kamu mengalaminya, jangan heran.",
+   "dibaca": "Jadi, lain kali kamu mengalaminya, jangan heran.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/484d98b84f8f.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9322ef31642b",
+   "suara": "mia",
+   "teks": "Kira-kira seperti spons yang menyerap air.",
+   "dibaca": "Kira-kira seperti spons yang menyerap air.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/9322ef31642b.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "909f87da921a",
+   "suara": "mia",
+   "teks": "Ibaratnya seperti baterai yang pelan-pelan habis.",
+   "dibaca": "Ibaratnya seperti baterai yang pelan-pelan habis.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/909f87da921a.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "11a2ea623b24",
+   "suara": "mia",
+   "teks": "Bayangkan seperti jalan raya yang tiba-tiba macet.",
+   "dibaca": "Bayangkan seperti jalan raya yang tiba-tiba macet.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/11a2ea623b24.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cea767f06ee0",
+   "suara": "mia",
+   "teks": "Bayangkan kamu sedang menyusun puzzle tanpa gambar contoh.",
+   "dibaca": "Bayangkan kamu sedang menyusun puzzle tanpa gambar contoh.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/cea767f06ee0.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "987777eea4e4",
+   "suara": "mia",
+   "teks": "Ini mirip seperti komputer yang sedang memuat ulang.",
+   "dibaca": "Ini mirip seperti komputer yang sedang memuat ulang.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/987777eea4e4.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ee83edd03d8e",
+   "suara": "ongky",
+   "teks": "Kesimpulannya, hal kecil pun punya penjelasan besar.",
+   "dibaca": "Kesimpulannya, hal kecil pun punya penjelasan besar.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/ee83edd03d8e.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b6c5f0057257",
+   "suara": "ongky",
+   "teks": "Jadi, sekarang kamu tahu kenapa itu terjadi.",
+   "dibaca": "Jadi, sekarang kamu tahu kenapa itu terjadi.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/b6c5f0057257.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d11fe8d3cf44",
+   "suara": "ongky",
+   "teks": "Intinya, tubuh kita jauh lebih pintar dari yang kita kira.",
+   "dibaca": "Intinya, tubuh kita jauh lebih pintar dari yang kita kira.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/d11fe8d3cf44.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "94ce1f6f623b",
+   "suara": "ongky",
+   "teks": "Jadi, lain kali kamu mengalaminya, jangan heran.",
+   "dibaca": "Jadi, lain kali kamu mengalaminya, jangan heran.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/94ce1f6f623b.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "95231168c85f",
+   "suara": "ongky",
+   "teks": "Kira-kira seperti spons yang menyerap air.",
+   "dibaca": "Kira-kira seperti spons yang menyerap air.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/95231168c85f.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c3bff1477657",
+   "suara": "ongky",
+   "teks": "Ibaratnya seperti baterai yang pelan-pelan habis.",
+   "dibaca": "Ibaratnya seperti baterai yang pelan-pelan habis.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/c3bff1477657.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f540875b5d8d",
+   "suara": "ongky",
+   "teks": "Bayangkan seperti jalan raya yang tiba-tiba macet.",
+   "dibaca": "Bayangkan seperti jalan raya yang tiba-tiba macet.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/f540875b5d8d.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
