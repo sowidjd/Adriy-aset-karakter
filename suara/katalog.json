@@ -68843,6 +68843,171 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "11dc84677140",
+   "suara": "hasan",
+   "teks": "Setiap tubuh bisa bereaksi sedikit berbeda.",
+   "dibaca": "Setiap tubuh bisa bereaksi sedikit berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/11dc84677140.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dfd9a612f525",
+   "suara": "hasan",
+   "teks": "Minum air yang cukup ternyata berpengaruh besar.",
+   "dibaca": "Minum air yang cukup ternyata berpengaruh besar.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/dfd9a612f525.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "498fb4e34dfd",
+   "suara": "hasan",
+   "teks": "Tubuh kita bekerja keras bahkan saat kita tidur.",
+   "dibaca": "Tubuh kita bekerja keras bahkan saat kita tidur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/498fb4e34dfd.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0238c614633f",
+   "suara": "hasan",
+   "teks": "Kulit kita adalah organ terbesar di tubuh manusia.",
+   "dibaca": "Kulit kita adalah organ terbesar di tubuh manusia.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/0238c614633f.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "56b69b14e72b",
+   "suara": "hasan",
+   "teks": "Tubuh manusia jauh lebih rumit dari mesin mana pun.",
+   "dibaca": "Tubuh manusia jauh lebih rumit dari mesin mana pun.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/56b69b14e72b.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fb956b75c85f",
+   "suara": "hasan",
+   "teks": "Ini adalah reaksi alami tubuh, bukan tanda penyakit.",
+   "dibaca": "Ini adalah reaksi alami tubuh, bukan tanda penyakit.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/fb956b75c85f.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "19f848faddec",
+   "suara": "hasan",
+   "teks": "Ternyata, jantung kita tidak pernah benar-benar istirahat.",
+   "dibaca": "Ternyata, jantung kita tidak pernah benar-benar istirahat.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/19f848faddec.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0b7cc98472de",
+   "suara": "hasan",
+   "teks": "Kurang tidur bisa memengaruhi hampir semua bagian tubuh.",
+   "dibaca": "Kurang tidur bisa memengaruhi hampir semua bagian tubuh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/0b7cc98472de.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9f0b94df393e",
+   "suara": "mia",
+   "teks": "Setiap tubuh bisa bereaksi sedikit berbeda.",
+   "dibaca": "Setiap tubuh bisa bereaksi sedikit berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9f0b94df393e.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "82c14e856648",
+   "suara": "mia",
+   "teks": "Minum air yang cukup ternyata berpengaruh besar.",
+   "dibaca": "Minum air yang cukup ternyata berpengaruh besar.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/82c14e856648.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "86ac7ae4a5de",
+   "suara": "mia",
+   "teks": "Tubuh kita bekerja keras bahkan saat kita tidur.",
+   "dibaca": "Tubuh kita bekerja keras bahkan saat kita tidur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/86ac7ae4a5de.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
