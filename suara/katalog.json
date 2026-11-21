@@ -57885,6 +57885,129 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "01869aa388c5",
+   "suara": "mia",
+   "teks": "Semuanya terasa baru, menarik, dan penuh hal yang belum pernah kamu lihat sebelumnya",
+   "dibaca": "Semuanya terasa baru, menarik, dan penuh hal yang belum pernah kamu lihat sebelumnya",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/01869aa388c5.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "91955a991517",
+   "suara": "mia",
+   "teks": "Bisa jadi, otakmu cuma sedang mengatur ulang informasi setelah berpindah tempat.",
+   "dibaca": "Bisa jadi, otakmu cuma sedang mengatur ulang informasi setelah berpindah tempat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/91955a991517.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0feace5fa779",
+   "suara": "mia",
+   "teks": "Satu hal yang pasti, fakta tidak berubah hanya karena kita tidak mempercayainya.",
+   "dibaca": "Satu hal yang pasti, fakta tidak berubah hanya karena kita tidak mempercayainya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0feace5fa779.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e411322856dd",
+   "suara": "mia",
+   "teks": "Tunggu dulu, ternyata ada sesuatu yang jauh lebih menarik di balik kejadian ini.",
+   "dibaca": "Tunggu dulu, ternyata ada sesuatu yang jauh lebih menarik di balik kejadian ini.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/e411322856dd.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3dcf3e7a69db",
+   "suara": "mia",
+   "teks": "Ada pola tertentu yang mulai terlihat ketika kita menghubungkan semua kejadian tersebut.",
+   "dibaca": "Ada pola tertentu yang mulai terlihat ketika kita menghubungkan semua kejadian tersebut.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3dcf3e7a69db.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6adff103aa3f",
+   "suara": "mia",
+   "teks": "Prosesnya sebenarnya cukup sederhana jika kita memahami prinsip dasarnya.",
+   "dibaca": "Prosesnya sebenarnya cukup sederhana jika kita memahami prinsip dasarnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/6adff103aa3f.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e750e27df53e",
+   "suara": "mia",
+   "teks": "Jadi, yang selama ini kita anggap aneh, ternyata punya alasan.",
+   "dibaca": "Jadi, yang selama ini kita anggap aneh, ternyata punya alasan.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/e750e27df53e.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "18646b057dcd",
+   "suara": "mia",
+   "teks": "Baru dua kali iris, mata langsung perih. Hampir semua orang pernah ngalamin.",
+   "dibaca": "Baru dua kali iris, mata langsung perih. Hampir semua orang pernah ngalamin.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/18646b057dcd.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
