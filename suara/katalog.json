@@ -48777,6 +48777,112 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9c2b8979e5cf",
+   "suara": "mia",
+   "teks": "Kita mungkin pernah melihatnya berkali-kali tanpa menyadari apa yang sebenarnya terjadi.",
+   "dibaca": "Kita mungkin pernah melihatnya berkali-kali tanpa menyadari apa yang sebenarnya terjadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9c2b8979e5cf.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1a0891e7c762",
+   "suara": "mia",
+   "teks": "Terkadang, kehadiran seseorang saja sudah cukup untuk membuat keadaan terasa lebih baik.",
+   "dibaca": "Terkadang, kehadiran seseorang saja sudah cukup untuk membuat keadaan terasa lebih baik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1a0891e7c762.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "378a43f31e72",
+   "suara": "mia",
+   "teks": "Kalau kamu pernah ngalamin ini, tulis di komentar, kapan terakhir kali terjadi?",
+   "dibaca": "Kalau kamu pernah ngalamin ini, tulis di komentar, kapan terakhir kali terjadi?",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/378a43f31e72.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4e0b9912763c",
+   "suara": "mia",
+   "teks": "Follow Adriy Project, biar kamu makin sering bilang: oh, ternyata begitu.",
+   "dibaca": "Follow Adriy Project, biar kamu makin sering bilang: oh, ternyata begitu.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/4e0b9912763c.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "42520a2ee748",
+   "suara": "mia",
+   "teks": "Di Adriy Project, kita kupas tuntas sampai kamu bilang: oh, ternyata begitu.",
+   "dibaca": "Di Adriy Project, kita kupas tuntas sampai kamu bilang: oh, ternyata begitu.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/42520a2ee748.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "32ffdc6289e2",
+   "suara": "mia",
+   "teks": "Siapa sangka, sesuatu yang selama ini kita anggap biasa ternyata memiliki cerita yang berbeda?",
+   "dibaca": "Siapa sangka, sesuatu yang selama ini kita anggap biasa ternyata memiliki cerita yang berbeda?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/32ffdc6289e2.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "baef16961dc8",
+   "suara": "mia",
+   "teks": "Tentu saja, manusia punya cara tersendiri untuk mempersulit sesuatu yang sebenarnya sederhana.",
+   "dibaca": "Tentu saja, manusia punya cara tersendiri untuk mempersulit sesuatu yang sebenarnya sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/baef16961dc8.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
