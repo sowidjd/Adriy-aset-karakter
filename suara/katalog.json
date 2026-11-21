@@ -52131,6 +52131,173 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0778370cad96",
+   "suara": "mia",
+   "teks": "Pernah kepikiran, apa jadinya kalau ini nggak ada?",
+   "dibaca": "Pernah kepikiran, apa jadinya kalau ini nggak ada?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/0778370cad96.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6946eda84d72",
+   "suara": "mia",
+   "teks": "Kenapa hanya sebagian orang yang mengalaminya?",
+   "dibaca": "Kenapa hanya sebagian orang yang mengalaminya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/6946eda84d72.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3624b8d4aec0",
+   "suara": "mia",
+   "teks": "Dari mana sebenarnya semua ini berasal?",
+   "dibaca": "Dari mana sebenarnya semua ini berasal?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/3624b8d4aec0.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ecf4313293ea",
+   "suara": "mia",
+   "teks": "Pernah nggak kamu memperhatikan detail kecil ini?",
+   "dibaca": "Pernah nggak kamu memperhatikan detail kecil ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/ecf4313293ea.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "76b36e8aa9d9",
+   "suara": "mia",
+   "teks": "Kenapa otak kita bereaksi seperti itu?",
+   "dibaca": "Kenapa otak kita bereaksi seperti itu?",
+   "fungsi": [
+    "memberikan analogi",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/76b36e8aa9d9.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1b60569a65d5",
+   "suara": "mia",
+   "teks": "Kalau begitu, apa yang harus kita lakukan?",
+   "dibaca": "Kalau begitu, apa yang harus kita lakukan?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/1b60569a65d5.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e9d4396f77e8",
+   "suara": "mia",
+   "teks": "Kenapa jawabannya ternyata sesederhana itu?",
+   "dibaca": "Kenapa jawabannya ternyata sesederhana itu?",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/e9d4396f77e8.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4dd54f17ce10",
+   "suara": "mia",
+   "teks": "Ini bukan teori konspirasi, ini sains.",
+   "dibaca": "Ini bukan teori konspirasi, ini sains.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4dd54f17ce10.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fd50a07e2aa8",
+   "suara": "mia",
+   "teks": "Kalau diperhatikan, polanya selalu berulang.",
+   "dibaca": "Kalau diperhatikan, polanya selalu berulang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/fd50a07e2aa8.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1cb2840a35e1",
+   "suara": "mia",
+   "teks": "Dan di sinilah ceritanya mulai berubah.",
+   "dibaca": "Dan di sinilah ceritanya mulai berubah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1cb2840a35e1.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "93c042a7f1c7",
+   "suara": "mia",
+   "teks": "Untuk lebih jelasnya, kita lihat contohnya.",
+   "dibaca": "Untuk lebih jelasnya, kita lihat contohnya.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/93c042a7f1c7.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
