@@ -70576,6 +70576,157 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "993d176cdabe",
+   "suara": "mia",
+   "teks": "Otak kita lebih senang menerima sekarang daripada nanti.",
+   "dibaca": "Otak kita lebih senang menerima sekarang daripada nanti.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/993d176cdabe.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c2013f346cff",
+   "suara": "mia",
+   "teks": "Matahari jauh lebih besar dari yang bisa kita bayangkan.",
+   "dibaca": "Matahari jauh lebih besar dari yang bisa kita bayangkan.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/c2013f346cff.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b06c10b03305",
+   "suara": "mia",
+   "teks": "Ternyata, hewan juga bisa merasakan hal yang mirip dengan kita.",
+   "dibaca": "Ternyata, hewan juga bisa merasakan hal yang mirip dengan kita.",
+   "fungsi": [
+    "memberikan analogi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/b06c10b03305.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c279d7f2547a",
+   "suara": "mia",
+   "teks": "Hewan ini sudah ada jauh sebelum manusia muncul.",
+   "dibaca": "Hewan ini sudah ada jauh sebelum manusia muncul.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c279d7f2547a.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "48276974ae8b",
+   "suara": "mia",
+   "teks": "Pengeluaran kecil yang rutin bisa jadi besar kalau dijumlahkan.",
+   "dibaca": "Pengeluaran kecil yang rutin bisa jadi besar kalau dijumlahkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/48276974ae8b.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "206300b7a7ce",
+   "suara": "mia",
+   "teks": "Cahaya yang kita lihat ternyata sudah berangkat lama sekali.",
+   "dibaca": "Cahaya yang kita lihat ternyata sudah berangkat lama sekali.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/206300b7a7ce.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "86c79bccae77",
+   "suara": "mia",
+   "teks": "Bumi terus bergerak, walaupun kita tidak merasakannya.",
+   "dibaca": "Bumi terus bergerak, walaupun kita tidak merasakannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/86c79bccae77.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3547e402c5af",
+   "suara": "mia",
+   "teks": "Hewan ini punya kemampuan yang tidak dimiliki manusia.",
+   "dibaca": "Hewan ini punya kemampuan yang tidak dimiliki manusia.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3547e402c5af.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "33e21728bd27",
+   "suara": "mia",
+   "teks": "Para peneliti masih terus mempelajari perilaku hewan ini.",
+   "dibaca": "Para peneliti masih terus mempelajari perilaku hewan ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/33e21728bd27.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "83d469a61070",
+   "suara": "mia",
+   "teks": "Di alam liar, kemampuan ini sangat berguna untuk bertahan hidup.",
+   "dibaca": "Di alam liar, kemampuan ini sangat berguna untuk bertahan hidup.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/83d469a61070.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
