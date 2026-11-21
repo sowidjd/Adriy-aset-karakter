@@ -54570,6 +54570,321 @@
    "catatan": "",
    "sumber": "naskah:naskah.txt",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ec3936a4e6a6",
+   "suara": "hasan",
+   "teks": "Jadi waktu kamu menengok ke belakang, raknya penuh, dan liburan itu terasa panjang.",
+   "dibaca": "Jadi waktu kamu menengok ke belakang, raknya penuh, dan liburan itu terasa panjang.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/ec3936a4e6a6.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c3de0cca5ca3",
+   "suara": "hasan",
+   "teks": "Ada hal baru, atau tidak.",
+   "dibaca": "Ada hal baru, atau tidak.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/c3de0cca5ca3.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0927d036f8c5",
+   "suara": "hasan",
+   "teks": "Pernah nggak kamu merasa, liburan tiga hari kok lewat secepat kedipan mata?",
+   "dibaca": "Pernah nggak kamu merasa, liburan tiga hari kok lewat secepat kedipan mata?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/0927d036f8c5.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "96d669a2d728",
+   "suara": "hasan",
+   "teks": "Tapi anehnya, waktu diingat-ingat lagi, liburan itu terasa panjang sekali.",
+   "dibaca": "Tapi anehnya, waktu diingat-ingat lagi, liburan itu terasa panjang sekali.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/96d669a2d728.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8d0cf1300113",
+   "suara": "hasan",
+   "teks": "Sebaliknya, seminggu sekolah atau kerja terasa lama sekali saat dijalani.",
+   "dibaca": "Sebaliknya, seminggu sekolah atau kerja terasa lama sekali saat dijalani.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/8d0cf1300113.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "90b0dc5e3699",
+   "suara": "hasan",
+   "teks": "Tapi begitu hari Jumat datang, minggu itu seperti hilang tanpa jejak.",
+   "dibaca": "Tapi begitu hari Jumat datang, minggu itu seperti hilang tanpa jejak.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/90b0dc5e3699.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ab6ddfda307f",
+   "suara": "hasan",
+   "teks": "Psikolog Inggris, Claudia Hammond, menyebut keanehan ini paradoks liburan.",
+   "dibaca": "Psikolog Inggris, Claudia Hammond, menyebut keanehan ini paradoks liburan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ab6ddfda307f.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ec7c34a21cfa",
+   "suara": "hasan",
+   "teks": "Menurutnya, kita menilai waktu dengan dua cara.",
+   "dibaca": "Menurutnya, kita menilai waktu dengan dua cara.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ec7c34a21cfa.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "810ba869b1d7",
+   "suara": "hasan",
+   "teks": "Cara pertama, saat kita sedang menjalaninya.",
+   "dibaca": "Cara pertama, saat kita sedang menjalaninya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/810ba869b1d7.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ec01e437f658",
+   "suara": "hasan",
+   "teks": "Waktu liburan, kita sibuk melihat tempat baru, mencoba makanan baru, dan jarang melirik jam.",
+   "dibaca": "Waktu liburan, kita sibuk melihat tempat baru, mencoba makanan baru, dan jarang melirik jam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ec01e437f658.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b00784e690e9",
+   "suara": "hasan",
+   "teks": "Perhatian kita habis untuk hal seru, jadi waktunya terasa melesat.",
+   "dibaca": "Perhatian kita habis untuk hal seru, jadi waktunya terasa melesat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b00784e690e9.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4a2a4776e056",
+   "suara": "hasan",
+   "teks": "Cara kedua, saat kita mengingatnya kembali.",
+   "dibaca": "Cara kedua, saat kita mengingatnya kembali.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/4a2a4776e056.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8ab79f921e98",
+   "suara": "hasan",
+   "teks": "Di sini, otak tidak menghitung jam, tapi menghitung berapa banyak kenangan baru yang tersimpan.",
+   "dibaca": "Di sini, otak tidak menghitung jam, tapi menghitung berapa banyak kenangan baru yang tersimpan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/8ab79f921e98.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c6ca5219057d",
+   "suara": "hasan",
+   "teks": "Setiap hari liburan menambah banyak buku baru ke raknya.",
+   "dibaca": "Setiap hari liburan menambah banyak buku baru ke raknya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/c6ca5219057d.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c91165eee80f",
+   "suara": "hasan",
+   "teks": "Lalu, kenapa minggu biasa malah terasa singkat saat diingat?",
+   "dibaca": "Lalu, kenapa minggu biasa malah terasa singkat saat diingat?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/c91165eee80f.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bd26dd8c3a12",
+   "suara": "hasan",
+   "teks": "Senin sampai Jumat terasa mirip, jadi otak menumpuknya jadi satu buku tipis.",
+   "dibaca": "Senin sampai Jumat terasa mirip, jadi otak menumpuknya jadi satu buku tipis.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/bd26dd8c3a12.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ccec23713dc5",
+   "suara": "hasan",
+   "teks": "Hammond juga menduga, inilah salah satu alasan tahun terasa makin cepat saat kita dewasa.",
+   "dibaca": "Hammond juga menduga, inilah salah satu alasan tahun terasa makin cepat saat kita dewasa.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/ccec23713dc5.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "45cad745ec30",
+   "suara": "hasan",
+   "teks": "Waktu kecil, hampir semua hal masih baru: hari pertama sekolah, belajar naik sepeda, pertama kali melihat laut.",
+   "dibaca": "Waktu kecil, hampir semua hal masih baru: hari pertama sekolah, belajar naik sepeda, pertama kali melihat laut.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/45cad745ec30.wav",
+   "durasi": 7.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1b776cc24cf5",
+   "suara": "hasan",
+   "teks": "Makin dewasa, makin banyak hari yang mirip satu sama lain.",
+   "dibaca": "Makin dewasa, makin banyak hari yang mirip satu sama lain.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/1b776cc24cf5.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fb8313427990",
+   "suara": "hasan",
+   "teks": "Penjelasan ini masih teori, dan para ilmuwan masih terus menelitinya.",
+   "dibaca": "Penjelasan ini masih teori, dan para ilmuwan masih terus menelitinya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/fb8313427990.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cf2fe64aed4c",
+   "suara": "hasan",
+   "teks": "Pulang lewat jalan lain, coba resep baru, atau ngobrol dengan orang yang belum kamu kenal.",
+   "dibaca": "Pulang lewat jalan lain, coba resep baru, atau ngobrol dengan orang yang belum kamu kenal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/cf2fe64aed4c.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
   }
  ]
 }
