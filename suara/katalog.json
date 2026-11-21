@@ -64395,6 +64395,171 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e94a774f4891",
+   "suara": "ongky",
+   "teks": "Ada pengalaman emosional yang sedang diterjemahkan menjadi respons fisik.",
+   "dibaca": "Ada pengalaman emosional yang sedang diterjemahkan menjadi respons fisik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/e94a774f4891.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "aab49c00187d",
+   "suara": "ongky",
+   "teks": "Peneliti menyebut pengalaman ini sebagai emotional chills atau frisson.",
+   "dibaca": "Peneliti menyebut pengalaman ini sebagai emotional chills atau frisong.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/aab49c00187d.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d57908d203bf",
+   "suara": "ongky",
+   "teks": "Mungkin itulah cara tubuh berkata: momen ini penting.",
+   "dibaca": "Mungkin itulah cara tubuh berkata: momen ini penting.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/d57908d203bf.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4d9991bc67fa",
+   "suara": "ongky",
+   "teks": "Lalu, kenapa minggu biasa malah terasa singkat saat diingat?",
+   "dibaca": "Lalu, kenapa minggu biasa malah terasa singkat saat diingat?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/4d9991bc67fa.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c422633b9781",
+   "suara": "ongky",
+   "teks": "Kepribadian, kenangan, dan selera musik diduga ikut berperan.",
+   "dibaca": "Kepribadian, kenangan, dan selera musik diduga ikut berperan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/c422633b9781.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fb33943d9121",
+   "suara": "ongky",
+   "teks": "Kedengarannya sepele, padahal tidak sesederhana itu.",
+   "dibaca": "Kedengarannya sepele, padahal tidak sesederhana itu.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/fb33943d9121.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3cd9764c714a",
+   "suara": "ongky",
+   "teks": "Kita sering melihatnya, tapi jarang benar-benar memperhatikannya.",
+   "dibaca": "Kita sering melihatnya, tapi jarang benar-benar memperhatikannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/3cd9764c714a.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2b5b98e9c365",
+   "suara": "ongky",
+   "teks": "Penjelasan ini masih teori, dan para ilmuwan masih terus menelitinya.",
+   "dibaca": "Penjelasan ini masih teori, dan para ilmuwan masih terus menelitinya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/2b5b98e9c365.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8677904ce299",
+   "suara": "ongky",
+   "teks": "Kalau kamu pernah mengalami ini, coba ingat lagu yang paling sering membuatmu merinding.",
+   "dibaca": "Kalau kamu pernah mengalami ini, coba ingat lagu yang paling sering membuatmu merinding.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/8677904ce299.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6b46df486aa7",
+   "suara": "ongky",
+   "teks": "Tapi begitu hari Jumat datang, minggu itu seperti hilang tanpa jejak.",
+   "dibaca": "Tapi begitu hari Jumat datang, minggu itu seperti hilang tanpa jejak.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/6b46df486aa7.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0f1d0c906176",
+   "suara": "ongky",
+   "teks": "Coba ingat saat lagu favoritmu tiba-tiba mencapai bagian yang paling emosional.",
+   "dibaca": "Coba ingat saat lagu favoritmu tiba-tiba mencapai bagian yang paling emosional.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/0f1d0c906176.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
