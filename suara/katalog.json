@@ -42746,6 +42746,384 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b0fa6599b6b0",
+   "suara": "hasan",
+   "teks": "Hampir setiap hari kamu melakukannya, tapi mungkin belum pernah benar-benar memikirkannya.",
+   "dibaca": "Hampir setiap hari kamu melakukannya, tapi mungkin belum pernah benar-benar memikirkannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b0fa6599b6b0.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1d401fbb3929",
+   "suara": "hasan",
+   "teks": "Siap-siap, karena fakta ini bakal bikin kamu melihat semuanya dengan cara berbeda.",
+   "dibaca": "Siap-siap, karena fakta ini bakal bikin kamu melihat semuanya dengan cara berbeda.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/1d401fbb3929.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e3ce1f618d1f",
+   "suara": "hasan",
+   "teks": "Bedanya, bawang putih nggak punya satu enzim terakhir yang mengubahnya jadi gas perih.",
+   "dibaca": "Bedanya, bawang putih nggak punya satu enzim terakhir yang mengubahnya jadi gas perih.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e3ce1f618d1f.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9f3bd51b559e",
+   "suara": "hasan",
+   "teks": "Namun, selalu ada kesempatan untuk mencoba kembali dan melakukan sesuatu dengan lebih baik.",
+   "dibaca": "Namun, selalu ada kesempatan untuk mencoba kembali dan melakukan sesuatu dengan lebih baik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/9f3bd51b559e.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3c888f09e452",
+   "suara": "hasan",
+   "teks": "Jangan meremehkan langkah kecil, karena perjalanan yang jauh selalu dimulai dari satu langkah.",
+   "dibaca": "Jangan meremehkan langkah kecil, karena perjalanan yang jauh selalu dimulai dari satu langkah.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/3c888f09e452.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "31ede0451f63",
+   "suara": "hasan",
+   "teks": "Kadang, kita hanya ingin semuanya selesai tanpa harus memikirkan terlalu banyak hal.",
+   "dibaca": "Kadang, kita hanya ingin semuanya selesai tanpa harus memikirkan terlalu banyak hal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/31ede0451f63.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "aec8a01a8fda",
+   "suara": "hasan",
+   "teks": "Berdasarkan berbagai pengamatan, terdapat sejumlah faktor yang memengaruhi hasil akhirnya.",
+   "dibaca": "Berdasarkan berbagai pengamatan, terdapat sejumlah faktor yang memengaruhi hasil akhirnya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/aec8a01a8fda.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "39c7a649385e",
+   "suara": "hasan",
+   "teks": "Fenomena ini pertama kali dijelaskan oleh para peneliti puluhan tahun yang lalu.",
+   "dibaca": "Fenomena ini pertama kali dijelaskan oleh para peneliti puluhan tahun yang lalu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/39c7a649385e.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f44280fffc3d",
+   "suara": "hasan",
+   "teks": "Pakai NotesByAdriy saja. Semua catatan, ide, dan journal tersimpan rapi di satu tempat.",
+   "dibaca": "Pakai NotesByAdriy saja. Semua catatan, ide, dan journal tersimpan rapi di satu tempat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/f44280fffc3d.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8e44fd892132",
+   "suara": "hasan",
+   "teks": "Pernah nggak kamu merasa, semakin bertambah umur, waktu terasa semakin cepat berlalu?",
+   "dibaca": "Pernah nggak kamu merasa, semakin bertambah umur, waktu terasa semakin cepat berlalu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/8e44fd892132.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6ac1eb637ec4",
+   "suara": "hasan",
+   "teks": "Akibatnya, ketika kita melihat ke belakang, waktu terasa seolah-olah berlalu begitu cepat.",
+   "dibaca": "Akibatnya, ketika kita melihat ke belakang, waktu terasa seolah-olah berlalu begitu cepat.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/6ac1eb637ec4.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f7e8e1ef8223",
+   "suara": "hasan",
+   "teks": "Seolah-olah kamu sedang membuka halaman baru, sementara halaman sebelumnya belum selesai dibaca.",
+   "dibaca": "Seolah-olah kamu sedang membuka halaman baru, sementara halaman sebelumnya belum selesai dibaca.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/f7e8e1ef8223.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f0c211db3ee8",
+   "suara": "hasan",
+   "teks": "Situasi yang awalnya terkendali, perlahan berubah menjadi sesuatu yang tidak terduga.",
+   "dibaca": "Situasi yang awalnya terkendali, perlahan berubah menjadi sesuatu yang tidak terduga.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/f0c211db3ee8.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3c0ec40de63a",
+   "suara": "hasan",
+   "teks": "Setiap kegagalan membawa informasi baru yang bisa kita gunakan untuk melangkah lebih jauh.",
+   "dibaca": "Setiap kegagalan membawa informasi baru yang bisa kita gunakan untuk melangkah lebih jauh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3c0ec40de63a.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "53c42f5f0522",
+   "suara": "hasan",
+   "teks": "Dan bawang tanpa air mata itu sekarang benar-benar dijual, walau jumlahnya masih terbatas.",
+   "dibaca": "Dan bawang tanpa air mata itu sekarang benar-benar dijual, walau jumlahnya masih terbatas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/53c42f5f0522.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9b251d2caaf9",
+   "suara": "hasan",
+   "teks": "Hasil penelitian ini bahkan membuat para ahli harus mempertimbangkan kembali teori sebelumnya.",
+   "dibaca": "Hasil penelitian ini bahkan membuat para ahli harus mempertimbangkan kembali teori sebelumnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/9b251d2caaf9.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1deede6a6320",
+   "suara": "hasan",
+   "teks": "Isinya hampir semua air, dan tugasnya cuma satu: mengusir gas pengganggu itu secepat mungkin.",
+   "dibaca": "Isinya hampir semua air, dan tugasnya cuma satu: mengusir gas pengganggu itu secepat mungkin.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/1deede6a6320.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7111708f8e8e",
+   "suara": "hasan",
+   "teks": "Tapi tunggu. Bawang putih juga dipotong, juga diiris. Kenapa bawang putih nggak bikin nangis?",
+   "dibaca": "Tapi tunggu. Bawang putih juga dipotong, juga diiris. Kenapa bawang putih nggak bikin nangis?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/7111708f8e8e.wav",
+   "durasi": 6.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9ba1f1b2a973",
+   "suara": "hasan",
+   "teks": "Artinya, rasa tajam yang kamu suka dan air mata yang kamu benci kemungkinan datang dari paket yang sama.",
+   "dibaca": "Artinya, rasa tajam yang kamu suka dan air mata yang kamu benci kemungkinan datang dari paket yang sama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/9ba1f1b2a973.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d9047e2bbd75",
+   "suara": "hasan",
+   "teks": "Pernah nggak kamu berjalan menuju suatu tempat, tapi begitu sampai, malah lupa mau ngapain?",
+   "dibaca": "Pernah nggak kamu berjalan menuju suatu tempat, tapi begitu sampai, malah lupa mau ngapain?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/d9047e2bbd75.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "aea35ebb943b",
+   "suara": "hasan",
+   "teks": "Dalam hitungan detik, terbentuk gas yang menguap ke matamu, lalu matamu membanjirinya dengan air mata.",
+   "dibaca": "Dalam hitungan detik, terbentuk gas yang menguap ke matamu, lalu matamu membanjirinya dengan air mata.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/aea35ebb943b.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2b819238d57e",
+   "suara": "hasan",
+   "teks": "Dari situ, peneliti di Jepang butuh sekitar 20 tahun untuk mengembangkan bawang yang nggak bikin nangis.",
+   "dibaca": "Dari situ, peneliti di Jepang butuh sekitar dua puluh tahun untuk mengembangkan bawang yang nggak bikin nangis.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/2b819238d57e.wav",
+   "durasi": 5.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "da5503f68cfd",
+   "suara": "hasan",
+   "teks": "Pelajari hal baru, kunjungi tempat yang belum pernah kamu datangi, atau sekadar ubah rutinitas harianmu.",
+   "dibaca": "Pelajari hal baru, kunjungi tempat yang belum pernah kamu datangi, atau sekadar ubah rutinitas harianmu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/da5503f68cfd.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "190ec64e35b7",
+   "suara": "hasan",
+   "teks": "Pernah nggak kamu lagi tidur, tiba-tiba merasa seperti jatuh dari tempat tinggi... lalu tubuhmu langsung tersentak bangun?",
+   "dibaca": "Pernah nggak kamu lagi tidur, tiba-tiba merasa seperti jatuh dari tempat tinggi... lalu tubuhmu langsung tersentak bangun?",
+   "fungsi": [
+    "memberikan analogi",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/190ec64e35b7.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8caac05f3d83",
+   "suara": "hasan",
+   "teks": "Ketika kita berpindah dari satu ruangan ke ruangan lain, otak bisa menganggap perpindahan itu sebagai batas sebuah kejadian.",
+   "dibaca": "Ketika kita berpindah dari satu ruangan ke ruangan lain, otak bisa menganggap perpindahan itu sebagai batas sebuah kejadian.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/8caac05f3d83.wav",
+   "durasi": 6.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
