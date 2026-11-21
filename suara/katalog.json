@@ -70501,6 +70501,81 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fcd493d87b1f",
+   "suara": "mia",
+   "teks": "Alam punya caranya sendiri untuk menjaga keseimbangan.",
+   "dibaca": "Alam punya caranya sendiri untuk menjaga keseimbangan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/fcd493d87b1f.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7d7a7cea5f09",
+   "suara": "mia",
+   "teks": "Di luar angkasa, aturannya ternyata sangat berbeda.",
+   "dibaca": "Di luar angkasa, aturannya ternyata sangat berbeda.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/7d7a7cea5f09.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e84de5f2f0e4",
+   "suara": "mia",
+   "teks": "Cuaca bisa berubah karena hal yang sangat kecil.",
+   "dibaca": "Cuaca bisa berubah karena hal yang sangat kecil.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/e84de5f2f0e4.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a3af67df4eba",
+   "suara": "mia",
+   "teks": "Tubuhnya kecil, tapi kemampuannya luar biasa.",
+   "dibaca": "Tubuhnya kecil, tapi kemampuannya luar biasa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a3af67df4eba.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "faa44748260f",
+   "suara": "mia",
+   "teks": "Hewan kecil ini ternyata sangat penting bagi alam.",
+   "dibaca": "Hewan kecil ini ternyata sangat penting bagi alam.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/faa44748260f.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
