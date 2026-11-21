@@ -9257,6 +9257,1193 @@
    ],
    "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
    "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/matras_gulung.png",
+   "nama": "matras_gulung",
+   "base": "matras_gulung",
+   "kategori": "benda",
+   "kelompok": "kemah",
+   "w": 403,
+   "h": 330,
+   "transparan": true,
+   "kata": [
+    "matras",
+    "tikar gulung"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/lentera_b.png",
+   "nama": "lentera_b",
+   "base": "lentera",
+   "kategori": "benda",
+   "kelompok": "kemah",
+   "w": 216,
+   "h": 458,
+   "transparan": true,
+   "kata": [
+    "lentera",
+    "lampu minyak"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/mug_kemah.png",
+   "nama": "mug_kemah",
+   "base": "mug_kemah",
+   "kategori": "benda",
+   "kelompok": "kemah",
+   "w": 233,
+   "h": 211,
+   "transparan": true,
+   "kata": [
+    "mug kemah",
+    "cangkir enamel"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/pisau_lipat.png",
+   "nama": "pisau_lipat",
+   "base": "pisau_lipat",
+   "kategori": "benda",
+   "kelompok": "kemah",
+   "w": 238,
+   "h": 261,
+   "transparan": true,
+   "kata": [
+    "pisau lipat"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/teleskop_b.png",
+   "nama": "teleskop_b",
+   "base": "teleskop",
+   "kategori": "benda",
+   "kelompok": "astronomi",
+   "w": 444,
+   "h": 408,
+   "transparan": true,
+   "kata": [
+    "teleskop"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/peta_bintang.png",
+   "nama": "peta_bintang",
+   "base": "peta_bintang",
+   "kategori": "benda",
+   "kelompok": "astronomi",
+   "w": 545,
+   "h": 340,
+   "transparan": true,
+   "kata": [
+    "peta bintang",
+    "rasi bintang"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/senter_merah.png",
+   "nama": "senter_merah",
+   "base": "senter_merah",
+   "kategori": "benda",
+   "kelompok": "astronomi",
+   "w": 388,
+   "h": 241,
+   "transparan": true,
+   "kata": [
+    "senter"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/matras_yoga.png",
+   "nama": "matras_yoga",
+   "base": "matras_yoga",
+   "kategori": "benda",
+   "kelompok": "olahraga",
+   "w": 375,
+   "h": 225,
+   "transparan": true,
+   "kata": [
+    "matras yoga",
+    "yoga"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/balok_yoga.png",
+   "nama": "balok_yoga",
+   "base": "balok_yoga",
+   "kategori": "benda",
+   "kelompok": "olahraga",
+   "w": 362,
+   "h": 226,
+   "transparan": true,
+   "kata": [
+    "balok yoga"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/tali_yoga.png",
+   "nama": "tali_yoga",
+   "base": "tali_yoga",
+   "kategori": "benda",
+   "kelompok": "olahraga",
+   "w": 222,
+   "h": 203,
+   "transparan": true,
+   "kata": [
+    "tali yoga"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/botol_semprot_kecil.png",
+   "nama": "botol_semprot_kecil",
+   "base": "botol_semprot_kecil",
+   "kategori": "benda",
+   "kelompok": "olahraga",
+   "w": 84,
+   "h": 220,
+   "transparan": true,
+   "kata": [
+    "semprotan kecil"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/gulungan_pancing.png",
+   "nama": "gulungan_pancing",
+   "base": "gulungan_pancing",
+   "kategori": "benda",
+   "kelompok": "memancing",
+   "w": 288,
+   "h": 376,
+   "transparan": true,
+   "kata": [
+    "reel pancing",
+    "gulungan pancing"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/kotak_umpan.png",
+   "nama": "kotak_umpan",
+   "base": "kotak_umpan",
+   "kategori": "benda",
+   "kelompok": "memancing",
+   "w": 355,
+   "h": 297,
+   "transparan": true,
+   "kata": [
+    "kotak pancing",
+    "kail"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/umpan_karet.png",
+   "nama": "umpan_karet",
+   "base": "umpan_karet",
+   "kategori": "benda",
+   "kelompok": "memancing",
+   "w": 255,
+   "h": 323,
+   "transparan": true,
+   "kata": [
+    "umpan",
+    "umpan karet"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/tali_kekang_kuda.png",
+   "nama": "tali_kekang_kuda",
+   "base": "tali_kekang_kuda",
+   "kategori": "benda",
+   "kelompok": "berkuda",
+   "w": 241,
+   "h": 562,
+   "transparan": true,
+   "kata": [
+    "tali kekang"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/cambuk_kuda.png",
+   "nama": "cambuk_kuda",
+   "base": "cambuk_kuda",
+   "kategori": "benda",
+   "kelompok": "berkuda",
+   "w": 100,
+   "h": 558,
+   "transparan": true,
+   "kata": [
+    "cambuk"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/sikat_kuda.png",
+   "nama": "sikat_kuda",
+   "base": "sikat_kuda",
+   "kategori": "benda",
+   "kelompok": "berkuda",
+   "w": 301,
+   "h": 234,
+   "transparan": true,
+   "kata": [
+    "sikat kuda"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/alas_pelana.png",
+   "nama": "alas_pelana",
+   "base": "alas_pelana",
+   "kategori": "benda",
+   "kelompok": "berkuda",
+   "w": 382,
+   "h": 308,
+   "transparan": true,
+   "kata": [
+    "pelana",
+    "alas pelana"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/kain_gulung.png",
+   "nama": "kain_gulung",
+   "base": "kain_gulung",
+   "kategori": "benda",
+   "kelompok": "petualangan",
+   "w": 480,
+   "h": 303,
+   "transparan": true,
+   "kata": [
+    "kain gulung",
+    "perlengkapan kemah"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/kompas_b.png",
+   "nama": "kompas_b",
+   "base": "kompas",
+   "kategori": "benda",
+   "kelompok": "petualangan",
+   "w": 295,
+   "h": 361,
+   "transparan": true,
+   "kata": [
+    "kompas"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/kantong_air.png",
+   "nama": "kantong_air",
+   "base": "kantong_air",
+   "kategori": "benda",
+   "kelompok": "petualangan",
+   "w": 261,
+   "h": 359,
+   "transparan": true,
+   "kata": [
+    "kantong air",
+    "botol air tentara"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/tali_tambang.png",
+   "nama": "tali_tambang",
+   "base": "tali_tambang",
+   "kategori": "benda",
+   "kelompok": "petualangan",
+   "w": 456,
+   "h": 288,
+   "transparan": true,
+   "kata": [
+    "tali tambang",
+    "tali"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/palet_kayu.png",
+   "nama": "palet_kayu",
+   "base": "palet_kayu",
+   "kategori": "benda",
+   "kelompok": "seni",
+   "w": 326,
+   "h": 282,
+   "transparan": true,
+   "kata": [
+    "palet kayu",
+    "melukis"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/kain_lap_cat.png",
+   "nama": "kain_lap_cat",
+   "base": "kain_lap_cat",
+   "kategori": "benda",
+   "kelompok": "seni",
+   "w": 322,
+   "h": 298,
+   "transparan": true,
+   "kata": [
+    "kain lap cat"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/toples_air.png",
+   "nama": "toples_air",
+   "base": "toples_air",
+   "kategori": "benda",
+   "kelompok": "seni",
+   "w": 195,
+   "h": 309,
+   "transparan": true,
+   "kata": [
+    "toples air",
+    "toples kaca"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/kuas_set.png",
+   "nama": "kuas_set",
+   "base": "kuas_set",
+   "kategori": "benda",
+   "kelompok": "seni",
+   "w": 250,
+   "h": 416,
+   "transparan": true,
+   "kata": [
+    "kuas lukis"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/spatula.png",
+   "nama": "spatula",
+   "base": "spatula",
+   "kategori": "benda",
+   "kelompok": "dapur",
+   "w": 151,
+   "h": 607,
+   "transparan": true,
+   "kata": [
+    "spatula"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/pengocok_telur.png",
+   "nama": "pengocok_telur",
+   "base": "pengocok_telur",
+   "kategori": "benda",
+   "kelompok": "dapur",
+   "w": 168,
+   "h": 587,
+   "transparan": true,
+   "kata": [
+    "pengocok telur",
+    "whisk"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/sendok_takar.png",
+   "nama": "sendok_takar",
+   "base": "sendok_takar",
+   "kategori": "benda",
+   "kelompok": "dapur",
+   "w": 318,
+   "h": 320,
+   "transparan": true,
+   "kata": [
+    "sendok takar",
+    "gelas takar"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/mangkuk_adonan.png",
+   "nama": "mangkuk_adonan",
+   "base": "mangkuk_adonan",
+   "kategori": "benda",
+   "kelompok": "dapur",
+   "w": 444,
+   "h": 322,
+   "transparan": true,
+   "kata": [
+    "mangkuk adonan"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/kertas_origami.png",
+   "nama": "kertas_origami",
+   "base": "kertas_origami",
+   "kategori": "benda",
+   "kelompok": "kerajinan",
+   "w": 346,
+   "h": 292,
+   "transparan": true,
+   "kata": [
+    "kertas origami",
+    "kertas lipat"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/pelipat_kertas.png",
+   "nama": "pelipat_kertas",
+   "base": "pelipat_kertas",
+   "kategori": "benda",
+   "kelompok": "kerajinan",
+   "w": 251,
+   "h": 266,
+   "transparan": true,
+   "kata": [
+    "pelipat kertas"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/gunting_kecil.png",
+   "nama": "gunting_kecil",
+   "base": "gunting_kecil",
+   "kategori": "benda",
+   "kelompok": "kerajinan",
+   "w": 147,
+   "h": 307,
+   "transparan": true,
+   "kata": [
+    "gunting kecil"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/burung_origami.png",
+   "nama": "burung_origami",
+   "base": "burung_origami",
+   "kategori": "benda",
+   "kelompok": "kerajinan",
+   "w": 330,
+   "h": 281,
+   "transparan": true,
+   "kata": [
+    "origami",
+    "burung kertas"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/pemidangan.png",
+   "nama": "pemidangan",
+   "base": "pemidangan",
+   "kategori": "benda",
+   "kelompok": "jahit",
+   "w": 406,
+   "h": 438,
+   "transparan": true,
+   "kata": [
+    "bordir",
+    "sulaman",
+    "pemidangan"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/benang_sulam.png",
+   "nama": "benang_sulam",
+   "base": "benang_sulam",
+   "kategori": "benda",
+   "kelompok": "jahit",
+   "w": 216,
+   "h": 394,
+   "transparan": true,
+   "kata": [
+    "benang sulam"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/gunting_bordir.png",
+   "nama": "gunting_bordir",
+   "base": "gunting_bordir",
+   "kategori": "benda",
+   "kelompok": "jahit",
+   "w": 179,
+   "h": 388,
+   "transparan": true,
+   "kata": [
+    "gunting bordir"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/tabung_jarum.png",
+   "nama": "tabung_jarum",
+   "base": "tabung_jarum",
+   "kategori": "benda",
+   "kelompok": "jahit",
+   "w": 163,
+   "h": 420,
+   "transparan": true,
+   "kata": [
+    "tabung jarum"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/sarung_tangan_tebal.png",
+   "nama": "sarung_tangan_tebal",
+   "base": "sarung_tangan_tebal",
+   "kategori": "benda",
+   "kelompok": "musim_dingin",
+   "w": 369,
+   "h": 373,
+   "transparan": true,
+   "kata": [
+    "sarung tangan",
+    "musim dingin"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/sekop_salju.png",
+   "nama": "sekop_salju",
+   "base": "sekop_salju",
+   "kategori": "benda",
+   "kelompok": "musim_dingin",
+   "w": 266,
+   "h": 571,
+   "transparan": true,
+   "kata": [
+    "sekop salju"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/termos_b.png",
+   "nama": "termos_b",
+   "base": "termos",
+   "kategori": "benda",
+   "kelompok": "musim_dingin",
+   "w": 204,
+   "h": 438,
+   "transparan": true,
+   "kata": [
+    "termos"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/penghangat_tangan.png",
+   "nama": "penghangat_tangan",
+   "base": "penghangat_tangan",
+   "kategori": "benda",
+   "kelompok": "musim_dingin",
+   "w": 206,
+   "h": 276,
+   "transparan": true,
+   "kata": [
+    "penghangat tangan"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/tikar_sushi.png",
+   "nama": "tikar_sushi",
+   "base": "tikar_sushi",
+   "kategori": "benda",
+   "kelompok": "dapur",
+   "w": 451,
+   "h": 546,
+   "transparan": true,
+   "kata": [
+    "sushi",
+    "tikar bambu"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/centong_nasi.png",
+   "nama": "centong_nasi",
+   "base": "centong_nasi",
+   "kategori": "benda",
+   "kelompok": "dapur",
+   "w": 184,
+   "h": 519,
+   "transparan": true,
+   "kata": [
+    "centong",
+    "nasi"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/pisau_dapur.png",
+   "nama": "pisau_dapur",
+   "base": "pisau_dapur",
+   "kategori": "benda",
+   "kelompok": "dapur",
+   "w": 108,
+   "h": 631,
+   "transparan": true,
+   "kata": [
+    "pisau dapur",
+    "pisau"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/mangkuk_kecap.png",
+   "nama": "mangkuk_kecap",
+   "base": "mangkuk_kecap",
+   "kategori": "benda",
+   "kelompok": "dapur",
+   "w": 239,
+   "h": 229,
+   "transparan": true,
+   "kata": [
+    "kecap",
+    "mangkuk kecap"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/rajutan.png",
+   "nama": "rajutan",
+   "base": "rajutan",
+   "kategori": "benda",
+   "kelompok": "rajut",
+   "w": 506,
+   "h": 392,
+   "transparan": true,
+   "kata": [
+    "merajut",
+    "rajutan"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/gulungan_wol.png",
+   "nama": "gulungan_wol",
+   "base": "gulungan_wol",
+   "kategori": "benda",
+   "kelompok": "rajut",
+   "w": 245,
+   "h": 391,
+   "transparan": true,
+   "kata": [
+    "wol",
+    "benang wol"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/jarum_kait.png",
+   "nama": "jarum_kait",
+   "base": "jarum_kait",
+   "kategori": "benda",
+   "kelompok": "rajut",
+   "w": 178,
+   "h": 398,
+   "transparan": true,
+   "kata": [
+    "jarum kait",
+    "merenda"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/kaleng_penanda.png",
+   "nama": "kaleng_penanda",
+   "base": "kaleng_penanda",
+   "kategori": "benda",
+   "kelompok": "rajut",
+   "w": 307,
+   "h": 229,
+   "transparan": true,
+   "kata": [
+    "peniti",
+    "kaleng kecil"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/atlas_bintang.png",
+   "nama": "atlas_bintang",
+   "base": "atlas_bintang",
+   "kategori": "benda",
+   "kelompok": "astronomi",
+   "w": 348,
+   "h": 212,
+   "transparan": true,
+   "kata": [
+    "atlas bintang",
+    "buku bintang"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/planisfer.png",
+   "nama": "planisfer",
+   "base": "planisfer",
+   "kategori": "benda",
+   "kelompok": "astronomi",
+   "w": 246,
+   "h": 242,
+   "transparan": true,
+   "kata": [
+    "planisfer",
+    "peta langit"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/senter_kepala.png",
+   "nama": "senter_kepala",
+   "base": "senter_kepala",
+   "kategori": "benda",
+   "kelompok": "astronomi",
+   "w": 234,
+   "h": 132,
+   "transparan": true,
+   "kata": [
+    "senter kepala",
+    "headlamp"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/kursi_lipat.png",
+   "nama": "kursi_lipat",
+   "base": "kursi_lipat",
+   "kategori": "benda",
+   "kelompok": "astronomi",
+   "w": 228,
+   "h": 300,
+   "transparan": true,
+   "kata": [
+    "kursi lipat",
+    "bangku lipat"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/stik_polo.png",
+   "nama": "stik_polo",
+   "base": "stik_polo",
+   "kategori": "benda",
+   "kelompok": "olahraga",
+   "w": 475,
+   "h": 656,
+   "transparan": true,
+   "kata": [
+    "polo",
+    "stik polo"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/helm_polo.png",
+   "nama": "helm_polo",
+   "base": "helm_polo",
+   "kategori": "benda",
+   "kelompok": "olahraga",
+   "w": 310,
+   "h": 313,
+   "transparan": true,
+   "kata": [
+    "helm berkuda",
+    "helm polo"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/pelindung_lutut.png",
+   "nama": "pelindung_lutut",
+   "base": "pelindung_lutut",
+   "kategori": "benda",
+   "kelompok": "olahraga",
+   "w": 200,
+   "h": 297,
+   "transparan": true,
+   "kata": [
+    "pelindung lutut"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/bola_polo.png",
+   "nama": "bola_polo",
+   "base": "bola_polo",
+   "kategori": "benda",
+   "kelompok": "olahraga",
+   "w": 143,
+   "h": 141,
+   "transparan": true,
+   "kata": [
+    "bola kayu"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/pena_kaca.png",
+   "nama": "pena_kaca",
+   "base": "pena_kaca",
+   "kategori": "benda",
+   "kelompok": "menulis",
+   "w": 371,
+   "h": 604,
+   "transparan": true,
+   "kata": [
+    "pena kaca",
+    "pena celup"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/botol_tinta.png",
+   "nama": "botol_tinta",
+   "base": "botol_tinta",
+   "kategori": "benda",
+   "kelompok": "menulis",
+   "w": 223,
+   "h": 278,
+   "transparan": true,
+   "kata": [
+    "tinta",
+    "botol tinta"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/gulungan_kertas_b.png",
+   "nama": "gulungan_kertas_b",
+   "base": "gulungan_kertas",
+   "kategori": "benda",
+   "kelompok": "menulis",
+   "w": 377,
+   "h": 518,
+   "transparan": true,
+   "kata": [
+    "gulungan kertas",
+    "naskah kuno"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/penyangga_pena.png",
+   "nama": "penyangga_pena",
+   "base": "penyangga_pena",
+   "kategori": "benda",
+   "kelompok": "menulis",
+   "w": 283,
+   "h": 238,
+   "transparan": true,
+   "kata": [
+    "penyangga pena"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/bet_pingpong.png",
+   "nama": "bet_pingpong",
+   "base": "bet_pingpong",
+   "kategori": "benda",
+   "kelompok": "olahraga",
+   "w": 226,
+   "h": 376,
+   "transparan": true,
+   "kata": [
+    "pingpong",
+    "tenis meja",
+    "bet"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/bola_pingpong.png",
+   "nama": "bola_pingpong",
+   "base": "bola_pingpong",
+   "kategori": "benda",
+   "kelompok": "olahraga",
+   "w": 147,
+   "h": 148,
+   "transparan": true,
+   "kata": [
+    "bola pingpong"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/handuk_olahraga.png",
+   "nama": "handuk_olahraga",
+   "base": "handuk_olahraga",
+   "kategori": "benda",
+   "kelompok": "olahraga",
+   "w": 232,
+   "h": 272,
+   "transparan": true,
+   "kata": [
+    "handuk olahraga"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/jaring_bola.png",
+   "nama": "jaring_bola",
+   "base": "jaring_bola",
+   "kategori": "benda",
+   "kelompok": "olahraga",
+   "w": 242,
+   "h": 266,
+   "transparan": true,
+   "kata": [
+    "jaring bola",
+    "kantong bola"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/pisau_cukur.png",
+   "nama": "pisau_cukur",
+   "base": "pisau_cukur",
+   "kategori": "benda",
+   "kelompok": "perawatan",
+   "w": 316,
+   "h": 322,
+   "transparan": true,
+   "kata": [
+    "pisau cukur",
+    "mencukur"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/kuas_cukur.png",
+   "nama": "kuas_cukur",
+   "base": "kuas_cukur",
+   "kategori": "benda",
+   "kelompok": "perawatan",
+   "w": 163,
+   "h": 337,
+   "transparan": true,
+   "kata": [
+    "kuas cukur"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/mangkuk_cukur.png",
+   "nama": "mangkuk_cukur",
+   "base": "mangkuk_cukur",
+   "kategori": "benda",
+   "kelompok": "perawatan",
+   "w": 312,
+   "h": 207,
+   "transparan": true,
+   "kata": [
+    "mangkuk cukur"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/handuk_cukur.png",
+   "nama": "handuk_cukur",
+   "base": "handuk_cukur",
+   "kategori": "benda",
+   "kelompok": "perawatan",
+   "w": 356,
+   "h": 232,
+   "transparan": true,
+   "kata": [
+    "handuk"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/kantong_kemah.png",
+   "nama": "kantong_kemah",
+   "base": "kantong_kemah",
+   "kategori": "benda",
+   "kelompok": "kemah",
+   "w": 267,
+   "h": 362,
+   "transparan": true,
+   "kata": [
+    "kantong",
+    "tas serut"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/tali_hammock.png",
+   "nama": "tali_hammock",
+   "base": "tali_hammock",
+   "kategori": "benda",
+   "kelompok": "kemah",
+   "w": 256,
+   "h": 279,
+   "transparan": true,
+   "kata": [
+    "tali hammock",
+    "hammock"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/terpal.png",
+   "nama": "terpal",
+   "base": "terpal",
+   "kategori": "benda",
+   "kelompok": "kemah",
+   "w": 296,
+   "h": 317,
+   "transparan": true,
+   "kata": [
+    "terpal",
+    "tenda"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/pasak_tenda.png",
+   "nama": "pasak_tenda",
+   "base": "pasak_tenda",
+   "kategori": "benda",
+   "kelompok": "kemah",
+   "w": 213,
+   "h": 362,
+   "transparan": true,
+   "kata": [
+    "pasak tenda"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/teropong_b.png",
+   "nama": "teropong_b",
+   "base": "teropong",
+   "kategori": "benda",
+   "kelompok": "astronomi",
+   "w": 482,
+   "h": 278,
+   "transparan": true,
+   "kata": [
+    "teropong",
+    "binokular"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/jaring_ikan.png",
+   "nama": "jaring_ikan",
+   "base": "jaring_ikan",
+   "kategori": "benda",
+   "kelompok": "memancing",
+   "w": 247,
+   "h": 354,
+   "transparan": true,
+   "kata": [
+    "jaring ikan",
+    "serokan"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
   }
  ]
 }
