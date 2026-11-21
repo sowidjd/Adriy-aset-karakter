@@ -69173,6 +69173,36 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8bd0e18c526c",
+   "suara": "ongky",
+   "teks": "Ternyata, jantung kita tidak pernah benar-benar istirahat.",
+   "dibaca": "Ternyata, jantung kita tidak pernah benar-benar istirahat.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/8bd0e18c526c.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1797ae5958ea",
+   "suara": "ongky",
+   "teks": "Kurang tidur bisa memengaruhi hampir semua bagian tubuh.",
+   "dibaca": "Kurang tidur bisa memengaruhi hampir semua bagian tubuh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/1797ae5958ea.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
