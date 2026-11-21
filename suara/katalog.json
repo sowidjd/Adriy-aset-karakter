@@ -35292,6 +35292,172 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "75df4f7416ac",
+   "suara": "hasan",
+   "teks": "Yang kita lihat, belum tentu yang sebenarnya terjadi.",
+   "dibaca": "Yang kita lihat, belum tentu yang sebenarnya terjadi.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/75df4f7416ac.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5e3fdacc38ca",
+   "suara": "hasan",
+   "teks": "Otak cenderung menyimpan lebih sedikit pengalaman yang benar-benar berbeda.",
+   "dibaca": "Otak cenderung menyimpan lebih sedikit pengalaman yang benar-benar berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/5e3fdacc38ca.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fd05aa9635a4",
+   "suara": "hasan",
+   "teks": "Bukan kebetulan, melainkan hasil dari proses yang berlangsung secara bertahap.",
+   "dibaca": "Bukan kebetulan, melainkan hasil dari proses yang berlangsung secara bertahap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/fd05aa9635a4.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "705208a0c580",
+   "suara": "hasan",
+   "teks": "Sayangnya, tidak semua hal berjalan sesuai dengan apa yang kita harapkan.",
+   "dibaca": "Sayangnya, tidak semua hal berjalan sesuai dengan apa yang kita harapkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/705208a0c580.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "91be5461217b",
+   "suara": "hasan",
+   "teks": "Apa jadinya jika sesuatu yang kita anggap mustahil ternyata benar-benar terjadi?",
+   "dibaca": "Apa jadinya jika sesuatu yang kita anggap mustahil ternyata benar-benar terjadi?",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/91be5461217b.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c7b715ca2713",
+   "suara": "hasan",
+   "teks": "Ada alasan mengapa fenomena ini terus menjadi bahan perbincangan hingga sekarang.",
+   "dibaca": "Ada alasan mengapa fenomena ini terus menjadi bahan perbincangan hingga sekarang.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/c7b715ca2713.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c3ec163c8356",
+   "suara": "hasan",
+   "teks": "Sayangnya, kenyataan terkadang jauh berbeda dari apa yang kita bayangkan.",
+   "dibaca": "Sayangnya, kenyataan terkadang jauh berbeda dari apa yang kita bayangkan.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/c3ec163c8356.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "305914000ce7",
+   "suara": "hasan",
+   "teks": "Semakin dalam kita mencari, semakin banyak kejanggalan yang ditemukan.",
+   "dibaca": "Semakin dalam kita mencari, semakin banyak kejanggalan yang ditemukan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/305914000ce7.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "19f26897f3f1",
+   "suara": "hasan",
+   "teks": "Hal sederhana seperti ini terkadang justru menjadi kenangan yang paling berharga.",
+   "dibaca": "Hal sederhana seperti ini terkadang justru menjadi kenangan yang paling berharga.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/19f26897f3f1.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d0a2e5871faf",
+   "suara": "hasan",
+   "teks": "Sebelum kita membahas lebih jauh, coba pikirkan satu hal berikut.",
+   "dibaca": "Sebelum kita membahas lebih jauh, coba pikirkan satu hal berikut.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d0a2e5871faf.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "973a16457a74",
+   "suara": "hasan",
+   "teks": "Tidak ada alasan untuk berhenti ketika kita masih bisa melangkah.",
+   "dibaca": "Tidak ada alasan untuk berhenti ketika kita masih bisa melangkah.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/973a16457a74.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
