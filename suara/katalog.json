@@ -67815,6 +67815,142 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a677595ba611",
+   "suara": "adriy",
+   "teks": "Jadi, jangan remehkan hal-hal kecil di sekitar kita.",
+   "dibaca": "Jadi, jangan remehkan hal-hal kecil di sekitar kita.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/a677595ba611.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "933313db65c2",
+   "suara": "adriy",
+   "teks": "Ternyata, jawabannya ada di depan mata kita sendiri.",
+   "dibaca": "Ternyata, jawabannya ada di depan mata kita sendiri.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/933313db65c2.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8d51f647722c",
+   "suara": "adriy",
+   "teks": "Dan itulah kenapa sains selalu menarik.",
+   "dibaca": "Dan itulah kenapa sains selalu menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/8d51f647722c.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a6d70575a200",
+   "suara": "adriy",
+   "teks": "Sekarang kamu punya fakta baru untuk diceritakan.",
+   "dibaca": "Sekarang kamu punya fakta baru untuk diceritakan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/a6d70575a200.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "feb571555e40",
+   "suara": "adriy",
+   "teks": "Jadi, mitos atau fakta? Sekarang kamu sudah tahu jawabannya.",
+   "dibaca": "Jadi, mitos atau fakta? Sekarang kamu sudah tahu jawabannya.",
+   "fungsi": [
+    "membantah asumsi",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/feb571555e40.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e876dcb36b7d",
+   "suara": "adriy",
+   "teks": "Semoga sekarang semuanya terasa lebih masuk akal.",
+   "dibaca": "Semoga sekarang semuanya terasa lebih masuk akal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/e876dcb36b7d.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "56c6031be417",
+   "suara": "adriy",
+   "teks": "Tenang, kamu bukan satu-satunya.",
+   "dibaca": "Tenang, kamu bukan satu-satunya.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/56c6031be417.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2ab5d1aa892d",
+   "suara": "adriy",
+   "teks": "Santai, ini normal kok.",
+   "dibaca": "Santai, ini normal kok.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/2ab5d1aa892d.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "251a42fb47de",
+   "suara": "adriy",
+   "teks": "Jujur, aku juga baru tahu.",
+   "dibaca": "Jujur, aku juga baru tahu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/251a42fb47de.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
   }
  ]
 }
