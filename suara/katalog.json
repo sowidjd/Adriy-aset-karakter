@@ -60946,6 +60946,171 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bd99dcb2813e",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, rasa penasaranmu selalu punya tempat.",
+   "dibaca": "Di Adriy Project, rasa penasaranmu selalu punya tempat.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/bd99dcb2813e.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "448307039495",
+   "suara": "hasan",
+   "teks": "Kami di Adriy Project sudah cek sumbernya, dan hasilnya menarik.",
+   "dibaca": "Kami di Adriy Project sudah cek sumbernya, dan hasilnya menarik.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/448307039495.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "799c61ec37ca",
+   "suara": "hasan",
+   "teks": "Menurutmu jawabannya apa? Tulis dulu sebelum lanjut.",
+   "dibaca": "Menurutmu jawabannya apa? Tulis dulu sebelum lanjut.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/hasan/799c61ec37ca.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "97fd40ea2075",
+   "suara": "hasan",
+   "teks": "Kalau kamu punya pengalaman lucu soal ini, cerita di komentar.",
+   "dibaca": "Kalau kamu punya pengalaman lucu soal ini, cerita di komentar.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/97fd40ea2075.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "34c132aa0927",
+   "suara": "hasan",
+   "teks": "Follow Adriy Project, dan kita lanjut di video berikutnya.",
+   "dibaca": "Follow Adriy Project, dan kita lanjut di video berikutnya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/34c132aa0927.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0331faf5bba9",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita ubah yang membingungkan jadi lebih jelas.",
+   "dibaca": "Di Adriy Project, kita ubah yang membingungkan jadi lebih jelas.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/0331faf5bba9.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f1937c14c1c6",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita kupas fakta di balik kebiasaan sehari-hari.",
+   "dibaca": "Di Adriy Project, kita kupas fakta di balik kebiasaan sehari-hari.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/f1937c14c1c6.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c9e34c8e2676",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita bahas sains dengan cara yang santai.",
+   "dibaca": "Di Adriy Project, kita bahas sains dengan cara yang santai.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/c9e34c8e2676.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "24181b4f13cf",
+   "suara": "hasan",
+   "teks": "Coba tebak di komentar, lalu tonton sampai habis.",
+   "dibaca": "Coba tebak di komentar, lalu tonton sampai habis.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/24181b4f13cf.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "213baeaacfcf",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita lihat dunia dari sudut yang berbeda.",
+   "dibaca": "Di Adriy Project, kita lihat dunia dari sudut yang berbeda.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/213baeaacfcf.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7fcfa0a07b5e",
+   "suara": "hasan",
+   "teks": "Sebelum lanjut, coba ingat-ingat kapan terakhir kamu mengalaminya.",
+   "dibaca": "Sebelum lanjut, coba ingat-ingat kapan terakhir kamu mengalaminya.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/hasan/7fcfa0a07b5e.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
