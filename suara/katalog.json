@@ -46210,6 +46210,171 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "42117918dec0",
+   "suara": "mia",
+   "teks": "Sampai di sini, kita sudah tahu penyebabnya.",
+   "dibaca": "Sampai di sini, kita sudah tahu penyebabnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/42117918dec0.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "05f48bdf2d69",
+   "suara": "mia",
+   "teks": "Dan akhirnya, kita sampai di bagian terakhir.",
+   "dibaca": "Dan akhirnya, kita sampai di bagian terakhir.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/05f48bdf2d69.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f792d834260c",
+   "suara": "mia",
+   "teks": "Dan ceritanya, belum benar-benar selesai.",
+   "dibaca": "Dan ceritanya, belum benar-benar selesai.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f792d834260c.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9274a8a6d630",
+   "suara": "mia",
+   "teks": "Kayaknya semua orang pernah jadi korban hal ini.",
+   "dibaca": "Kayaknya semua orang pernah jadi korban hal ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9274a8a6d630.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a9750635b9a7",
+   "suara": "mia",
+   "teks": "Kalau kamu belum pernah, selamat, kamu langka.",
+   "dibaca": "Kalau kamu belum pernah, selamat, kamu langka.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a9750635b9a7.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "76fd87c3f734",
+   "suara": "mia",
+   "teks": "Nah, lain kali kamu bisa jelasin ke orang lain.",
+   "dibaca": "Nah, lain kali kamu bisa jelasin ke orang lain.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/76fd87c3f734.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c5007240d544",
+   "suara": "mia",
+   "teks": "Mungkin, jawabannya selalu ada di dalam diri kita.",
+   "dibaca": "Mungkin, jawabannya selalu ada di dalam diri kita.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c5007240d544.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bb37f326ca64",
+   "suara": "mia",
+   "teks": "Mungkin, ini cara alam mengingatkan kita.",
+   "dibaca": "Mungkin, ini cara alam mengingatkan kita.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/bb37f326ca64.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6f1a0cf1a9cd",
+   "suara": "mia",
+   "teks": "Ada kenangan yang tidak akan pernah benar-benar hilang.",
+   "dibaca": "Ada kenangan yang tidak akan pernah benar-benar hilang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/6f1a0cf1a9cd.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a8570143d650",
+   "suara": "mia",
+   "teks": "Mungkin, itulah arti sebenarnya dari pulang.",
+   "dibaca": "Mungkin, itulah arti sebenarnya dari pulang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a8570143d650.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c54afeb8180f",
+   "suara": "mia",
+   "teks": "Dan tanpa sadar, kita sudah sejauh ini.",
+   "dibaca": "Dan tanpa sadar, kita sudah sejauh ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c54afeb8180f.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
