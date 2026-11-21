@@ -60601,6 +60601,186 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5bf252213eba",
+   "suara": "hasan",
+   "teks": "Sampai jumpa di video berikutnya.",
+   "dibaca": "Sampai jumpa di video berikutnya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/5bf252213eba.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "643e5bf422f4",
+   "suara": "hasan",
+   "teks": "Tag teman yang harus tahu fakta ini.",
+   "dibaca": "Tag teman yang harus tahu fakta ini.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/643e5bf422f4.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1fa85a8c99c2",
+   "suara": "hasan",
+   "teks": "Sekarang kita masuk ke bagian intinya.",
+   "dibaca": "Sekarang kita masuk ke bagian intinya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/1fa85a8c99c2.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b8411c07cc39",
+   "suara": "hasan",
+   "teks": "Terima kasih sudah menonton sampai habis.",
+   "dibaca": "Terima kasih sudah menonton sampai habis.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/b8411c07cc39.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9d3b9ab53aae",
+   "suara": "hasan",
+   "teks": "Jangan lupa follow Adriy Project, ya.",
+   "dibaca": "Jangan lupa follow Adriy Project, ya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/9d3b9ab53aae.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e3b14e332c7a",
+   "suara": "hasan",
+   "teks": "Kirim video ini ke teman yang paling penasaran.",
+   "dibaca": "Kirim video ini ke teman yang paling penasaran.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/e3b14e332c7a.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "80bb29702ad8",
+   "suara": "hasan",
+   "teks": "Simpan video ini, nanti kamu pasti butuh.",
+   "dibaca": "Simpan video ini, nanti kamu pasti butuh.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/80bb29702ad8.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "618ef591fed0",
+   "suara": "hasan",
+   "teks": "Bagikan ke teman yang suka bertanya hal aneh.",
+   "dibaca": "Bagikan ke teman yang suka bertanya hal aneh.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/618ef591fed0.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "68f7183a834e",
+   "suara": "hasan",
+   "teks": "Ikuti terus, karena fakta berikutnya lebih seru.",
+   "dibaca": "Ikuti terus, karena fakta berikutnya lebih seru.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/68f7183a834e.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0af28e2f3050",
+   "suara": "hasan",
+   "teks": "Kami di Adriy Project penasaran, jadi kami cari tahu.",
+   "dibaca": "Kami di Adriy Project penasaran, jadi kami cari tahu.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/0af28e2f3050.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "899271f0e569",
+   "suara": "hasan",
+   "teks": "Pilih di komentar, kamu tim yang mana?",
+   "dibaca": "Pilih di komentar, kamu tim yang mana?",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/899271f0e569.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0fbed5b10b00",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita bahas hal yang sering dianggap remeh.",
+   "dibaca": "Di Adriy Project, kita bahas hal yang sering dianggap remeh.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/0fbed5b10b00.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
