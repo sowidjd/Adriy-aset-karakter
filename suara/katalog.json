@@ -42595,6 +42595,157 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e13c8882bb96",
+   "suara": "hasan",
+   "teks": "Ternyata, ada sains di balik kebiasaan sehari-hari kita.",
+   "dibaca": "Ternyata, ada sains di balik kebiasaan sehari-hari kita.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/e13c8882bb96.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0b86f7f91979",
+   "suara": "hasan",
+   "teks": "Dua hal yang tampak berbeda ini ternyata punya akar yang sama.",
+   "dibaca": "Dua hal yang tampak berbeda ini ternyata punya akar yang sama.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/0b86f7f91979.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9fd51fa5b9a1",
+   "suara": "hasan",
+   "teks": "Pernah terpikir bagaimana sesuatu yang begitu kecil bisa memberikan dampak sebesar ini?",
+   "dibaca": "Pernah terpikir bagaimana sesuatu yang begitu kecil bisa memberikan dampak sebesar ini?",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/9fd51fa5b9a1.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "76ff4527a7c0",
+   "suara": "hasan",
+   "teks": "Jika kita melihatnya dari sudut pandang yang berbeda, hasilnya bisa sangat mengejutkan.",
+   "dibaca": "Jika kita melihatnya dari sudut pandang yang berbeda, hasilnya bisa sangat mengejutkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/76ff4527a7c0.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "49eeedda1a71",
+   "suara": "hasan",
+   "teks": "Masalahnya, kita terus melakukan hal yang sama sambil berharap hasilnya berbeda.",
+   "dibaca": "Masalahnya, kita terus melakukan hal yang sama sambil berharap hasilnya berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/49eeedda1a71.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7ee46dc8855f",
+   "suara": "hasan",
+   "teks": "Satu hal yang perlu diingat, tidak semua yang terlihat benar-benar seperti kenyataannya.",
+   "dibaca": "Satu hal yang perlu diingat, tidak semua yang terlihat benar-benar seperti kenyataannya.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/7ee46dc8855f.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ed9aa3730d63",
+   "suara": "hasan",
+   "teks": "Seandainya keputusan itu diambil sedikit lebih awal, mungkin hasilnya akan berbeda.",
+   "dibaca": "Seandainya keputusan itu diambil sedikit lebih awal, mungkin hasilnya akan berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ed9aa3730d63.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "60fef9f55195",
+   "suara": "hasan",
+   "teks": "Kamu mungkin melakukannya tanpa sadar, bahkan saat menonton video ini.",
+   "dibaca": "Kamu mungkin melakukannya tanpa sadar, bahkan saat menonton video ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/60fef9f55195.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b7cf926be84f",
+   "suara": "hasan",
+   "teks": "Perubahan ini bukan terjadi dalam semalam, melainkan melalui serangkaian proses panjang.",
+   "dibaca": "Perubahan ini bukan terjadi dalam semalam, melainkan melalui serangkaian proses panjang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b7cf926be84f.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0515c755bf57",
+   "suara": "hasan",
+   "teks": "Yang paling aneh adalah, fenomena ini tetap terjadi meskipun kondisinya berbeda.",
+   "dibaca": "Yang paling aneh adalah, fenomena ini tetap terjadi meskipun kondisinya berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/0515c755bf57.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
