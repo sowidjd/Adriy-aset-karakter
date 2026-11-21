@@ -59428,6 +59428,96 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b3b5bb4f159e",
+   "suara": "mia",
+   "teks": "Fenomena ini lebih sering terjadi ketika kita kelelahan, stres, mengonsumsi kafein, atau memiliki jadwal tidur yang tidak teratur.",
+   "dibaca": "Fenomena ini lebih sering terjadi ketika kita kelelahan, stres, mengonsumsi kafein, atau memiliki jadwal tidur yang tidak teratur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b3b5bb4f159e.wav",
+   "durasi": 8.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7b31b3989b6e",
+   "suara": "mia",
+   "teks": "Waktu kecil, hampir semua hal masih baru: hari pertama sekolah, belajar naik sepeda, pertama kali melihat laut.",
+   "dibaca": "Waktu kecil, hampir semua hal masih baru: hari pertama sekolah, belajar naik sepeda, pertama kali melihat laut.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/7b31b3989b6e.wav",
+   "durasi": 7.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a7b96b1c6c59",
+   "suara": "mia",
+   "teks": "Fenomena ini ternyata punya nama, yaitu hypnic jerk. Dan ini sebenarnya adalah reaksi alami tubuh saat kita mulai memasuki fase tidur.",
+   "dibaca": "Fenomena ini ternyata punya nama, yaitu hipnik jerk. Dan ini sebenarnya adalah reaksi alami tubuh saat kita mulai memasuki fase tidur.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/a7b96b1c6c59.wav",
+   "durasi": 8.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4e4300b4ca48",
+   "suara": "mia",
+   "teks": "Pada hewan berbulu, respons ini bisa membantu membuat tubuh tampak lebih besar atau membantu memerangkap lapisan udara untuk menjaga kehangatan.",
+   "dibaca": "Pada hewan berbulu, respons ini bisa membantu membuat tubuh tampak lebih besar atau membantu memerangkap lapisan udara untuk menjaga kehangatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4e4300b4ca48.wav",
+   "durasi": 8.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6350a201986d",
+   "suara": "mia",
+   "teks": "Ketika tubuh mulai rileks, otot-otot kita perlahan kehilangan ketegangan. Tapi terkadang, otak salah mengartikan perubahan ini seolah-olah tubuh sedang kehilangan keseimbangan.",
+   "dibaca": "Ketika tubuh mulai rileks, otot-otot kita perlahan kehilangan ketegangan. Tapi terkadang, otak salah mengartikan perubahan ini seolah-olah tubuh sedang kehilangan keseimbangan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/6350a201986d.wav",
+   "durasi": 10.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f10d7b91d4d1",
+   "suara": "mia",
+   "teks": "Akibatnya, otak mengirimkan sinyal secara tiba-tiba ke otot. Dan BOOM! Tubuh kita tersentak, seolah sedang berusaha menyelamatkan diri dari jatuh.",
+   "dibaca": "Akibatnya, otak mengirimkan sinyal secara tiba-tiba ke otot. Dan BOOM! Tubuh kita tersentak, seolah sedang berusaha menyelamatkan diri dari jatuh.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/f10d7b91d4d1.wav",
+   "durasi": 10.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
