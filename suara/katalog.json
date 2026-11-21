@@ -67785,6 +67785,36 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d544018a376e",
+   "suara": "ongky",
+   "teks": "Bayangkan kamu sedang menyusun puzzle tanpa gambar contoh.",
+   "dibaca": "Bayangkan kamu sedang menyusun puzzle tanpa gambar contoh.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/d544018a376e.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "caf6c6e1973d",
+   "suara": "ongky",
+   "teks": "Ini mirip seperti komputer yang sedang memuat ulang.",
+   "dibaca": "Ini mirip seperti komputer yang sedang memuat ulang.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/caf6c6e1973d.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
