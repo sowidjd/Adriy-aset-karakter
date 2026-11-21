@@ -51800,6 +51800,171 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dc62da703ac3",
+   "suara": "mia",
+   "teks": "Kenapa hal ini lebih sering terjadi di malam hari?",
+   "dibaca": "Kenapa hal ini lebih sering terjadi di malam hari?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/dc62da703ac3.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3cd187bad7b5",
+   "suara": "mia",
+   "teks": "Kenapa nggak ada yang memberitahu kita soal ini?",
+   "dibaca": "Kenapa nggak ada yang memberitahu kita soal ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/3cd187bad7b5.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ba2daeb65fa8",
+   "suara": "mia",
+   "teks": "Ada juga teori lain yang mencoba menjelaskannya.",
+   "dibaca": "Ada juga teori lain yang mencoba menjelaskannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ba2daeb65fa8.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1e00edd2afd4",
+   "suara": "mia",
+   "teks": "Ini jauh lebih besar dari yang kita bayangkan!",
+   "dibaca": "Ini jauh lebih besar dari yang kita bayangkan!",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/1e00edd2afd4.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4e995a7b8bfb",
+   "suara": "mia",
+   "teks": "Semakin dipelajari, semakin mengagumkan.",
+   "dibaca": "Semakin dipelajari, semakin mengagumkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4e995a7b8bfb.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c9c0b658ff5b",
+   "suara": "mia",
+   "teks": "Kita hidup di dunia yang penuh hal menakjubkan.",
+   "dibaca": "Kita hidup di dunia yang penuh hal menakjubkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c9c0b658ff5b.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b7b1060a4986",
+   "suara": "mia",
+   "teks": "Ada sesuatu yang bergerak di dalam kegelapan.",
+   "dibaca": "Ada sesuatu yang bergerak di dalam kegelapan.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/b7b1060a4986.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "25217a1815e8",
+   "suara": "mia",
+   "teks": "Pelan-pelan, kita mulai mengerti.",
+   "dibaca": "Pelan-pelan, kita mulai mengerti.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/25217a1815e8.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0e2ca9b91fa2",
+   "suara": "mia",
+   "teks": "Mari kita lihat faktanya, bukan asumsinya.",
+   "dibaca": "Mari kita lihat faktanya, bukan asumsinya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0e2ca9b91fa2.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8eb687200ba4",
+   "suara": "mia",
+   "teks": "Yang penting adalah memahami konteksnya.",
+   "dibaca": "Yang penting adalah memahami konteksnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/8eb687200ba4.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "40781b979a6b",
+   "suara": "mia",
+   "teks": "Semua berawal dari rasa ingin tahu.",
+   "dibaca": "Semua berawal dari rasa ingin tahu.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/40781b979a6b.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
