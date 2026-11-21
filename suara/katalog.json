@@ -28633,6 +28633,156 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1af8553ac2fa",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita mulai dari hal yang paling dekat dengan kita.",
+   "dibaca": "Di Adriy Project, kita mulai dari hal yang paling dekat dengan kita.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/1af8553ac2fa.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "daefc55f5d73",
+   "suara": "hasan",
+   "teks": "Kamu pernah ngalamin juga? Cerita di komentar, ya.",
+   "dibaca": "Kamu pernah ngalamin juga? Cerita di komentar, ya.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/daefc55f5d73.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b31e12d3381f",
+   "suara": "hasan",
+   "teks": "Follow Adriy Project, masih banyak cerita menarik yang menunggu.",
+   "dibaca": "Follow Adriy Project, masih banyak cerita menarik yang menunggu.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/b31e12d3381f.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "806e55ede4e0",
+   "suara": "hasan",
+   "teks": "Follow Adriy Project, karena pertanyaan berikutnya mungkin lebih aneh lagi.",
+   "dibaca": "Follow Adriy Project, karena pertanyaan berikutnya mungkin lebih aneh lagi.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/806e55ede4e0.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f3afe9343228",
+   "suara": "hasan",
+   "teks": "Kalau dipikir-pikir, otak kita memang terkadang suka membuat masalah sendiri.",
+   "dibaca": "Kalau dipikir-pikir, otak kita memang terkadang suka membuat masalah sendiri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/f3afe9343228.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b7fb059876aa",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita cari tahu jawaban dari pertanyaan yang sering kita lewatkan.",
+   "dibaca": "Di Adriy Project, kita cari tahu jawaban dari pertanyaan yang sering kita lewatkan.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/b7fb059876aa.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "16c30247f4e6",
+   "suara": "hasan",
+   "teks": "Komentar satu kata yang menggambarkan perasaanmu soal ini.",
+   "dibaca": "Komentar satu kata yang menggambarkan perasaanmu soal ini.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/16c30247f4e6.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "59b3d1978a5f",
+   "suara": "hasan",
+   "teks": "Tulis di komentar, topik apa yang mau kamu bahas berikutnya.",
+   "dibaca": "Tulis di komentar, topik apa yang mau kamu bahas berikutnya.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/59b3d1978a5f.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4070f92090d1",
+   "suara": "hasan",
+   "teks": "Follow Adriy Project, siapa tahu jawaban yang kamu cari ada di video berikutnya.",
+   "dibaca": "Follow Adriy Project, siapa tahu jawaban yang kamu cari ada di video berikutnya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/4070f92090d1.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e64f666ac6a6",
+   "suara": "hasan",
+   "teks": "Yang penting bukan seberapa cepat, tapi seberapa jauh kita melangkah.",
+   "dibaca": "Yang penting bukan seberapa cepat, tapi seberapa jauh kita melangkah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e64f666ac6a6.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
