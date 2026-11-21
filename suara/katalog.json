@@ -62194,6 +62194,171 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b01e6d9952b5",
+   "suara": "mia",
+   "teks": "Di Adriy Project, kita belajar dari hal-hal kecil di sekitar kita.",
+   "dibaca": "Di Adriy Project, kita belajar dari hal-hal kecil di sekitar kita.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/b01e6d9952b5.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1612f936d8dd",
+   "suara": "mia",
+   "teks": "Kalau kamu sudah tahu soal ini, tulis \"sudah\" di komentar.",
+   "dibaca": "Kalau kamu sudah tahu soal ini, tulis \"sudah\" di komentar.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/1612f936d8dd.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6b8858203cc9",
+   "suara": "mia",
+   "teks": "Kalau ini pertama kalinya kamu dengar, tulis \"baru tahu\" di komentar.",
+   "dibaca": "Kalau ini pertama kalinya kamu dengar, tulis \"baru tahu\" di komentar.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/6b8858203cc9.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f4e16b19e23f",
+   "suara": "mia",
+   "teks": "Follow Adriy Project, siapa tahu pertanyaanmu yang kita bahas berikutnya.",
+   "dibaca": "Follow Adriy Project, siapa tahu pertanyaanmu yang kita bahas berikutnya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/f4e16b19e23f.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5f99fb80809f",
+   "suara": "mia",
+   "teks": "Follow Adriy Project, masih banyak hal sederhana yang menyimpan rahasia.",
+   "dibaca": "Follow Adriy Project, masih banyak hal sederhana yang menyimpan rahasia.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/5f99fb80809f.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1d4b9ff1da6d",
+   "suara": "mia",
+   "teks": "Dan jawabannya.",
+   "dibaca": "Dan jawabannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1d4b9ff1da6d.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7593a41991cd",
+   "suara": "mia",
+   "teks": "Banyak orang salah paham soal ini.",
+   "dibaca": "Banyak orang salah paham soal ini.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/7593a41991cd.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "72b8962c2e5c",
+   "suara": "mia",
+   "teks": "Sekarang, bagian yang paling menarik.",
+   "dibaca": "Sekarang, bagian yang paling menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/72b8962c2e5c.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "df8b298bca07",
+   "suara": "mia",
+   "teks": "Kita kembali sebentar ke awal cerita.",
+   "dibaca": "Kita kembali sebentar ke awal cerita.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/df8b298bca07.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "13606ef13727",
+   "suara": "mia",
+   "teks": "Jawabannya mungkin bukan yang kamu bayangkan.",
+   "dibaca": "Jawabannya mungkin bukan yang kamu bayangkan.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/13606ef13727.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c2fd54fe90dd",
+   "suara": "mia",
+   "teks": "Sekarang, kita lihat dari sisi yang lain.",
+   "dibaca": "Sekarang, kita lihat dari sisi yang lain.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c2fd54fe90dd.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
