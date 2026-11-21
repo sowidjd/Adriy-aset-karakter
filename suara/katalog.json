@@ -62359,6 +62359,186 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a2fdf0526496",
+   "suara": "mia",
+   "teks": "Dan dari sinilah semuanya bermula.",
+   "dibaca": "Dan dari sinilah semuanya bermula.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/a2fdf0526496.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6f0b3fddbb5e",
+   "suara": "mia",
+   "teks": "Tapi tunggu, masih ada yang lebih aneh.",
+   "dibaca": "Tapi tunggu, masih ada yang lebih aneh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/6f0b3fddbb5e.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8995586d397a",
+   "suara": "mia",
+   "teks": "Oke, lalu bagaimana cara kerjanya?",
+   "dibaca": "Oke, lalu bagaimana cara kerjanya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/8995586d397a.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d4f065fd5f8e",
+   "suara": "mia",
+   "teks": "Pertanyaan berikutnya jauh lebih menarik.",
+   "dibaca": "Pertanyaan berikutnya jauh lebih menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d4f065fd5f8e.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9f3cf66b99c0",
+   "suara": "mia",
+   "teks": "Dan ini yang jarang dibahas orang.",
+   "dibaca": "Dan ini yang jarang dibahas orang.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/9f3cf66b99c0.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b58070fcb12e",
+   "suara": "mia",
+   "teks": "Kamu mungkin melakukannya setiap hari tanpa sadar.",
+   "dibaca": "Kamu mungkin melakukannya setiap hari tanpa sadar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b58070fcb12e.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c676f46f0ffe",
+   "suara": "mia",
+   "teks": "Pernah kepikiran kenapa hal ini bisa terjadi?",
+   "dibaca": "Pernah kepikiran kenapa hal ini bisa terjadi?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/c676f46f0ffe.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6797702547a6",
+   "suara": "mia",
+   "teks": "Bayangkan kalau hal ini tidak pernah terjadi.",
+   "dibaca": "Bayangkan kalau hal ini tidak pernah terjadi.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/6797702547a6.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "961284a7e807",
+   "suara": "mia",
+   "teks": "Ada yang aneh dari kebiasaan yang satu ini.",
+   "dibaca": "Ada yang aneh dari kebiasaan yang satu ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/961284a7e807.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1c3bd2f7e3fb",
+   "suara": "mia",
+   "teks": "Semua berawal dari pertanyaan seorang anak kecil.",
+   "dibaca": "Semua berawal dari pertanyaan seorang anak kecil.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/1c3bd2f7e3fb.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4f159ab6987f",
+   "suara": "mia",
+   "teks": "Oke, sekarang kita bandingkan.",
+   "dibaca": "Oke, sekarang kita bandingkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4f159ab6987f.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e74bef88e037",
+   "suara": "mia",
+   "teks": "Coba tebak, berapa banyak orang yang tahu soal ini?",
+   "dibaca": "Coba tebak, berapa banyak orang yang tahu soal ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/e74bef88e037.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
