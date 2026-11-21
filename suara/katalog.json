@@ -51422,6 +51422,218 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1a9bf3ad1590",
+   "suara": "mia",
+   "teks": "Tapi ternyata, bukan cuma itu.",
+   "dibaca": "Tapi ternyata, bukan cuma itu.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/1a9bf3ad1590.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "42221a920b14",
+   "suara": "mia",
+   "teks": "Lalu, apa artinya buat kita?",
+   "dibaca": "Lalu, apa artinya buat kita?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/42221a920b14.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5e156e6eb7cc",
+   "suara": "mia",
+   "teks": "Sekarang, bagian yang paling seru.",
+   "dibaca": "Sekarang, bagian yang paling seru.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5e156e6eb7cc.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3048d42e5a3d",
+   "suara": "mia",
+   "teks": "Tapi, semuanya nggak berhenti di situ.",
+   "dibaca": "Tapi, semuanya nggak berhenti di situ.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3048d42e5a3d.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "675bedfc1683",
+   "suara": "mia",
+   "teks": "Ternyata selama ini kita salah kira.",
+   "dibaca": "Ternyata selama ini kita salah kira.",
+   "fungsi": [
+    "membantah asumsi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/675bedfc1683.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b182f98400e5",
+   "suara": "mia",
+   "teks": "Inilah yang membuat sains begitu menarik.",
+   "dibaca": "Inilah yang membuat sains begitu menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b182f98400e5.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "10a1d6fa5dbb",
+   "suara": "mia",
+   "teks": "Benar-benar pencapaian yang luar biasa.",
+   "dibaca": "Benar-benar pencapaian yang luar biasa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/10a1d6fa5dbb.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3e11ff3635fb",
+   "suara": "mia",
+   "teks": "Semua mata tertuju pada satu titik.",
+   "dibaca": "Semua mata tertuju pada satu titik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3e11ff3635fb.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d8a433b7e8f9",
+   "suara": "mia",
+   "teks": "Pertanyaannya, apakah mereka akan berhasil?",
+   "dibaca": "Pertanyaannya, apakah mereka akan berhasil?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/d8a433b7e8f9.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ac0a46cd35f7",
+   "suara": "mia",
+   "teks": "Alasan pertama, dan yang paling penting.",
+   "dibaca": "Alasan pertama, dan yang paling penting.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/ac0a46cd35f7.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d9c8b34b95df",
+   "suara": "mia",
+   "teks": "Inilah yang membedakan fakta dari mitos.",
+   "dibaca": "Inilah yang membedakan fakta dari mitos.",
+   "fungsi": [
+    "membantah asumsi",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d9c8b34b95df.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ffbae1f33529",
+   "suara": "mia",
+   "teks": "Semua ini berawal dari sebuah kebetulan.",
+   "dibaca": "Semua ini berawal dari sebuah kebetulan.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/ffbae1f33529.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6ce60387eb13",
+   "suara": "mia",
+   "teks": "Ada satu kisah yang jarang diceritakan.",
+   "dibaca": "Ada satu kisah yang jarang diceritakan.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/6ce60387eb13.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9cce8ee720c0",
+   "suara": "mia",
+   "teks": "Lalu, apa bedanya dengan kita?",
+   "dibaca": "Lalu, apa bedanya dengan kita?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/9cce8ee720c0.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
