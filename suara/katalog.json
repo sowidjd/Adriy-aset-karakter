@@ -50519,6 +50519,172 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2b1cff1dd585",
+   "suara": "mia",
+   "teks": "Apa yang akan terjadi selanjutnya?",
+   "dibaca": "Apa yang akan terjadi selanjutnya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/2b1cff1dd585.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3583bbc2f8d0",
+   "suara": "mia",
+   "teks": "Apa rahasia di balik semua ini?",
+   "dibaca": "Apa rahasia di balik semua ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/3583bbc2f8d0.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cf6da8608721",
+   "suara": "mia",
+   "teks": "Apa yang membuat semuanya berubah?",
+   "dibaca": "Apa yang membuat semuanya berubah?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/cf6da8608721.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1f03079b1abd",
+   "suara": "mia",
+   "teks": "Dan ternyata, masih ada lagi.",
+   "dibaca": "Dan ternyata, masih ada lagi.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/1f03079b1abd.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "22772bce4cdd",
+   "suara": "mia",
+   "teks": "Tapi, apa akibatnya?",
+   "dibaca": "Tapi, apa akibatnya?",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/22772bce4cdd.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e35c7aa300de",
+   "suara": "mia",
+   "teks": "Tanda-tandanya sudah ada sejak awal.",
+   "dibaca": "Tanda-tandanya sudah ada sejak awal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/e35c7aa300de.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5477141e6197",
+   "suara": "mia",
+   "teks": "Ternyata seru juga, ya.",
+   "dibaca": "Ternyata seru juga, ya.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/5477141e6197.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8e8f369796df",
+   "suara": "mia",
+   "teks": "Ini bukan opini, ini data.",
+   "dibaca": "Ini bukan opini, ini data.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/8e8f369796df.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "72102c24077f",
+   "suara": "mia",
+   "teks": "Korelasi bukan berarti sebab-akibat.",
+   "dibaca": "Korelasi bukan berarti sebab-akibat.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/72102c24077f.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "090fd90a291b",
+   "suara": "mia",
+   "teks": "Siapa yang tidak pernah mengalaminya?",
+   "dibaca": "Siapa yang tidak pernah mengalaminya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/090fd90a291b.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "91024293ac1d",
+   "suara": "mia",
+   "teks": "Itu bawang yang sedang membela diri.",
+   "dibaca": "Itu bawang yang sedang membela diri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/91024293ac1d.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
