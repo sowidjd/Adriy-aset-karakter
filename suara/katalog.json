@@ -46030,6 +46030,186 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3358b76cef35",
+   "suara": "mia",
+   "teks": "Kadang, diam adalah jawaban terbaik.",
+   "dibaca": "Kadang, diam adalah jawaban terbaik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3358b76cef35.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ab8d5fbc3c42",
+   "suara": "mia",
+   "teks": "Mungkin, kita hanya perlu berhenti sejenak.",
+   "dibaca": "Mungkin, kita hanya perlu berhenti sejenak.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ab8d5fbc3c42.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "23b6de20cafa",
+   "suara": "mia",
+   "teks": "Semua yang terjadi, punya alasannya sendiri.",
+   "dibaca": "Semua yang terjadi, punya alasannya sendiri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/23b6de20cafa.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "df7590a72574",
+   "suara": "mia",
+   "teks": "Ada rasa yang sulit dijelaskan dengan kata-kata.",
+   "dibaca": "Ada rasa yang sulit dijelaskan dengan kata-kata.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/df7590a72574.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fcb48bd2b95e",
+   "suara": "mia",
+   "teks": "Mereka juga pernah gagal, berkali-kali.",
+   "dibaca": "Mereka juga pernah gagal, berkali-kali.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/fcb48bd2b95e.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "66624b759d69",
+   "suara": "mia",
+   "teks": "Terima kasih sudah ikut penasaran bersama kami.",
+   "dibaca": "Terima kasih sudah ikut penasaran bersama kami.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/66624b759d69.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "aa9bc47d6cba",
+   "suara": "mia",
+   "teks": "Bagikan video ini ke teman yang paling sering nangis di dapur.",
+   "dibaca": "Bagikan video ini ke teman yang paling sering nangis di dapur.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/aa9bc47d6cba.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c2c13e260b69",
+   "suara": "mia",
+   "teks": "Pelan-pelan, semuanya mulai masuk akal.",
+   "dibaca": "Pelan-pelan, semuanya mulai masuk akal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c2c13e260b69.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1c01e2fc24c4",
+   "suara": "mia",
+   "teks": "Kirim video ini ke temanmu yang paling suka penasaran.",
+   "dibaca": "Kirim video ini ke temanmu yang paling suka penasaran.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/1c01e2fc24c4.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "57cecc4c256d",
+   "suara": "mia",
+   "teks": "Bagikan video ini kalau menurutmu bermanfaat.",
+   "dibaca": "Bagikan video ini kalau menurutmu bermanfaat.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/57cecc4c256d.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "56ada4bea1f1",
+   "suara": "mia",
+   "teks": "Tetap penasaran, dan follow Adriy Project.",
+   "dibaca": "Tetap penasaran, dan follow Adriy Project.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/56ada4bea1f1.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f09f3407f46c",
+   "suara": "mia",
+   "teks": "Setelah tahu itu, sekarang pertanyaannya berubah.",
+   "dibaca": "Setelah tahu itu, sekarang pertanyaannya berubah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f09f3407f46c.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
