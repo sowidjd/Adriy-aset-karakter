@@ -68723,6 +68723,126 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "71e046218e78",
+   "suara": "adriy",
+   "teks": "Ini adalah reaksi alami tubuh, bukan tanda penyakit.",
+   "dibaca": "Ini adalah reaksi alami tubuh, bukan tanda penyakit.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/71e046218e78.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "de58028ae516",
+   "suara": "adriy",
+   "teks": "Setiap tubuh bisa bereaksi sedikit berbeda.",
+   "dibaca": "Setiap tubuh bisa bereaksi sedikit berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/de58028ae516.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "368ac915a9b7",
+   "suara": "adriy",
+   "teks": "Tubuh kita bekerja keras bahkan saat kita tidur.",
+   "dibaca": "Tubuh kita bekerja keras bahkan saat kita tidur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/368ac915a9b7.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "057ee643dda3",
+   "suara": "adriy",
+   "teks": "Ternyata, jantung kita tidak pernah benar-benar istirahat.",
+   "dibaca": "Ternyata, jantung kita tidak pernah benar-benar istirahat.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/057ee643dda3.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3c6235c2d379",
+   "suara": "adriy",
+   "teks": "Kulit kita adalah organ terbesar di tubuh manusia.",
+   "dibaca": "Kulit kita adalah organ terbesar di tubuh manusia.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/3c6235c2d379.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "faf54d527339",
+   "suara": "adriy",
+   "teks": "Kurang tidur bisa memengaruhi hampir semua bagian tubuh.",
+   "dibaca": "Kurang tidur bisa memengaruhi hampir semua bagian tubuh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/faf54d527339.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f0b41ccd37d6",
+   "suara": "adriy",
+   "teks": "Minum air yang cukup ternyata berpengaruh besar.",
+   "dibaca": "Minum air yang cukup ternyata berpengaruh besar.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/f0b41ccd37d6.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d010b90e2ce8",
+   "suara": "adriy",
+   "teks": "Tubuh manusia jauh lebih rumit dari mesin mana pun.",
+   "dibaca": "Tubuh manusia jauh lebih rumit dari mesin mana pun.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/d010b90e2ce8.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
   }
  ]
 }
