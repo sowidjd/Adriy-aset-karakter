@@ -43229,6 +43229,36 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c86410640f51",
+   "suara": "adriy",
+   "teks": "Yang kelihatan sederhana ternyata jauh lebih rumit dari bayangan kita.",
+   "dibaca": "Yang kelihatan sederhana ternyata jauh lebih rumit dari bayangan kita.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/c86410640f51.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "72eca5c6e372",
+   "suara": "ongky",
+   "teks": "Yang kelihatan sederhana ternyata jauh lebih rumit dari bayangan kita.",
+   "dibaca": "Yang kelihatan sederhana ternyata jauh lebih rumit dari bayangan kita.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/72eca5c6e372.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
   }
  ]
 }
