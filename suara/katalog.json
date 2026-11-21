@@ -51965,6 +51965,172 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "45d94c8db1f2",
+   "suara": "mia",
+   "teks": "Dan ingat, oh, ternyata begitu.",
+   "dibaca": "Dan ingat, oh, ternyata begitu.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/45d94c8db1f2.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c430392a3ebc",
+   "suara": "mia",
+   "teks": "Hal yang sama juga terjadi di dunia hewan.",
+   "dibaca": "Hal yang sama juga terjadi di dunia hewan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c430392a3ebc.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "040f43d57e5a",
+   "suara": "mia",
+   "teks": "Ini mirip dengan yang terjadi pada tubuh kita.",
+   "dibaca": "Ini mirip dengan yang terjadi pada tubuh kita.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/040f43d57e5a.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "46a946676498",
+   "suara": "mia",
+   "teks": "Dari sini, kita bisa melihat benang merahnya.",
+   "dibaca": "Dari sini, kita bisa melihat benang merahnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/46a946676498.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "81abb204390e",
+   "suara": "mia",
+   "teks": "Ibaratnya seperti baterai yang hampir habis.",
+   "dibaca": "Ibaratnya seperti baterai yang hampir habis.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/81abb204390e.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6743db305011",
+   "suara": "mia",
+   "teks": "Seperti lampu yang menyala otomatis saat gelap.",
+   "dibaca": "Seperti lampu yang menyala otomatis saat gelap.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/6743db305011.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3cc8178082a9",
+   "suara": "mia",
+   "teks": "Karena udara menghamburkan cahaya biru.",
+   "dibaca": "Karena udara menghamburkan cahaya biru.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/3cc8178082a9.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c21483e24a5a",
+   "suara": "mia",
+   "teks": "Ada satu hal yang jarang dibahas soal ini.",
+   "dibaca": "Ada satu hal yang jarang dibahas soal ini.",
+   "fungsi": [
+    "mengawali cerita",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/c21483e24a5a.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d7d29ea260c1",
+   "suara": "mia",
+   "teks": "Biar gampang, bayangkan seperti ini.",
+   "dibaca": "Biar gampang, bayangkan seperti ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/d7d29ea260c1.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5c502b65c83b",
+   "suara": "mia",
+   "teks": "Ada beberapa hal yang bisa kamu lakukan.",
+   "dibaca": "Ada beberapa hal yang bisa kamu lakukan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5c502b65c83b.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d025546fd70f",
+   "suara": "mia",
+   "teks": "Ternyata, otak kita menyimpan banyak kejutan.",
+   "dibaca": "Ternyata, otak kita menyimpan banyak kejutan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/d025546fd70f.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
