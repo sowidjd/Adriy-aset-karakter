@@ -43274,6 +43274,51 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4dfbbd4692b4",
+   "suara": "adriy",
+   "teks": "Kalau ini bisa terjadi di alam, apa lagi yang belum kita tahu?",
+   "dibaca": "Kalau ini bisa terjadi di alam, apa lagi yang belum kita tahu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/4dfbbd4692b4.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1fdf95bf1b5b",
+   "suara": "ongky",
+   "teks": "Kalau ini bisa terjadi di alam, apa lagi yang belum kita tahu?",
+   "dibaca": "Kalau ini bisa terjadi di alam, apa lagi yang belum kita tahu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/1fdf95bf1b5b.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1b4587a0e865",
+   "suara": "hasan",
+   "teks": "Kalau ini bisa terjadi di alam, apa lagi yang belum kita tahu?",
+   "dibaca": "Kalau ini bisa terjadi di alam, apa lagi yang belum kita tahu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/1b4587a0e865.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
   }
  ]
 }
