@@ -57478,6 +57478,277 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c292dc9c935c",
+   "suara": "mia",
+   "teks": "Setelah semua yang terjadi, mereka akhirnya menemukan jalan keluar.",
+   "dibaca": "Setelah semua yang terjadi, mereka akhirnya menemukan jalan keluar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c292dc9c935c.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "475b020a4449",
+   "suara": "mia",
+   "teks": "Seandainya kamu tahu dari awal, apakah kamu akan melakukannya?",
+   "dibaca": "Seandainya kamu tahu dari awal, apakah kamu akan melakukannya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/475b020a4449.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "20a814d91ce1",
+   "suara": "mia",
+   "teks": "Diam-diam, tubuhmu melakukan sesuatu yang luar biasa setiap hari.",
+   "dibaca": "Diam-diam, tubuhmu melakukan sesuatu yang luar biasa setiap hari.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/20a814d91ce1.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8aa693310762",
+   "suara": "mia",
+   "teks": "Dua hal yang tampak berbeda ini ternyata punya akar yang sama.",
+   "dibaca": "Dua hal yang tampak berbeda ini ternyata punya akar yang sama.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/8aa693310762.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "89f5f9208bac",
+   "suara": "mia",
+   "teks": "Penjelasan ini masih teori, dan para ilmuwan masih terus menelitinya.",
+   "dibaca": "Penjelasan ini masih teori, dan para ilmuwan masih terus menelitinya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/89f5f9208bac.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8bcdfde0d426",
+   "suara": "mia",
+   "teks": "Kamu nggak lagi sedih. Tapi tiap potong bawang, air matamu tetap keluar.",
+   "dibaca": "Kamu nggak lagi sedih. Tapi tiap potong bawang, air matamu tetap keluar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/8bcdfde0d426.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8440018412c7",
+   "suara": "mia",
+   "teks": "Karena langkah kecil hari ini bisa menjadi awal dari perubahan besar di masa depan.",
+   "dibaca": "Karena langkah kecil hari ini bisa menjadi awal dari perubahan besar di masa depan.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/8440018412c7.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dc1dc525774c",
+   "suara": "mia",
+   "teks": "Penemuan ini membuka jalan bagi sesuatu yang sebelumnya tidak pernah terpikirkan.",
+   "dibaca": "Penemuan ini membuka jalan bagi sesuatu yang sebelumnya tidak pernah terpikirkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/dc1dc525774c.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ae52028bff4f",
+   "suara": "mia",
+   "teks": "Bahkan, hasil akhirnya jauh lebih besar daripada yang diperkirakan sebelumnya.",
+   "dibaca": "Bahkan, hasil akhirnya jauh lebih besar daripada yang diperkirakan sebelumnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ae52028bff4f.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b693dfd6b0ff",
+   "suara": "mia",
+   "teks": "Meski begitu, keadaan masih bisa berubah selama kita tidak berhenti mencoba.",
+   "dibaca": "Meski begitu, keadaan masih bisa berubah selama kita tidak berhenti mencoba.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b693dfd6b0ff.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "efab8dbbee4b",
+   "suara": "mia",
+   "teks": "Dampaknya mungkin tidak langsung terlihat, tetapi perlahan mulai terasa.",
+   "dibaca": "Dampaknya mungkin tidak langsung terlihat, tetapi perlahan mulai terasa.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/efab8dbbee4b.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f952a6e16f47",
+   "suara": "mia",
+   "teks": "Fakta ini cukup untuk membuktikan bahwa anggapan tersebut tidak sepenuhnya benar.",
+   "dibaca": "Fakta ini cukup untuk membuktikan bahwa anggapan tersebut tidak sepenuhnya benar.",
+   "fungsi": [
+    "membantah asumsi",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f952a6e16f47.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f1bd01cea314",
+   "suara": "mia",
+   "teks": "Sayangnya, kesempatan yang begitu besar tidak selalu dimanfaatkan dengan baik.",
+   "dibaca": "Sayangnya, kesempatan yang begitu besar tidak selalu dimanfaatkan dengan baik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f1bd01cea314.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "10d4c9e69b9a",
+   "suara": "mia",
+   "teks": "Pengalaman sering kali mengajarkan sesuatu yang tidak bisa ditemukan di dalam buku.",
+   "dibaca": "Pengalaman sering kali mengajarkan sesuatu yang tidak bisa ditemukan di dalam buku.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/10d4c9e69b9a.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "09bf1c956d34",
+   "suara": "mia",
+   "teks": "Semakin berusaha menyelesaikannya, semakin banyak masalah baru yang bermunculan.",
+   "dibaca": "Semakin berusaha menyelesaikannya, semakin banyak masalah baru yang bermunculan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/09bf1c956d34.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d50cd7855cd5",
+   "suara": "mia",
+   "teks": "Tapi begitu hari Jumat datang, minggu itu seperti hilang tanpa jejak.",
+   "dibaca": "Tapi begitu hari Jumat datang, minggu itu seperti hilang tanpa jejak.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/d50cd7855cd5.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "651d611a7b30",
+   "suara": "mia",
+   "teks": "Itu penghargaan untuk riset yang bikin orang tertawa dulu, lalu berpikir.",
+   "dibaca": "Itu penghargaan untuk riset yang bikin orang tertawa dulu, lalu berpikir.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/651d611a7b30.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e34098daa419",
+   "suara": "mia",
+   "teks": "Tapi juga berdasarkan pengalaman, ingatan, dan seberapa banyak hal baru yang kita alami.",
+   "dibaca": "Tapi juga berdasarkan pengalaman, ingatan, dan seberapa banyak hal baru yang kita alami.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/e34098daa419.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
