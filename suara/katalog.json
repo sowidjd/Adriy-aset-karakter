@@ -57418,6 +57418,66 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "142b5a1de02e",
+   "suara": "mia",
+   "teks": "Namun, di balik semua itu, ada sesuatu yang belum diketahui.",
+   "dibaca": "Namun, di balik semua itu, ada sesuatu yang belum diketahui.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/142b5a1de02e.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bba38899024c",
+   "suara": "mia",
+   "teks": "Sejujurnya, penjelasan ini terdengar sulit dipercaya pada awalnya.",
+   "dibaca": "Sejujurnya, penjelasan ini terdengar sulit dipercaya pada awalnya.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/bba38899024c.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a6b6e696ebeb",
+   "suara": "mia",
+   "teks": "Mungkin inilah alasan mengapa momen kecil terkadang terasa begitu besar.",
+   "dibaca": "Mungkin inilah alasan mengapa momen kecil terkadang terasa begitu besar.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/a6b6e696ebeb.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5042e6436148",
+   "suara": "mia",
+   "teks": "Sesuatu yang tidak diketahui selalu menyisakan ruang bagi kemungkinan terburuk.",
+   "dibaca": "Sesuatu yang tidak diketahui selalu menyisakan ruang bagi kemungkinan terburuk.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5042e6436148.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
