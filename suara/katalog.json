@@ -43458,6 +43458,252 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "129e19ccbbfc",
+   "suara": "mia",
+   "teks": "Mudah, kan?",
+   "dibaca": "Mudah, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/129e19ccbbfc.wav",
+   "durasi": 0.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8312398b4084",
+   "suara": "mia",
+   "teks": "Masa, sih?",
+   "dibaca": "Masa, sih?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/8312398b4084.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bf9b7f25d872",
+   "suara": "mia",
+   "teks": "Seru, kan?",
+   "dibaca": "Seru, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/bf9b7f25d872.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f47ebe1a516b",
+   "suara": "mia",
+   "teks": "Lucu, ya?",
+   "dibaca": "Lucu, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/f47ebe1a516b.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3d13df644d00",
+   "suara": "mia",
+   "teks": "Sampai akhirnya...",
+   "dibaca": "Sampai akhirnya...",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/mia/3d13df644d00.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ce92fdf21561",
+   "suara": "mia",
+   "teks": "Tidak ada yang bergerak.",
+   "dibaca": "Tidak ada yang bergerak.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ce92fdf21561.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c6dbc4a0630a",
+   "suara": "mia",
+   "teks": "Lalu, semuanya berubah.",
+   "dibaca": "Lalu, semuanya berubah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c6dbc4a0630a.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c96692e0315b",
+   "suara": "mia",
+   "teks": "Kenapa, ya?",
+   "dibaca": "Kenapa, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/c96692e0315b.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2af4e51df889",
+   "suara": "mia",
+   "teks": "Coba pikirkan sejenak.",
+   "dibaca": "Coba pikirkan sejenak.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2af4e51df889.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "953d1ae8663f",
+   "suara": "mia",
+   "teks": "Tunggu sebentar.",
+   "dibaca": "Tunggu sebentar.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/mia/953d1ae8663f.wav",
+   "durasi": 0.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "814f37f07c23",
+   "suara": "mia",
+   "teks": "Mereka menunggu.",
+   "dibaca": "Mereka menunggu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/814f37f07c23.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "772cb0f74d8f",
+   "suara": "mia",
+   "teks": "Cepat banget, kan?",
+   "dibaca": "Cepat banget, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/772cb0f74d8f.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "346620257e39",
+   "suara": "mia",
+   "teks": "Gampangnya begini.",
+   "dibaca": "Gampangnya begini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/346620257e39.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "734ba0470f51",
+   "suara": "mia",
+   "teks": "Singkatnya begini.",
+   "dibaca": "Singkatnya begini.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/734ba0470f51.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a1c1658352a5",
+   "suara": "mia",
+   "teks": "Sederhananya begini.",
+   "dibaca": "Sederhananya begini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a1c1658352a5.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "37c3f84d0064",
+   "suara": "mia",
+   "teks": "Kita mundur sebentar.",
+   "dibaca": "Kita mundur sebentar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/37c3f84d0064.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
