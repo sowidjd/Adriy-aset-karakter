@@ -56845,6 +56845,142 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7b2e2cb59eb6",
+   "suara": "mia",
+   "teks": "Ratusan tahun yang lalu, orang-orang punya pertanyaan yang sama.",
+   "dibaca": "Ratusan tahun yang lalu, orang-orang punya pertanyaan yang sama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/7b2e2cb59eb6.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "502fbaf88e0e",
+   "suara": "mia",
+   "teks": "Konsep yang sama ternyata dipakai dalam teknologi sehari-hari.",
+   "dibaca": "Konsep yang sama ternyata dipakai dalam teknologi sehari-hari.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/502fbaf88e0e.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6aa570013851",
+   "suara": "mia",
+   "teks": "Ini mirip seperti saat kamu menunggu loading di ponsel.",
+   "dibaca": "Ini mirip seperti saat kamu menunggu loading di ponsel.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/6aa570013851.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "11d3f8f70c38",
+   "suara": "mia",
+   "teks": "Padahal, beberapa detik yang lalu kamu masih ingat dengan jelas.",
+   "dibaca": "Padahal, beberapa detik yang lalu kamu masih ingat dengan jelas.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/11d3f8f70c38.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "698b8b86ca4b",
+   "suara": "mia",
+   "teks": "Hal yang terlihat sederhana ternyata menyimpan proses yang cukup rumit.",
+   "dibaca": "Hal yang terlihat sederhana ternyata menyimpan proses yang cukup rumit.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/698b8b86ca4b.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4cc66723aea4",
+   "suara": "mia",
+   "teks": "Kabar baiknya, masih ada cara untuk memahami dan mengatasi masalah ini.",
+   "dibaca": "Kabar baiknya, masih ada cara untuk memahami dan mengatasi masalah ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4cc66723aea4.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a6fb964e72d4",
+   "suara": "mia",
+   "teks": "Jawabannya ternyata tersembunyi di tempat yang tidak pernah kita duga.",
+   "dibaca": "Jawabannya ternyata tersembunyi di tempat yang tidak pernah kita duga.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/a6fb964e72d4.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ee85cd7ddc67",
+   "suara": "mia",
+   "teks": "Dan rahasia sebenarnya baru akan terungkap setelah kita memahami bagian ini.",
+   "dibaca": "Dan rahasia sebenarnya baru akan terungkap setelah kita memahami bagian ini.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/ee85cd7ddc67.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b2897aa162f8",
+   "suara": "mia",
+   "teks": "Ada satu pertanyaan sederhana yang ternyata jawabannya rumit.",
+   "dibaca": "Ada satu pertanyaan sederhana yang ternyata jawabannya rumit.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/b2897aa162f8.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
