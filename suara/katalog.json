@@ -34041,6 +34041,382 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "81091be97681",
+   "suara": "hasan",
+   "teks": "Satu langkah salah, dan semuanya bisa berakhir.",
+   "dibaca": "Satu langkah salah, dan semuanya bisa berakhir.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/81091be97681.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e4250fd8dd1d",
+   "suara": "hasan",
+   "teks": "Iya, ada ilmuwan yang serius meneliti hal ini.",
+   "dibaca": "Iya, ada ilmuwan yang serius meneliti hal ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e4250fd8dd1d.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "33790a14cd67",
+   "suara": "hasan",
+   "teks": "Ini fakta yang bisa bikin obrolan di tongkrongan makin seru.",
+   "dibaca": "Ini fakta yang bisa bikin obrolan di tongkrongan makin seru.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/33790a14cd67.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "74530749bd1d",
+   "suara": "hasan",
+   "teks": "Yang jadi pertanyaan bukan apakah, tapi seberapa besar.",
+   "dibaca": "Yang jadi pertanyaan bukan apakah, tapi seberapa besar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/74530749bd1d.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a03a89fad1d5",
+   "suara": "hasan",
+   "teks": "Penemuan enzim itu bahkan dapat penghargaan Ig Nobel.",
+   "dibaca": "Penemuan enzim itu bahkan dapat penghargaan ig nobel.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/a03a89fad1d5.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d6f8cb160df8",
+   "suara": "hasan",
+   "teks": "Rasanya baru kemarin kita masih bermain tanpa memikirkan apa-apa.",
+   "dibaca": "Rasanya baru kemarin kita masih bermain tanpa memikirkan apa-apa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d6f8cb160df8.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "37d047a22847",
+   "suara": "hasan",
+   "teks": "Tapi sekarang, tiba-tiba sudah akhir tahun lagi.",
+   "dibaca": "Tapi sekarang, tiba-tiba sudah akhir tahun lagi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/37d047a22847.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1441c564b3bd",
+   "suara": "hasan",
+   "teks": "Tapi kalau dipikir-pikir, bukankah itu sedikit aneh?",
+   "dibaca": "Tapi kalau dipikir-pikir, bukankah itu sedikit aneh?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/1441c564b3bd.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "06d476018bd9",
+   "suara": "hasan",
+   "teks": "Tidak mudah sampai di titik ini, tetapi semuanya terbayar.",
+   "dibaca": "Tidak mudah sampai di titik ini, tetapi semuanya terbayar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/06d476018bd9.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7428f84500e1",
+   "suara": "hasan",
+   "teks": "Namun, ada sesuatu yang terasa tidak beres sejak awal.",
+   "dibaca": "Namun, ada sesuatu yang terasa tidak beres sejak awal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/7428f84500e1.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "761636d81262",
+   "suara": "hasan",
+   "teks": "Semua harapan itu perlahan runtuh ketika kenyataan mulai terungkap.",
+   "dibaca": "Semua harapan itu perlahan runtuh ketika kenyataan mulai terungkap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/761636d81262.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "50bbcefc41ad",
+   "suara": "hasan",
+   "teks": "Namun, ada satu hal yang belum pernah benar-benar dibicarakan.",
+   "dibaca": "Namun, ada satu hal yang belum pernah benar-benar dibicarakan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/50bbcefc41ad.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bd2c5d063c48",
+   "suara": "hasan",
+   "teks": "Mungkin selama ini kita melihatnya dari sudut yang kurang tepat.",
+   "dibaca": "Mungkin selama ini kita melihatnya dari sudut yang kurang tepat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/bd2c5d063c48.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ea0b37475a30",
+   "suara": "hasan",
+   "teks": "Apa yang sebenarnya terjadi ketika kita tidak sedang memperhatikan?",
+   "dibaca": "Apa yang sebenarnya terjadi ketika kita tidak sedang memperhatikan?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/ea0b37475a30.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dbe06f9f5f58",
+   "suara": "hasan",
+   "teks": "Kalau sering terjadi, sebaiknya periksakan ke tenaga kesehatan.",
+   "dibaca": "Kalau sering terjadi, sebaiknya periksakan ke tenaga kesehatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/dbe06f9f5f58.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0841aa5a2693",
+   "suara": "hasan",
+   "teks": "Kita selama ini mengira begitu, padahal kenyataannya berbeda.",
+   "dibaca": "Kita selama ini mengira begitu, padahal kenyataannya berbeda.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/0841aa5a2693.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3aa7e8c14b75",
+   "suara": "hasan",
+   "teks": "Fakta ini kedengarannya seperti lelucon, tapi nyata.",
+   "dibaca": "Fakta ini kedengarannya seperti lelucon, tapi nyata.",
+   "fungsi": [
+    "memberikan analogi",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3aa7e8c14b75.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "05b260f49a94",
+   "suara": "hasan",
+   "teks": "Hal sepele ini ternyata menyimpan cerita yang panjang.",
+   "dibaca": "Hal sepele ini ternyata menyimpan cerita yang panjang.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/05b260f49a94.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e82151c7e72a",
+   "suara": "hasan",
+   "teks": "Ini mungkin hal paling biasa yang ternyata paling sering disalahpahami.",
+   "dibaca": "Ini mungkin hal paling biasa yang ternyata paling sering disalahpahami.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/e82151c7e72a.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4c9c5decfa82",
+   "suara": "hasan",
+   "teks": "Banyak yang percaya ini benar, tapi sains berkata lain.",
+   "dibaca": "Banyak yang percaya ini benar, tapi sains berkata lain.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/4c9c5decfa82.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "129464f4b5cf",
+   "suara": "hasan",
+   "teks": "Sesuatu yang kamu anggap biasa, ternyata luar biasa.",
+   "dibaca": "Sesuatu yang kamu anggap biasa, ternyata luar biasa.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/129464f4b5cf.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "81cb0b17c14d",
+   "suara": "hasan",
+   "teks": "Kalau kamu pikir kamu tahu jawabannya, tunggu dulu.",
+   "dibaca": "Kalau kamu pikir kamu tahu jawabannya, tunggu dulu.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/81cb0b17c14d.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d63b08920288",
+   "suara": "hasan",
+   "teks": "Dalam satu menit ke depan, kamu akan tahu jawabannya.",
+   "dibaca": "Dalam satu menit ke depan, kamu akan tahu jawabannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d63b08920288.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8f73ce6bbadc",
+   "suara": "hasan",
+   "teks": "Ketika keseimbangan itu terganggu, masalah mulai muncul.",
+   "dibaca": "Ketika keseimbangan itu terganggu, masalah mulai muncul.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/8f73ce6bbadc.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c4cf855d065a",
+   "suara": "hasan",
+   "teks": "Penjelasan ini masih berupa teori yang paling banyak diterima.",
+   "dibaca": "Penjelasan ini masih berupa teori yang paling banyak diterima.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/c4cf855d065a.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
