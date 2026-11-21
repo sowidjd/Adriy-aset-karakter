@@ -51061,6 +51061,186 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "64a0d8a1557f",
+   "suara": "mia",
+   "teks": "Kenapa ikan badut tidak tersengat anemon?",
+   "dibaca": "Kenapa ikan badut tidak tersengat anemon?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/64a0d8a1557f.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "34fd7fb94511",
+   "suara": "mia",
+   "teks": "Lendir ini membuat anemon tidak menyengatnya.",
+   "dibaca": "Lendir ini membuat anemon tidak menyengatnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/34fd7fb94511.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "64a7baa15349",
+   "suara": "mia",
+   "teks": "Dan waktu yang tersisa semakin sedikit.",
+   "dibaca": "Dan waktu yang tersisa semakin sedikit.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/64a7baa15349.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f9848e4bab83",
+   "suara": "mia",
+   "teks": "Pertanyaannya, kenapa bisa begitu?",
+   "dibaca": "Pertanyaannya, kenapa bisa begitu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/f9848e4bab83.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "920a370dc8c1",
+   "suara": "mia",
+   "teks": "Jawabannya mungkin bikin kamu kaget.",
+   "dibaca": "Jawabannya mungkin bikin kamu kaget.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/920a370dc8c1.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ba0d0b9a4318",
+   "suara": "mia",
+   "teks": "Tapi, ini belum selesai.",
+   "dibaca": "Tapi, ini belum selesai.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ba0d0b9a4318.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "381079df2701",
+   "suara": "mia",
+   "teks": "Banyak orang masih salah paham soal ini.",
+   "dibaca": "Banyak orang masih salah paham soal ini.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/381079df2701.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1f9ce58abd5f",
+   "suara": "mia",
+   "teks": "Prosesnya kira-kira seperti ini.",
+   "dibaca": "Prosesnya kira-kira seperti ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/1f9ce58abd5f.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e4d24e5e9263",
+   "suara": "mia",
+   "teks": "Contohnya bisa kita lihat setiap hari.",
+   "dibaca": "Contohnya bisa kita lihat setiap hari.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/e4d24e5e9263.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "363e3b8779b6",
+   "suara": "mia",
+   "teks": "Dan di sinilah semuanya berubah.",
+   "dibaca": "Dan di sinilah semuanya berubah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/363e3b8779b6.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0f7de2c63b37",
+   "suara": "mia",
+   "teks": "Tapi, ada satu hal lagi.",
+   "dibaca": "Tapi, ada satu hal lagi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0f7de2c63b37.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0c6bcb476b69",
+   "suara": "mia",
+   "teks": "Sekarang, coba perhatikan baik-baik.",
+   "dibaca": "Sekarang, coba perhatikan baik-baik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0c6bcb476b69.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
