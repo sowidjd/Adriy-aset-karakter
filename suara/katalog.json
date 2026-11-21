@@ -65717,6 +65717,209 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ed9a7225966a",
+   "suara": "hasan",
+   "teks": "Kamu juga pernah, kan?",
+   "dibaca": "Kamu juga pernah, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/ed9a7225966a.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b45e974ec0ba",
+   "suara": "hasan",
+   "teks": "Lucu juga, ya?",
+   "dibaca": "Lucu juga, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/b45e974ec0ba.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8211b5735f3e",
+   "suara": "hasan",
+   "teks": "Nggak kepikiran, kan?",
+   "dibaca": "Nggak kepikiran, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/8211b5735f3e.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7218d27602ab",
+   "suara": "hasan",
+   "teks": "Agak menyeramkan, ya?",
+   "dibaca": "Agak menyeramkan, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/7218d27602ab.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ccddc8a243bd",
+   "suara": "hasan",
+   "teks": "Kenapa bisa begitu, ya?",
+   "dibaca": "Kenapa bisa begitu, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/ccddc8a243bd.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6e759fd58ec7",
+   "suara": "hasan",
+   "teks": "Sederhana, tapi jarang disadari, kan?",
+   "dibaca": "Sederhana, tapi jarang disadari, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/6e759fd58ec7.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9dddda3864cd",
+   "suara": "hasan",
+   "teks": "Ternyata penyebabnya sangat sederhana.",
+   "dibaca": "Ternyata penyebabnya sangat sederhana.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/9dddda3864cd.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "508f1a5f3bf1",
+   "suara": "hasan",
+   "teks": "Bahkan para ilmuwan pun sempat terkejut.",
+   "dibaca": "Bahkan para ilmuwan pun sempat terkejut.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/508f1a5f3bf1.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9da039290ca7",
+   "suara": "hasan",
+   "teks": "Ternyata selama ini kita keliru.",
+   "dibaca": "Ternyata selama ini kita keliru.",
+   "fungsi": [
+    "membantah asumsi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/9da039290ca7.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fd82d3c9030d",
+   "suara": "hasan",
+   "teks": "Faktanya jauh lebih menarik dari dugaan kita.",
+   "dibaca": "Faktanya jauh lebih menarik dari dugaan kita.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/fd82d3c9030d.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d53087ed8555",
+   "suara": "hasan",
+   "teks": "Dan ternyata, jawabannya justru sebaliknya.",
+   "dibaca": "Dan ternyata, jawabannya justru sebaliknya.",
+   "fungsi": [
+    "membantah asumsi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/d53087ed8555.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "76bc364ea679",
+   "suara": "hasan",
+   "teks": "Yang mengejutkan, ini terjadi setiap hari.",
+   "dibaca": "Yang mengejutkan, ini terjadi setiap hari.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/76bc364ea679.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5d72b3a1028a",
+   "suara": "hasan",
+   "teks": "Angkanya jauh lebih besar dari yang dibayangkan.",
+   "dibaca": "Angkanya jauh lebih besar dari yang dibayangkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/5d72b3a1028a.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
