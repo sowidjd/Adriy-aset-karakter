@@ -68435,6 +68435,66 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b78be8cefefa",
+   "suara": "ongky",
+   "teks": "Jangan panik dulu.",
+   "dibaca": "Jangan panik dulu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/b78be8cefefa.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bc268e68d0ed",
+   "suara": "ongky",
+   "teks": "Oke, ini agak memalukan, tapi benar.",
+   "dibaca": "Oke, ini agak memalukan, tapi benar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/bc268e68d0ed.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "166c590d3635",
+   "suara": "ongky",
+   "teks": "Ya, otak kita memang kadang lucu.",
+   "dibaca": "Ya, otak kita memang kadang lucu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/166c590d3635.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f3f4273be32f",
+   "suara": "ongky",
+   "teks": "Siapa yang langsung mencoba setelah dengar ini?",
+   "dibaca": "Siapa yang langsung mencoba setelah dengar ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/f3f4273be32f.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
   }
  ]
 }
