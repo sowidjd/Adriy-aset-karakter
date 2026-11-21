@@ -47101,6 +47101,156 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3249484b573c",
+   "suara": "mia",
+   "teks": "Mungkin, selama ini kita terlalu cepat menilai.",
+   "dibaca": "Mungkin, selama ini kita terlalu cepat menilai.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3249484b573c.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bdbe31f796f3",
+   "suara": "mia",
+   "teks": "Tapi di sisi lain, ada hal yang perlu dipertimbangkan.",
+   "dibaca": "Tapi di sisi lain, ada hal yang perlu dipertimbangkan.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/mia/bdbe31f796f3.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3fc061b4a0bc",
+   "suara": "mia",
+   "teks": "Mulailah dari yang kecil, tapi mulailah hari ini.",
+   "dibaca": "Mulailah dari yang kecil, tapi mulailah hari ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3fc061b4a0bc.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cd867928b7a0",
+   "suara": "mia",
+   "teks": "Setiap langkah tetap berarti, sekecil apa pun.",
+   "dibaca": "Setiap langkah tetap berarti, sekecil apa pun.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/cd867928b7a0.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d185de9f3dd8",
+   "suara": "mia",
+   "teks": "Jangan takut salah, takutlah kalau tidak pernah mencoba.",
+   "dibaca": "Jangan takut salah, takutlah kalau tidak pernah mencoba.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d185de9f3dd8.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3a312a31bbb2",
+   "suara": "mia",
+   "teks": "Kita semua punya potensi yang belum kita sadari.",
+   "dibaca": "Kita semua punya potensi yang belum kita sadari.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3a312a31bbb2.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "77376c663eaf",
+   "suara": "mia",
+   "teks": "Singkatnya, ini adalah cara otak memahami dunia.",
+   "dibaca": "Singkatnya, ini adalah cara otak memahami dunia.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/77376c663eaf.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6153fb4ef46f",
+   "suara": "mia",
+   "teks": "Pada akhirnya, semuanya punya penjelasan.",
+   "dibaca": "Pada akhirnya, semuanya punya penjelasan.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/6153fb4ef46f.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9cf56e70d23a",
+   "suara": "mia",
+   "teks": "Semoga setelah ini, kamu lebih menghargai hal-hal kecil.",
+   "dibaca": "Semoga setelah ini, kamu lebih menghargai hal-hal kecil.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9cf56e70d23a.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8e0c2ec897ff",
+   "suara": "mia",
+   "teks": "Namun, ketika hari-harimu dipenuhi rutinitas yang sama...",
+   "dibaca": "Namun, ketika hari-harimu dipenuhi rutinitas yang sama...",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/mia/8e0c2ec897ff.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
