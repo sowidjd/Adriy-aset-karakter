@@ -69203,6 +69203,157 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "92dee67ffea2",
+   "suara": "adriy",
+   "teks": "Otak kita suka mengambil jalan pintas.",
+   "dibaca": "Otak kita suka mengambil jalan pintas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/92dee67ffea2.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c8e2b56f248c",
+   "suara": "adriy",
+   "teks": "Otak tidak selalu bisa membedakan bayangan dan kenyataan.",
+   "dibaca": "Otak tidak selalu bisa membedakan bayangan dan kenyataan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/c8e2b56f248c.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "091d0991498e",
+   "suara": "adriy",
+   "teks": "Ini cara otak menghemat energi.",
+   "dibaca": "Ini cara otak menghemat energi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/091d0991498e.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "65523d30a24d",
+   "suara": "adriy",
+   "teks": "Ternyata, perasaan kita juga dipengaruhi oleh kebiasaan kecil.",
+   "dibaca": "Ternyata, perasaan kita juga dipengaruhi oleh kebiasaan kecil.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/65523d30a24d.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b6d8a0dd45ee",
+   "suara": "adriy",
+   "teks": "Otak kita lebih mudah mengingat cerita daripada angka.",
+   "dibaca": "Otak kita lebih mudah mengingat cerita daripada angka.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/b6d8a0dd45ee.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f929c232ffc3",
+   "suara": "adriy",
+   "teks": "Rasa penasaran ternyata membuat kita lebih mudah belajar.",
+   "dibaca": "Rasa penasaran ternyata membuat kita lebih mudah belajar.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/f929c232ffc3.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "53f414888e19",
+   "suara": "adriy",
+   "teks": "Ingatan kita tidak sesempurna yang kita kira.",
+   "dibaca": "Ingatan kita tidak sesempurna yang kita kira.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/53f414888e19.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d0e4667d19b4",
+   "suara": "adriy",
+   "teks": "Otak kita terus bekerja, bahkan saat kita melamun.",
+   "dibaca": "Otak kita terus bekerja, bahkan saat kita melamun.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/d0e4667d19b4.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3f2814b0536a",
+   "suara": "adriy",
+   "teks": "Kebiasaan terbentuk karena otak suka hal yang berulang.",
+   "dibaca": "Kebiasaan terbentuk karena otak suka hal yang berulang.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/3f2814b0536a.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6501c84eca30",
+   "suara": "adriy",
+   "teks": "Fenomena ini punya nama ilmiah yang cukup unik.",
+   "dibaca": "Fenomena ini punya nama ilmiah yang cukup unik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/6501c84eca30.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
   }
  ]
 }
