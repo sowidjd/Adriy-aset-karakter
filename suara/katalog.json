@@ -44409,6 +44409,217 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "746b432b4699",
+   "suara": "mia",
+   "teks": "Waktu memang tidak pernah menunggu.",
+   "dibaca": "Waktu memang tidak pernah menunggu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/746b432b4699.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5413b1d76b84",
+   "suara": "mia",
+   "teks": "Dan begitulah cara kerjanya.",
+   "dibaca": "Dan begitulah cara kerjanya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/5413b1d76b84.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0a0afd292093",
+   "suara": "mia",
+   "teks": "Nah, jadi begini ceritanya.",
+   "dibaca": "Nah, jadi begini ceritanya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0a0afd292093.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "94290382ed67",
+   "suara": "mia",
+   "teks": "Itulah penjelasan singkatnya.",
+   "dibaca": "Itulah penjelasan singkatnya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/94290382ed67.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7aa39082f5cd",
+   "suara": "mia",
+   "teks": "Kita kembali ke pertanyaan awal tadi.",
+   "dibaca": "Kita kembali ke pertanyaan awal tadi.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/mia/7aa39082f5cd.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ff613a608ce9",
+   "suara": "mia",
+   "teks": "Hasilnya jauh dari yang diharapkan.",
+   "dibaca": "Hasilnya jauh dari yang diharapkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ff613a608ce9.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7f6358ba049f",
+   "suara": "mia",
+   "teks": "Kayaknya otak kita butuh liburan.",
+   "dibaca": "Kayaknya otak kita butuh liburan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/7f6358ba049f.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "da3d603184a0",
+   "suara": "mia",
+   "teks": "Siapa yang setuju? Angkat tangan.",
+   "dibaca": "Siapa yang setuju? Angkat tangan.",
+   "fungsi": [
+    "pertanyaan retoris"
+   ],
+   "file": "suara/mia/da3d603184a0.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7ef39180a1b7",
+   "suara": "mia",
+   "teks": "Anggap saja kita lagi ngobrol santai.",
+   "dibaca": "Anggap saja kita lagi ngobrol santai.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/mia/7ef39180a1b7.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "44965bfa81cd",
+   "suara": "mia",
+   "teks": "Oke, nggak usah buru-buru.",
+   "dibaca": "Oke, nggak usah buru-buru.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/44965bfa81cd.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ad1e1d9b07e8",
+   "suara": "mia",
+   "teks": "Santai, nanti juga paham sendiri.",
+   "dibaca": "Santai, nanti juga paham sendiri.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/mia/ad1e1d9b07e8.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0f1fc61d7186",
+   "suara": "mia",
+   "teks": "Lumayan, kan, buat bahan obrolan?",
+   "dibaca": "Lumayan, kan, buat bahan obrolan?",
+   "fungsi": [
+    "memancing rasa penasaran",
+    "mengubah suasana"
+   ],
+   "file": "suara/mia/0f1fc61d7186.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "57fd98817799",
+   "suara": "mia",
+   "teks": "Dan yang paling penting, tetap santai.",
+   "dibaca": "Dan yang paling penting, tetap santai.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/mia/57fd98817799.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d3bde1fe7e90",
+   "suara": "mia",
+   "teks": "Kalau gagal, anggap saja latihan.",
+   "dibaca": "Kalau gagal, anggap saja latihan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d3bde1fe7e90.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
