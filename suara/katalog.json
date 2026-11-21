@@ -51634,6 +51634,172 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4a9c53b59c2a",
+   "suara": "mia",
+   "teks": "Seperti rem darurat yang tiba-tiba ditarik.",
+   "dibaca": "Seperti rem darurat yang tiba-tiba ditarik.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/4a9c53b59c2a.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4932f99316a8",
+   "suara": "mia",
+   "teks": "Dulu, satu hari terasa begitu lama.",
+   "dibaca": "Dulu, satu hari terasa begitu lama.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/4932f99316a8.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bb085cc15b6e",
+   "suara": "mia",
+   "teks": "Bagaimana mungkin sesuatu seperti ini bisa terjadi?",
+   "dibaca": "Bagaimana mungkin sesuatu seperti ini bisa terjadi?",
+   "fungsi": [
+    "memberikan analogi",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/bb085cc15b6e.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "21b1edf06a34",
+   "suara": "mia",
+   "teks": "Lalu, apa yang sebenarnya terjadi?",
+   "dibaca": "Lalu, apa yang sebenarnya terjadi?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/21b1edf06a34.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "207f74ea1c37",
+   "suara": "mia",
+   "teks": "Kebanyakan orang nggak sadar soal hal ini.",
+   "dibaca": "Kebanyakan orang nggak sadar soal hal ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/207f74ea1c37.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9f1057d6c461",
+   "suara": "mia",
+   "teks": "Para ahli masih memperdebatkan hal ini.",
+   "dibaca": "Para ahli masih memperdebatkan hal ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9f1057d6c461.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "be025ecd8e34",
+   "suara": "mia",
+   "teks": "Angkanya jauh lebih besar dari yang kita kira.",
+   "dibaca": "Angkanya jauh lebih besar dari yang kita kira.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/be025ecd8e34.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f3dd6f408fe1",
+   "suara": "mia",
+   "teks": "Bedanya ternyata cuma satu hal kecil.",
+   "dibaca": "Bedanya ternyata cuma satu hal kecil.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/f3dd6f408fe1.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "de50cb3d7753",
+   "suara": "mia",
+   "teks": "Apa yang sebenarnya terjadi di balik layar?",
+   "dibaca": "Apa yang sebenarnya terjadi di balik layar?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/de50cb3d7753.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "10e16b4041a1",
+   "suara": "mia",
+   "teks": "Apa yang membuat hal ini begitu istimewa?",
+   "dibaca": "Apa yang membuat hal ini begitu istimewa?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/10e16b4041a1.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cbf9d42c290c",
+   "suara": "mia",
+   "teks": "Apa yang terjadi kalau kita melakukannya setiap hari?",
+   "dibaca": "Apa yang terjadi kalau kita melakukannya setiap hari?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/cbf9d42c290c.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
