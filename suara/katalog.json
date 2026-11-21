@@ -51241,6 +51241,187 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2055ac4174b6",
+   "suara": "mia",
+   "teks": "Supaya lebih jelas, kita pakai contoh.",
+   "dibaca": "Supaya lebih jelas, kita pakai contoh.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/2055ac4174b6.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fcc4265c209e",
+   "suara": "mia",
+   "teks": "Dan sekarang, kejutannya.",
+   "dibaca": "Dan sekarang, kejutannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/fcc4265c209e.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "93f8298386f4",
+   "suara": "mia",
+   "teks": "Kenapa rasanya begitu sulit untuk dihentikan?",
+   "dibaca": "Kenapa rasanya begitu sulit untuk dihentikan?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/93f8298386f4.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c2ee47255e6d",
+   "suara": "mia",
+   "teks": "Apa bedanya dengan yang selama ini kita kira?",
+   "dibaca": "Apa bedanya dengan yang selama ini kita kira?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/c2ee47255e6d.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2bec96a6c4b5",
+   "suara": "mia",
+   "teks": "Apa jadinya dunia tanpa hal ini?",
+   "dibaca": "Apa jadinya dunia tanpa hal ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/2bec96a6c4b5.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "97ea83508191",
+   "suara": "mia",
+   "teks": "Apa kamu termasuk orang yang mengalaminya?",
+   "dibaca": "Apa kamu termasuk orang yang mengalaminya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/97ea83508191.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f811a67bf847",
+   "suara": "mia",
+   "teks": "Lalu, kenapa kita masih melakukannya?",
+   "dibaca": "Lalu, kenapa kita masih melakukannya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/f811a67bf847.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "672253078fd4",
+   "suara": "mia",
+   "teks": "Yang satu ini benar-benar di luar dugaan.",
+   "dibaca": "Yang satu ini benar-benar di luar dugaan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/672253078fd4.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "152263063f6c",
+   "suara": "mia",
+   "teks": "Semua ini terjadi hanya dalam hitungan detik.",
+   "dibaca": "Semua ini terjadi hanya dalam hitungan detik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/152263063f6c.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3e2ad74d98fa",
+   "suara": "mia",
+   "teks": "Istilah ini berasal dari bahasa Latin.",
+   "dibaca": "Istilah ini berasal dari bahasa Latin.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3e2ad74d98fa.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "af2115c4e501",
+   "suara": "mia",
+   "teks": "Inilah yang disebut sebagai efek berantai.",
+   "dibaca": "Inilah yang disebut sebagai efek berantai.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/af2115c4e501.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "91b7dec80773",
+   "suara": "mia",
+   "teks": "Jadi, bukan karena satu penyebab saja.",
+   "dibaca": "Jadi, bukan karena satu penyebab saja.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/91b7dec80773.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
