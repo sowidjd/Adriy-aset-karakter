@@ -46980,6 +46980,127 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1ba12829e637",
+   "suara": "mia",
+   "teks": "Tulis di komentar, menurutmu ini mitos atau fakta?",
+   "dibaca": "Tulis di komentar, menurutmu ini mitos atau fakta?",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/1ba12829e637.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ba870886d32b",
+   "suara": "mia",
+   "teks": "Kalau kamu suka, follow Adriy Project, ya.",
+   "dibaca": "Kalau kamu suka, follow Adriy Project, ya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/ba870886d32b.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fa7fae7df922",
+   "suara": "mia",
+   "teks": "Follow Adriy Project, dan ajak temanmu belajar bareng.",
+   "dibaca": "Follow Adriy Project, dan ajak temanmu belajar bareng.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/fa7fae7df922.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6995a6e88fad",
+   "suara": "mia",
+   "teks": "Pertanyaan berikutnya, bagaimana kalau sebaliknya?",
+   "dibaca": "Pertanyaan berikutnya, bagaimana kalau sebaliknya?",
+   "fungsi": [
+    "membantah asumsi",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/6995a6e88fad.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7590e92765b6",
+   "suara": "mia",
+   "teks": "Kalau dirangkum, semuanya sebenarnya sederhana.",
+   "dibaca": "Kalau dirangkum, semuanya sebenarnya sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/7590e92765b6.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f15e151bba86",
+   "suara": "mia",
+   "teks": "Kalau bisa ngomong, otak kita mungkin bakal minta maaf.",
+   "dibaca": "Kalau bisa ngomong, otak kita mungkin bakal minta maaf.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f15e151bba86.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d74e8c321c3f",
+   "suara": "mia",
+   "teks": "Tenang, ini bukan tanda-tanda kiamat.",
+   "dibaca": "Tenang, ini bukan tanda-tanda kiamat.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/mia/d74e8c321c3f.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "44dd6b1767cc",
+   "suara": "mia",
+   "teks": "Kalau masih bingung, tonton sekali lagi, ya.",
+   "dibaca": "Kalau masih bingung, tonton sekali lagi, ya.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/44dd6b1767cc.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
