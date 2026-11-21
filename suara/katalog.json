@@ -45393,6 +45393,206 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "990a998710ba",
+   "suara": "mia",
+   "teks": "Setiap ahli dulunya juga pemula.",
+   "dibaca": "Setiap ahli dulunya juga pemula.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/990a998710ba.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f3a636331628",
+   "suara": "mia",
+   "teks": "Konsisten lebih penting daripada sempurna.",
+   "dibaca": "Konsisten lebih penting daripada sempurna.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f3a636331628.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b8b172ff9d39",
+   "suara": "mia",
+   "teks": "Jangan bandingkan langkahmu dengan orang lain.",
+   "dibaca": "Jangan bandingkan langkahmu dengan orang lain.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b8b172ff9d39.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cc792163480b",
+   "suara": "mia",
+   "teks": "Mungkin, kamu adalah orang berikutnya.",
+   "dibaca": "Mungkin, kamu adalah orang berikutnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/cc792163480b.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6476bf45c86a",
+   "suara": "mia",
+   "teks": "Bukankah hidup memang penuh kejutan?",
+   "dibaca": "Bukankah hidup memang penuh kejutan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/6476bf45c86a.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9e5b8f301642",
+   "suara": "mia",
+   "teks": "Bukankah kita juga sering begitu?",
+   "dibaca": "Bukankah kita juga sering begitu?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/9e5b8f301642.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8d17ae51071e",
+   "suara": "mia",
+   "teks": "Hah? Tadi mau ngapain, ya?",
+   "dibaca": "Hah? Tadi mau ngapain, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/8d17ae51071e.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d1fffd882162",
+   "suara": "mia",
+   "teks": "Apa hubungannya dengan kehidupan kita sehari-hari?",
+   "dibaca": "Apa hubungannya dengan kehidupan kita sehari-hari?",
+   "fungsi": [
+    "menghubungkan dua topik",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/d1fffd882162.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c437dc06ec65",
+   "suara": "mia",
+   "teks": "Hampir semua orang pernah mengalaminya.",
+   "dibaca": "Hampir semua orang pernah mengalaminya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c437dc06ec65.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3de17e60096f",
+   "suara": "mia",
+   "teks": "Ternyata, semuanya saling berhubungan.",
+   "dibaca": "Ternyata, semuanya saling berhubungan.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/mia/3de17e60096f.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2bca089e1128",
+   "suara": "mia",
+   "teks": "Sekarang, kita bandingkan dengan yang lain.",
+   "dibaca": "Sekarang, kita bandingkan dengan yang lain.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2bca089e1128.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "937c63be67d1",
+   "suara": "mia",
+   "teks": "Tapi ada sisi lain yang jarang dibicarakan.",
+   "dibaca": "Tapi ada sisi lain yang jarang dibicarakan.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/mia/937c63be67d1.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "02acbcc0bdec",
+   "suara": "mia",
+   "teks": "Dan ini membawa kita ke pertanyaan berikutnya.",
+   "dibaca": "Dan ini membawa kita ke pertanyaan berikutnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/02acbcc0bdec.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
