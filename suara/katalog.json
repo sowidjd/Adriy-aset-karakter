@@ -59050,6 +59050,384 @@
    "catatan": "",
    "sumber": "naskah:naskah.txt",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9af8c7b330be",
+   "suara": "mia",
+   "teks": "Tulis di komentar, siapa tahu lagu kita sama.",
+   "dibaca": "Tulis di komentar, siapa tahu lagu kita sama.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/9af8c7b330be.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dd9276c229a7",
+   "suara": "mia",
+   "teks": "Di Adriy Project, kita membongkar hal kecil yang ternyata punya penjelasan menarik.",
+   "dibaca": "Di Adriy Project, kita membongkar hal kecil yang ternyata punya penjelasan menarik.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/dd9276c229a7.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "63e78f284888",
+   "suara": "mia",
+   "teks": "Jadi, saat sebuah lagu membuat kulitmu meremang, itu bukan berarti tubuhmu aneh.",
+   "dibaca": "Jadi, saat sebuah lagu membuat kulitmu meremang, itu bukan berarti tubuhmu aneh.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/63e78f284888.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9a92f2a53f2a",
+   "suara": "mia",
+   "teks": "Satu penelitian menemukan, di puncak lagu favorit, otak melepaskan dopamin, zat yang berhubungan dengan rasa senang.",
+   "dibaca": "Satu penelitian menemukan, di puncak lagu favorit, otak melepaskan dopamin, zat yang berhubungan dengan rasa senang.",
+   "fungsi": [
+    "menghubungkan dua topik",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9a92f2a53f2a.wav",
+   "durasi": 7.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "512bc1b94969",
+   "suara": "mia",
+   "teks": "Bukan cuma musik.",
+   "dibaca": "Bukan cuma musik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/512bc1b94969.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9284093c9cc6",
+   "suara": "mia",
+   "teks": "Inilah yang kita kenal sebagai bulu kuduk berdiri.",
+   "dibaca": "Inilah yang kita kenal sebagai bulu kuduk berdiri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9284093c9cc6.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0cdefd5f1d17",
+   "suara": "mia",
+   "teks": "Pernah merinding gara-gara lagu, padahal nggak kedinginan?",
+   "dibaca": "Pernah merinding gara-gara lagu, padahal nggak kedinginan?",
+   "fungsi": [
+    "membantah asumsi",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/0cdefd5f1d17.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2603b918b57c",
+   "suara": "mia",
+   "teks": "Ada pengalaman emosional yang sedang diterjemahkan menjadi respons fisik.",
+   "dibaca": "Ada pengalaman emosional yang sedang diterjemahkan menjadi respons fisik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2603b918b57c.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "278577c2a254",
+   "suara": "mia",
+   "teks": "Peneliti menyebut pengalaman ini sebagai emotional chills atau frisson.",
+   "dibaca": "Peneliti menyebut pengalaman ini sebagai emotional chills atau frisong.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/278577c2a254.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c645ba29abd8",
+   "suara": "mia",
+   "teks": "Mungkin itulah cara tubuh berkata: momen ini penting.",
+   "dibaca": "Mungkin itulah cara tubuh berkata: momen ini penting.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c645ba29abd8.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6b26a9723691",
+   "suara": "mia",
+   "teks": "Kepribadian, kenangan, dan selera musik diduga ikut berperan.",
+   "dibaca": "Kepribadian, kenangan, dan selera musik diduga ikut berperan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/6b26a9723691.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "198c26e3fec4",
+   "suara": "mia",
+   "teks": "Kalau kamu pernah mengalami ini, coba ingat lagu yang paling sering membuatmu merinding.",
+   "dibaca": "Kalau kamu pernah mengalami ini, coba ingat lagu yang paling sering membuatmu merinding.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/198c26e3fec4.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3eee0b379da1",
+   "suara": "mia",
+   "teks": "Coba ingat saat lagu favoritmu tiba-tiba mencapai bagian yang paling emosional.",
+   "dibaca": "Coba ingat saat lagu favoritmu tiba-tiba mencapai bagian yang paling emosional.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3eee0b379da1.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "01e9818bce68",
+   "suara": "mia",
+   "teks": "Di sekitar setiap folikel rambut, ada otot kecil yang disebut arrector pili.",
+   "dibaca": "Di sekitar setiap folikel rambut, ada otot kecil yang disebut arrector pili.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/01e9818bce68.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "92193b265b4f",
+   "suara": "mia",
+   "teks": "Lagu yang membuatmu merinding, belum tentu memberi sensasi yang sama kepada orang lain.",
+   "dibaca": "Lagu yang membuatmu merinding, belum tentu memberi sensasi yang sama kepada orang lain.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/92193b265b4f.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "36403d8dfb85",
+   "suara": "mia",
+   "teks": "Bayangkan kucing yang kaget: bulunya mengembang, dan tubuhnya terlihat jauh lebih besar.",
+   "dibaca": "Bayangkan kucing yang kaget: bulunya mengembang, dan tubuhnya terlihat jauh lebih besar.",
+   "fungsi": [
+    "memberikan analogi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/36403d8dfb85.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a29fb359d018",
+   "suara": "mia",
+   "teks": "Ini bisa terjadi ketika musik atau pengalaman tertentu memicu respons emosional yang kuat.",
+   "dibaca": "Ini bisa terjadi ketika musik atau pengalaman tertentu memicu respons emosional yang kuat.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/a29fb359d018.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cf18dec8207a",
+   "suara": "mia",
+   "teks": "Tapi para peneliti belum sepenuhnya memahami mengapa setiap orang merespons musik secara berbeda.",
+   "dibaca": "Tapi para peneliti belum sepenuhnya memahami mengapa setiap orang merespons musik secara berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/cf18dec8207a.wav",
+   "durasi": 6.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "13cb643ee64c",
+   "suara": "mia",
+   "teks": "Suara penyanyi naik, musik membesar, dan entah kenapa tubuhmu ikut bereaksi.",
+   "dibaca": "Suara penyanyi naik, musik membesar, dan entah kenapa tubuhmu ikut bereaksi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/13cb643ee64c.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "628f1ab11c4e",
+   "suara": "mia",
+   "teks": "Tapi ternyata, sensasi merinding itu punya nama dan bentuk respons tubuh yang bisa diamati.",
+   "dibaca": "Tapi ternyata, sensasi merinding itu punya nama dan bentuk respons tubuh yang bisa diamati.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/628f1ab11c4e.wav",
+   "durasi": 6.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3145f7f3f5dd",
+   "suara": "mia",
+   "teks": "Ketika otot ini berkontraksi, rambut tertarik berdiri dan permukaan kulit membentuk benjolan kecil.",
+   "dibaca": "Ketika otot ini berkontraksi, rambut tertarik berdiri dan permukaan kulit membentuk benjolan kecil.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3145f7f3f5dd.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8e9eb3188de8",
+   "suara": "mia",
+   "teks": "Nah, sekarang pertanyaannya: kalau kamu nggak sedang kedinginan, kenapa otot yang sama bisa aktif saat terharu?",
+   "dibaca": "Nah, sekarang pertanyaannya: kalau kamu nggak sedang kedinginan, kenapa otot yang sama bisa aktif saat terharu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/8e9eb3188de8.wav",
+   "durasi": 6.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7cb67e17532e",
+   "suara": "mia",
+   "teks": "Pemandangan luar biasa, momen haru, atau sesuatu yang bikin kamu kagum juga bisa memunculkan sensasi serupa.",
+   "dibaca": "Pemandangan luar biasa, momen haru, atau sesuatu yang bikin kamu kagum juga bisa memunculkan sensasi serupa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/7cb67e17532e.wav",
+   "durasi": 7.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8afca5085734",
+   "suara": "mia",
+   "teks": "Dan lucunya, terkadang otak kita sendiri yang membuat kita takut... padahal kita sedang berada di tempat paling aman.",
+   "dibaca": "Dan lucunya, terkadang otak kita sendiri yang membuat kita takut... padahal kita sedang berada di tempat paling aman.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/8afca5085734.wav",
+   "durasi": 6.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4af1a4c8e4f3",
+   "suara": "mia",
+   "teks": "Padahal, kamu sedang berbaring di tempat tidur. Nggak ada yang mendorong, nggak ada yang menarik, bahkan kamu nggak sedang bermimpi jatuh.",
+   "dibaca": "Padahal, kamu sedang berbaring di tempat tidur. Nggak ada yang mendorong, nggak ada yang menarik, bahkan kamu nggak sedang bermimpi jatuh.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/4af1a4c8e4f3.wav",
+   "durasi": 7.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
