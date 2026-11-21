@@ -8059,6 +8059,1204 @@
    "sumber": "https://openclipart.org/detail/414",
    "judul_asli": "picnic basket",
    "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/mug_hitam.png",
+   "nama": "mug_hitam",
+   "base": "mug_hitam",
+   "kategori": "benda",
+   "kelompok": "kantor",
+   "w": 279,
+   "h": 272,
+   "transparan": true,
+   "kata": [
+    "mug",
+    "cangkir"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/lampu_meja.png",
+   "nama": "lampu_meja",
+   "base": "lampu_meja",
+   "kategori": "benda",
+   "kelompok": "kantor",
+   "w": 308,
+   "h": 490,
+   "transparan": true,
+   "kata": [
+    "lampu meja",
+    "lampu belajar"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/buku_kulit.png",
+   "nama": "buku_kulit",
+   "base": "buku_kulit",
+   "kategori": "benda",
+   "kelompok": "kantor",
+   "w": 352,
+   "h": 290,
+   "transparan": true,
+   "kata": [
+    "buku",
+    "jurnal",
+    "buku harian"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/sukulen_pot.png",
+   "nama": "sukulen_pot",
+   "base": "sukulen_pot",
+   "kategori": "benda",
+   "kelompok": "kantor",
+   "w": 240,
+   "h": 323,
+   "transparan": true,
+   "kata": [
+    "sukulen",
+    "tanaman hias",
+    "pot tanaman"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/panci_tembaga.png",
+   "nama": "panci_tembaga",
+   "base": "panci_tembaga",
+   "kategori": "benda",
+   "kelompok": "dapur",
+   "w": 381,
+   "h": 208,
+   "transparan": true,
+   "kata": [
+    "panci tembaga"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/talenan.png",
+   "nama": "talenan",
+   "base": "talenan",
+   "kategori": "benda",
+   "kelompok": "dapur",
+   "w": 251,
+   "h": 411,
+   "transparan": true,
+   "kata": [
+    "talenan"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/botol_minyak_zaitun.png",
+   "nama": "botol_minyak_zaitun",
+   "base": "botol_minyak_zaitun",
+   "kategori": "benda",
+   "kelompok": "dapur",
+   "w": 136,
+   "h": 416,
+   "transparan": true,
+   "kata": [
+    "minyak zaitun",
+    "minyak goreng",
+    "botol minyak"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/mangkuk_putih.png",
+   "nama": "mangkuk_putih",
+   "base": "mangkuk_putih",
+   "kategori": "benda",
+   "kelompok": "dapur",
+   "w": 289,
+   "h": 193,
+   "transparan": true,
+   "kata": [
+    "mangkuk"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/dripper_kopi.png",
+   "nama": "dripper_kopi",
+   "base": "dripper_kopi",
+   "kategori": "benda",
+   "kelompok": "kopi",
+   "w": 303,
+   "h": 287,
+   "transparan": true,
+   "kata": [
+    "dripper",
+    "saringan kopi"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/teko_leher_angsa.png",
+   "nama": "teko_leher_angsa",
+   "base": "teko_leher_angsa",
+   "kategori": "benda",
+   "kelompok": "kopi",
+   "w": 417,
+   "h": 331,
+   "transparan": true,
+   "kata": [
+    "teko",
+    "ketel"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/penggiling_kopi.png",
+   "nama": "penggiling_kopi",
+   "base": "penggiling_kopi",
+   "kategori": "benda",
+   "kelompok": "kopi",
+   "w": 301,
+   "h": 400,
+   "transparan": true,
+   "kata": [
+    "penggiling kopi",
+    "grinder"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/timbangan_digital.png",
+   "nama": "timbangan_digital",
+   "base": "timbangan_digital",
+   "kategori": "benda",
+   "kelompok": "kopi",
+   "w": 330,
+   "h": 213,
+   "transparan": true,
+   "kata": [
+    "timbangan"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/kamera_antik.png",
+   "nama": "kamera_antik",
+   "base": "kamera_antik",
+   "kategori": "benda",
+   "kelompok": "fotografi",
+   "w": 316,
+   "h": 406,
+   "transparan": true,
+   "kata": [
+    "kamera antik",
+    "kamera lama"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/kabel_rana.png",
+   "nama": "kabel_rana",
+   "base": "kabel_rana",
+   "kategori": "benda",
+   "kelompok": "fotografi",
+   "w": 278,
+   "h": 266,
+   "transparan": true,
+   "kata": [
+    "kabel rana"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/kain_lap_lensa.png",
+   "nama": "kain_lap_lensa",
+   "base": "kain_lap_lensa",
+   "kategori": "benda",
+   "kelompok": "fotografi",
+   "w": 294,
+   "h": 217,
+   "transparan": true,
+   "kata": [
+    "kain lap",
+    "lap lensa"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/lampu_kilat.png",
+   "nama": "lampu_kilat",
+   "base": "lampu_kilat",
+   "kategori": "benda",
+   "kelompok": "fotografi",
+   "w": 205,
+   "h": 277,
+   "transparan": true,
+   "kata": [
+    "lampu kilat",
+    "flash"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/speaker_bluetooth.png",
+   "nama": "speaker_bluetooth",
+   "base": "speaker_bluetooth",
+   "kategori": "benda",
+   "kelompok": "audio",
+   "w": 271,
+   "h": 293,
+   "transparan": true,
+   "kata": [
+    "speaker",
+    "pengeras suara"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/pemutar_musik.png",
+   "nama": "pemutar_musik",
+   "base": "pemutar_musik",
+   "kategori": "benda",
+   "kelompok": "audio",
+   "w": 171,
+   "h": 288,
+   "transparan": true,
+   "kata": [
+    "pemutar musik",
+    "mp3",
+    "ipod"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/earphone.png",
+   "nama": "earphone",
+   "base": "earphone",
+   "kategori": "benda",
+   "kelompok": "audio",
+   "w": 295,
+   "h": 307,
+   "transparan": true,
+   "kata": [
+    "earphone",
+    "headset"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/mikrofon_klip.png",
+   "nama": "mikrofon_klip",
+   "base": "mikrofon_klip",
+   "kategori": "benda",
+   "kelompok": "audio",
+   "w": 252,
+   "h": 305,
+   "transparan": true,
+   "kata": [
+    "mikrofon klip",
+    "clip on"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/palu_b.png",
+   "nama": "palu_b",
+   "base": "palu",
+   "kategori": "benda",
+   "kelompok": "perkakas",
+   "w": 286,
+   "h": 609,
+   "transparan": true,
+   "kata": [
+    "palu"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/obeng_b.png",
+   "nama": "obeng_b",
+   "base": "obeng",
+   "kategori": "benda",
+   "kelompok": "perkakas",
+   "w": 112,
+   "h": 598,
+   "transparan": true,
+   "kata": [
+    "obeng"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/kunci_inggris_b.png",
+   "nama": "kunci_inggris_b",
+   "base": "kunci_inggris",
+   "kategori": "benda",
+   "kelompok": "perkakas",
+   "w": 196,
+   "h": 610,
+   "transparan": true,
+   "kata": [
+    "kunci inggris",
+    "kunci pas"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/meteran_lipat.png",
+   "nama": "meteran_lipat",
+   "base": "meteran_lipat",
+   "kategori": "benda",
+   "kelompok": "perkakas",
+   "w": 197,
+   "h": 600,
+   "transparan": true,
+   "kata": [
+    "meteran lipat",
+    "penggaris lipat"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/keranjang_piknik.png",
+   "nama": "keranjang_piknik",
+   "base": "keranjang_piknik",
+   "kategori": "benda",
+   "kelompok": "piknik",
+   "w": 366,
+   "h": 342,
+   "transparan": true,
+   "kata": [
+    "keranjang piknik",
+    "keranjang"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/taplak_kotak.png",
+   "nama": "taplak_kotak",
+   "base": "taplak_kotak",
+   "kategori": "benda",
+   "kelompok": "piknik",
+   "w": 310,
+   "h": 243,
+   "transparan": true,
+   "kata": [
+    "taplak",
+    "kain piknik"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/termos.png",
+   "nama": "termos",
+   "base": "termos",
+   "kategori": "benda",
+   "kelompok": "piknik",
+   "w": 126,
+   "h": 348,
+   "transparan": true,
+   "kata": [
+    "termos"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/talenan_pisau_keju.png",
+   "nama": "talenan_pisau_keju",
+   "base": "talenan_pisau_keju",
+   "kategori": "benda",
+   "kelompok": "piknik",
+   "w": 328,
+   "h": 245,
+   "transparan": true,
+   "kata": [
+    "pisau keju",
+    "papan keju"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/tali_anjing.png",
+   "nama": "tali_anjing",
+   "base": "tali_anjing",
+   "kategori": "benda",
+   "kelompok": "hewan_peliharaan",
+   "w": 360,
+   "h": 251,
+   "transparan": true,
+   "kata": [
+    "tali anjing",
+    "tali hewan"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/mangkuk_hewan.png",
+   "nama": "mangkuk_hewan",
+   "base": "mangkuk_hewan",
+   "kategori": "benda",
+   "kelompok": "hewan_peliharaan",
+   "w": 336,
+   "h": 238,
+   "transparan": true,
+   "kata": [
+    "mangkuk hewan",
+    "tempat makan kucing"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/bola_mainan.png",
+   "nama": "bola_mainan",
+   "base": "bola_mainan",
+   "kategori": "benda",
+   "kelompok": "hewan_peliharaan",
+   "w": 209,
+   "h": 210,
+   "transparan": true,
+   "kata": [
+    "bola mainan"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/sisir_hewan.png",
+   "nama": "sisir_hewan",
+   "base": "sisir_hewan",
+   "kategori": "benda",
+   "kelompok": "hewan_peliharaan",
+   "w": 276,
+   "h": 293,
+   "transparan": true,
+   "kata": [
+    "sisir hewan",
+    "sikat bulu"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/botol_susu_bayi.png",
+   "nama": "botol_susu_bayi",
+   "base": "botol_susu_bayi",
+   "kategori": "benda",
+   "kelompok": "bayi",
+   "w": 176,
+   "h": 397,
+   "transparan": true,
+   "kata": [
+    "botol susu",
+    "dot"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/gigitan_bayi.png",
+   "nama": "gigitan_bayi",
+   "base": "gigitan_bayi",
+   "kategori": "benda",
+   "kelompok": "bayi",
+   "w": 245,
+   "h": 267,
+   "transparan": true,
+   "kata": [
+    "gigitan bayi",
+    "teether"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/selimut_bayi.png",
+   "nama": "selimut_bayi",
+   "base": "selimut_bayi",
+   "kategori": "benda",
+   "kelompok": "bayi",
+   "w": 304,
+   "h": 312,
+   "transparan": true,
+   "kata": [
+    "selimut bayi"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/sepatu_rajut_bayi.png",
+   "nama": "sepatu_rajut_bayi",
+   "base": "sepatu_rajut_bayi",
+   "kategori": "benda",
+   "kelompok": "bayi",
+   "w": 301,
+   "h": 257,
+   "transparan": true,
+   "kata": [
+    "sepatu bayi",
+    "kaus kaki bayi"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/gulungan_benang.png",
+   "nama": "gulungan_benang",
+   "base": "gulungan_benang",
+   "kategori": "benda",
+   "kelompok": "jahit",
+   "w": 216,
+   "h": 317,
+   "transparan": true,
+   "kata": [
+    "benang",
+    "gulungan benang"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/bantalan_jarum.png",
+   "nama": "bantalan_jarum",
+   "base": "bantalan_jarum",
+   "kategori": "benda",
+   "kelompok": "jahit",
+   "w": 304,
+   "h": 294,
+   "transparan": true,
+   "kata": [
+    "jarum pentul",
+    "bantalan jarum"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/gunting_jahit.png",
+   "nama": "gunting_jahit",
+   "base": "gunting_jahit",
+   "kategori": "benda",
+   "kelompok": "jahit",
+   "w": 394,
+   "h": 310,
+   "transparan": true,
+   "kata": [
+    "gunting kain",
+    "gunting jahit"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/meteran_jahit.png",
+   "nama": "meteran_jahit",
+   "base": "meteran_jahit",
+   "kategori": "benda",
+   "kelompok": "jahit",
+   "w": 286,
+   "h": 259,
+   "transparan": true,
+   "kata": [
+    "meteran jahit",
+    "meteran kain"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/botol_semprot.png",
+   "nama": "botol_semprot",
+   "base": "botol_semprot",
+   "kategori": "benda",
+   "kelompok": "kebersihan",
+   "w": 164,
+   "h": 364,
+   "transparan": true,
+   "kata": [
+    "semprotan",
+    "botol semprot"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/spons_cuci.png",
+   "nama": "spons_cuci",
+   "base": "spons_cuci",
+   "kategori": "benda",
+   "kelompok": "kebersihan",
+   "w": 281,
+   "h": 212,
+   "transparan": true,
+   "kata": [
+    "spons",
+    "sabut cuci"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/kain_mikrofiber.png",
+   "nama": "kain_mikrofiber",
+   "base": "kain_mikrofiber",
+   "kategori": "benda",
+   "kelompok": "kebersihan",
+   "w": 316,
+   "h": 240,
+   "transparan": true,
+   "kata": [
+    "kain mikrofiber",
+    "lap"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/sikat_gosok.png",
+   "nama": "sikat_gosok",
+   "base": "sikat_gosok",
+   "kategori": "benda",
+   "kelompok": "kebersihan",
+   "w": 249,
+   "h": 236,
+   "transparan": true,
+   "kata": [
+    "sikat",
+    "sikat gosok"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/dompet_paspor.png",
+   "nama": "dompet_paspor",
+   "base": "dompet_paspor",
+   "kategori": "benda",
+   "kelompok": "perjalanan",
+   "w": 262,
+   "h": 320,
+   "transparan": true,
+   "kata": [
+    "paspor",
+    "dompet paspor"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/kamera_saku.png",
+   "nama": "kamera_saku",
+   "base": "kamera_saku",
+   "kategori": "benda",
+   "kelompok": "perjalanan",
+   "w": 320,
+   "h": 231,
+   "transparan": true,
+   "kata": [
+    "kamera saku",
+    "kamera digital"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/kacamata_hitam.png",
+   "nama": "kacamata_hitam",
+   "base": "kacamata_hitam",
+   "kategori": "benda",
+   "kelompok": "perjalanan",
+   "w": 364,
+   "h": 138,
+   "transparan": true,
+   "kata": [
+    "kacamata hitam"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/botol_minum_besi.png",
+   "nama": "botol_minum_besi",
+   "base": "botol_minum_besi",
+   "kategori": "benda",
+   "kelompok": "perjalanan",
+   "w": 196,
+   "h": 538,
+   "transparan": true,
+   "kata": [
+    "botol minum",
+    "tumbler"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/harmonika.png",
+   "nama": "harmonika",
+   "base": "harmonika",
+   "kategori": "benda",
+   "kelompok": "musik",
+   "w": 284,
+   "h": 178,
+   "transparan": true,
+   "kata": [
+    "harmonika"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/tamborin.png",
+   "nama": "tamborin",
+   "base": "tamborin",
+   "kategori": "benda",
+   "kelompok": "musik",
+   "w": 264,
+   "h": 293,
+   "transparan": true,
+   "kata": [
+    "tamborin",
+    "rebana"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/metronom.png",
+   "nama": "metronom",
+   "base": "metronom",
+   "kategori": "benda",
+   "kelompok": "musik",
+   "w": 222,
+   "h": 336,
+   "transparan": true,
+   "kata": [
+    "metronom"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/kabel_jack.png",
+   "nama": "kabel_jack",
+   "base": "kabel_jack",
+   "kategori": "benda",
+   "kelompok": "musik",
+   "w": 281,
+   "h": 278,
+   "transparan": true,
+   "kata": [
+    "kabel jack",
+    "kabel gitar"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/stapler_b.png",
+   "nama": "stapler_b",
+   "base": "stapler",
+   "kategori": "benda",
+   "kelompok": "kantor",
+   "w": 297,
+   "h": 192,
+   "transparan": true,
+   "kata": [
+    "stapler",
+    "hekter"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/selotip.png",
+   "nama": "selotip",
+   "base": "selotip",
+   "kategori": "benda",
+   "kelompok": "kantor",
+   "w": 271,
+   "h": 236,
+   "transparan": true,
+   "kata": [
+    "selotip",
+    "isolasi"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/pelubang_kertas.png",
+   "nama": "pelubang_kertas",
+   "base": "pelubang_kertas",
+   "kategori": "benda",
+   "kelompok": "kantor",
+   "w": 293,
+   "h": 236,
+   "transparan": true,
+   "kata": [
+    "pelubang kertas",
+    "perforator"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/penggaris_kayu.png",
+   "nama": "penggaris_kayu",
+   "base": "penggaris_kayu",
+   "kategori": "benda",
+   "kelompok": "kantor",
+   "w": 301,
+   "h": 75,
+   "transparan": true,
+   "kata": [
+    "penggaris"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/harmonika_b.png",
+   "nama": "harmonika_b",
+   "base": "harmonika",
+   "kategori": "benda",
+   "kelompok": "musik",
+   "w": 327,
+   "h": 183,
+   "transparan": true,
+   "kata": [
+    "harmonika"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/tamborin_b.png",
+   "nama": "tamborin_b",
+   "base": "tamborin",
+   "kategori": "benda",
+   "kelompok": "musik",
+   "w": 299,
+   "h": 221,
+   "transparan": true,
+   "kata": [
+    "tamborin"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/metronom_b.png",
+   "nama": "metronom_b",
+   "base": "metronom",
+   "kategori": "benda",
+   "kelompok": "musik",
+   "w": 224,
+   "h": 353,
+   "transparan": true,
+   "kata": [
+    "metronom"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/kabel_jack_b.png",
+   "nama": "kabel_jack_b",
+   "base": "kabel_jack",
+   "kategori": "benda",
+   "kelompok": "musik",
+   "w": 302,
+   "h": 252,
+   "transparan": true,
+   "kata": [
+    "kabel jack"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/gembor.png",
+   "nama": "gembor",
+   "base": "gembor",
+   "kategori": "benda",
+   "kelompok": "kebun",
+   "w": 378,
+   "h": 282,
+   "transparan": true,
+   "kata": [
+    "gembor",
+    "penyiram tanaman"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/sekop_tanam.png",
+   "nama": "sekop_tanam",
+   "base": "sekop_tanam",
+   "kategori": "benda",
+   "kelompok": "kebun",
+   "w": 281,
+   "h": 364,
+   "transparan": true,
+   "kata": [
+    "sekop kecil",
+    "sekop tanam"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/bungkus_benih.png",
+   "nama": "bungkus_benih",
+   "base": "bungkus_benih",
+   "kategori": "benda",
+   "kelompok": "kebun",
+   "w": 273,
+   "h": 311,
+   "transparan": true,
+   "kata": [
+    "benih",
+    "bibit"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/gunting_dahan.png",
+   "nama": "gunting_dahan",
+   "base": "gunting_dahan",
+   "kategori": "benda",
+   "kelompok": "kebun",
+   "w": 262,
+   "h": 341,
+   "transparan": true,
+   "kata": [
+    "gunting dahan",
+    "gunting tanaman"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/keyboard_b.png",
+   "nama": "keyboard_b",
+   "base": "keyboard",
+   "kategori": "benda",
+   "kelompok": "komputer",
+   "w": 405,
+   "h": 147,
+   "transparan": true,
+   "kata": [
+    "keyboard",
+    "papan ketik"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/mouse_b.png",
+   "nama": "mouse_b",
+   "base": "mouse",
+   "kategori": "benda",
+   "kelompok": "komputer",
+   "w": 183,
+   "h": 269,
+   "transparan": true,
+   "kata": [
+    "mouse",
+    "tetikus"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/headphone_b.png",
+   "nama": "headphone_b",
+   "base": "headphone",
+   "kategori": "benda",
+   "kelompok": "komputer",
+   "w": 245,
+   "h": 307,
+   "transparan": true,
+   "kata": [
+    "headphone"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/mikrofon_meja.png",
+   "nama": "mikrofon_meja",
+   "base": "mikrofon_meja",
+   "kategori": "benda",
+   "kelompok": "komputer",
+   "w": 249,
+   "h": 289,
+   "transparan": true,
+   "kata": [
+    "mikrofon",
+    "mic"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/buku_sketsa.png",
+   "nama": "buku_sketsa",
+   "base": "buku_sketsa",
+   "kategori": "benda",
+   "kelompok": "seni",
+   "w": 383,
+   "h": 471,
+   "transparan": true,
+   "kata": [
+    "buku sketsa"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/palet_cat.png",
+   "nama": "palet_cat",
+   "base": "palet_cat",
+   "kategori": "benda",
+   "kelompok": "seni",
+   "w": 305,
+   "h": 421,
+   "transparan": true,
+   "kata": [
+    "palet",
+    "cat air"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/tube_cat.png",
+   "nama": "tube_cat",
+   "base": "tube_cat",
+   "kategori": "benda",
+   "kelompok": "seni",
+   "w": 179,
+   "h": 471,
+   "transparan": true,
+   "kata": [
+    "tube cat",
+    "cat minyak"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/kuas_b.png",
+   "nama": "kuas_b",
+   "base": "kuas",
+   "kategori": "benda",
+   "kelompok": "seni",
+   "w": 61,
+   "h": 619,
+   "transparan": true,
+   "kata": [
+    "kuas"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/botol_serum.png",
+   "nama": "botol_serum",
+   "base": "botol_serum",
+   "kategori": "benda",
+   "kelompok": "perawatan",
+   "w": 161,
+   "h": 470,
+   "transparan": true,
+   "kata": [
+    "serum",
+    "botol tetes"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/roller_wajah.png",
+   "nama": "roller_wajah",
+   "base": "roller_wajah",
+   "kategori": "benda",
+   "kelompok": "perawatan",
+   "w": 219,
+   "h": 519,
+   "transparan": true,
+   "kata": [
+    "roller wajah",
+    "giok"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/toples_krim.png",
+   "nama": "toples_krim",
+   "base": "toples_krim",
+   "kategori": "benda",
+   "kelompok": "perawatan",
+   "w": 244,
+   "h": 223,
+   "transparan": true,
+   "kata": [
+    "krim",
+    "pelembap"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
+  },
+  {
+   "file": "adri/objek/benda/handuk_kecil.png",
+   "nama": "handuk_kecil",
+   "base": "handuk_kecil",
+   "kategori": "benda",
+   "kelompok": "perawatan",
+   "w": 454,
+   "h": 292,
+   "transparan": true,
+   "kata": [
+    "handuk"
+   ],
+   "sumber": "kiriman pemilik (21 Nov 2026), dipotong & dihapus latar dengan rembg isnet",
+   "lisensi": "milik pemilik"
   }
  ]
 }
