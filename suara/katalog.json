@@ -33152,6 +33152,186 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "77d7a84e3b1a",
+   "suara": "hasan",
+   "teks": "Sekarang kita tahu apa yang terjadi. Tapi kenapa?",
+   "dibaca": "Sekarang kita tahu apa yang terjadi. Tapi kenapa?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/77d7a84e3b1a.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "47d2f719f151",
+   "suara": "hasan",
+   "teks": "Kenapa jawabannya justru berlawanan dengan dugaan kita?",
+   "dibaca": "Kenapa jawabannya justru berlawanan dengan dugaan kita?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/47d2f719f151.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "474dcd0692af",
+   "suara": "hasan",
+   "teks": "Kenapa tubuh kita melakukan hal ini tanpa kita minta?",
+   "dibaca": "Kenapa tubuh kita melakukan hal ini tanpa kita minta?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/474dcd0692af.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "520fa33d9869",
+   "suara": "hasan",
+   "teks": "Kesalahan kecil ini ternyata sering dilakukan banyak orang.",
+   "dibaca": "Kesalahan kecil ini ternyata sering dilakukan banyak orang.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/520fa33d9869.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "81c1f6b92d54",
+   "suara": "hasan",
+   "teks": "Ini terjadi pada hampir semua orang, termasuk kamu.",
+   "dibaca": "Ini terjadi pada hampir semua orang, termasuk kamu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/81c1f6b92d54.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b4866a46dc8c",
+   "suara": "hasan",
+   "teks": "Ada rahasia kecil di balik hal yang kamu lihat setiap hari.",
+   "dibaca": "Ada rahasia kecil di balik hal yang kamu lihat setiap hari.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/b4866a46dc8c.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "469d79764055",
+   "suara": "hasan",
+   "teks": "Setelah itu, prosesnya berlanjut ke tahap berikutnya.",
+   "dibaca": "Setelah itu, prosesnya berlanjut ke tahap berikutnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/469d79764055.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c653c61a85d8",
+   "suara": "hasan",
+   "teks": "Sederhananya, tubuh sedang berusaha melindungi diri.",
+   "dibaca": "Sederhananya, tubuh sedang berusaha melindungi diri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/c653c61a85d8.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "98b5ac888489",
+   "suara": "hasan",
+   "teks": "Ini terjadi karena adanya reaksi kimia di dalamnya.",
+   "dibaca": "Ini terjadi karena adanya reaksi kimia di dalamnya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/98b5ac888489.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "80597c3d1d09",
+   "suara": "hasan",
+   "teks": "Semakin sering dilakukan, semakin kuat pengaruhnya.",
+   "dibaca": "Semakin sering dilakukan, semakin kuat pengaruhnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/80597c3d1d09.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2aa7a0cfc2de",
+   "suara": "hasan",
+   "teks": "Beberapa hewan bahkan memanfaatkannya untuk bertahan hidup.",
+   "dibaca": "Beberapa hewan bahkan memanfaatkannya untuk bertahan hidup.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/2aa7a0cfc2de.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d48ed70d20a3",
+   "suara": "hasan",
+   "teks": "Sebelum ke jawabannya, kita mulai dari sini dulu.",
+   "dibaca": "Sebelum ke jawabannya, kita mulai dari sini dulu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d48ed70d20a3.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
