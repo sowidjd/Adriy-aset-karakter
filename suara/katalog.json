@@ -42413,6 +42413,188 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "27a8ac0f788c",
+   "suara": "hasan",
+   "teks": "Dan cerita ini mengingatkan kita, untuk terus penasaran.",
+   "dibaca": "Dan cerita ini mengingatkan kita, untuk terus penasaran.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/27a8ac0f788c.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ef87c9da994d",
+   "suara": "hasan",
+   "teks": "Bayangkan seperti kerumunan orang yang berebut keluar pintu.",
+   "dibaca": "Bayangkan seperti kerumunan orang yang berebut keluar pintu.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/ef87c9da994d.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0f4b08f62260",
+   "suara": "hasan",
+   "teks": "Hal yang terlihat biasa, ternyata menyimpan banyak cerita.",
+   "dibaca": "Hal yang terlihat biasa, ternyata menyimpan banyak cerita.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/0f4b08f62260.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8477502eb985",
+   "suara": "hasan",
+   "teks": "Sekarang, kamu punya satu fakta baru untuk dibagikan.",
+   "dibaca": "Sekarang, kamu punya satu fakta baru untuk dibagikan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/8477502eb985.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6fef83969dcd",
+   "suara": "hasan",
+   "teks": "Dan ternyata, prinsip yang sama juga berlaku di tempat lain.",
+   "dibaca": "Dan ternyata, prinsip yang sama juga berlaku di tempat lain.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/6fef83969dcd.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a037d0a17dd5",
+   "suara": "hasan",
+   "teks": "Mirip seperti GPS yang kehilangan sinyal.",
+   "dibaca": "Mirip seperti ji pi es yang kehilangan sinyal.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/a037d0a17dd5.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "85dca4cc6a66",
+   "suara": "hasan",
+   "teks": "Kira-kira seperti menyimpan file di tempat yang salah.",
+   "dibaca": "Kira-kira seperti menyimpan file di tempat yang salah.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/85dca4cc6a66.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ce61915544ac",
+   "suara": "hasan",
+   "teks": "Untuk apa repot-repot, kalau ternyata sesederhana itu?",
+   "dibaca": "Untuk apa repot-repot, kalau ternyata sesederhana itu?",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/ce61915544ac.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c662c44747bd",
+   "suara": "hasan",
+   "teks": "Ternyata, belajar bisa dimulai dari pertanyaan sederhana.",
+   "dibaca": "Ternyata, belajar bisa dimulai dari pertanyaan sederhana.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/c662c44747bd.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1f0a8d456d76",
+   "suara": "hasan",
+   "teks": "Ratusan tahun yang lalu, orang-orang punya pertanyaan yang sama.",
+   "dibaca": "Ratusan tahun yang lalu, orang-orang punya pertanyaan yang sama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/1f0a8d456d76.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "93e4dcbf698b",
+   "suara": "hasan",
+   "teks": "Konsep yang sama ternyata dipakai dalam teknologi sehari-hari.",
+   "dibaca": "Konsep yang sama ternyata dipakai dalam teknologi sehari-hari.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/93e4dcbf698b.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b2dd9d81d342",
+   "suara": "hasan",
+   "teks": "Ini mirip seperti saat kamu menunggu loading di ponsel.",
+   "dibaca": "Ini mirip seperti saat kamu menunggu loading di ponsel.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/b2dd9d81d342.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
