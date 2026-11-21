@@ -57102,6 +57102,322 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0fa0f661f721",
+   "suara": "mia",
+   "teks": "Sayangnya, kenyataan terkadang jauh berbeda dari apa yang kita bayangkan.",
+   "dibaca": "Sayangnya, kenyataan terkadang jauh berbeda dari apa yang kita bayangkan.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/0fa0f661f721.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "500ffffcc450",
+   "suara": "mia",
+   "teks": "Semakin dalam kita mencari, semakin banyak kejanggalan yang ditemukan.",
+   "dibaca": "Semakin dalam kita mencari, semakin banyak kejanggalan yang ditemukan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/500ffffcc450.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8fb2d6a8b17d",
+   "suara": "mia",
+   "teks": "Hal sederhana seperti ini terkadang justru menjadi kenangan yang paling berharga.",
+   "dibaca": "Hal sederhana seperti ini terkadang justru menjadi kenangan yang paling berharga.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/8fb2d6a8b17d.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "23a95b0a9cab",
+   "suara": "mia",
+   "teks": "Sebelum kita membahas lebih jauh, coba pikirkan satu hal berikut.",
+   "dibaca": "Sebelum kita membahas lebih jauh, coba pikirkan satu hal berikut.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/23a95b0a9cab.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2f0016476a0b",
+   "suara": "mia",
+   "teks": "Tidak ada alasan untuk berhenti ketika kita masih bisa melangkah.",
+   "dibaca": "Tidak ada alasan untuk berhenti ketika kita masih bisa melangkah.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/2f0016476a0b.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "aad3ab612f77",
+   "suara": "mia",
+   "teks": "Beberapa hal hanya bisa kita pahami setelah waktu berlalu cukup lama.",
+   "dibaca": "Beberapa hal hanya bisa kita pahami setelah waktu berlalu cukup lama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/aad3ab612f77.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e14cd4b9e02c",
+   "suara": "mia",
+   "teks": "Semuanya dimulai dari sesuatu yang hampir tidak terlihat.",
+   "dibaca": "Semuanya dimulai dari sesuatu yang hampir tidak terlihat.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/e14cd4b9e02c.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2a78c61371b4",
+   "suara": "mia",
+   "teks": "Tahan dulu, jangan di-skip, karena jawabannya ada di akhir video.",
+   "dibaca": "Tahan dulu, jangan di-skip, karena jawabannya ada di akhir video.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/2a78c61371b4.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9dac7108cc78",
+   "suara": "mia",
+   "teks": "Bagaimana bisa sesuatu yang begitu biasa menyimpan rahasia sebesar ini?",
+   "dibaca": "Bagaimana bisa sesuatu yang begitu biasa menyimpan rahasia sebesar ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/9dac7108cc78.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c0bce2ac83df",
+   "suara": "mia",
+   "teks": "Pernah nggak kamu merasa ada yang aneh, tapi nggak tahu apa?",
+   "dibaca": "Pernah nggak kamu merasa ada yang aneh, tapi nggak tahu apa?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/c0bce2ac83df.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cb7798f940a8",
+   "suara": "mia",
+   "teks": "Sejak saat itu, banyak penelitian dilakukan untuk memahaminya.",
+   "dibaca": "Sejak saat itu, banyak penelitian dilakukan untuk memahaminya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/cb7798f940a8.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "67184b83eb3f",
+   "suara": "mia",
+   "teks": "Semakin tinggi suhunya, semakin cepat prosesnya terjadi.",
+   "dibaca": "Semakin tinggi suhunya, semakin cepat prosesnya terjadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/67184b83eb3f.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f3d2c7e29312",
+   "suara": "mia",
+   "teks": "Sebaliknya, kalau jarang dilakukan, efeknya pun ikut melemah.",
+   "dibaca": "Sebaliknya, kalau jarang dilakukan, efeknya pun ikut melemah.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/f3d2c7e29312.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4ec8b9875813",
+   "suara": "mia",
+   "teks": "Waktu terus berjalan, dan tidak ada yang tahu harus berbuat apa.",
+   "dibaca": "Waktu terus berjalan, dan tidak ada yang tahu harus berbuat apa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4ec8b9875813.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7f83721b448e",
+   "suara": "mia",
+   "teks": "Dua hal ini memang berhubungan, tapi belum tentu saling menyebabkan.",
+   "dibaca": "Dua hal ini memang berhubungan, tapi belum tentu saling menyebabkan.",
+   "fungsi": [
+    "membantah asumsi",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/7f83721b448e.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7012aad79160",
+   "suara": "mia",
+   "teks": "Teruslah belajar, karena dunia tidak pernah berhenti berubah.",
+   "dibaca": "Teruslah belajar, karena dunia tidak pernah berhenti berubah.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/7012aad79160.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d438911e2628",
+   "suara": "mia",
+   "teks": "Lalu, kenapa minggu biasa malah terasa singkat saat diingat?",
+   "dibaca": "Lalu, kenapa minggu biasa malah terasa singkat saat diingat?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/d438911e2628.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9165c7223503",
+   "suara": "mia",
+   "teks": "Di dalam sel bawang, bahan kimia dan enzimnya disimpan terpisah.",
+   "dibaca": "Di dalam sel bawang, bahan kimia dan enzimnya disimpan terpisah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9165c7223503.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8f4d085fce54",
+   "suara": "mia",
+   "teks": "Ilmuwan menduga ini cara bawang melindungi diri dari hewan yang menggigitnya.",
+   "dibaca": "Ilmuwan menduga ini cara bawang melindungi diri dari hewan yang menggigitnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/8f4d085fce54.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f603268be6a5",
+   "suara": "mia",
+   "teks": "Sekarang malah berdiri di sana seperti karakter gim yang kehilangan misi.",
+   "dibaca": "Sekarang malah berdiri di sana seperti karakter gim yang kehilangan misi.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/f603268be6a5.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5fbdf6af0518",
+   "suara": "mia",
+   "teks": "Tidak perlu terburu-buru, karena setiap proses memiliki waktunya sendiri.",
+   "dibaca": "Tidak perlu terburu-buru, karena setiap proses memiliki waktunya sendiri.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/5fbdf6af0518.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
