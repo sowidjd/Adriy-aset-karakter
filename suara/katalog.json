@@ -49439,6 +49439,216 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0e89d190fb0d",
+   "suara": "mia",
+   "teks": "Sumpah?",
+   "dibaca": "Sumpah?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/0e89d190fb0d.wav",
+   "durasi": 0.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "321b9500f600",
+   "suara": "mia",
+   "teks": "Tapi tunggu dulu.",
+   "dibaca": "Tapi tunggu dulu.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/321b9500f600.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3b9acc581e28",
+   "suara": "mia",
+   "teks": "Dan ini baru permulaan.",
+   "dibaca": "Dan ini baru permulaan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3b9acc581e28.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d715b41a2e98",
+   "suara": "mia",
+   "teks": "Mari kita lihat buktinya.",
+   "dibaca": "Mari kita lihat buktinya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d715b41a2e98.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "778377132064",
+   "suara": "mia",
+   "teks": "Tunggu, serius ini beneran?",
+   "dibaca": "Tunggu, serius ini beneran?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/778377132064.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "660530401b12",
+   "suara": "mia",
+   "teks": "Wah, nggak nyangka.",
+   "dibaca": "Wah, nggak nyangka.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/660530401b12.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0ee8f57a782d",
+   "suara": "mia",
+   "teks": "Kok bisa begitu?",
+   "dibaca": "Kok bisa begitu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/0ee8f57a782d.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b615b4eeec90",
+   "suara": "mia",
+   "teks": "Ini dia penjelasannya.",
+   "dibaca": "Ini dia penjelasannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b615b4eeec90.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "73fe3cc800f2",
+   "suara": "mia",
+   "teks": "Ini dia bagian serunya.",
+   "dibaca": "Ini dia bagian serunya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/73fe3cc800f2.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "547e1b5c722e",
+   "suara": "mia",
+   "teks": "Tapi ada yang aneh.",
+   "dibaca": "Tapi ada yang aneh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/547e1b5c722e.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "20ddea24eb00",
+   "suara": "mia",
+   "teks": "Bagaimana cara kerjanya?",
+   "dibaca": "Bagaimana cara kerjanya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/20ddea24eb00.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6b90c074b13c",
+   "suara": "mia",
+   "teks": "Buktinya sudah ada.",
+   "dibaca": "Buktinya sudah ada.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/6b90c074b13c.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c41a9fd87f25",
+   "suara": "mia",
+   "teks": "Hmm.",
+   "dibaca": "Hmm.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c41a9fd87f25.wav",
+   "durasi": 0.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c0c21e21e458",
+   "suara": "mia",
+   "teks": "Oh, gitu.",
+   "dibaca": "Oh, gitu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c0c21e21e458.wav",
+   "durasi": 0.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
