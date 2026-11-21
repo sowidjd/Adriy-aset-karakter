@@ -29085,6 +29085,21 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fe07699003e7",
+   "suara": "hasan",
+   "teks": "Follow Adriy Project, biar kamu makin sering bilang: oh, ternyata begitu.",
+   "dibaca": "Follow Adriy Project, biar kamu makin sering bilang: oh, ternyata begitu.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/fe07699003e7.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
