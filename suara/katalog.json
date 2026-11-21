@@ -35789,6 +35789,172 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5dd9eeed206d",
+   "suara": "hasan",
+   "teks": "Kamu nggak lagi sedih. Tapi tiap potong bawang, air matamu tetap keluar.",
+   "dibaca": "Kamu nggak lagi sedih. Tapi tiap potong bawang, air matamu tetap keluar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/5dd9eeed206d.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4853e19de5b9",
+   "suara": "hasan",
+   "teks": "Karena langkah kecil hari ini bisa menjadi awal dari perubahan besar di masa depan.",
+   "dibaca": "Karena langkah kecil hari ini bisa menjadi awal dari perubahan besar di masa depan.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/4853e19de5b9.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1010bdc4bfd0",
+   "suara": "hasan",
+   "teks": "Penemuan ini membuka jalan bagi sesuatu yang sebelumnya tidak pernah terpikirkan.",
+   "dibaca": "Penemuan ini membuka jalan bagi sesuatu yang sebelumnya tidak pernah terpikirkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/1010bdc4bfd0.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0897bdbcaf2d",
+   "suara": "hasan",
+   "teks": "Bahkan, hasil akhirnya jauh lebih besar daripada yang diperkirakan sebelumnya.",
+   "dibaca": "Bahkan, hasil akhirnya jauh lebih besar daripada yang diperkirakan sebelumnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/0897bdbcaf2d.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "788b9dd680b9",
+   "suara": "hasan",
+   "teks": "Meski begitu, keadaan masih bisa berubah selama kita tidak berhenti mencoba.",
+   "dibaca": "Meski begitu, keadaan masih bisa berubah selama kita tidak berhenti mencoba.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/788b9dd680b9.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9f4fbd4d45ba",
+   "suara": "hasan",
+   "teks": "Dampaknya mungkin tidak langsung terlihat, tetapi perlahan mulai terasa.",
+   "dibaca": "Dampaknya mungkin tidak langsung terlihat, tetapi perlahan mulai terasa.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/9f4fbd4d45ba.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c8ed2522bf7c",
+   "suara": "hasan",
+   "teks": "Fakta ini cukup untuk membuktikan bahwa anggapan tersebut tidak sepenuhnya benar.",
+   "dibaca": "Fakta ini cukup untuk membuktikan bahwa anggapan tersebut tidak sepenuhnya benar.",
+   "fungsi": [
+    "membantah asumsi",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/c8ed2522bf7c.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "75f1a4a38b99",
+   "suara": "hasan",
+   "teks": "Sayangnya, kesempatan yang begitu besar tidak selalu dimanfaatkan dengan baik.",
+   "dibaca": "Sayangnya, kesempatan yang begitu besar tidak selalu dimanfaatkan dengan baik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/75f1a4a38b99.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d4add09242f7",
+   "suara": "hasan",
+   "teks": "Pengalaman sering kali mengajarkan sesuatu yang tidak bisa ditemukan di dalam buku.",
+   "dibaca": "Pengalaman sering kali mengajarkan sesuatu yang tidak bisa ditemukan di dalam buku.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d4add09242f7.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2062ae963150",
+   "suara": "hasan",
+   "teks": "Semakin berusaha menyelesaikannya, semakin banyak masalah baru yang bermunculan.",
+   "dibaca": "Semakin berusaha menyelesaikannya, semakin banyak masalah baru yang bermunculan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/2062ae963150.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4637edb3a2cc",
+   "suara": "hasan",
+   "teks": "Itu penghargaan untuk riset yang bikin orang tertawa dulu, lalu berpikir.",
+   "dibaca": "Itu penghargaan untuk riset yang bikin orang tertawa dulu, lalu berpikir.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/4637edb3a2cc.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
