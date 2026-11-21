@@ -31643,6 +31643,112 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ad04c826cde1",
+   "suara": "hasan",
+   "teks": "Yang penting adalah memahami konteksnya.",
+   "dibaca": "Yang penting adalah memahami konteksnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ad04c826cde1.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "252f80209b0f",
+   "suara": "hasan",
+   "teks": "Karena udara menghamburkan cahaya biru.",
+   "dibaca": "Karena udara menghamburkan cahaya biru.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/252f80209b0f.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "73e90244bc6c",
+   "suara": "hasan",
+   "teks": "Ada satu hal yang jarang dibahas soal ini.",
+   "dibaca": "Ada satu hal yang jarang dibahas soal ini.",
+   "fungsi": [
+    "mengawali cerita",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/73e90244bc6c.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "31eb413bac9e",
+   "suara": "hasan",
+   "teks": "Biar gampang, bayangkan seperti ini.",
+   "dibaca": "Biar gampang, bayangkan seperti ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/31eb413bac9e.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e6d6df131ae0",
+   "suara": "hasan",
+   "teks": "Ada beberapa hal yang bisa kamu lakukan.",
+   "dibaca": "Ada beberapa hal yang bisa kamu lakukan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e6d6df131ae0.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f69716122986",
+   "suara": "hasan",
+   "teks": "Ternyata, otak kita menyimpan banyak kejutan.",
+   "dibaca": "Ternyata, otak kita menyimpan banyak kejutan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/f69716122986.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6e1331c5b5f5",
+   "suara": "hasan",
+   "teks": "Pernah kepikiran, apa jadinya kalau ini nggak ada?",
+   "dibaca": "Pernah kepikiran, apa jadinya kalau ini nggak ada?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/6e1331c5b5f5.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
