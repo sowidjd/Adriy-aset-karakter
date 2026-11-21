@@ -41088,6 +41088,220 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5459ff13027e",
+   "suara": "hasan",
+   "teks": "Jadi, bukan sesuatu yang perlu ditakutkan.",
+   "dibaca": "Jadi, bukan sesuatu yang perlu ditakutkan.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/5459ff13027e.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b673c4500202",
+   "suara": "hasan",
+   "teks": "Dan itulah kenapa hal ini begitu menarik.",
+   "dibaca": "Dan itulah kenapa hal ini begitu menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b673c4500202.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "861808ad30f6",
+   "suara": "hasan",
+   "teks": "Jadi, jangan cepat percaya pada mitos, ya.",
+   "dibaca": "Jadi, jangan cepat percaya pada mitos, ya.",
+   "fungsi": [
+    "membantah asumsi",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/861808ad30f6.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f585f0d36b7b",
+   "suara": "hasan",
+   "teks": "Satu hal kecil, satu pelajaran besar.",
+   "dibaca": "Satu hal kecil, satu pelajaran besar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/f585f0d36b7b.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "02d62f507a6e",
+   "suara": "hasan",
+   "teks": "Jadi, apa kamu sudah pernah mengalaminya?",
+   "dibaca": "Jadi, apa kamu sudah pernah mengalaminya?",
+   "fungsi": [
+    "menyampaikan kesimpulan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/02d62f507a6e.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ab28a5ef4274",
+   "suara": "hasan",
+   "teks": "Singkatnya, ini adalah cara tubuh melindungi diri.",
+   "dibaca": "Singkatnya, ini adalah cara tubuh melindungi diri.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/ab28a5ef4274.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "81320d593980",
+   "suara": "hasan",
+   "teks": "Dan itulah satu lagi rahasia kecil dari kehidupan kita.",
+   "dibaca": "Dan itulah satu lagi rahasia kecil dari kehidupan kita.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/81320d593980.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "df93cded598a",
+   "suara": "hasan",
+   "teks": "Ingat, setiap pertanyaan layak dicari jawabannya.",
+   "dibaca": "Ingat, setiap pertanyaan layak dicari jawabannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/df93cded598a.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "033e858fcd41",
+   "suara": "hasan",
+   "teks": "Semoga hari-harimu makin penuh rasa ingin tahu.",
+   "dibaca": "Semoga hari-harimu makin penuh rasa ingin tahu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/033e858fcd41.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ea1cd4156617",
+   "suara": "hasan",
+   "teks": "Singkatnya, ini adalah cara otak memahami dunia.",
+   "dibaca": "Singkatnya, ini adalah cara otak memahami dunia.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/ea1cd4156617.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "06842db64c5f",
+   "suara": "hasan",
+   "teks": "Pada akhirnya, semuanya punya penjelasan.",
+   "dibaca": "Pada akhirnya, semuanya punya penjelasan.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/06842db64c5f.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fe0dd3741381",
+   "suara": "hasan",
+   "teks": "Semoga setelah ini, kamu lebih menghargai hal-hal kecil.",
+   "dibaca": "Semoga setelah ini, kamu lebih menghargai hal-hal kecil.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/fe0dd3741381.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fd1e7d1847c1",
+   "suara": "hasan",
+   "teks": "Kesimpulannya, semuanya kembali ke hal yang sederhana.",
+   "dibaca": "Kesimpulannya, semuanya kembali ke hal yang sederhana.",
+   "fungsi": [
+    "menghubungkan dua topik",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/fd1e7d1847c1.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5eab3fc38f59",
+   "suara": "hasan",
+   "teks": "Pada akhirnya, pengetahuan membuat kita lebih tenang.",
+   "dibaca": "Pada akhirnya, pengetahuan membuat kita lebih tenang.",
+   "fungsi": [
+    "menyampaikan kesimpulan",
+    "mengubah suasana"
+   ],
+   "file": "suara/hasan/5eab3fc38f59.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
