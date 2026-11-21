@@ -65499,6 +65499,224 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "83e42a4bf482",
+   "suara": "adriy",
+   "teks": "Nggak kepikiran, kan?",
+   "dibaca": "Nggak kepikiran, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/83e42a4bf482.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d47155529791",
+   "suara": "adriy",
+   "teks": "Kamu juga pernah, kan?",
+   "dibaca": "Kamu juga pernah, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/d47155529791.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6b5e7c223eb9",
+   "suara": "adriy",
+   "teks": "Sederhana, tapi jarang disadari, kan?",
+   "dibaca": "Sederhana, tapi jarang disadari, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/6b5e7c223eb9.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "84842d050996",
+   "suara": "adriy",
+   "teks": "Lucu juga, ya?",
+   "dibaca": "Lucu juga, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/84842d050996.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5b9375f7ba65",
+   "suara": "adriy",
+   "teks": "Agak menyeramkan, ya?",
+   "dibaca": "Agak menyeramkan, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/5b9375f7ba65.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7adb2cb0baf0",
+   "suara": "adriy",
+   "teks": "Kenapa bisa begitu, ya?",
+   "dibaca": "Kenapa bisa begitu, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/7adb2cb0baf0.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0ac7fb8cdaa9",
+   "suara": "adriy",
+   "teks": "Dan ternyata, jawabannya justru sebaliknya.",
+   "dibaca": "Dan ternyata, jawabannya justru sebaliknya.",
+   "fungsi": [
+    "membantah asumsi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/0ac7fb8cdaa9.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "eef15db452c1",
+   "suara": "adriy",
+   "teks": "Faktanya jauh lebih menarik dari dugaan kita.",
+   "dibaca": "Faktanya jauh lebih menarik dari dugaan kita.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/eef15db452c1.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "67f9b14f02e3",
+   "suara": "adriy",
+   "teks": "Ternyata selama ini kita keliru.",
+   "dibaca": "Ternyata selama ini kita keliru.",
+   "fungsi": [
+    "membantah asumsi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/67f9b14f02e3.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d26620d8d012",
+   "suara": "adriy",
+   "teks": "Yang mengejutkan, ini terjadi setiap hari.",
+   "dibaca": "Yang mengejutkan, ini terjadi setiap hari.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/d26620d8d012.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8e5795ff2cae",
+   "suara": "adriy",
+   "teks": "Bahkan para ilmuwan pun sempat terkejut.",
+   "dibaca": "Bahkan para ilmuwan pun sempat terkejut.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/8e5795ff2cae.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b04f908db5e5",
+   "suara": "adriy",
+   "teks": "Angkanya jauh lebih besar dari yang dibayangkan.",
+   "dibaca": "Angkanya jauh lebih besar dari yang dibayangkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/b04f908db5e5.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a80b04b9996b",
+   "suara": "adriy",
+   "teks": "Ternyata penyebabnya sangat sederhana.",
+   "dibaca": "Ternyata penyebabnya sangat sederhana.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/a80b04b9996b.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8941a7265d4f",
+   "suara": "adriy",
+   "teks": "Dan yang lebih aneh lagi, ini terjadi pada hampir semua orang.",
+   "dibaca": "Dan yang lebih aneh lagi, ini terjadi pada hampir semua orang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/8941a7265d4f.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
   }
  ]
 }
