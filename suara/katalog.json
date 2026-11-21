@@ -35624,6 +35624,171 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "07eac08d04ca",
+   "suara": "hasan",
+   "teks": "Di dalam sel bawang, bahan kimia dan enzimnya disimpan terpisah.",
+   "dibaca": "Di dalam sel bawang, bahan kimia dan enzimnya disimpan terpisah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/07eac08d04ca.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a27069b8c1bd",
+   "suara": "hasan",
+   "teks": "Ilmuwan menduga ini cara bawang melindungi diri dari hewan yang menggigitnya.",
+   "dibaca": "Ilmuwan menduga ini cara bawang melindungi diri dari hewan yang menggigitnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/a27069b8c1bd.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7e1880461ade",
+   "suara": "hasan",
+   "teks": "Sekarang malah berdiri di sana seperti karakter gim yang kehilangan misi.",
+   "dibaca": "Sekarang malah berdiri di sana seperti karakter gim yang kehilangan misi.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/7e1880461ade.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2ff74ec049ff",
+   "suara": "hasan",
+   "teks": "Tidak perlu terburu-buru, karena setiap proses memiliki waktunya sendiri.",
+   "dibaca": "Tidak perlu terburu-buru, karena setiap proses memiliki waktunya sendiri.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/2ff74ec049ff.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1f33acc80375",
+   "suara": "hasan",
+   "teks": "Namun, di balik semua itu, ada sesuatu yang belum diketahui.",
+   "dibaca": "Namun, di balik semua itu, ada sesuatu yang belum diketahui.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/1f33acc80375.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e831bf273f73",
+   "suara": "hasan",
+   "teks": "Sejujurnya, penjelasan ini terdengar sulit dipercaya pada awalnya.",
+   "dibaca": "Sejujurnya, penjelasan ini terdengar sulit dipercaya pada awalnya.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/e831bf273f73.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8ee7214bb171",
+   "suara": "hasan",
+   "teks": "Mungkin inilah alasan mengapa momen kecil terkadang terasa begitu besar.",
+   "dibaca": "Mungkin inilah alasan mengapa momen kecil terkadang terasa begitu besar.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/8ee7214bb171.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ce83bf38906e",
+   "suara": "hasan",
+   "teks": "Sesuatu yang tidak diketahui selalu menyisakan ruang bagi kemungkinan terburuk.",
+   "dibaca": "Sesuatu yang tidak diketahui selalu menyisakan ruang bagi kemungkinan terburuk.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ce83bf38906e.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "30e3edd861c1",
+   "suara": "hasan",
+   "teks": "Setelah semua yang terjadi, mereka akhirnya menemukan jalan keluar.",
+   "dibaca": "Setelah semua yang terjadi, mereka akhirnya menemukan jalan keluar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/30e3edd861c1.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3cbc3495eb5e",
+   "suara": "hasan",
+   "teks": "Seandainya kamu tahu dari awal, apakah kamu akan melakukannya?",
+   "dibaca": "Seandainya kamu tahu dari awal, apakah kamu akan melakukannya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/3cbc3495eb5e.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8aa4788a7332",
+   "suara": "hasan",
+   "teks": "Diam-diam, tubuhmu melakukan sesuatu yang luar biasa setiap hari.",
+   "dibaca": "Diam-diam, tubuhmu melakukan sesuatu yang luar biasa setiap hari.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/8aa4788a7332.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
