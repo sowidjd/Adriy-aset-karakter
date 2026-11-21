@@ -29672,6 +29672,381 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3a95754d25ec",
+   "suara": "hasan",
+   "teks": "Alam memang penuh kejutan.",
+   "dibaca": "Alam memang penuh kejutan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3a95754d25ec.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "604e46d8ced0",
+   "suara": "hasan",
+   "teks": "Angka tidak pernah berbohong.",
+   "dibaca": "Angka tidak pernah berbohong.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/604e46d8ced0.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fa56709ed684",
+   "suara": "hasan",
+   "teks": "Masalahnya bukan di situ.",
+   "dibaca": "Masalahnya bukan di situ.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/fa56709ed684.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b3234387cec4",
+   "suara": "hasan",
+   "teks": "Bisa scan dokumen juga?",
+   "dibaca": "Bisa scan dokumen juga?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/b3234387cec4.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "26c3e7b713c5",
+   "suara": "hasan",
+   "teks": "Wajar kalau kita mengira begitu.",
+   "dibaca": "Wajar kalau kita mengira begitu.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/26c3e7b713c5.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8c49f1fe6e30",
+   "suara": "hasan",
+   "teks": "Tapi, apa benar begitu?",
+   "dibaca": "Tapi, apa benar begitu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/8c49f1fe6e30.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dc90fbd962f7",
+   "suara": "hasan",
+   "teks": "Ternyata bukan itu jawabannya.",
+   "dibaca": "Ternyata bukan itu jawabannya.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/dc90fbd962f7.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7284c5ebbe57",
+   "suara": "hasan",
+   "teks": "Apa kamu tahu jawabannya?",
+   "dibaca": "Apa kamu tahu jawabannya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/7284c5ebbe57.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7a141a6b70b3",
+   "suara": "hasan",
+   "teks": "Usia juga ikut menentukan.",
+   "dibaca": "Usia juga ikut menentukan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/7a141a6b70b3.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c34e8c401fc1",
+   "suara": "hasan",
+   "teks": "Tapi itu baru setengah ceritanya.",
+   "dibaca": "Tapi itu baru setengah ceritanya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/c34e8c401fc1.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2e03f3a291dd",
+   "suara": "hasan",
+   "teks": "Kita lihat apa yang terjadi selanjutnya.",
+   "dibaca": "Kita lihat apa yang terjadi selanjutnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/2e03f3a291dd.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "85422a1ce034",
+   "suara": "hasan",
+   "teks": "Wah, ternyata begitu!",
+   "dibaca": "Wah, ternyata begitu!",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/85422a1ce034.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b5db1bbb506b",
+   "suara": "hasan",
+   "teks": "Hah? Kok bisa?",
+   "dibaca": "Hah? Kok bisa?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/b5db1bbb506b.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2e97bb5710a0",
+   "suara": "hasan",
+   "teks": "Peringatannya datang terlambat.",
+   "dibaca": "Peringatannya datang terlambat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/2e97bb5710a0.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7b9bc2f9c3d4",
+   "suara": "hasan",
+   "teks": "Ya, kurang lebih seperti itu.",
+   "dibaca": "Ya, kurang lebih seperti itu.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/7b9bc2f9c3d4.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9cbe571a7bf7",
+   "suara": "hasan",
+   "teks": "Ternyata nggak sesulit itu, ya.",
+   "dibaca": "Ternyata nggak sesulit itu, ya.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/9cbe571a7bf7.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4b2397cdacfb",
+   "suara": "hasan",
+   "teks": "Alasannya cukup sederhana.",
+   "dibaca": "Alasannya cukup sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/4b2397cdacfb.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e6d912dcd78c",
+   "suara": "hasan",
+   "teks": "Ada tiga alasan utama.",
+   "dibaca": "Ada tiga alasan utama.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/e6d912dcd78c.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5f575bea08db",
+   "suara": "hasan",
+   "teks": "Nah, di sinilah letak masalahnya.",
+   "dibaca": "Nah, di sinilah letak masalahnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/5f575bea08db.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e6efae40d869",
+   "suara": "hasan",
+   "teks": "Lalu, bagaimana caranya?",
+   "dibaca": "Lalu, bagaimana caranya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/e6efae40d869.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b9ab510cc719",
+   "suara": "hasan",
+   "teks": "Ini bukan sekadar mitos.",
+   "dibaca": "Ini bukan sekadar mitos.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/b9ab510cc719.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "447f8df69262",
+   "suara": "hasan",
+   "teks": "Faktanya justru sebaliknya.",
+   "dibaca": "Faktanya justru sebaliknya.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/447f8df69262.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "79a654dcd116",
+   "suara": "hasan",
+   "teks": "Coba bayangkan sebentar.",
+   "dibaca": "Coba bayangkan sebentar.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/79a654dcd116.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0709180178db",
+   "suara": "hasan",
+   "teks": "Analoginya seperti ini.",
+   "dibaca": "Analoginya seperti ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/0709180178db.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "323f7c582b7b",
+   "suara": "hasan",
+   "teks": "Tapi ceritanya belum berhenti di sini.",
+   "dibaca": "Tapi ceritanya belum berhenti di sini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/323f7c582b7b.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
