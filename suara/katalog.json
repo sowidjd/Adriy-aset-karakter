@@ -44183,6 +44183,232 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6e222278ea56",
+   "suara": "mia",
+   "teks": "Tapi ternyata...",
+   "dibaca": "Tapi ternyata...",
+   "fungsi": [
+    "jeda dramatis",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/6e222278ea56.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a1fe86c1ba27",
+   "suara": "mia",
+   "teks": "Sampai sesuatu terjadi.",
+   "dibaca": "Sampai sesuatu terjadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a1fe86c1ba27.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c6adde172a85",
+   "suara": "mia",
+   "teks": "Jangan langsung menyalahkan umur.",
+   "dibaca": "Jangan langsung menyalahkan umur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c6adde172a85.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "76f54ccef502",
+   "suara": "mia",
+   "teks": "Tenang, ini normal, kok.",
+   "dibaca": "Tenang, ini normal, kok.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/mia/76f54ccef502.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7555959748c3",
+   "suara": "mia",
+   "teks": "Kamu bisa mulai dari hal kecil.",
+   "dibaca": "Kamu bisa mulai dari hal kecil.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/7555959748c3.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fbfccc6c8422",
+   "suara": "mia",
+   "teks": "Oke, sekarang kita lanjut.",
+   "dibaca": "Oke, sekarang kita lanjut.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/mia/fbfccc6c8422.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4346937299d9",
+   "suara": "mia",
+   "teks": "Tenang, kamu nggak sendirian.",
+   "dibaca": "Tenang, kamu nggak sendirian.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/mia/4346937299d9.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dff2256b9f0d",
+   "suara": "mia",
+   "teks": "Iya, kita semua pernah begitu.",
+   "dibaca": "Iya, kita semua pernah begitu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/dff2256b9f0d.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3c0dbf8c706b",
+   "suara": "mia",
+   "teks": "Ya, namanya juga manusia.",
+   "dibaca": "Ya, namanya juga manusia.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3c0dbf8c706b.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6dd910c49ef9",
+   "suara": "mia",
+   "teks": "Jujur, ini agak absurd.",
+   "dibaca": "Jujur, ini agak absurd.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/6dd910c49ef9.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c037088373b7",
+   "suara": "mia",
+   "teks": "Nggak usah dipikirin terlalu berat.",
+   "dibaca": "Nggak usah dipikirin terlalu berat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c037088373b7.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3173a811e346",
+   "suara": "mia",
+   "teks": "Ya, begitulah kira-kira.",
+   "dibaca": "Ya, begitulah kira-kira.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/3173a811e346.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "15db73a13452",
+   "suara": "mia",
+   "teks": "Oke, kita lanjut sambil ngopi.",
+   "dibaca": "Oke, kita lanjut sambil ngopi.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/mia/15db73a13452.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "12388be63991",
+   "suara": "mia",
+   "teks": "Pokoknya begitu, deh.",
+   "dibaca": "Pokoknya begitu, deh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/12388be63991.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "299ec75acb6d",
+   "suara": "mia",
+   "teks": "Oke, cukup segitu dulu.",
+   "dibaca": "Oke, cukup segitu dulu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/299ec75acb6d.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
