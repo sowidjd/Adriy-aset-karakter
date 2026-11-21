@@ -48519,6 +48519,128 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2bcdadaedbf3",
+   "suara": "mia",
+   "teks": "Pada akhirnya, semuanya kembali menjadi bagian dari masa lalu.",
+   "dibaca": "Pada akhirnya, semuanya kembali menjadi bagian dari masa lalu.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/2bcdadaedbf3.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ee0b9b830170",
+   "suara": "mia",
+   "teks": "Ternyata, ada hubungan antara dua hal yang selama ini kita anggap tidak berkaitan.",
+   "dibaca": "Ternyata, ada hubungan antara dua hal yang selama ini kita anggap tidak berkaitan.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/mia/ee0b9b830170.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e0787d1e464d",
+   "suara": "mia",
+   "teks": "Kalau kamu baru tahu soal ini, bagikan ke teman yang juga perlu tahu.",
+   "dibaca": "Kalau kamu baru tahu soal ini, bagikan ke teman yang juga perlu tahu.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/e0787d1e464d.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "236ca2ad44a8",
+   "suara": "mia",
+   "teks": "Kalau kamu jadi mereka, apa yang akan kamu lakukan? Tulis di komentar.",
+   "dibaca": "Kalau kamu jadi mereka, apa yang akan kamu lakukan? Tulis di komentar.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/236ca2ad44a8.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3592eb36df73",
+   "suara": "mia",
+   "teks": "Menariknya, hal ini ternyata berhubungan dengan topik yang sama sekali berbeda.",
+   "dibaca": "Menariknya, hal ini ternyata berhubungan dengan topik yang sama sekali berbeda.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/mia/3592eb36df73.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cb0556e41656",
+   "suara": "mia",
+   "teks": "Dan follow Adriy Project, biar kamu makin sering bilang: oh, ternyata begitu.",
+   "dibaca": "Dan follow Adriy Project, biar kamu makin sering bilang: oh, ternyata begitu.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/cb0556e41656.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "de857fdcb476",
+   "suara": "mia",
+   "teks": "Kita mungkin pernah mengalaminya, tetapi tidak pernah benar-benar memikirkannya.",
+   "dibaca": "Kita mungkin pernah mengalaminya, tetapi tidak pernah benar-benar memikirkannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/de857fdcb476.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d37cb018c10b",
+   "suara": "mia",
+   "teks": "Untuk menemukan jawabannya, kita harus kembali ke awal dan melihat apa yang terlewat.",
+   "dibaca": "Untuk menemukan jawabannya, kita harus kembali ke awal dan melihat apa yang terlewat.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/mia/d37cb018c10b.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
