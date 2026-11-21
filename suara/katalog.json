@@ -55263,6 +55263,141 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bf26e7ace9ec",
+   "suara": "mia",
+   "teks": "Coba ingat-ingat, kapan terakhir kali kamu mengalami ini?",
+   "dibaca": "Coba ingat-ingat, kapan terakhir kali kamu mengalami ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/bf26e7ace9ec.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2244df7281f2",
+   "suara": "mia",
+   "teks": "Ada yang janggal dari cara kita melihat hal ini.",
+   "dibaca": "Ada yang janggal dari cara kita melihat hal ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2244df7281f2.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7d6607ecf1be",
+   "suara": "mia",
+   "teks": "Secara sederhana, prosesnya terjadi dalam beberapa tahap.",
+   "dibaca": "Secara sederhana, prosesnya terjadi dalam beberapa tahap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/7d6607ecf1be.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ac49e2a4c5b6",
+   "suara": "mia",
+   "teks": "Pada tahap akhir, semuanya mulai terlihat jelas.",
+   "dibaca": "Pada tahap akhir, semuanya mulai terlihat jelas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ac49e2a4c5b6.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "390e59b7dbe2",
+   "suara": "mia",
+   "teks": "Para ilmuwan menyebut fenomena ini dengan nama khusus.",
+   "dibaca": "Para ilmuwan menyebut fenomena ini dengan nama khusus.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/390e59b7dbe2.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3a6e75c6736a",
+   "suara": "mia",
+   "teks": "Diperkirakan, sebagian besar orang pernah mengalaminya.",
+   "dibaca": "Diperkirakan, sebagian besar orang pernah mengalaminya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3a6e75c6736a.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8b603335032c",
+   "suara": "mia",
+   "teks": "Reaksi ini menghasilkan zat baru yang berbeda sifatnya.",
+   "dibaca": "Reaksi ini menghasilkan zat baru yang berbeda sifatnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/8b603335032c.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "968e58221888",
+   "suara": "mia",
+   "teks": "Perbedaannya mungkin terlihat kecil, tapi dampaknya besar.",
+   "dibaca": "Perbedaannya mungkin terlihat kecil, tapi dampaknya besar.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/968e58221888.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "93044e75f406",
+   "suara": "mia",
+   "teks": "Manusia sudah memanfaatkan hal ini sejak ribuan tahun lalu.",
+   "dibaca": "Manusia sudah memanfaatkan hal ini sejak ribuan tahun lalu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/93044e75f406.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
