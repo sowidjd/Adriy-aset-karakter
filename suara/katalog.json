@@ -64891,6 +64891,158 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0960a53384a2",
+   "suara": "adriy",
+   "teks": "Ini dia.",
+   "dibaca": "Ini dia.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/0960a53384a2.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "51c0e9dd2e5b",
+   "suara": "adriy",
+   "teks": "Hasilnya mengejutkan.",
+   "dibaca": "Hasilnya mengejutkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/51c0e9dd2e5b.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0512f405ffc1",
+   "suara": "adriy",
+   "teks": "Semua orang terdiam.",
+   "dibaca": "Semua orang terdiam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/0512f405ffc1.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "30580e166daa",
+   "suara": "adriy",
+   "teks": "Dan ternyata, mereka salah.",
+   "dibaca": "Dan ternyata, mereka salah.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/30580e166daa.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2363d903b321",
+   "suara": "adriy",
+   "teks": "Tidak ada yang menyangka.",
+   "dibaca": "Tidak ada yang menyangka.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/2363d903b321.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "17378eb4e6fc",
+   "suara": "adriy",
+   "teks": "Lalu sesuatu yang aneh terjadi.",
+   "dibaca": "Lalu sesuatu yang aneh terjadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/17378eb4e6fc.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "afd4fad09d26",
+   "suara": "adriy",
+   "teks": "Dan semuanya berubah dalam sekejap.",
+   "dibaca": "Dan semuanya berubah dalam sekejap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/afd4fad09d26.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4a05ecb27d0f",
+   "suara": "adriy",
+   "teks": "Coba dengarkan baik-baik.",
+   "dibaca": "Coba dengarkan baik-baik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/4a05ecb27d0f.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d45ea288fca8",
+   "suara": "adriy",
+   "teks": "Aneh, kan?",
+   "dibaca": "Aneh, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/d45ea288fca8.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "68265aab6930",
+   "suara": "adriy",
+   "teks": "Siapa sangka, ya?",
+   "dibaca": "Siapa sangka, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/68265aab6930.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
   }
  ]
 }
