@@ -53050,6 +53050,173 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f1793ce10b56",
+   "suara": "mia",
+   "teks": "Kisah ini dimulai dari hal yang paling sepele.",
+   "dibaca": "Kisah ini dimulai dari hal yang paling sepele.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/f1793ce10b56.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f13fc0031200",
+   "suara": "mia",
+   "teks": "Sekarang, kita hubungkan dengan pertanyaan tadi.",
+   "dibaca": "Sekarang, kita hubungkan dengan pertanyaan tadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f13fc0031200.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "28b766d02d03",
+   "suara": "mia",
+   "teks": "Ini juga menjelaskan hal lain yang sering kita alami.",
+   "dibaca": "Ini juga menjelaskan hal lain yang sering kita alami.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/28b766d02d03.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "adb678dead7c",
+   "suara": "mia",
+   "teks": "Kemungkinan besar, dia nggak mau menggigit lagi.",
+   "dibaca": "Kemungkinan besar, dia nggak mau menggigit lagi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/adb678dead7c.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4e9f49d51d48",
+   "suara": "mia",
+   "teks": "Otak kita tidak mengukur waktu hanya berdasarkan jam.",
+   "dibaca": "Otak kita tidak mengukur waktu hanya berdasarkan jam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4e9f49d51d48.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c997a98163e8",
+   "suara": "mia",
+   "teks": "Tapi faktanya, tidak sesederhana itu.",
+   "dibaca": "Tapi faktanya, tidak sesederhana itu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c997a98163e8.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "57ed2cfe5aae",
+   "suara": "mia",
+   "teks": "Oke, kita mulai dari yang paling sederhana dulu.",
+   "dibaca": "Oke, kita mulai dari yang paling sederhana dulu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/57ed2cfe5aae.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4d9d4830cced",
+   "suara": "mia",
+   "teks": "Pernah kepikiran nggak, kenapa bisa begitu?",
+   "dibaca": "Pernah kepikiran nggak, kenapa bisa begitu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/4d9d4830cced.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "670397c423fb",
+   "suara": "mia",
+   "teks": "Semua ini berawal dari cara kerja tubuh kita.",
+   "dibaca": "Semua ini berawal dari cara kerja tubuh kita.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/670397c423fb.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "af9ca1a316ac",
+   "suara": "mia",
+   "teks": "Menurutmu, fakta mana yang paling mengejutkan?",
+   "dibaca": "Menurutmu, fakta mana yang paling mengejutkan?",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/af9ca1a316ac.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5e60599e3c31",
+   "suara": "mia",
+   "teks": "Kenapa hal sekecil ini bisa berdampak sebesar itu?",
+   "dibaca": "Kenapa hal sekecil ini bisa berdampak sebesar itu?",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/5e60599e3c31.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
