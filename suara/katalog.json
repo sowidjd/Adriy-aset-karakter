@@ -45212,6 +45212,187 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9a50558f6c9b",
+   "suara": "mia",
+   "teks": "Kedengarannya aneh, tapi beneran.",
+   "dibaca": "Kedengarannya aneh, tapi beneran.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9a50558f6c9b.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "58321e6f7bca",
+   "suara": "mia",
+   "teks": "Ternyata tubuh kita juga bisa drama.",
+   "dibaca": "Ternyata tubuh kita juga bisa drama.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/58321e6f7bca.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "512ac0e5ce5b",
+   "suara": "mia",
+   "teks": "Jadi, bukan salah kamu, ya.",
+   "dibaca": "Jadi, bukan salah kamu, ya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/512ac0e5ce5b.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5d625e779ad4",
+   "suara": "mia",
+   "teks": "Jadi, lain kali jangan heran, ya.",
+   "dibaca": "Jadi, lain kali jangan heran, ya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/5d625e779ad4.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "77df281d284f",
+   "suara": "mia",
+   "teks": "Jangan khawatir, ini bukan kutukan.",
+   "dibaca": "Jangan khawatir, ini bukan kutukan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/77df281d284f.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2bc0bebdb706",
+   "suara": "mia",
+   "teks": "Asyik, kan, belajar hal baru?",
+   "dibaca": "Asyik, kan, belajar hal baru?",
+   "fungsi": [
+    "memancing rasa penasaran",
+    "mengubah suasana"
+   ],
+   "file": "suara/mia/2bc0bebdb706.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9460963e0289",
+   "suara": "mia",
+   "teks": "Tidak semua hal harus dipahami saat ini juga.",
+   "dibaca": "Tidak semua hal harus dipahami saat ini juga.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9460963e0289.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "83739f3efc1f",
+   "suara": "mia",
+   "teks": "Setiap orang punya waktunya masing-masing.",
+   "dibaca": "Setiap orang punya waktunya masing-masing.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/83739f3efc1f.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c77d7d62717c",
+   "suara": "mia",
+   "teks": "Ada pelajaran di balik setiap kejadian.",
+   "dibaca": "Ada pelajaran di balik setiap kejadian.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c77d7d62717c.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "20723f5350e8",
+   "suara": "mia",
+   "teks": "Hidup memang tidak selalu bisa ditebak.",
+   "dibaca": "Hidup memang tidak selalu bisa ditebak.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/20723f5350e8.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "64361a417ce5",
+   "suara": "mia",
+   "teks": "Terkadang, air mata bukan tanda lemah.",
+   "dibaca": "Terkadang, air mata bukan tanda lemah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/64361a417ce5.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d9c779db2259",
+   "suara": "mia",
+   "teks": "Jadi, kesimpulannya cukup jelas.",
+   "dibaca": "Jadi, kesimpulannya cukup jelas.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/d9c779db2259.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
