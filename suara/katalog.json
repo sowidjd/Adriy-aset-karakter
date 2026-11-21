@@ -67275,6 +67275,141 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "27f758a64af0",
+   "suara": "adriy",
+   "teks": "Ini mirip seperti komputer yang sedang memuat ulang.",
+   "dibaca": "Ini mirip seperti komputer yang sedang memuat ulang.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/27f758a64af0.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d287ac0cf670",
+   "suara": "adriy",
+   "teks": "Bayangkan seperti jalan raya yang tiba-tiba macet.",
+   "dibaca": "Bayangkan seperti jalan raya yang tiba-tiba macet.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/d287ac0cf670.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bda7caf627b3",
+   "suara": "adriy",
+   "teks": "Kira-kira seperti spons yang menyerap air.",
+   "dibaca": "Kira-kira seperti spons yang menyerap air.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/bda7caf627b3.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bb4e402c73fe",
+   "suara": "adriy",
+   "teks": "Bayangkan kamu sedang menyusun puzzle tanpa gambar contoh.",
+   "dibaca": "Bayangkan kamu sedang menyusun puzzle tanpa gambar contoh.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/bb4e402c73fe.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "38d2d8a46ca2",
+   "suara": "adriy",
+   "teks": "Ibaratnya seperti baterai yang pelan-pelan habis.",
+   "dibaca": "Ibaratnya seperti baterai yang pelan-pelan habis.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/38d2d8a46ca2.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "087e4fcef748",
+   "suara": "adriy",
+   "teks": "Jadi, sekarang kamu tahu kenapa itu terjadi.",
+   "dibaca": "Jadi, sekarang kamu tahu kenapa itu terjadi.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/087e4fcef748.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "81fb50386833",
+   "suara": "adriy",
+   "teks": "Jadi, lain kali kamu mengalaminya, jangan heran.",
+   "dibaca": "Jadi, lain kali kamu mengalaminya, jangan heran.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/81fb50386833.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7b5b2d6a3079",
+   "suara": "adriy",
+   "teks": "Intinya, tubuh kita jauh lebih pintar dari yang kita kira.",
+   "dibaca": "Intinya, tubuh kita jauh lebih pintar dari yang kita kira.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/7b5b2d6a3079.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b7e5afad646a",
+   "suara": "adriy",
+   "teks": "Kesimpulannya, hal kecil pun punya penjelasan besar.",
+   "dibaca": "Kesimpulannya, hal kecil pun punya penjelasan besar.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/b7e5afad646a.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
   }
  ]
 }
