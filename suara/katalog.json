@@ -45970,6 +45970,66 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3c3c7874f57f",
+   "suara": "mia",
+   "teks": "Sambil santai, coba dengarkan baik-baik.",
+   "dibaca": "Sambil santai, coba dengarkan baik-baik.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/mia/3c3c7874f57f.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "973b6c630863",
+   "suara": "mia",
+   "teks": "Kalau kamu senyum-senyum sendiri, berarti kena.",
+   "dibaca": "Kalau kamu senyum-senyum sendiri, berarti kena.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/973b6c630863.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6c7cc5fc941d",
+   "suara": "mia",
+   "teks": "Rasanya kayak dikerjain sama diri sendiri.",
+   "dibaca": "Rasanya kayak dikerjain sama diri sendiri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/6c7cc5fc941d.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d6f7bd81a151",
+   "suara": "mia",
+   "teks": "Ada hal-hal yang baru terasa berharga setelah hilang.",
+   "dibaca": "Ada hal-hal yang baru terasa berharga setelah hilang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d6f7bd81a151.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
