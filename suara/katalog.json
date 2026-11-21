@@ -58476,6 +58476,111 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ac615abdcf2f",
+   "suara": "mia",
+   "teks": "Dan bawang tanpa air mata itu sekarang benar-benar dijual, walau jumlahnya masih terbatas.",
+   "dibaca": "Dan bawang tanpa air mata itu sekarang benar-benar dijual, walau jumlahnya masih terbatas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ac615abdcf2f.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ea1823f04e57",
+   "suara": "mia",
+   "teks": "Hasil penelitian ini bahkan membuat para ahli harus mempertimbangkan kembali teori sebelumnya.",
+   "dibaca": "Hasil penelitian ini bahkan membuat para ahli harus mempertimbangkan kembali teori sebelumnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ea1823f04e57.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9817394aea58",
+   "suara": "mia",
+   "teks": "Isinya hampir semua air, dan tugasnya cuma satu: mengusir gas pengganggu itu secepat mungkin.",
+   "dibaca": "Isinya hampir semua air, dan tugasnya cuma satu: mengusir gas pengganggu itu secepat mungkin.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9817394aea58.wav",
+   "durasi": 6.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c6436a353737",
+   "suara": "mia",
+   "teks": "Tapi tunggu. Bawang putih juga dipotong, juga diiris. Kenapa bawang putih nggak bikin nangis?",
+   "dibaca": "Tapi tunggu. Bawang putih juga dipotong, juga diiris. Kenapa bawang putih nggak bikin nangis?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/c6436a353737.wav",
+   "durasi": 7.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "801f6a15e375",
+   "suara": "mia",
+   "teks": "Artinya, rasa tajam yang kamu suka dan air mata yang kamu benci kemungkinan datang dari paket yang sama.",
+   "dibaca": "Artinya, rasa tajam yang kamu suka dan air mata yang kamu benci kemungkinan datang dari paket yang sama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/801f6a15e375.wav",
+   "durasi": 7.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "34f9ec038a87",
+   "suara": "mia",
+   "teks": "Pernah nggak kamu berjalan menuju suatu tempat, tapi begitu sampai, malah lupa mau ngapain?",
+   "dibaca": "Pernah nggak kamu berjalan menuju suatu tempat, tapi begitu sampai, malah lupa mau ngapain?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/34f9ec038a87.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9cd10c7ec114",
+   "suara": "mia",
+   "teks": "Di sini, otak tidak menghitung jam, tapi menghitung berapa banyak kenangan baru yang tersimpan.",
+   "dibaca": "Di sini, otak tidak menghitung jam, tapi menghitung berapa banyak kenangan baru yang tersimpan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9cd10c7ec114.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
