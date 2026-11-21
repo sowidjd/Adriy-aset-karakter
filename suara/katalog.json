@@ -53594,6 +53594,36 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0c861b6babfe",
+   "suara": "mia",
+   "teks": "Ibarat air yang selalu mencari tempat yang lebih rendah.",
+   "dibaca": "Ibarat air yang selalu mencari tempat yang lebih rendah.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/0c861b6babfe.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e1190916066b",
+   "suara": "mia",
+   "teks": "Begitu pisau merobek sel, keduanya bercampur.",
+   "dibaca": "Begitu pisau merobek sel, keduanya bercampur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/e1190916066b.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
