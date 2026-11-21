@@ -43124,6 +43124,111 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "55648839e361",
+   "suara": "hasan",
+   "teks": "Dan perubahan konteks ini terkadang membuat informasi yang sebelumnya ada di pikiran menjadi lebih sulit diakses.",
+   "dibaca": "Dan perubahan konteks ini terkadang membuat informasi yang sebelumnya ada di pikiran menjadi lebih sulit diakses.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/55648839e361.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f7d64f811dc9",
+   "suara": "hasan",
+   "teks": "Dan lucunya, terkadang otak kita sendiri yang membuat kita takut... padahal kita sedang berada di tempat paling aman.",
+   "dibaca": "Dan lucunya, terkadang otak kita sendiri yang membuat kita takut... padahal kita sedang berada di tempat paling aman.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/f7d64f811dc9.wav",
+   "durasi": 6.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c4bb5ee39957",
+   "suara": "hasan",
+   "teks": "Padahal, kamu sedang berbaring di tempat tidur. Nggak ada yang mendorong, nggak ada yang menarik, bahkan kamu nggak sedang bermimpi jatuh.",
+   "dibaca": "Padahal, kamu sedang berbaring di tempat tidur. Nggak ada yang mendorong, nggak ada yang menarik, bahkan kamu nggak sedang bermimpi jatuh.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/c4bb5ee39957.wav",
+   "durasi": 7.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "48faf996fcee",
+   "suara": "hasan",
+   "teks": "Fenomena ini lebih sering terjadi ketika kita kelelahan, stres, mengonsumsi kafein, atau memiliki jadwal tidur yang tidak teratur.",
+   "dibaca": "Fenomena ini lebih sering terjadi ketika kita kelelahan, stres, mengonsumsi kafein, atau memiliki jadwal tidur yang tidak teratur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/48faf996fcee.wav",
+   "durasi": 7.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "99e3b32bb0af",
+   "suara": "hasan",
+   "teks": "Fenomena ini ternyata punya nama, yaitu hypnic jerk. Dan ini sebenarnya adalah reaksi alami tubuh saat kita mulai memasuki fase tidur.",
+   "dibaca": "Fenomena ini ternyata punya nama, yaitu hipnik jerk. Dan ini sebenarnya adalah reaksi alami tubuh saat kita mulai memasuki fase tidur.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/99e3b32bb0af.wav",
+   "durasi": 8.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "23b67e82b78f",
+   "suara": "hasan",
+   "teks": "Ketika tubuh mulai rileks, otot-otot kita perlahan kehilangan ketegangan. Tapi terkadang, otak salah mengartikan perubahan ini seolah-olah tubuh sedang kehilangan keseimbangan.",
+   "dibaca": "Ketika tubuh mulai rileks, otot-otot kita perlahan kehilangan ketegangan. Tapi terkadang, otak salah mengartikan perubahan ini seolah-olah tubuh sedang kehilangan keseimbangan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/23b67e82b78f.wav",
+   "durasi": 9.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5700286230d1",
+   "suara": "hasan",
+   "teks": "Akibatnya, otak mengirimkan sinyal secara tiba-tiba ke otot. Dan BOOM! Tubuh kita tersentak, seolah sedang berusaha menyelamatkan diri dari jatuh.",
+   "dibaca": "Akibatnya, otak mengirimkan sinyal secara tiba-tiba ke otot. Dan BOOM! Tubuh kita tersentak, seolah sedang berusaha menyelamatkan diri dari jatuh.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/5700286230d1.wav",
+   "durasi": 8.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
