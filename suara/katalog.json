@@ -63355,6 +63355,201 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dec9d1c4539e",
+   "suara": "ongky",
+   "teks": "Kami di Adriy Project juga sempat kaget waktu pertama tahu.",
+   "dibaca": "Kami di Adriy Project juga sempat kaget waktu pertama tahu.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/ongky/dec9d1c4539e.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c4b3f4d45ddc",
+   "suara": "ongky",
+   "teks": "Kalau kamu suka video seperti ini, follow Adriy Project, ya.",
+   "dibaca": "Kalau kamu suka video seperti ini, follow Adriy Project, ya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/ongky/c4b3f4d45ddc.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bb331f596317",
+   "suara": "ongky",
+   "teks": "Di Adriy Project, kita cari tahu jawabannya bareng-bareng.",
+   "dibaca": "Di Adriy Project, kita cari tahu jawabannya bareng-bareng.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/ongky/bb331f596317.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b1ad382e973b",
+   "suara": "ongky",
+   "teks": "Tulis di komentar, kamu pernah mengalaminya atau belum?",
+   "dibaca": "Tulis di komentar, kamu pernah mengalaminya atau belum?",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/ongky/b1ad382e973b.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a537d3545616",
+   "suara": "ongky",
+   "teks": "Komentar angka satu sampai sepuluh, seberapa kaget kamu?",
+   "dibaca": "Komentar angka satu sampai sepuluh, seberapa kaget kamu?",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/ongky/a537d3545616.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a284d20f91c3",
+   "suara": "ongky",
+   "teks": "Simpan dulu, biar nanti bisa kamu tunjukkan ke teman.",
+   "dibaca": "Simpan dulu, biar nanti bisa kamu tunjukkan ke teman.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/ongky/a284d20f91c3.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "428696bd8758",
+   "suara": "ongky",
+   "teks": "Kalau menurutmu ini berguna, bagikan, ya.",
+   "dibaca": "Kalau menurutmu ini berguna, bagikan, ya.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/ongky/428696bd8758.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "646513a13c3e",
+   "suara": "ongky",
+   "teks": "Follow Adriy Project, biar kamu nggak ketinggalan fakta berikutnya.",
+   "dibaca": "Follow Adriy Project, biar kamu nggak ketinggalan fakta berikutnya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/ongky/646513a13c3e.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2e1641128b30",
+   "suara": "ongky",
+   "teks": "Follow Adriy Project kalau kamu suka belajar dengan cara santai.",
+   "dibaca": "Follow Adriy Project kalau kamu suka belajar dengan cara santai.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/ongky/2e1641128b30.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f8f105d537cf",
+   "suara": "ongky",
+   "teks": "Di Adriy Project, rasa penasaranmu selalu punya tempat.",
+   "dibaca": "Di Adriy Project, rasa penasaranmu selalu punya tempat.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/ongky/f8f105d537cf.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "73c2f610cd5c",
+   "suara": "ongky",
+   "teks": "Kami di Adriy Project sudah cek sumbernya, dan hasilnya menarik.",
+   "dibaca": "Kami di Adriy Project sudah cek sumbernya, dan hasilnya menarik.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/ongky/73c2f610cd5c.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d7e6d4f4dc7b",
+   "suara": "ongky",
+   "teks": "Menurutmu jawabannya apa? Tulis dulu sebelum lanjut.",
+   "dibaca": "Menurutmu jawabannya apa? Tulis dulu sebelum lanjut.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/ongky/d7e6d4f4dc7b.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dda61a023fc4",
+   "suara": "ongky",
+   "teks": "Kalau kamu punya pengalaman lucu soal ini, cerita di komentar.",
+   "dibaca": "Kalau kamu punya pengalaman lucu soal ini, cerita di komentar.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/ongky/dda61a023fc4.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
