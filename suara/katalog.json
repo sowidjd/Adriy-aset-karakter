@@ -31749,6 +31749,234 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8a6359cd7fe7",
+   "suara": "hasan",
+   "teks": "Kenapa hanya sebagian orang yang mengalaminya?",
+   "dibaca": "Kenapa hanya sebagian orang yang mengalaminya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/8a6359cd7fe7.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "845abc07647b",
+   "suara": "hasan",
+   "teks": "Dari mana sebenarnya semua ini berasal?",
+   "dibaca": "Dari mana sebenarnya semua ini berasal?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/845abc07647b.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "54e82d7236fc",
+   "suara": "hasan",
+   "teks": "Pernah nggak kamu memperhatikan detail kecil ini?",
+   "dibaca": "Pernah nggak kamu memperhatikan detail kecil ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/54e82d7236fc.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bdd6e6b44c39",
+   "suara": "hasan",
+   "teks": "Kenapa otak kita bereaksi seperti itu?",
+   "dibaca": "Kenapa otak kita bereaksi seperti itu?",
+   "fungsi": [
+    "memberikan analogi",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/bdd6e6b44c39.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "246be9c90004",
+   "suara": "hasan",
+   "teks": "Kalau begitu, apa yang harus kita lakukan?",
+   "dibaca": "Kalau begitu, apa yang harus kita lakukan?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/246be9c90004.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9d4286399453",
+   "suara": "hasan",
+   "teks": "Kenapa jawabannya ternyata sesederhana itu?",
+   "dibaca": "Kenapa jawabannya ternyata sesederhana itu?",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/9d4286399453.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6d266e94335d",
+   "suara": "hasan",
+   "teks": "Ini bukan teori konspirasi, ini sains.",
+   "dibaca": "Ini bukan teori konspirasi, ini sains.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/6d266e94335d.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5379027b9f88",
+   "suara": "hasan",
+   "teks": "Kalau diperhatikan, polanya selalu berulang.",
+   "dibaca": "Kalau diperhatikan, polanya selalu berulang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/5379027b9f88.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c4769807a9cd",
+   "suara": "hasan",
+   "teks": "Dan di sinilah ceritanya mulai berubah.",
+   "dibaca": "Dan di sinilah ceritanya mulai berubah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/c4769807a9cd.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "895d29152538",
+   "suara": "hasan",
+   "teks": "Untuk lebih jelasnya, kita lihat contohnya.",
+   "dibaca": "Untuk lebih jelasnya, kita lihat contohnya.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/895d29152538.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b7d70442c952",
+   "suara": "hasan",
+   "teks": "Tapi tunggu, masih ada satu kejutan lagi.",
+   "dibaca": "Tapi tunggu, masih ada satu kejutan lagi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b7d70442c952.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2e77d7a03c8f",
+   "suara": "hasan",
+   "teks": "Angkanya bikin geleng-geleng kepala.",
+   "dibaca": "Angkanya bikin geleng-geleng kepala.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/2e77d7a03c8f.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8cec89fc1ed0",
+   "suara": "hasan",
+   "teks": "Dan itu terjadi hanya dalam sekejap.",
+   "dibaca": "Dan itu terjadi hanya dalam sekejap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/8cec89fc1ed0.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "971033faf4c6",
+   "suara": "hasan",
+   "teks": "Rasanya seperti sihir, padahal ini sains.",
+   "dibaca": "Rasanya seperti sihir, padahal ini sains.",
+   "fungsi": [
+    "memberikan analogi",
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/971033faf4c6.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d3194d7b25ad",
+   "suara": "hasan",
+   "teks": "Tidak ada yang tahu apa yang menunggu di depan.",
+   "dibaca": "Tidak ada yang tahu apa yang menunggu di depan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d3194d7b25ad.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
