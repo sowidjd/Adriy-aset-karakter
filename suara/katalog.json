@@ -32777,6 +32777,201 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5d810e5e7307",
+   "suara": "hasan",
+   "teks": "Bahkan para ilmuwan pun sempat terkejut dengan hasilnya.",
+   "dibaca": "Bahkan para ilmuwan pun sempat terkejut dengan hasilnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/5d810e5e7307.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "07e21cab9525",
+   "suara": "hasan",
+   "teks": "Coba bayangkan betapa rumitnya proses itu.",
+   "dibaca": "Coba bayangkan betapa rumitnya proses itu.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/07e21cab9525.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "866dea0d4f8b",
+   "suara": "hasan",
+   "teks": "Tidak ada yang menyangka akhirnya akan seperti ini.",
+   "dibaca": "Tidak ada yang menyangka akhirnya akan seperti ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/866dea0d4f8b.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4e9230bd6097",
+   "suara": "hasan",
+   "teks": "Dan ternyata, mereka tidak sendirian.",
+   "dibaca": "Dan ternyata, mereka tidak sendirian.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/4e9230bd6097.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "46f47422357a",
+   "suara": "hasan",
+   "teks": "Dan sejak hari itu, tidak ada yang sama lagi.",
+   "dibaca": "Dan sejak hari itu, tidak ada yang sama lagi.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/46f47422357a.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d92e24ce263c",
+   "suara": "hasan",
+   "teks": "Ternyata kita semua punya kebiasaan aneh yang sama.",
+   "dibaca": "Ternyata kita semua punya kebiasaan aneh yang sama.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/d92e24ce263c.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0e39098b75e0",
+   "suara": "hasan",
+   "teks": "Kita ambil contoh yang paling dekat saja.",
+   "dibaca": "Kita ambil contoh yang paling dekat saja.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/0e39098b75e0.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8d28fee8a8b5",
+   "suara": "hasan",
+   "teks": "Dan perasaan itu, ternyata punya penjelasan.",
+   "dibaca": "Dan perasaan itu, ternyata punya penjelasan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/8d28fee8a8b5.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2eac89f16a06",
+   "suara": "hasan",
+   "teks": "Dan ini sudah dibuktikan berkali-kali.",
+   "dibaca": "Dan ini sudah dibuktikan berkali-kali.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/2eac89f16a06.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "408b12dea6e6",
+   "suara": "hasan",
+   "teks": "Kalau dipikir secara logis, ini masuk akal.",
+   "dibaca": "Kalau dipikir secara logis, ini masuk akal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/408b12dea6e6.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b6963bfdc01f",
+   "suara": "hasan",
+   "teks": "Sebaliknya, bukti menunjukkan hal yang berbeda.",
+   "dibaca": "Sebaliknya, bukti menunjukkan hal yang berbeda.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/b6963bfdc01f.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6d2e7398318d",
+   "suara": "hasan",
+   "teks": "Banyak penemuan besar berawal dari pertanyaan sederhana.",
+   "dibaca": "Banyak penemuan besar berawal dari pertanyaan sederhana.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/6d2e7398318d.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a569d4641fce",
+   "suara": "hasan",
+   "teks": "Dan perjalananmu, baru saja dimulai.",
+   "dibaca": "Dan perjalananmu, baru saja dimulai.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/a569d4641fce.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
