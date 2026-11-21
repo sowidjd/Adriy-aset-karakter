@@ -69535,6 +69535,187 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bebc60d2fa65",
+   "suara": "mia",
+   "teks": "Otak kita lebih mudah mengingat cerita daripada angka.",
+   "dibaca": "Otak kita lebih mudah mengingat cerita daripada angka.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/bebc60d2fa65.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5a206b6efe6e",
+   "suara": "mia",
+   "teks": "Kebiasaan terbentuk karena otak suka hal yang berulang.",
+   "dibaca": "Kebiasaan terbentuk karena otak suka hal yang berulang.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/5a206b6efe6e.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c050794c63d6",
+   "suara": "mia",
+   "teks": "Ingatan kita tidak sesempurna yang kita kira.",
+   "dibaca": "Ingatan kita tidak sesempurna yang kita kira.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c050794c63d6.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2d1e4750cf86",
+   "suara": "mia",
+   "teks": "Otak kita terus bekerja, bahkan saat kita melamun.",
+   "dibaca": "Otak kita terus bekerja, bahkan saat kita melamun.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2d1e4750cf86.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0e16c911f282",
+   "suara": "mia",
+   "teks": "Fenomena ini punya nama ilmiah yang cukup unik.",
+   "dibaca": "Fenomena ini punya nama ilmiah yang cukup unik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0e16c911f282.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f6e7c4c2d7f0",
+   "suara": "mia",
+   "teks": "Otak tidak selalu bisa membedakan bayangan dan kenyataan.",
+   "dibaca": "Otak tidak selalu bisa membedakan bayangan dan kenyataan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f6e7c4c2d7f0.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "00262a902e60",
+   "suara": "mia",
+   "teks": "Rasa penasaran ternyata membuat kita lebih mudah belajar.",
+   "dibaca": "Rasa penasaran ternyata membuat kita lebih mudah belajar.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/00262a902e60.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c2ed1d8ed6e5",
+   "suara": "mia",
+   "teks": "Ternyata, perasaan kita juga dipengaruhi oleh kebiasaan kecil.",
+   "dibaca": "Ternyata, perasaan kita juga dipengaruhi oleh kebiasaan kecil.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/c2ed1d8ed6e5.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b06c46d52ca8",
+   "suara": "ongky",
+   "teks": "Ini cara otak menghemat energi.",
+   "dibaca": "Ini cara otak menghemat energi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/b06c46d52ca8.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fdba5ceaa1a4",
+   "suara": "ongky",
+   "teks": "Otak kita suka mengambil jalan pintas.",
+   "dibaca": "Otak kita suka mengambil jalan pintas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/fdba5ceaa1a4.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c0fee1702a2f",
+   "suara": "ongky",
+   "teks": "Otak kita lebih mudah mengingat cerita daripada angka.",
+   "dibaca": "Otak kita lebih mudah mengingat cerita daripada angka.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/c0fee1702a2f.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6f18ec2d35c0",
+   "suara": "ongky",
+   "teks": "Kebiasaan terbentuk karena otak suka hal yang berulang.",
+   "dibaca": "Kebiasaan terbentuk karena otak suka hal yang berulang.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/6f18ec2d35c0.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
