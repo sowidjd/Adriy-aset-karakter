@@ -67095,6 +67095,171 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "61fe30a21eaa",
+   "suara": "hasan",
+   "teks": "Satu perubahan kecil bisa memicu efek yang besar.",
+   "dibaca": "Satu perubahan kecil bisa memicu efek yang besar.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/61fe30a21eaa.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7e1c46dc46a1",
+   "suara": "hasan",
+   "teks": "Ternyata, otak kita yang mengatur semuanya.",
+   "dibaca": "Ternyata, otak kita yang mengatur semuanya.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/7e1c46dc46a1.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "be4d7fd8164d",
+   "suara": "hasan",
+   "teks": "Semakin sering dilakukan, semakin kuat efeknya.",
+   "dibaca": "Semakin sering dilakukan, semakin kuat efeknya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/be4d7fd8164d.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "80af6430a3c7",
+   "suara": "hasan",
+   "teks": "Gampangnya, bayangkan seperti lampu yang dinyalakan dan dimatikan.",
+   "dibaca": "Gampangnya, bayangkan seperti lampu yang dinyalakan dan dimatikan.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/80af6430a3c7.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "daafe81fae6b",
+   "suara": "mia",
+   "teks": "Satu perubahan kecil bisa memicu efek yang besar.",
+   "dibaca": "Satu perubahan kecil bisa memicu efek yang besar.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/daafe81fae6b.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2d7f06a4dad8",
+   "suara": "mia",
+   "teks": "Ternyata, otak kita yang mengatur semuanya.",
+   "dibaca": "Ternyata, otak kita yang mengatur semuanya.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/2d7f06a4dad8.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "129d8e2b8077",
+   "suara": "mia",
+   "teks": "Semakin sering dilakukan, semakin kuat efeknya.",
+   "dibaca": "Semakin sering dilakukan, semakin kuat efeknya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/129d8e2b8077.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c861493f7281",
+   "suara": "mia",
+   "teks": "Gampangnya, bayangkan seperti lampu yang dinyalakan dan dimatikan.",
+   "dibaca": "Gampangnya, bayangkan seperti lampu yang dinyalakan dan dimatikan.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/c861493f7281.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bc04f9178fcc",
+   "suara": "ongky",
+   "teks": "Satu perubahan kecil bisa memicu efek yang besar.",
+   "dibaca": "Satu perubahan kecil bisa memicu efek yang besar.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/bc04f9178fcc.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "312a4bfdc1bf",
+   "suara": "ongky",
+   "teks": "Ternyata, otak kita yang mengatur semuanya.",
+   "dibaca": "Ternyata, otak kita yang mengatur semuanya.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/312a4bfdc1bf.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b3302c72d79d",
+   "suara": "ongky",
+   "teks": "Semakin sering dilakukan, semakin kuat efeknya.",
+   "dibaca": "Semakin sering dilakukan, semakin kuat efeknya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/b3302c72d79d.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
