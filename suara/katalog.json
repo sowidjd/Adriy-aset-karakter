@@ -58687,6 +58687,172 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7b6ac0cae363",
+   "suara": "hasan",
+   "teks": "Pernah merinding gara-gara lagu, padahal nggak kedinginan?",
+   "dibaca": "Pernah merinding gara-gara lagu, padahal nggak kedinginan?",
+   "fungsi": [
+    "membantah asumsi",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/7b6ac0cae363.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "98c7b20a1760",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita membongkar hal kecil yang ternyata punya penjelasan menarik.",
+   "dibaca": "Di Adriy Project, kita membongkar hal kecil yang ternyata punya penjelasan menarik.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/98c7b20a1760.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "99bd95aaf9ac",
+   "suara": "hasan",
+   "teks": "Coba ingat saat lagu favoritmu tiba-tiba mencapai bagian yang paling emosional.",
+   "dibaca": "Coba ingat saat lagu favoritmu tiba-tiba mencapai bagian yang paling emosional.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/99bd95aaf9ac.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bd4c62f16253",
+   "suara": "hasan",
+   "teks": "Suara penyanyi naik, musik membesar, dan entah kenapa tubuhmu ikut bereaksi.",
+   "dibaca": "Suara penyanyi naik, musik membesar, dan entah kenapa tubuhmu ikut bereaksi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/bd4c62f16253.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4c56bbd28e80",
+   "suara": "hasan",
+   "teks": "Bukan cuma musik.",
+   "dibaca": "Bukan cuma musik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/4c56bbd28e80.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6cc255b5b5bf",
+   "suara": "hasan",
+   "teks": "Pemandangan luar biasa, momen haru, atau sesuatu yang bikin kamu kagum juga bisa memunculkan sensasi serupa.",
+   "dibaca": "Pemandangan luar biasa, momen haru, atau sesuatu yang bikin kamu kagum juga bisa memunculkan sensasi serupa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/6cc255b5b5bf.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b925ba26fa7b",
+   "suara": "hasan",
+   "teks": "Tapi ternyata, sensasi merinding itu punya nama dan bentuk respons tubuh yang bisa diamati.",
+   "dibaca": "Tapi ternyata, sensasi merinding itu punya nama dan bentuk respons tubuh yang bisa diamati.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/b925ba26fa7b.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "96eefeaeae2c",
+   "suara": "hasan",
+   "teks": "Di sekitar setiap folikel rambut, ada otot kecil yang disebut arrector pili.",
+   "dibaca": "Di sekitar setiap folikel rambut, ada otot kecil yang disebut arrector pili.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/96eefeaeae2c.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "880176b6b230",
+   "suara": "hasan",
+   "teks": "Ketika otot ini berkontraksi, rambut tertarik berdiri dan permukaan kulit membentuk benjolan kecil.",
+   "dibaca": "Ketika otot ini berkontraksi, rambut tertarik berdiri dan permukaan kulit membentuk benjolan kecil.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/880176b6b230.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "621770d13ac7",
+   "suara": "hasan",
+   "teks": "Inilah yang kita kenal sebagai bulu kuduk berdiri.",
+   "dibaca": "Inilah yang kita kenal sebagai bulu kuduk berdiri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/621770d13ac7.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8781e6f539e5",
+   "suara": "hasan",
+   "teks": "Pada hewan berbulu, respons ini bisa membantu membuat tubuh tampak lebih besar atau membantu memerangkap lapisan udara untuk menjaga kehangatan.",
+   "dibaca": "Pada hewan berbulu, respons ini bisa membantu membuat tubuh tampak lebih besar atau membantu memerangkap lapisan udara untuk menjaga kehangatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/8781e6f539e5.wav",
+   "durasi": 8.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-21"
   }
  ]
 }
