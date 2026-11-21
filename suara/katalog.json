@@ -28783,6 +28783,157 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5a50d98e9648",
+   "suara": "hasan",
+   "teks": "Dan untuk pertama kalinya, semuanya terasa masuk akal.",
+   "dibaca": "Dan untuk pertama kalinya, semuanya terasa masuk akal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/5a50d98e9648.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0c0324373add",
+   "suara": "hasan",
+   "teks": "Pada akhirnya, semuanya kembali menjadi bagian dari masa lalu.",
+   "dibaca": "Pada akhirnya, semuanya kembali menjadi bagian dari masa lalu.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/0c0324373add.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "07dced55b03f",
+   "suara": "hasan",
+   "teks": "Ternyata, ada hubungan antara dua hal yang selama ini kita anggap tidak berkaitan.",
+   "dibaca": "Ternyata, ada hubungan antara dua hal yang selama ini kita anggap tidak berkaitan.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/hasan/07dced55b03f.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1befdb7b45e1",
+   "suara": "hasan",
+   "teks": "Kalau kamu baru tahu soal ini, bagikan ke teman yang juga perlu tahu.",
+   "dibaca": "Kalau kamu baru tahu soal ini, bagikan ke teman yang juga perlu tahu.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/1befdb7b45e1.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "902da0380814",
+   "suara": "hasan",
+   "teks": "Kalau kamu jadi mereka, apa yang akan kamu lakukan? Tulis di komentar.",
+   "dibaca": "Kalau kamu jadi mereka, apa yang akan kamu lakukan? Tulis di komentar.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/902da0380814.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b9d04aadb313",
+   "suara": "hasan",
+   "teks": "Dan follow Adriy Project, biar kamu makin sering bilang: oh, ternyata begitu.",
+   "dibaca": "Dan follow Adriy Project, biar kamu makin sering bilang: oh, ternyata begitu.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/b9d04aadb313.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "25f9d44852fa",
+   "suara": "hasan",
+   "teks": "Kita mungkin pernah mengalaminya, tetapi tidak pernah benar-benar memikirkannya.",
+   "dibaca": "Kita mungkin pernah mengalaminya, tetapi tidak pernah benar-benar memikirkannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/25f9d44852fa.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a71d456c4480",
+   "suara": "hasan",
+   "teks": "Untuk menemukan jawabannya, kita harus kembali ke awal dan melihat apa yang terlewat.",
+   "dibaca": "Untuk menemukan jawabannya, kita harus kembali ke awal dan melihat apa yang terlewat.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/hasan/a71d456c4480.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "80d68c23642e",
+   "suara": "hasan",
+   "teks": "Kalau video ini bermanfaat, follow Adriy Project dan bagikan ke orang terdekatmu.",
+   "dibaca": "Kalau video ini bermanfaat, follow Adriy Project dan bagikan ke orang terdekatmu.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/80d68c23642e.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "77d9989795b8",
+   "suara": "hasan",
+   "teks": "Kalau kamu punya pengalaman unik soal ini, cerita di komentar, ya.",
+   "dibaca": "Kalau kamu punya pengalaman unik soal ini, cerita di komentar, ya.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/77d9989795b8.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
