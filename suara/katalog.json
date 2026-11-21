@@ -52449,6 +52449,382 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "96426aa03dae",
+   "suara": "mia",
+   "teks": "Butuh lebih banyak bukti untuk memastikannya.",
+   "dibaca": "Butuh lebih banyak bukti untuk memastikannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/96426aa03dae.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ddcbe532ba2f",
+   "suara": "mia",
+   "teks": "Dunia berubah karena ada yang berani mencoba.",
+   "dibaca": "Dunia berubah karena ada yang berani mencoba.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/ddcbe532ba2f.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6f67b50c14f4",
+   "suara": "mia",
+   "teks": "Mimpi besar dimulai dari langkah kecil.",
+   "dibaca": "Mimpi besar dimulai dari langkah kecil.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/6f67b50c14f4.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d0433d5a252f",
+   "suara": "mia",
+   "teks": "Dan di sinilah dua cerita ini bertemu.",
+   "dibaca": "Dan di sinilah dua cerita ini bertemu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d0433d5a252f.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3943f4cf4f71",
+   "suara": "mia",
+   "teks": "Kalau bukan sekarang, kapan lagi?",
+   "dibaca": "Kalau bukan sekarang, kapan lagi?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/3943f4cf4f71.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "21ce68da5aeb",
+   "suara": "mia",
+   "teks": "Bayangkan otakmu seperti perpustakaan raksasa.",
+   "dibaca": "Bayangkan otakmu seperti perpustakaan raksasa.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/21ce68da5aeb.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a77329879dde",
+   "suara": "mia",
+   "teks": "Sama seperti mesin yang perlu dipanaskan dulu.",
+   "dibaca": "Sama seperti mesin yang perlu dipanaskan dulu.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/a77329879dde.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "14eae6fb5d6a",
+   "suara": "mia",
+   "teks": "Anggap saja seperti tombol reset di dalam tubuh.",
+   "dibaca": "Anggap saja seperti tombol reset di dalam tubuh.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/14eae6fb5d6a.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "55d8515c8131",
+   "suara": "mia",
+   "teks": "Ternyata tubuhnya dilapisi lendir khusus.",
+   "dibaca": "Ternyata tubuhnya dilapisi lendir khusus.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/55d8515c8131.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b35e1ac8b39d",
+   "suara": "mia",
+   "teks": "Apa yang terjadi selanjutnya benar-benar di luar dugaan.",
+   "dibaca": "Apa yang terjadi selanjutnya benar-benar di luar dugaan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/b35e1ac8b39d.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "00233afdb260",
+   "suara": "mia",
+   "teks": "Dari sinilah sebuah perubahan besar mulai terbentuk.",
+   "dibaca": "Dari sinilah sebuah perubahan besar mulai terbentuk.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/00233afdb260.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b86c53ed51df",
+   "suara": "mia",
+   "teks": "Tidak semua orang memiliki kesempatan yang sama untuk memulai.",
+   "dibaca": "Tidak semua orang memiliki kesempatan yang sama untuk memulai.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b86c53ed51df.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fa96cec21e25",
+   "suara": "mia",
+   "teks": "Dan yang terakhir, ini yang paling menarik.",
+   "dibaca": "Dan yang terakhir, ini yang paling menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/fa96cec21e25.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ded2cba4e16d",
+   "suara": "mia",
+   "teks": "Tapi, belum ada bukti yang benar-benar kuat.",
+   "dibaca": "Tapi, belum ada bukti yang benar-benar kuat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ded2cba4e16d.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d11e0be3fa16",
+   "suara": "mia",
+   "teks": "Hal kecil seperti ini ternyata punya cerita panjang.",
+   "dibaca": "Hal kecil seperti ini ternyata punya cerita panjang.",
+   "fungsi": [
+    "memberikan analogi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/d11e0be3fa16.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5759e332fb44",
+   "suara": "mia",
+   "teks": "Nah, sekarang bagian yang ditunggu-tunggu.",
+   "dibaca": "Nah, sekarang bagian yang ditunggu-tunggu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5759e332fb44.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0050875456d5",
+   "suara": "mia",
+   "teks": "Kenapa kita nggak pernah mempertanyakan hal ini sebelumnya?",
+   "dibaca": "Kenapa kita nggak pernah mempertanyakan hal ini sebelumnya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/0050875456d5.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "524a1f01fc51",
+   "suara": "mia",
+   "teks": "Apa benar semua orang mengalami hal yang sama?",
+   "dibaca": "Apa benar semua orang mengalami hal yang sama?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/524a1f01fc51.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "68494798beef",
+   "suara": "mia",
+   "teks": "Seberapa sering sebenarnya hal ini terjadi?",
+   "dibaca": "Seberapa sering sebenarnya hal ini terjadi?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/68494798beef.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "75d52666ba96",
+   "suara": "mia",
+   "teks": "Mungkinkah ini terjadi pada siapa saja?",
+   "dibaca": "Mungkinkah ini terjadi pada siapa saja?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/75d52666ba96.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "327549e21dad",
+   "suara": "mia",
+   "teks": "Ada alasan kenapa kamu merasakan hal ini.",
+   "dibaca": "Ada alasan kenapa kamu merasakan hal ini.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/327549e21dad.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c2931134edb1",
+   "suara": "mia",
+   "teks": "Tahap pertama dimulai dari hal yang paling kecil.",
+   "dibaca": "Tahap pertama dimulai dari hal yang paling kecil.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/c2931134edb1.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "04f2291dfc37",
+   "suara": "mia",
+   "teks": "Proses ini bisa berlangsung selama bertahun-tahun.",
+   "dibaca": "Proses ini bisa berlangsung selama bertahun-tahun.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/04f2291dfc37.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "56d7218cf96e",
+   "suara": "mia",
+   "teks": "Faktor pertama adalah lingkungan di sekitarnya.",
+   "dibaca": "Faktor pertama adalah lingkungan di sekitarnya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/56d7218cf96e.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1c0c7cb7cd1c",
+   "suara": "mia",
+   "teks": "Kira-kira seperti mesin yang sedang beradaptasi.",
+   "dibaca": "Kira-kira seperti mesin yang sedang beradaptasi.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/1c0c7cb7cd1c.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
