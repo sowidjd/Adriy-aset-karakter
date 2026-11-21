@@ -70727,6 +70727,202 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7fbd2fe737ce",
+   "suara": "mia",
+   "teks": "Tanpa fenomena ini, kehidupan di Bumi akan sangat berbeda.",
+   "dibaca": "Tanpa fenomena ini, kehidupan di Bumi akan sangat berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/7fbd2fe737ce.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fcae247c2091",
+   "suara": "mia",
+   "teks": "Alam semesta ternyata jauh lebih luas dari dugaan para ilmuwan dulu.",
+   "dibaca": "Alam semesta ternyata jauh lebih luas dari dugaan para ilmuwan dulu.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/fcae247c2091.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3de9df44f227",
+   "suara": "ongky",
+   "teks": "Diskon tidak selalu berarti hemat.",
+   "dibaca": "Diskon tidak selalu berarti hemat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/3de9df44f227.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dff388ffe4c8",
+   "suara": "ongky",
+   "teks": "Planet kita ternyata tidak sebulat yang kita kira.",
+   "dibaca": "Planet kita ternyata tidak sebulat yang kita kira.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/dff388ffe4c8.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "122bc695604f",
+   "suara": "ongky",
+   "teks": "Lautan masih menyimpan banyak misteri.",
+   "dibaca": "Lautan masih menyimpan banyak misteri.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/122bc695604f.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f508cce7997e",
+   "suara": "ongky",
+   "teks": "Cara hewan ini bertahan hidup benar-benar unik.",
+   "dibaca": "Cara hewan ini bertahan hidup benar-benar unik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/f508cce7997e.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c94a0dca6c8d",
+   "suara": "ongky",
+   "teks": "Alam punya caranya sendiri untuk menjaga keseimbangan.",
+   "dibaca": "Alam punya caranya sendiri untuk menjaga keseimbangan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/c94a0dca6c8d.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9e9aa1da0868",
+   "suara": "ongky",
+   "teks": "Di luar angkasa, aturannya ternyata sangat berbeda.",
+   "dibaca": "Di luar angkasa, aturannya ternyata sangat berbeda.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/9e9aa1da0868.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ffc026321f49",
+   "suara": "ongky",
+   "teks": "Cuaca bisa berubah karena hal yang sangat kecil.",
+   "dibaca": "Cuaca bisa berubah karena hal yang sangat kecil.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/ffc026321f49.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "372145ff155a",
+   "suara": "ongky",
+   "teks": "Tubuhnya kecil, tapi kemampuannya luar biasa.",
+   "dibaca": "Tubuhnya kecil, tapi kemampuannya luar biasa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/372145ff155a.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c707b7bbb844",
+   "suara": "ongky",
+   "teks": "Hewan kecil ini ternyata sangat penting bagi alam.",
+   "dibaca": "Hewan kecil ini ternyata sangat penting bagi alam.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/c707b7bbb844.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e36950543bfa",
+   "suara": "ongky",
+   "teks": "Otak kita lebih senang menerima sekarang daripada nanti.",
+   "dibaca": "Otak kita lebih senang menerima sekarang daripada nanti.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/e36950543bfa.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c582bf79b936",
+   "suara": "ongky",
+   "teks": "Matahari jauh lebih besar dari yang bisa kita bayangkan.",
+   "dibaca": "Matahari jauh lebih besar dari yang bisa kita bayangkan.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/c582bf79b936.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
