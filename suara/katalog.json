@@ -48384,6 +48384,141 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "94ad5d54532f",
+   "suara": "mia",
+   "teks": "Jadi, lain kali kamu mengalaminya, ingat penjelasan ini.",
+   "dibaca": "Jadi, lain kali kamu mengalaminya, ingat penjelasan ini.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/94ad5d54532f.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5a921dbfdfcc",
+   "suara": "mia",
+   "teks": "Kalau ditarik lebih jauh, ini juga berkaitan dengan kebiasaan kita.",
+   "dibaca": "Kalau ditarik lebih jauh, ini juga berkaitan dengan kebiasaan kita.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/mia/5a921dbfdfcc.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "56095dd12e87",
+   "suara": "mia",
+   "teks": "Kalau dipikir-pikir, otak kita memang terkadang suka membuat masalah sendiri.",
+   "dibaca": "Kalau dipikir-pikir, otak kita memang terkadang suka membuat masalah sendiri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/56095dd12e87.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "964f60c39195",
+   "suara": "mia",
+   "teks": "Di Adriy Project, kita cari tahu jawaban dari pertanyaan yang sering kita lewatkan.",
+   "dibaca": "Di Adriy Project, kita cari tahu jawaban dari pertanyaan yang sering kita lewatkan.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/964f60c39195.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d9cb3881daa0",
+   "suara": "mia",
+   "teks": "Komentar satu kata yang menggambarkan perasaanmu soal ini.",
+   "dibaca": "Komentar satu kata yang menggambarkan perasaanmu soal ini.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/d9cb3881daa0.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5e1142f53bd8",
+   "suara": "mia",
+   "teks": "Tulis di komentar, topik apa yang mau kamu bahas berikutnya.",
+   "dibaca": "Tulis di komentar, topik apa yang mau kamu bahas berikutnya.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/5e1142f53bd8.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a658a0dbd4b1",
+   "suara": "mia",
+   "teks": "Follow Adriy Project, siapa tahu jawaban yang kamu cari ada di video berikutnya.",
+   "dibaca": "Follow Adriy Project, siapa tahu jawaban yang kamu cari ada di video berikutnya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/a658a0dbd4b1.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fc395dc2e9d7",
+   "suara": "mia",
+   "teks": "Yang penting bukan seberapa cepat, tapi seberapa jauh kita melangkah.",
+   "dibaca": "Yang penting bukan seberapa cepat, tapi seberapa jauh kita melangkah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/fc395dc2e9d7.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3243ecefe019",
+   "suara": "mia",
+   "teks": "Dan untuk pertama kalinya, semuanya terasa masuk akal.",
+   "dibaca": "Dan untuk pertama kalinya, semuanya terasa masuk akal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3243ecefe019.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
