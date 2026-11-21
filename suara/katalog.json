@@ -58581,6 +58581,112 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2c6d40190143",
+   "suara": "mia",
+   "teks": "Dalam hitungan detik, terbentuk gas yang menguap ke matamu, lalu matamu membanjirinya dengan air mata.",
+   "dibaca": "Dalam hitungan detik, terbentuk gas yang menguap ke matamu, lalu matamu membanjirinya dengan air mata.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2c6d40190143.wav",
+   "durasi": 6.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1825a8e82066",
+   "suara": "mia",
+   "teks": "Hammond juga menduga, inilah salah satu alasan tahun terasa makin cepat saat kita dewasa.",
+   "dibaca": "Hammond juga menduga, inilah salah satu alasan tahun terasa makin cepat saat kita dewasa.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/1825a8e82066.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0e5db9d9c1f3",
+   "suara": "mia",
+   "teks": "Dari situ, peneliti di Jepang butuh sekitar 20 tahun untuk mengembangkan bawang yang nggak bikin nangis.",
+   "dibaca": "Dari situ, peneliti di Jepang butuh sekitar dua puluh tahun untuk mengembangkan bawang yang nggak bikin nangis.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0e5db9d9c1f3.wav",
+   "durasi": 6.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5cbf88627e6d",
+   "suara": "mia",
+   "teks": "Pelajari hal baru, kunjungi tempat yang belum pernah kamu datangi, atau sekadar ubah rutinitas harianmu.",
+   "dibaca": "Pelajari hal baru, kunjungi tempat yang belum pernah kamu datangi, atau sekadar ubah rutinitas harianmu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5cbf88627e6d.wav",
+   "durasi": 6.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "deea93425706",
+   "suara": "mia",
+   "teks": "Pernah nggak kamu lagi tidur, tiba-tiba merasa seperti jatuh dari tempat tinggi... lalu tubuhmu langsung tersentak bangun?",
+   "dibaca": "Pernah nggak kamu lagi tidur, tiba-tiba merasa seperti jatuh dari tempat tinggi... lalu tubuhmu langsung tersentak bangun?",
+   "fungsi": [
+    "memberikan analogi",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/deea93425706.wav",
+   "durasi": 6.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cf4f0920661e",
+   "suara": "mia",
+   "teks": "Ketika kita berpindah dari satu ruangan ke ruangan lain, otak bisa menganggap perpindahan itu sebagai batas sebuah kejadian.",
+   "dibaca": "Ketika kita berpindah dari satu ruangan ke ruangan lain, otak bisa menganggap perpindahan itu sebagai batas sebuah kejadian.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/cf4f0920661e.wav",
+   "durasi": 7.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5514e05299c2",
+   "suara": "mia",
+   "teks": "Dan perubahan konteks ini terkadang membuat informasi yang sebelumnya ada di pikiran menjadi lebih sulit diakses.",
+   "dibaca": "Dan perubahan konteks ini terkadang membuat informasi yang sebelumnya ada di pikiran menjadi lebih sulit diakses.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5514e05299c2.wav",
+   "durasi": 7.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
