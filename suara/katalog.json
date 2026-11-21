@@ -66914,6 +66914,127 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8f9b28fa3b3f",
+   "suara": "ongky",
+   "teks": "Banyak yang mengira begitu, padahal tidak.",
+   "dibaca": "Banyak yang mengira begitu, padahal tidak.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/8f9b28fa3b3f.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "61b494f07ef5",
+   "suara": "ongky",
+   "teks": "Kedengarannya logis, tapi faktanya berbeda.",
+   "dibaca": "Kedengarannya logis, tapi faktanya berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/61b494f07ef5.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6be2b01f9291",
+   "suara": "ongky",
+   "teks": "Semua ini terjadi karena satu proses kecil.",
+   "dibaca": "Semua ini terjadi karena satu proses kecil.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/6be2b01f9291.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e4b9d3ff97f8",
+   "suara": "ongky",
+   "teks": "Ini bukan sekadar kebetulan.",
+   "dibaca": "Ini bukan sekadar kebetulan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/e4b9d3ff97f8.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8ff7865fefea",
+   "suara": "ongky",
+   "teks": "Mitos ini sudah lama dipercaya, padahal keliru.",
+   "dibaca": "Mitos ini sudah lama dipercaya, padahal keliru.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/8ff7865fefea.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "355864b34cb1",
+   "suara": "ongky",
+   "teks": "Penyebabnya ternyata ada di dalam tubuh kita sendiri.",
+   "dibaca": "Penyebabnya ternyata ada di dalam tubuh kita sendiri.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/355864b34cb1.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3da4a1412ebf",
+   "suara": "ongky",
+   "teks": "Ternyata, anggapan itu cuma setengah benar.",
+   "dibaca": "Ternyata, anggapan itu cuma setengah benar.",
+   "fungsi": [
+    "membantah asumsi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/3da4a1412ebf.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8588a1719229",
+   "suara": "ongky",
+   "teks": "Akibatnya, tubuh bereaksi tanpa kita sadari.",
+   "dibaca": "Akibatnya, tubuh bereaksi tanpa kita sadari.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/8588a1719229.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
