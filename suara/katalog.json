@@ -29100,6 +29100,203 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3c41b378a5b8",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita kupas tuntas sampai kamu bilang: oh, ternyata begitu.",
+   "dibaca": "Di Adriy Project, kita kupas tuntas sampai kamu bilang: oh, ternyata begitu.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/3c41b378a5b8.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "10fbdfe0ab2a",
+   "suara": "hasan",
+   "teks": "Siapa sangka, sesuatu yang selama ini kita anggap biasa ternyata memiliki cerita yang berbeda?",
+   "dibaca": "Siapa sangka, sesuatu yang selama ini kita anggap biasa ternyata memiliki cerita yang berbeda?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/10fbdfe0ab2a.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "238d0b77c042",
+   "suara": "hasan",
+   "teks": "Tentu saja, manusia punya cara tersendiri untuk mempersulit sesuatu yang sebenarnya sederhana.",
+   "dibaca": "Tentu saja, manusia punya cara tersendiri untuk mempersulit sesuatu yang sebenarnya sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/238d0b77c042.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c4eac59f6919",
+   "suara": "hasan",
+   "teks": "Follow Adriy Project untuk fakta-fakta kecil yang bikin kita melihat dunia dengan cara berbeda.",
+   "dibaca": "Follow Adriy Project untuk fakta-fakta kecil yang bikin kita melihat dunia dengan cara berbeda.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/c4eac59f6919.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c1bf687cab45",
+   "suara": "hasan",
+   "teks": "Kadang, jawaban terbaik justru datang dari hal-hal kecil di sekitar kita.",
+   "dibaca": "Kadang, jawaban terbaik justru datang dari hal-hal kecil di sekitar kita.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/c1bf687cab45.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "64a351a7a1a1",
+   "suara": "hasan",
+   "teks": "Jangan biarkan rasa takut terhadap kegagalan menghalangi sesuatu yang belum pernah kamu coba.",
+   "dibaca": "Jangan biarkan rasa takut terhadap kegagalan menghalangi sesuatu yang belum pernah kamu coba.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/64a351a7a1a1.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6f99c324ff9f",
+   "suara": "hasan",
+   "teks": "Mungkin, setelah mengetahui semua ini, kita tidak akan melihat dunia dengan cara yang sama lagi.",
+   "dibaca": "Mungkin, setelah mengetahui semua ini, kita tidak akan melihat dunia dengan cara yang sama lagi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/6f99c324ff9f.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c16c35261206",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita kupas hal yang kelihatannya biasa, tapi ternyata nggak sesederhana itu.",
+   "dibaca": "Di Adriy Project, kita kupas hal yang kelihatannya biasa, tapi ternyata nggak sesederhana itu.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/c16c35261206.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "56cdfe8d0fbf",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita cari tahu bareng, pelan-pelan, tanpa ribet.",
+   "dibaca": "Di Adriy Project, kita cari tahu bareng, pelan-pelan, tanpa ribet.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/56cdfe8d0fbf.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c56bf51f1dd6",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita bongkar hal kecil di sekitar kita yang ternyata punya cerita besar.",
+   "dibaca": "Di Adriy Project, kita bongkar hal kecil di sekitar kita yang ternyata punya cerita besar.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/c56bf51f1dd6.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "912f894b5fd4",
+   "suara": "hasan",
+   "teks": "Kalau kamu pernah nangis gara-gara bawang, tulis di komentar, bawang apa yang paling parah buat kamu?",
+   "dibaca": "Kalau kamu pernah nangis gara-gara bawang, tulis di komentar, bawang apa yang paling parah buat kamu?",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/912f894b5fd4.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "43e5cba7b969",
+   "suara": "hasan",
+   "teks": "Jadi, kalau kamu pernah mengalami ini, tenang... bukan berarti kasurmu tiba-tiba berubah menjadi jurang.",
+   "dibaca": "Jadi, kalau kamu pernah mengalami ini, tenang... bukan berarti kasurmu tiba-tiba berubah menjadi jurang.",
+   "fungsi": [
+    "menyampaikan kesimpulan",
+    "mengubah suasana"
+   ],
+   "file": "suara/hasan/43e5cba7b969.wav",
+   "durasi": 6.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6a7247e7df96",
+   "suara": "hasan",
+   "teks": "Jadi lain kali ketika tubuhmu tersentak saat tidur, ingat... otakmu mungkin cuma sedang terlalu waspada.",
+   "dibaca": "Jadi lain kali ketika tubuhmu tersentak saat tidur, ingat... otakmu mungkin cuma sedang terlalu waspada.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/6a7247e7df96.wav",
+   "durasi": 6.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
