@@ -49034,6 +49034,186 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1e86c656fac9",
+   "suara": "mia",
+   "teks": "Makanya, kadang kita harus kembali ke ruangan sebelumnya hanya untuk mengingat apa yang sebenarnya ingin dilakukan.",
+   "dibaca": "Makanya, kadang kita harus kembali ke ruangan sebelumnya hanya untuk mengingat apa yang sebenarnya ingin dilakukan.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/mia/1e86c656fac9.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e07b9d521461",
+   "suara": "mia",
+   "teks": "Dan ironisnya, terkadang untuk mengingat sesuatu, kita justru harus kembali ke tempat kita memikirkannya.",
+   "dibaca": "Dan ironisnya, terkadang untuk mengingat sesuatu, kita justru harus kembali ke tempat kita memikirkannya.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/mia/e07b9d521461.wav",
+   "durasi": 6.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7966ed4e0b39",
+   "suara": "mia",
+   "teks": "Di Adriy Project, kita bahas fakta-fakta kecil yang bikin kamu bilang: oh, ternyata begitu.",
+   "dibaca": "Di Adriy Project, kita bahas fakta-fakta kecil yang bikin kamu bilang: oh, ternyata begitu.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/7966ed4e0b39.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a4975641635f",
+   "suara": "mia",
+   "teks": "Tidak apa-apa pelan, asal tidak berhenti.",
+   "dibaca": "Tidak apa-apa pelan, asal tidak berhenti.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a4975641635f.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a32e20911b25",
+   "suara": "mia",
+   "teks": "Eh?",
+   "dibaca": "Eh?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/a32e20911b25.wav",
+   "durasi": 0.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e7dfc1f91dbf",
+   "suara": "mia",
+   "teks": "Lho?",
+   "dibaca": "Lho?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/e7dfc1f91dbf.wav",
+   "durasi": 0.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b287a565a800",
+   "suara": "mia",
+   "teks": "Oh, no.",
+   "dibaca": "Oh, no.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b287a565a800.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "eb2f35c33639",
+   "suara": "mia",
+   "teks": "Wah!",
+   "dibaca": "Wah!",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/eb2f35c33639.wav",
+   "durasi": 0.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5d804e74ff12",
+   "suara": "mia",
+   "teks": "Hah?",
+   "dibaca": "Hah?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/5d804e74ff12.wav",
+   "durasi": 0.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fc5391e48452",
+   "suara": "mia",
+   "teks": "Beneran?",
+   "dibaca": "Beneran?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/fc5391e48452.wav",
+   "durasi": 0.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "536a02053006",
+   "suara": "mia",
+   "teks": "Ya ampun!",
+   "dibaca": "Ya ampun!",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/536a02053006.wav",
+   "durasi": 0.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a9065264a569",
+   "suara": "mia",
+   "teks": "Aduh!",
+   "dibaca": "Aduh!",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a9065264a569.wav",
+   "durasi": 0.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
