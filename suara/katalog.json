@@ -32398,6 +32398,201 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0140bae657f8",
+   "suara": "hasan",
+   "teks": "Kedengarannya mustahil, kan? Tapi ini nyata.",
+   "dibaca": "Kedengarannya mustahil, kan? Tapi ini nyata.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/0140bae657f8.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4dcdc8f536e0",
+   "suara": "hasan",
+   "teks": "Fakta ini benar-benar di luar nalar.",
+   "dibaca": "Fakta ini benar-benar di luar nalar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/4dcdc8f536e0.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "617a85dc8cd6",
+   "suara": "hasan",
+   "teks": "Semua itu bekerja dengan begitu rapi.",
+   "dibaca": "Semua itu bekerja dengan begitu rapi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/617a85dc8cd6.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "587c030ec5c4",
+   "suara": "hasan",
+   "teks": "Mereka hanya punya satu kesempatan.",
+   "dibaca": "Mereka hanya punya satu kesempatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/587c030ec5c4.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3d31eb80aa73",
+   "suara": "hasan",
+   "teks": "Polanya terlalu konsisten untuk diabaikan.",
+   "dibaca": "Polanya terlalu konsisten untuk diabaikan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3d31eb80aa73.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "79c11ec4a351",
+   "suara": "hasan",
+   "teks": "Tidak ada jawaban tunggal untuk pertanyaan ini.",
+   "dibaca": "Tidak ada jawaban tunggal untuk pertanyaan ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/79c11ec4a351.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d2f80effdcd5",
+   "suara": "hasan",
+   "teks": "Satu penelitian saja belum cukup untuk menyimpulkan.",
+   "dibaca": "Satu penelitian saja belum cukup untuk menyimpulkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d2f80effdcd5.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "66610ea1ef51",
+   "suara": "hasan",
+   "teks": "Teruslah bertanya, karena di situlah kita tumbuh.",
+   "dibaca": "Teruslah bertanya, karena di situlah kita tumbuh.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/66610ea1ef51.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f5f240bbd05c",
+   "suara": "hasan",
+   "teks": "Kemungkinan besar, dia nggak mau menggigit lagi.",
+   "dibaca": "Kemungkinan besar, dia nggak mau menggigit lagi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/f5f240bbd05c.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c41149c71e29",
+   "suara": "hasan",
+   "teks": "Otak kita tidak mengukur waktu hanya berdasarkan jam.",
+   "dibaca": "Otak kita tidak mengukur waktu hanya berdasarkan jam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/c41149c71e29.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6dc04ce05d3a",
+   "suara": "hasan",
+   "teks": "Tapi faktanya, tidak sesederhana itu.",
+   "dibaca": "Tapi faktanya, tidak sesederhana itu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/6dc04ce05d3a.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "95dd7bacc491",
+   "suara": "hasan",
+   "teks": "Oke, kita mulai dari yang paling sederhana dulu.",
+   "dibaca": "Oke, kita mulai dari yang paling sederhana dulu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/95dd7bacc491.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0499a19eba8b",
+   "suara": "hasan",
+   "teks": "Pernah kepikiran nggak, kenapa bisa begitu?",
+   "dibaca": "Pernah kepikiran nggak, kenapa bisa begitu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/0499a19eba8b.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
