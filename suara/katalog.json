@@ -63971,6 +63971,232 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3d5727817ff2",
+   "suara": "ongky",
+   "teks": "Pertanyaan berikutnya jauh lebih menarik.",
+   "dibaca": "Pertanyaan berikutnya jauh lebih menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/3d5727817ff2.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c282358c27e9",
+   "suara": "ongky",
+   "teks": "Dan ini yang jarang dibahas orang.",
+   "dibaca": "Dan ini yang jarang dibahas orang.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/c282358c27e9.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "18027ea64e4e",
+   "suara": "ongky",
+   "teks": "Kamu mungkin melakukannya setiap hari tanpa sadar.",
+   "dibaca": "Kamu mungkin melakukannya setiap hari tanpa sadar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/18027ea64e4e.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "545e215d3218",
+   "suara": "ongky",
+   "teks": "Pernah kepikiran kenapa hal ini bisa terjadi?",
+   "dibaca": "Pernah kepikiran kenapa hal ini bisa terjadi?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/545e215d3218.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "77fc37064eb9",
+   "suara": "ongky",
+   "teks": "Bayangkan kalau hal ini tidak pernah terjadi.",
+   "dibaca": "Bayangkan kalau hal ini tidak pernah terjadi.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/77fc37064eb9.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3e0e95942a3b",
+   "suara": "ongky",
+   "teks": "Ada yang aneh dari kebiasaan yang satu ini.",
+   "dibaca": "Ada yang aneh dari kebiasaan yang satu ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/3e0e95942a3b.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b55396e50462",
+   "suara": "ongky",
+   "teks": "Semua berawal dari pertanyaan seorang anak kecil.",
+   "dibaca": "Semua berawal dari pertanyaan seorang anak kecil.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/ongky/b55396e50462.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "20b4c2dee2ef",
+   "suara": "ongky",
+   "teks": "Oke, sekarang kita bandingkan.",
+   "dibaca": "Oke, sekarang kita bandingkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/20b4c2dee2ef.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9d4a1023fb3f",
+   "suara": "ongky",
+   "teks": "Menurutnya, kita menilai waktu dengan dua cara.",
+   "dibaca": "Menurutnya, kita menilai waktu dengan dua cara.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/9d4a1023fb3f.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6101615aafed",
+   "suara": "ongky",
+   "teks": "Coba tebak, berapa banyak orang yang tahu soal ini?",
+   "dibaca": "Coba tebak, berapa banyak orang yang tahu soal ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/6101615aafed.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dd87ddace7b2",
+   "suara": "ongky",
+   "teks": "Mari kita mulai dari pertanyaan yang paling sederhana.",
+   "dibaca": "Mari kita mulai dari pertanyaan yang paling sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/dd87ddace7b2.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "07f5c97785fe",
+   "suara": "ongky",
+   "teks": "Jangan langsung percaya, kita cek dulu faktanya.",
+   "dibaca": "Jangan langsung percaya, kita cek dulu faktanya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/07f5c97785fe.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a50c8dbec953",
+   "suara": "ongky",
+   "teks": "Tulis satu kata yang muncul di kepalamu sekarang.",
+   "dibaca": "Tulis satu kata yang muncul di kepalamu sekarang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/a50c8dbec953.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d3c034bdacf2",
+   "suara": "ongky",
+   "teks": "Supaya lebih jelas, kita pakai contoh sederhana.",
+   "dibaca": "Supaya lebih jelas, kita pakai contoh sederhana.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/d3c034bdacf2.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a63e75fd62a7",
+   "suara": "ongky",
+   "teks": "Pernah merinding gara-gara lagu, padahal nggak kedinginan?",
+   "dibaca": "Pernah merinding gara-gara lagu, padahal nggak kedinginan?",
+   "fungsi": [
+    "membantah asumsi",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/a63e75fd62a7.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
