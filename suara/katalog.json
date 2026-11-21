@@ -28934,6 +28934,157 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fb5feba51fc3",
+   "suara": "hasan",
+   "teks": "Oke, itu dia jawabannya. Follow Adriy Project untuk fakta lainnya.",
+   "dibaca": "Oke, itu dia jawabannya. Follow Adriy Project untuk fakta lainnya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/fb5feba51fc3.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "25753b5786ee",
+   "suara": "hasan",
+   "teks": "Menurutmu, kenapa hal ini bisa terjadi? Tulis tebakanmu di komentar.",
+   "dibaca": "Menurutmu, kenapa hal ini bisa terjadi? Tulis tebakanmu di komentar.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/25753b5786ee.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c06448731e93",
+   "suara": "hasan",
+   "teks": "Coba cium bawang yang belum dikupas. Nggak ada yang bikin perih, kan?",
+   "dibaca": "Coba cium bawang yang belum dikupas. Nggak ada yang bikin perih, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/c06448731e93.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9b3bdc38c754",
+   "suara": "hasan",
+   "teks": "Kita sering kali terlalu sibuk mengejar sesuatu hingga lupa menikmati perjalanan.",
+   "dibaca": "Kita sering kali terlalu sibuk mengejar sesuatu hingga lupa menikmati perjalanan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/9b3bdc38c754.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2ae66687b301",
+   "suara": "hasan",
+   "teks": "Dan itulah sesuatu yang mungkin akan terus kita ingat setelah cerita ini berakhir.",
+   "dibaca": "Dan itulah sesuatu yang mungkin akan terus kita ingat setelah cerita ini berakhir.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/2ae66687b301.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9a69e6d56359",
+   "suara": "hasan",
+   "teks": "Follow Adriy Project, karena masih banyak hal sederhana yang ternyata menyimpan rahasia.",
+   "dibaca": "Follow Adriy Project, karena masih banyak hal sederhana yang ternyata menyimpan rahasia.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/9a69e6d56359.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2935129c0564",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita bahas hal-hal yang sering kita alami tapi jarang kita pahami.",
+   "dibaca": "Di Adriy Project, kita bahas hal-hal yang sering kita alami tapi jarang kita pahami.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/2935129c0564.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c73f438fc884",
+   "suara": "hasan",
+   "teks": "Kita mungkin pernah melihatnya berkali-kali tanpa menyadari apa yang sebenarnya terjadi.",
+   "dibaca": "Kita mungkin pernah melihatnya berkali-kali tanpa menyadari apa yang sebenarnya terjadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/c73f438fc884.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9d7e8378875a",
+   "suara": "hasan",
+   "teks": "Terkadang, kehadiran seseorang saja sudah cukup untuk membuat keadaan terasa lebih baik.",
+   "dibaca": "Terkadang, kehadiran seseorang saja sudah cukup untuk membuat keadaan terasa lebih baik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/9d7e8378875a.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6c5d3faf8506",
+   "suara": "hasan",
+   "teks": "Kalau kamu pernah ngalamin ini, tulis di komentar, kapan terakhir kali terjadi?",
+   "dibaca": "Kalau kamu pernah ngalamin ini, tulis di komentar, kapan terakhir kali terjadi?",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/6c5d3faf8506.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
