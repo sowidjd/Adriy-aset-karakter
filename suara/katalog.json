@@ -50369,6 +50369,156 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cd29a3ab6ee8",
+   "suara": "mia",
+   "teks": "Ada dua sisi yang perlu kita lihat.",
+   "dibaca": "Ada dua sisi yang perlu kita lihat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/cd29a3ab6ee8.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "eede689dafbd",
+   "suara": "mia",
+   "teks": "Di satu sisi, ini memang benar.",
+   "dibaca": "Di satu sisi, ini memang benar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/eede689dafbd.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bbba9511ad28",
+   "suara": "mia",
+   "teks": "Alasan berikutnya sering diabaikan.",
+   "dibaca": "Alasan berikutnya sering diabaikan.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/bbba9511ad28.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5f58434966dd",
+   "suara": "mia",
+   "teks": "Bisa. Unduh gratis sekarang!",
+   "dibaca": "Bisa. Unduh gratis sekarang!",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5f58434966dd.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fd32bf301594",
+   "suara": "mia",
+   "teks": "Kenapa langit berwarna biru?",
+   "dibaca": "Kenapa langit berwarna biru?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/fd32bf301594.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8f171d31d14a",
+   "suara": "mia",
+   "teks": "Dan di sinilah semuanya mulai menarik.",
+   "dibaca": "Dan di sinilah semuanya mulai menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/8f171d31d14a.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "18317862149f",
+   "suara": "mia",
+   "teks": "Coba tebak, berapa jawabannya?",
+   "dibaca": "Coba tebak, berapa jawabannya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/18317862149f.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0a48ce3213c6",
+   "suara": "mia",
+   "teks": "Ada penjelasan ilmiahnya.",
+   "dibaca": "Ada penjelasan ilmiahnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0a48ce3213c6.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c0636344b944",
+   "suara": "mia",
+   "teks": "Tapi, kenapa harus begitu?",
+   "dibaca": "Tapi, kenapa harus begitu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/c0636344b944.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a0a7e45d79fc",
+   "suara": "mia",
+   "teks": "Bisa nggak kamu menebak apa penyebabnya?",
+   "dibaca": "Bisa nggak kamu menebak apa penyebabnya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/a0a7e45d79fc.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
