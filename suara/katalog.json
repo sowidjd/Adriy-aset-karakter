@@ -46375,6 +46375,174 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b4941d457acd",
+   "suara": "mia",
+   "teks": "Dengan kata lain, mitos itu terbantahkan.",
+   "dibaca": "Dengan kata lain, mitos itu terbantahkan.",
+   "fungsi": [
+    "membantah asumsi",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/b4941d457acd.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bb9cf3bdc244",
+   "suara": "mia",
+   "teks": "Satu kebiasaan kecil bisa mengubah banyak hal.",
+   "dibaca": "Satu kebiasaan kecil bisa mengubah banyak hal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/bb9cf3bdc244.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bcb46eceb7bf",
+   "suara": "mia",
+   "teks": "Yang kamu lakukan hari ini menentukan dirimu besok.",
+   "dibaca": "Yang kamu lakukan hari ini menentukan dirimu besok.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/bcb46eceb7bf.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4ace631acddd",
+   "suara": "mia",
+   "teks": "Yang membedakan hanyalah, mereka tidak menyerah.",
+   "dibaca": "Yang membedakan hanyalah, mereka tidak menyerah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4ace631acddd.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8891c75e2a86",
+   "suara": "mia",
+   "teks": "Setiap hari adalah kesempatan untuk menjadi lebih baik.",
+   "dibaca": "Setiap hari adalah kesempatan untuk menjadi lebih baik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/8891c75e2a86.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7463fb31a76d",
+   "suara": "mia",
+   "teks": "Jadi, bukan sesuatu yang perlu ditakutkan.",
+   "dibaca": "Jadi, bukan sesuatu yang perlu ditakutkan.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/7463fb31a76d.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cc63e4daa5c9",
+   "suara": "mia",
+   "teks": "Dan itulah kenapa hal ini begitu menarik.",
+   "dibaca": "Dan itulah kenapa hal ini begitu menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/cc63e4daa5c9.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "25166b6b5c7d",
+   "suara": "mia",
+   "teks": "Jadi, jangan cepat percaya pada mitos, ya.",
+   "dibaca": "Jadi, jangan cepat percaya pada mitos, ya.",
+   "fungsi": [
+    "membantah asumsi",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/25166b6b5c7d.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7064ccebed11",
+   "suara": "mia",
+   "teks": "Satu hal kecil, satu pelajaran besar.",
+   "dibaca": "Satu hal kecil, satu pelajaran besar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/7064ccebed11.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0e749ab793c9",
+   "suara": "mia",
+   "teks": "Jadi, apa kamu sudah pernah mengalaminya?",
+   "dibaca": "Jadi, apa kamu sudah pernah mengalaminya?",
+   "fungsi": [
+    "menyampaikan kesimpulan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/0e749ab793c9.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8275ce6a3376",
+   "suara": "mia",
+   "teks": "Jadi, mulai sekarang kamu sudah tahu, ya.",
+   "dibaca": "Jadi, mulai sekarang kamu sudah tahu, ya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/8275ce6a3376.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
