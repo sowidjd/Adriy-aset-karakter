@@ -52825,6 +52825,231 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "39394961a02b",
+   "suara": "mia",
+   "teks": "Bayangkan seperti lalu lintas yang tiba-tiba macet.",
+   "dibaca": "Bayangkan seperti lalu lintas yang tiba-tiba macet.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/39394961a02b.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "91d643148804",
+   "suara": "mia",
+   "teks": "Hal ini juga dipengaruhi oleh faktor genetik.",
+   "dibaca": "Hal ini juga dipengaruhi oleh faktor genetik.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/91d643148804.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9501afd54b31",
+   "suara": "mia",
+   "teks": "Nggak ada yang menyangka hasilnya bakal seperti ini.",
+   "dibaca": "Nggak ada yang menyangka hasilnya bakal seperti ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/9501afd54b31.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "237b8753f3a9",
+   "suara": "mia",
+   "teks": "Kedengarannya mustahil, kan? Tapi ini nyata.",
+   "dibaca": "Kedengarannya mustahil, kan? Tapi ini nyata.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/237b8753f3a9.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "47532acbf4e8",
+   "suara": "mia",
+   "teks": "Fakta ini benar-benar di luar nalar.",
+   "dibaca": "Fakta ini benar-benar di luar nalar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/47532acbf4e8.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "da565dcc0a33",
+   "suara": "mia",
+   "teks": "Semua itu bekerja dengan begitu rapi.",
+   "dibaca": "Semua itu bekerja dengan begitu rapi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/da565dcc0a33.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ee687aa34282",
+   "suara": "mia",
+   "teks": "Mereka hanya punya satu kesempatan.",
+   "dibaca": "Mereka hanya punya satu kesempatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ee687aa34282.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dfe499257aaf",
+   "suara": "mia",
+   "teks": "Polanya terlalu konsisten untuk diabaikan.",
+   "dibaca": "Polanya terlalu konsisten untuk diabaikan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/dfe499257aaf.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "92ee3843b8df",
+   "suara": "mia",
+   "teks": "Tidak ada jawaban tunggal untuk pertanyaan ini.",
+   "dibaca": "Tidak ada jawaban tunggal untuk pertanyaan ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/92ee3843b8df.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "df1634de0e3c",
+   "suara": "mia",
+   "teks": "Satu penelitian saja belum cukup untuk menyimpulkan.",
+   "dibaca": "Satu penelitian saja belum cukup untuk menyimpulkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/df1634de0e3c.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "40cdd3a604d8",
+   "suara": "mia",
+   "teks": "Teruslah bertanya, karena di situlah kita tumbuh.",
+   "dibaca": "Teruslah bertanya, karena di situlah kita tumbuh.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/40cdd3a604d8.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "149584a2ddea",
+   "suara": "mia",
+   "teks": "Ternyata, jawabannya ada di sekitar kita.",
+   "dibaca": "Ternyata, jawabannya ada di sekitar kita.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/149584a2ddea.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ca7c7457b689",
+   "suara": "mia",
+   "teks": "Fakta kecil ini mungkin akan selalu kamu ingat.",
+   "dibaca": "Fakta kecil ini mungkin akan selalu kamu ingat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ca7c7457b689.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d520f4b60874",
+   "suara": "mia",
+   "teks": "Ceritanya dimulai dari sebuah pertanyaan sederhana.",
+   "dibaca": "Ceritanya dimulai dari sebuah pertanyaan sederhana.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/d520f4b60874.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5cef05848e96",
+   "suara": "mia",
+   "teks": "Dulu, orang mengira jawabannya sangat sederhana.",
+   "dibaca": "Dulu, orang mengira jawabannya sangat sederhana.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/5cef05848e96.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
