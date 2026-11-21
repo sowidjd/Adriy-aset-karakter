@@ -63745,6 +63745,232 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2cffad365d08",
+   "suara": "ongky",
+   "teks": "Jadi, saat sebuah lagu membuat kulitmu meremang, itu bukan berarti tubuhmu aneh.",
+   "dibaca": "Jadi, saat sebuah lagu membuat kulitmu meremang, itu bukan berarti tubuhmu aneh.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/2cffad365d08.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "547d37a62622",
+   "suara": "ongky",
+   "teks": "Jadi waktu kamu menengok ke belakang, raknya penuh, dan liburan itu terasa panjang.",
+   "dibaca": "Jadi waktu kamu menengok ke belakang, raknya penuh, dan liburan itu terasa panjang.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/547d37a62622.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "efbd94ccd526",
+   "suara": "ongky",
+   "teks": "Satu penelitian menemukan, di puncak lagu favorit, otak melepaskan dopamin, zat yang berhubungan dengan rasa senang.",
+   "dibaca": "Satu penelitian menemukan, di puncak lagu favorit, otak melepaskan dopamin, zat yang berhubungan dengan rasa senang.",
+   "fungsi": [
+    "menghubungkan dua topik",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/efbd94ccd526.wav",
+   "durasi": 6.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "86374aa47f29",
+   "suara": "ongky",
+   "teks": "Dan jawabannya.",
+   "dibaca": "Dan jawabannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/86374aa47f29.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fa0ba06e3d3c",
+   "suara": "ongky",
+   "teks": "Bukan cuma musik.",
+   "dibaca": "Bukan cuma musik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/fa0ba06e3d3c.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "beefd5f50651",
+   "suara": "ongky",
+   "teks": "Banyak orang salah paham soal ini.",
+   "dibaca": "Banyak orang salah paham soal ini.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/beefd5f50651.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c4f0591bb606",
+   "suara": "ongky",
+   "teks": "Sekarang, bagian yang paling menarik.",
+   "dibaca": "Sekarang, bagian yang paling menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/c4f0591bb606.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1f91e9eba51b",
+   "suara": "ongky",
+   "teks": "Kita kembali sebentar ke awal cerita.",
+   "dibaca": "Kita kembali sebentar ke awal cerita.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/1f91e9eba51b.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "41ccf2c09dd3",
+   "suara": "ongky",
+   "teks": "Inilah yang kita kenal sebagai bulu kuduk berdiri.",
+   "dibaca": "Inilah yang kita kenal sebagai bulu kuduk berdiri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/41ccf2c09dd3.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "eefdfbd2410e",
+   "suara": "ongky",
+   "teks": "Jawabannya mungkin bukan yang kamu bayangkan.",
+   "dibaca": "Jawabannya mungkin bukan yang kamu bayangkan.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/eefdfbd2410e.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4ff272119dc4",
+   "suara": "ongky",
+   "teks": "Sekarang, kita lihat dari sisi yang lain.",
+   "dibaca": "Sekarang, kita lihat dari sisi yang lain.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/4ff272119dc4.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "44a946bce334",
+   "suara": "ongky",
+   "teks": "Dan dari sinilah semuanya bermula.",
+   "dibaca": "Dan dari sinilah semuanya bermula.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/ongky/44a946bce334.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9c7ddaee88db",
+   "suara": "ongky",
+   "teks": "Ada hal baru, atau tidak.",
+   "dibaca": "Ada hal baru, atau tidak.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/9c7ddaee88db.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0dc854fbe2a8",
+   "suara": "ongky",
+   "teks": "Tapi tunggu, masih ada yang lebih aneh.",
+   "dibaca": "Tapi tunggu, masih ada yang lebih aneh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/0dc854fbe2a8.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f0299379d95f",
+   "suara": "ongky",
+   "teks": "Oke, lalu bagaimana cara kerjanya?",
+   "dibaca": "Oke, lalu bagaimana cara kerjanya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/f0299379d95f.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
