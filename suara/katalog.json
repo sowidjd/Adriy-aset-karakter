@@ -50009,6 +50009,186 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3b3fe6075d20",
+   "suara": "mia",
+   "teks": "Wah, ternyata begitu!",
+   "dibaca": "Wah, ternyata begitu!",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/3b3fe6075d20.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0f39e6479ba7",
+   "suara": "mia",
+   "teks": "Hah? Kok bisa?",
+   "dibaca": "Hah? Kok bisa?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/0f39e6479ba7.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1c3267086ce7",
+   "suara": "mia",
+   "teks": "Peringatannya datang terlambat.",
+   "dibaca": "Peringatannya datang terlambat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1c3267086ce7.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "232897499cfc",
+   "suara": "mia",
+   "teks": "Ya, kurang lebih seperti itu.",
+   "dibaca": "Ya, kurang lebih seperti itu.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/232897499cfc.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b1aff9061bd1",
+   "suara": "mia",
+   "teks": "Ternyata nggak sesulit itu, ya.",
+   "dibaca": "Ternyata nggak sesulit itu, ya.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/b1aff9061bd1.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "da02a67d5f7d",
+   "suara": "mia",
+   "teks": "Alasannya cukup sederhana.",
+   "dibaca": "Alasannya cukup sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/da02a67d5f7d.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e02fbb489718",
+   "suara": "mia",
+   "teks": "Ada tiga alasan utama.",
+   "dibaca": "Ada tiga alasan utama.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/e02fbb489718.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "63cc0b45df57",
+   "suara": "mia",
+   "teks": "Ah, masuk akal.",
+   "dibaca": "Ah, masuk akal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/63cc0b45df57.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e3bdccc42fdb",
+   "suara": "mia",
+   "teks": "Hah, serius?",
+   "dibaca": "Hah, serius?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/e3bdccc42fdb.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9f0343ef785e",
+   "suara": "mia",
+   "teks": "Fenomena ini juga punya saudara dekat.",
+   "dibaca": "Fenomena ini juga punya saudara dekat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9f0343ef785e.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "26f6664be2cf",
+   "suara": "mia",
+   "teks": "Nah, di sinilah letak masalahnya.",
+   "dibaca": "Nah, di sinilah letak masalahnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/26f6664be2cf.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cbeea01434df",
+   "suara": "mia",
+   "teks": "Lalu, bagaimana caranya?",
+   "dibaca": "Lalu, bagaimana caranya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/cbeea01434df.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
