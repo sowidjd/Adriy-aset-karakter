@@ -67951,6 +67951,172 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "caea95278d26",
+   "suara": "hasan",
+   "teks": "Santai, ini normal kok.",
+   "dibaca": "Santai, ini normal kok.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/hasan/caea95278d26.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "45fa38fb94ec",
+   "suara": "hasan",
+   "teks": "Tenang, kamu bukan satu-satunya.",
+   "dibaca": "Tenang, kamu bukan satu-satunya.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/hasan/45fa38fb94ec.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "abaee509262e",
+   "suara": "hasan",
+   "teks": "Jadi, jangan remehkan hal-hal kecil di sekitar kita.",
+   "dibaca": "Jadi, jangan remehkan hal-hal kecil di sekitar kita.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/abaee509262e.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dab46e27c33c",
+   "suara": "hasan",
+   "teks": "Jadi, mitos atau fakta? Sekarang kamu sudah tahu jawabannya.",
+   "dibaca": "Jadi, mitos atau fakta? Sekarang kamu sudah tahu jawabannya.",
+   "fungsi": [
+    "membantah asumsi",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/dab46e27c33c.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d0302f462b29",
+   "suara": "hasan",
+   "teks": "Jujur, aku juga baru tahu.",
+   "dibaca": "Jujur, aku juga baru tahu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d0302f462b29.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6ead90aa8f7c",
+   "suara": "hasan",
+   "teks": "Dan itulah kenapa sains selalu menarik.",
+   "dibaca": "Dan itulah kenapa sains selalu menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/6ead90aa8f7c.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3ce41e396c47",
+   "suara": "hasan",
+   "teks": "Sekarang kamu punya fakta baru untuk diceritakan.",
+   "dibaca": "Sekarang kamu punya fakta baru untuk diceritakan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3ce41e396c47.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3270f59e1591",
+   "suara": "hasan",
+   "teks": "Semoga sekarang semuanya terasa lebih masuk akal.",
+   "dibaca": "Semoga sekarang semuanya terasa lebih masuk akal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3270f59e1591.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7baeabe37d5f",
+   "suara": "hasan",
+   "teks": "Ternyata, jawabannya ada di depan mata kita sendiri.",
+   "dibaca": "Ternyata, jawabannya ada di depan mata kita sendiri.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/7baeabe37d5f.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e29f08f6ad7a",
+   "suara": "mia",
+   "teks": "Santai, ini normal kok.",
+   "dibaca": "Santai, ini normal kok.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/mia/e29f08f6ad7a.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f40add1939b2",
+   "suara": "mia",
+   "teks": "Tenang, kamu bukan satu-satunya.",
+   "dibaca": "Tenang, kamu bukan satu-satunya.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/mia/f40add1939b2.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
