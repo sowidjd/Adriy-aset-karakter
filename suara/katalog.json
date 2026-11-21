@@ -68117,6 +68117,203 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "43b0aa17b008",
+   "suara": "mia",
+   "teks": "Jadi, jangan remehkan hal-hal kecil di sekitar kita.",
+   "dibaca": "Jadi, jangan remehkan hal-hal kecil di sekitar kita.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/43b0aa17b008.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1848b7232b50",
+   "suara": "mia",
+   "teks": "Jadi, mitos atau fakta? Sekarang kamu sudah tahu jawabannya.",
+   "dibaca": "Jadi, mitos atau fakta? Sekarang kamu sudah tahu jawabannya.",
+   "fungsi": [
+    "membantah asumsi",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/1848b7232b50.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4a86db77d2da",
+   "suara": "mia",
+   "teks": "Jujur, aku juga baru tahu.",
+   "dibaca": "Jujur, aku juga baru tahu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4a86db77d2da.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a786efa43b16",
+   "suara": "mia",
+   "teks": "Dan itulah kenapa sains selalu menarik.",
+   "dibaca": "Dan itulah kenapa sains selalu menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a786efa43b16.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "afce49c3bba3",
+   "suara": "mia",
+   "teks": "Sekarang kamu punya fakta baru untuk diceritakan.",
+   "dibaca": "Sekarang kamu punya fakta baru untuk diceritakan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/afce49c3bba3.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9fbf6d6a1bb0",
+   "suara": "mia",
+   "teks": "Semoga sekarang semuanya terasa lebih masuk akal.",
+   "dibaca": "Semoga sekarang semuanya terasa lebih masuk akal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9fbf6d6a1bb0.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c3ff1cc90978",
+   "suara": "mia",
+   "teks": "Ternyata, jawabannya ada di depan mata kita sendiri.",
+   "dibaca": "Ternyata, jawabannya ada di depan mata kita sendiri.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/c3ff1cc90978.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "629708a1f446",
+   "suara": "ongky",
+   "teks": "Santai, ini normal kok.",
+   "dibaca": "Santai, ini normal kok.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/629708a1f446.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "eba5ed8ac304",
+   "suara": "ongky",
+   "teks": "Tenang, kamu bukan satu-satunya.",
+   "dibaca": "Tenang, kamu bukan satu-satunya.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/eba5ed8ac304.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3cf2f3a67890",
+   "suara": "ongky",
+   "teks": "Jadi, jangan remehkan hal-hal kecil di sekitar kita.",
+   "dibaca": "Jadi, jangan remehkan hal-hal kecil di sekitar kita.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/3cf2f3a67890.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9bc85a31cccc",
+   "suara": "ongky",
+   "teks": "Jadi, mitos atau fakta? Sekarang kamu sudah tahu jawabannya.",
+   "dibaca": "Jadi, mitos atau fakta? Sekarang kamu sudah tahu jawabannya.",
+   "fungsi": [
+    "membantah asumsi",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/9bc85a31cccc.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3d35d3eb6ea1",
+   "suara": "ongky",
+   "teks": "Jujur, aku juga baru tahu.",
+   "dibaca": "Jujur, aku juga baru tahu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/3d35d3eb6ea1.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ae11c0bb1c62",
+   "suara": "ongky",
+   "teks": "Dan itulah kenapa sains selalu menarik.",
+   "dibaca": "Dan itulah kenapa sains selalu menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/ae11c0bb1c62.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
