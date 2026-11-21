@@ -71075,6 +71075,36 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1c2ee8f95542",
+   "suara": "adriy",
+   "teks": "Ternyata, cara kita melihat harga bisa dipermainkan.",
+   "dibaca": "Ternyata, cara kita melihat harga bisa dipermainkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/1c2ee8f95542.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4ec9a273a20f",
+   "suara": "adriy",
+   "teks": "Menabung sedikit demi sedikit tetap lebih baik daripada tidak sama sekali.",
+   "dibaca": "Menabung sedikit demi sedikit tetap lebih baik daripada tidak sama sekali.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/4ec9a273a20f.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
   }
  ]
 }
