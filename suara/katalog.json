@@ -35458,6 +35458,172 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7baab3e9fa5b",
+   "suara": "hasan",
+   "teks": "Beberapa hal hanya bisa kita pahami setelah waktu berlalu cukup lama.",
+   "dibaca": "Beberapa hal hanya bisa kita pahami setelah waktu berlalu cukup lama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/7baab3e9fa5b.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3012997f379f",
+   "suara": "hasan",
+   "teks": "Semuanya dimulai dari sesuatu yang hampir tidak terlihat.",
+   "dibaca": "Semuanya dimulai dari sesuatu yang hampir tidak terlihat.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/3012997f379f.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b427c312e629",
+   "suara": "hasan",
+   "teks": "Tahan dulu, jangan di-skip, karena jawabannya ada di akhir video.",
+   "dibaca": "Tahan dulu, jangan di-skip, karena jawabannya ada di akhir video.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/b427c312e629.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "da4e0d74957f",
+   "suara": "hasan",
+   "teks": "Bagaimana bisa sesuatu yang begitu biasa menyimpan rahasia sebesar ini?",
+   "dibaca": "Bagaimana bisa sesuatu yang begitu biasa menyimpan rahasia sebesar ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/da4e0d74957f.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e66d4bb5a9b1",
+   "suara": "hasan",
+   "teks": "Pernah nggak kamu merasa ada yang aneh, tapi nggak tahu apa?",
+   "dibaca": "Pernah nggak kamu merasa ada yang aneh, tapi nggak tahu apa?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/e66d4bb5a9b1.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0065bd56a8e0",
+   "suara": "hasan",
+   "teks": "Sejak saat itu, banyak penelitian dilakukan untuk memahaminya.",
+   "dibaca": "Sejak saat itu, banyak penelitian dilakukan untuk memahaminya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/0065bd56a8e0.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bfc6a9fd1e47",
+   "suara": "hasan",
+   "teks": "Semakin tinggi suhunya, semakin cepat prosesnya terjadi.",
+   "dibaca": "Semakin tinggi suhunya, semakin cepat prosesnya terjadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/bfc6a9fd1e47.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e677e2f6f3ea",
+   "suara": "hasan",
+   "teks": "Sebaliknya, kalau jarang dilakukan, efeknya pun ikut melemah.",
+   "dibaca": "Sebaliknya, kalau jarang dilakukan, efeknya pun ikut melemah.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/e677e2f6f3ea.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b11e2f4ddeb3",
+   "suara": "hasan",
+   "teks": "Waktu terus berjalan, dan tidak ada yang tahu harus berbuat apa.",
+   "dibaca": "Waktu terus berjalan, dan tidak ada yang tahu harus berbuat apa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b11e2f4ddeb3.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b5ec748a6a04",
+   "suara": "hasan",
+   "teks": "Dua hal ini memang berhubungan, tapi belum tentu saling menyebabkan.",
+   "dibaca": "Dua hal ini memang berhubungan, tapi belum tentu saling menyebabkan.",
+   "fungsi": [
+    "membantah asumsi",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/b5ec748a6a04.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "90eff73ad9fb",
+   "suara": "hasan",
+   "teks": "Teruslah belajar, karena dunia tidak pernah berhenti berubah.",
+   "dibaca": "Teruslah belajar, karena dunia tidak pernah berhenti berubah.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/90eff73ad9fb.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
