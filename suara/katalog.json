@@ -42038,6 +42038,186 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "65639716c4ac",
+   "suara": "hasan",
+   "teks": "Seperti lampu yang menyala otomatis saat gelap.",
+   "dibaca": "Seperti lampu yang menyala otomatis saat gelap.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/65639716c4ac.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "38e45ef4ec9f",
+   "suara": "hasan",
+   "teks": "Dan di sinilah dua cerita ini bertemu.",
+   "dibaca": "Dan di sinilah dua cerita ini bertemu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/38e45ef4ec9f.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9b27fac4aa0d",
+   "suara": "hasan",
+   "teks": "Kalau bukan sekarang, kapan lagi?",
+   "dibaca": "Kalau bukan sekarang, kapan lagi?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/9b27fac4aa0d.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5f7cacb5f3ae",
+   "suara": "hasan",
+   "teks": "Bayangkan otakmu seperti perpustakaan raksasa.",
+   "dibaca": "Bayangkan otakmu seperti perpustakaan raksasa.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/5f7cacb5f3ae.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9a098a933459",
+   "suara": "hasan",
+   "teks": "Sama seperti mesin yang perlu dipanaskan dulu.",
+   "dibaca": "Sama seperti mesin yang perlu dipanaskan dulu.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/9a098a933459.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "80e19f1acbd1",
+   "suara": "hasan",
+   "teks": "Anggap saja seperti tombol reset di dalam tubuh.",
+   "dibaca": "Anggap saja seperti tombol reset di dalam tubuh.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/80e19f1acbd1.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "88c633c12bf9",
+   "suara": "hasan",
+   "teks": "Ternyata, jawabannya ada di sekitar kita.",
+   "dibaca": "Ternyata, jawabannya ada di sekitar kita.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/88c633c12bf9.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "05053dea8169",
+   "suara": "hasan",
+   "teks": "Fakta kecil ini mungkin akan selalu kamu ingat.",
+   "dibaca": "Fakta kecil ini mungkin akan selalu kamu ingat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/05053dea8169.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7b67e8a718b3",
+   "suara": "hasan",
+   "teks": "Ceritanya dimulai dari sebuah pertanyaan sederhana.",
+   "dibaca": "Ceritanya dimulai dari sebuah pertanyaan sederhana.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/7b67e8a718b3.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3af7188d38a2",
+   "suara": "hasan",
+   "teks": "Dulu, orang mengira jawabannya sangat sederhana.",
+   "dibaca": "Dulu, orang mengira jawabannya sangat sederhana.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/3af7188d38a2.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0254068a3f1b",
+   "suara": "hasan",
+   "teks": "Kisah ini dimulai dari hal yang paling sepele.",
+   "dibaca": "Kisah ini dimulai dari hal yang paling sepele.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/0254068a3f1b.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2fcf76ae900e",
+   "suara": "hasan",
+   "teks": "Sekarang, kita hubungkan dengan pertanyaan tadi.",
+   "dibaca": "Sekarang, kita hubungkan dengan pertanyaan tadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/2fcf76ae900e.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
