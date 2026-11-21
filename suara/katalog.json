@@ -31977,6 +31977,216 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "305889ae9b73",
+   "suara": "hasan",
+   "teks": "Sejarah mencatat hari itu sebagai titik balik.",
+   "dibaca": "Sejarah mencatat hari itu sebagai titik balik.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/305889ae9b73.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1e6f7fa28848",
+   "suara": "hasan",
+   "teks": "Harga yang harus dibayar ternyata sangat mahal.",
+   "dibaca": "Harga yang harus dibayar ternyata sangat mahal.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/1e6f7fa28848.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "aa1f0f76463b",
+   "suara": "hasan",
+   "teks": "Dan jawabannya, mengejutkan semua orang.",
+   "dibaca": "Dan jawabannya, mengejutkan semua orang.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/aa1f0f76463b.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4de4d0395ed4",
+   "suara": "hasan",
+   "teks": "Dan ya, ini terjadi pada orang dewasa juga.",
+   "dibaca": "Dan ya, ini terjadi pada orang dewasa juga.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/4de4d0395ed4.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "075297283abd",
+   "suara": "hasan",
+   "teks": "Dan alasan terakhir, justru yang paling kuat.",
+   "dibaca": "Dan alasan terakhir, justru yang paling kuat.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/075297283abd.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "742c0920e482",
+   "suara": "hasan",
+   "teks": "Butuh lebih banyak bukti untuk memastikannya.",
+   "dibaca": "Butuh lebih banyak bukti untuk memastikannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/742c0920e482.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a0a77314c26e",
+   "suara": "hasan",
+   "teks": "Dunia berubah karena ada yang berani mencoba.",
+   "dibaca": "Dunia berubah karena ada yang berani mencoba.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/a0a77314c26e.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c95d9aa51181",
+   "suara": "hasan",
+   "teks": "Mimpi besar dimulai dari langkah kecil.",
+   "dibaca": "Mimpi besar dimulai dari langkah kecil.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/c95d9aa51181.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a12615b188cc",
+   "suara": "hasan",
+   "teks": "Ternyata tubuhnya dilapisi lendir khusus.",
+   "dibaca": "Ternyata tubuhnya dilapisi lendir khusus.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/a12615b188cc.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8442691b4175",
+   "suara": "hasan",
+   "teks": "Apa yang terjadi selanjutnya benar-benar di luar dugaan.",
+   "dibaca": "Apa yang terjadi selanjutnya benar-benar di luar dugaan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/8442691b4175.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3ab0057e80e4",
+   "suara": "hasan",
+   "teks": "Dari sinilah sebuah perubahan besar mulai terbentuk.",
+   "dibaca": "Dari sinilah sebuah perubahan besar mulai terbentuk.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3ab0057e80e4.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "24f5ab6486d3",
+   "suara": "hasan",
+   "teks": "Tidak semua orang memiliki kesempatan yang sama untuk memulai.",
+   "dibaca": "Tidak semua orang memiliki kesempatan yang sama untuk memulai.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/24f5ab6486d3.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d2062d5e0931",
+   "suara": "hasan",
+   "teks": "Dan yang terakhir, ini yang paling menarik.",
+   "dibaca": "Dan yang terakhir, ini yang paling menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d2062d5e0931.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4696bb832354",
+   "suara": "hasan",
+   "teks": "Tapi, belum ada bukti yang benar-benar kuat.",
+   "dibaca": "Tapi, belum ada bukti yang benar-benar kuat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/4696bb832354.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
