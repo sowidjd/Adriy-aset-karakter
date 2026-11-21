@@ -52298,6 +52298,157 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "adfaed4106d2",
+   "suara": "mia",
+   "teks": "Tapi tunggu, masih ada satu kejutan lagi.",
+   "dibaca": "Tapi tunggu, masih ada satu kejutan lagi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/adfaed4106d2.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "91684ca7bf60",
+   "suara": "mia",
+   "teks": "Angkanya bikin geleng-geleng kepala.",
+   "dibaca": "Angkanya bikin geleng-geleng kepala.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/91684ca7bf60.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "38d3a051671b",
+   "suara": "mia",
+   "teks": "Dan itu terjadi hanya dalam sekejap.",
+   "dibaca": "Dan itu terjadi hanya dalam sekejap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/38d3a051671b.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "adbca8e7b219",
+   "suara": "mia",
+   "teks": "Rasanya seperti sihir, padahal ini sains.",
+   "dibaca": "Rasanya seperti sihir, padahal ini sains.",
+   "fungsi": [
+    "memberikan analogi",
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/adbca8e7b219.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "93fbe224f602",
+   "suara": "mia",
+   "teks": "Tidak ada yang tahu apa yang menunggu di depan.",
+   "dibaca": "Tidak ada yang tahu apa yang menunggu di depan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/93fbe224f602.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ab38770354a9",
+   "suara": "mia",
+   "teks": "Sejarah mencatat hari itu sebagai titik balik.",
+   "dibaca": "Sejarah mencatat hari itu sebagai titik balik.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/ab38770354a9.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7394d34244f4",
+   "suara": "mia",
+   "teks": "Harga yang harus dibayar ternyata sangat mahal.",
+   "dibaca": "Harga yang harus dibayar ternyata sangat mahal.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/7394d34244f4.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3fdb4d4e71e8",
+   "suara": "mia",
+   "teks": "Dan jawabannya, mengejutkan semua orang.",
+   "dibaca": "Dan jawabannya, mengejutkan semua orang.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/3fdb4d4e71e8.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a17b36bda7c9",
+   "suara": "mia",
+   "teks": "Dan ya, ini terjadi pada orang dewasa juga.",
+   "dibaca": "Dan ya, ini terjadi pada orang dewasa juga.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a17b36bda7c9.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2526508fdaa3",
+   "suara": "mia",
+   "teks": "Dan alasan terakhir, justru yang paling kuat.",
+   "dibaca": "Dan alasan terakhir, justru yang paling kuat.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/2526508fdaa3.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
