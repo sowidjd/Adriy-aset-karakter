@@ -64861,6 +64861,36 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "29e1b884769c",
+   "suara": "ongky",
+   "teks": "Waktu kecil, hampir semua hal masih baru: hari pertama sekolah, belajar naik sepeda, pertama kali melihat laut.",
+   "dibaca": "Waktu kecil, hampir semua hal masih baru: hari pertama sekolah, belajar naik sepeda, pertama kali melihat laut.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/29e1b884769c.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e2ad5eb8cf6b",
+   "suara": "ongky",
+   "teks": "Pada hewan berbulu, respons ini bisa membantu membuat tubuh tampak lebih besar atau membantu memerangkap lapisan udara untuk menjaga kehangatan.",
+   "dibaca": "Pada hewan berbulu, respons ini bisa membantu membuat tubuh tampak lebih besar atau membantu memerangkap lapisan udara untuk menjaga kehangatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/e2ad5eb8cf6b.wav",
+   "durasi": 7.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
