@@ -59518,6 +59518,1089 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cad4f23f9a67",
+   "suara": "adriy",
+   "teks": "Coba tebak, berapa banyak orang yang tahu soal ini?",
+   "dibaca": "Coba tebak, berapa banyak orang yang tahu soal ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/cad4f23f9a67.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cf19afb07f3e",
+   "suara": "adriy",
+   "teks": "Hampir semua orang pernah mengalaminya, tapi jarang yang tahu alasannya.",
+   "dibaca": "Hampir semua orang pernah mengalaminya, tapi jarang yang tahu alasannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/cf19afb07f3e.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "baefcf959466",
+   "suara": "adriy",
+   "teks": "Ada satu hal kecil yang ternyata punya cerita besar.",
+   "dibaca": "Ada satu hal kecil yang ternyata punya cerita besar.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "mengawali cerita"
+   ],
+   "file": "suara/adriy/baefcf959466.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "07919b06c001",
+   "suara": "adriy",
+   "teks": "Kamu mungkin melakukannya setiap hari tanpa sadar.",
+   "dibaca": "Kamu mungkin melakukannya setiap hari tanpa sadar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/07919b06c001.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "95c33d0afc60",
+   "suara": "adriy",
+   "teks": "Pertanyaannya sederhana, tapi jawabannya bikin kaget.",
+   "dibaca": "Pertanyaannya sederhana, tapi jawabannya bikin kaget.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/95c33d0afc60.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9599c5e6f7ef",
+   "suara": "adriy",
+   "teks": "Kedengarannya sepele, padahal tidak sesederhana itu.",
+   "dibaca": "Kedengarannya sepele, padahal tidak sesederhana itu.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/9599c5e6f7ef.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fa6a7f53a388",
+   "suara": "adriy",
+   "teks": "Pernah kepikiran kenapa hal ini bisa terjadi?",
+   "dibaca": "Pernah kepikiran kenapa hal ini bisa terjadi?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/fa6a7f53a388.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d5d3dc9eb49b",
+   "suara": "adriy",
+   "teks": "Ini salah satu hal paling aneh yang pernah aku pelajari.",
+   "dibaca": "Ini salah satu hal paling aneh yang pernah aku pelajari.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/d5d3dc9eb49b.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b0965edfe27b",
+   "suara": "adriy",
+   "teks": "Sebelum lanjut, coba ingat-ingat kapan terakhir kamu mengalaminya.",
+   "dibaca": "Sebelum lanjut, coba ingat-ingat kapan terakhir kamu mengalaminya.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/b0965edfe27b.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7e8644afd7c6",
+   "suara": "adriy",
+   "teks": "Mari kita mulai dari pertanyaan yang paling sederhana.",
+   "dibaca": "Mari kita mulai dari pertanyaan yang paling sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/7e8644afd7c6.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c4113c7f62fc",
+   "suara": "adriy",
+   "teks": "Banyak orang salah paham soal ini.",
+   "dibaca": "Banyak orang salah paham soal ini.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/c4113c7f62fc.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f5a411b2cfe9",
+   "suara": "adriy",
+   "teks": "Jawabannya mungkin bukan yang kamu bayangkan.",
+   "dibaca": "Jawabannya mungkin bukan yang kamu bayangkan.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/f5a411b2cfe9.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9f5ece938ad3",
+   "suara": "adriy",
+   "teks": "Kalau kamu pikir ini biasa saja, tunggu sampai akhir.",
+   "dibaca": "Kalau kamu pikir ini biasa saja, tunggu sampai akhir.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/9f5ece938ad3.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dec4c4c00df6",
+   "suara": "adriy",
+   "teks": "Ternyata, ada alasan ilmiah di baliknya.",
+   "dibaca": "Ternyata, ada alasan ilmiah di baliknya.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/dec4c4c00df6.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dd8991648a1c",
+   "suara": "adriy",
+   "teks": "Ini terdengar seperti mitos, tapi ternyata nyata.",
+   "dibaca": "Ini terdengar seperti mitos, tapi ternyata nyata.",
+   "fungsi": [
+    "memberikan analogi",
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/dd8991648a1c.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ac03921c6f71",
+   "suara": "adriy",
+   "teks": "Bayangkan kalau hal ini tidak pernah terjadi.",
+   "dibaca": "Bayangkan kalau hal ini tidak pernah terjadi.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/ac03921c6f71.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e1f0ea366e88",
+   "suara": "adriy",
+   "teks": "Ada yang aneh dari kebiasaan yang satu ini.",
+   "dibaca": "Ada yang aneh dari kebiasaan yang satu ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/e1f0ea366e88.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8c28b2c43c47",
+   "suara": "adriy",
+   "teks": "Semua berawal dari pertanyaan seorang anak kecil.",
+   "dibaca": "Semua berawal dari pertanyaan seorang anak kecil.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/adriy/8c28b2c43c47.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e078a8d9e8c2",
+   "suara": "adriy",
+   "teks": "Jangan langsung percaya, kita cek dulu faktanya.",
+   "dibaca": "Jangan langsung percaya, kita cek dulu faktanya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/e078a8d9e8c2.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6a3a400ec1ce",
+   "suara": "adriy",
+   "teks": "Kita sering melihatnya, tapi jarang benar-benar memperhatikannya.",
+   "dibaca": "Kita sering melihatnya, tapi jarang benar-benar memperhatikannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/6a3a400ec1ce.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "08aa0424828f",
+   "suara": "adriy",
+   "teks": "Di Adriy Project, kita cari tahu jawabannya bareng-bareng.",
+   "dibaca": "Di Adriy Project, kita cari tahu jawabannya bareng-bareng.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/adriy/08aa0424828f.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2523aeb47184",
+   "suara": "adriy",
+   "teks": "Di Adriy Project, kita bahas hal yang sering dianggap remeh.",
+   "dibaca": "Di Adriy Project, kita bahas hal yang sering dianggap remeh.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/adriy/2523aeb47184.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a0b4cbd35d24",
+   "suara": "adriy",
+   "teks": "Di Adriy Project, kita kupas fakta di balik kebiasaan sehari-hari.",
+   "dibaca": "Di Adriy Project, kita kupas fakta di balik kebiasaan sehari-hari.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/adriy/a0b4cbd35d24.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e0e89673133c",
+   "suara": "adriy",
+   "teks": "Di Adriy Project, pertanyaan aneh pun layak dijawab.",
+   "dibaca": "Di Adriy Project, pertanyaan aneh pun layak dijawab.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/adriy/e0e89673133c.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "15123abef0e3",
+   "suara": "adriy",
+   "teks": "Di Adriy Project, kita belajar dari hal-hal kecil di sekitar kita.",
+   "dibaca": "Di Adriy Project, kita belajar dari hal-hal kecil di sekitar kita.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/adriy/15123abef0e3.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2d9be6c00ca8",
+   "suara": "adriy",
+   "teks": "Di Adriy Project, kita ubah yang membingungkan jadi lebih jelas.",
+   "dibaca": "Di Adriy Project, kita ubah yang membingungkan jadi lebih jelas.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/adriy/2d9be6c00ca8.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "447ef61c833a",
+   "suara": "adriy",
+   "teks": "Di Adriy Project, kita bahas sains dengan cara yang santai.",
+   "dibaca": "Di Adriy Project, kita bahas sains dengan cara yang santai.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/adriy/447ef61c833a.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6b4e5007080f",
+   "suara": "adriy",
+   "teks": "Di Adriy Project, setiap fakta punya ceritanya sendiri.",
+   "dibaca": "Di Adriy Project, setiap fakta punya ceritanya sendiri.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/adriy/6b4e5007080f.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0f4a1bf82560",
+   "suara": "adriy",
+   "teks": "Di Adriy Project, kita lihat dunia dari sudut yang berbeda.",
+   "dibaca": "Di Adriy Project, kita lihat dunia dari sudut yang berbeda.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/adriy/0f4a1bf82560.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "db0bef4402e8",
+   "suara": "adriy",
+   "teks": "Di Adriy Project, rasa penasaranmu selalu punya tempat.",
+   "dibaca": "Di Adriy Project, rasa penasaranmu selalu punya tempat.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/adriy/db0bef4402e8.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "be0c8cd92972",
+   "suara": "adriy",
+   "teks": "Kami di Adriy Project juga sempat kaget waktu pertama tahu.",
+   "dibaca": "Kami di Adriy Project juga sempat kaget waktu pertama tahu.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/adriy/be0c8cd92972.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "77d8581ba5b2",
+   "suara": "adriy",
+   "teks": "Kami di Adriy Project sudah cek sumbernya, dan hasilnya menarik.",
+   "dibaca": "Kami di Adriy Project sudah cek sumbernya, dan hasilnya menarik.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/adriy/77d8581ba5b2.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3a58b8e20e6e",
+   "suara": "adriy",
+   "teks": "Kami di Adriy Project penasaran, jadi kami cari tahu.",
+   "dibaca": "Kami di Adriy Project penasaran, jadi kami cari tahu.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/adriy/3a58b8e20e6e.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bdf12f65b581",
+   "suara": "adriy",
+   "teks": "Kalau kamu sudah tahu soal ini, tulis \"sudah\" di komentar.",
+   "dibaca": "Kalau kamu sudah tahu soal ini, tulis \"sudah\" di komentar.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/adriy/bdf12f65b581.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1673a7ad253d",
+   "suara": "adriy",
+   "teks": "Kalau ini pertama kalinya kamu dengar, tulis \"baru tahu\" di komentar.",
+   "dibaca": "Kalau ini pertama kalinya kamu dengar, tulis \"baru tahu\" di komentar.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/adriy/1673a7ad253d.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "84d087554a8c",
+   "suara": "adriy",
+   "teks": "Simpan video ini, nanti kamu pasti butuh.",
+   "dibaca": "Simpan video ini, nanti kamu pasti butuh.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/adriy/84d087554a8c.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7f71eef8523d",
+   "suara": "adriy",
+   "teks": "Bagikan ke teman yang suka bertanya hal aneh.",
+   "dibaca": "Bagikan ke teman yang suka bertanya hal aneh.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/adriy/7f71eef8523d.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6f34ac8fc08b",
+   "suara": "adriy",
+   "teks": "Tulis di komentar, kamu pernah mengalaminya atau belum?",
+   "dibaca": "Tulis di komentar, kamu pernah mengalaminya atau belum?",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/adriy/6f34ac8fc08b.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d5b8115caa69",
+   "suara": "adriy",
+   "teks": "Menurutmu jawabannya apa? Tulis dulu sebelum lanjut.",
+   "dibaca": "Menurutmu jawabannya apa? Tulis dulu sebelum lanjut.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/d5b8115caa69.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1e783bb35325",
+   "suara": "adriy",
+   "teks": "Coba tebak di komentar, lalu tonton sampai habis.",
+   "dibaca": "Coba tebak di komentar, lalu tonton sampai habis.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/adriy/1e783bb35325.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e182ee70a46e",
+   "suara": "adriy",
+   "teks": "Kirim video ini ke teman yang paling penasaran.",
+   "dibaca": "Kirim video ini ke teman yang paling penasaran.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/adriy/e182ee70a46e.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "89ca2f2640db",
+   "suara": "adriy",
+   "teks": "Tag teman yang harus tahu fakta ini.",
+   "dibaca": "Tag teman yang harus tahu fakta ini.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/adriy/89ca2f2640db.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cedcb0f5cec6",
+   "suara": "adriy",
+   "teks": "Kalau kamu punya pengalaman lucu soal ini, cerita di komentar.",
+   "dibaca": "Kalau kamu punya pengalaman lucu soal ini, cerita di komentar.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/adriy/cedcb0f5cec6.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "064f185c271f",
+   "suara": "adriy",
+   "teks": "Komentar angka satu sampai sepuluh, seberapa kaget kamu?",
+   "dibaca": "Komentar angka satu sampai sepuluh, seberapa kaget kamu?",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/adriy/064f185c271f.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "60aad358283c",
+   "suara": "adriy",
+   "teks": "Pilih di komentar, kamu tim yang mana?",
+   "dibaca": "Pilih di komentar, kamu tim yang mana?",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/adriy/60aad358283c.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a1757a5d0179",
+   "suara": "adriy",
+   "teks": "Simpan dulu, biar nanti bisa kamu tunjukkan ke teman.",
+   "dibaca": "Simpan dulu, biar nanti bisa kamu tunjukkan ke teman.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/adriy/a1757a5d0179.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6c9fd8a28af6",
+   "suara": "adriy",
+   "teks": "Kalau menurutmu ini berguna, bagikan, ya.",
+   "dibaca": "Kalau menurutmu ini berguna, bagikan, ya.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/adriy/6c9fd8a28af6.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b579aa49be03",
+   "suara": "adriy",
+   "teks": "Tulis satu kata yang muncul di kepalamu sekarang.",
+   "dibaca": "Tulis satu kata yang muncul di kepalamu sekarang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/b579aa49be03.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "635e304875fb",
+   "suara": "adriy",
+   "teks": "Follow Adriy Project, biar kamu nggak ketinggalan fakta berikutnya.",
+   "dibaca": "Follow Adriy Project, biar kamu nggak ketinggalan fakta berikutnya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/adriy/635e304875fb.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c17f87ad8136",
+   "suara": "adriy",
+   "teks": "Follow Adriy Project, masih banyak hal sederhana yang menyimpan rahasia.",
+   "dibaca": "Follow Adriy Project, masih banyak hal sederhana yang menyimpan rahasia.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/adriy/c17f87ad8136.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7dcd9089e86f",
+   "suara": "adriy",
+   "teks": "Follow Adriy Project, dan kita lanjut di video berikutnya.",
+   "dibaca": "Follow Adriy Project, dan kita lanjut di video berikutnya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/adriy/7dcd9089e86f.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e37c166180b8",
+   "suara": "adriy",
+   "teks": "Follow Adriy Project kalau kamu suka belajar dengan cara santai.",
+   "dibaca": "Follow Adriy Project kalau kamu suka belajar dengan cara santai.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/adriy/e37c166180b8.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "276382cac02e",
+   "suara": "adriy",
+   "teks": "Follow Adriy Project, siapa tahu pertanyaanmu yang kita bahas berikutnya.",
+   "dibaca": "Follow Adriy Project, siapa tahu pertanyaanmu yang kita bahas berikutnya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/adriy/276382cac02e.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "be7e64ac01dc",
+   "suara": "adriy",
+   "teks": "Kalau kamu suka video seperti ini, follow Adriy Project, ya.",
+   "dibaca": "Kalau kamu suka video seperti ini, follow Adriy Project, ya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/adriy/be7e64ac01dc.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f96b45d44310",
+   "suara": "adriy",
+   "teks": "Sampai jumpa di video berikutnya.",
+   "dibaca": "Sampai jumpa di video berikutnya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/adriy/f96b45d44310.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d615de314c42",
+   "suara": "adriy",
+   "teks": "Terima kasih sudah menonton sampai habis.",
+   "dibaca": "Terima kasih sudah menonton sampai habis.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/adriy/d615de314c42.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0876a4c0a9ab",
+   "suara": "adriy",
+   "teks": "Jangan lupa follow Adriy Project, ya.",
+   "dibaca": "Jangan lupa follow Adriy Project, ya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/adriy/0876a4c0a9ab.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a44ed80ffd27",
+   "suara": "adriy",
+   "teks": "Ikuti terus, karena fakta berikutnya lebih seru.",
+   "dibaca": "Ikuti terus, karena fakta berikutnya lebih seru.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/adriy/a44ed80ffd27.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "90a356a166a8",
+   "suara": "adriy",
+   "teks": "Sekarang, bagian yang paling menarik.",
+   "dibaca": "Sekarang, bagian yang paling menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/90a356a166a8.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e6b429e67b8b",
+   "suara": "adriy",
+   "teks": "Nah, di sinilah semuanya mulai masuk akal.",
+   "dibaca": "Nah, di sinilah semuanya mulai masuk akal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/e6b429e67b8b.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "10f3c312aee8",
+   "suara": "adriy",
+   "teks": "Tapi tunggu, masih ada yang lebih aneh.",
+   "dibaca": "Tapi tunggu, masih ada yang lebih aneh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/10f3c312aee8.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d2b97a847173",
+   "suara": "adriy",
+   "teks": "Sekarang, kita lihat dari sisi yang lain.",
+   "dibaca": "Sekarang, kita lihat dari sisi yang lain.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/d2b97a847173.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9bfdc26f39ad",
+   "suara": "adriy",
+   "teks": "Oke, lalu bagaimana cara kerjanya?",
+   "dibaca": "Oke, lalu bagaimana cara kerjanya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/9bfdc26f39ad.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "59a7b3898191",
+   "suara": "adriy",
+   "teks": "Pertanyaan berikutnya jauh lebih menarik.",
+   "dibaca": "Pertanyaan berikutnya jauh lebih menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/59a7b3898191.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d10b09c0cedc",
+   "suara": "adriy",
+   "teks": "Kita kembali sebentar ke awal cerita.",
+   "dibaca": "Kita kembali sebentar ke awal cerita.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/d10b09c0cedc.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a797dc41c131",
+   "suara": "adriy",
+   "teks": "Dan dari sinilah semuanya bermula.",
+   "dibaca": "Dan dari sinilah semuanya bermula.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/adriy/a797dc41c131.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "34fd38b8e18d",
+   "suara": "adriy",
+   "teks": "Tapi ternyata ceritanya belum selesai.",
+   "dibaca": "Tapi ternyata ceritanya belum selesai.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/34fd38b8e18d.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7cada61b67f0",
+   "suara": "adriy",
+   "teks": "Sekarang kita masuk ke bagian intinya.",
+   "dibaca": "Sekarang kita masuk ke bagian intinya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/7cada61b67f0.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7c9fb6fb70dc",
+   "suara": "adriy",
+   "teks": "Oke, sekarang kita bandingkan.",
+   "dibaca": "Oke, sekarang kita bandingkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/7c9fb6fb70dc.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fb9d236dff2b",
+   "suara": "adriy",
+   "teks": "Dan ini yang jarang dibahas orang.",
+   "dibaca": "Dan ini yang jarang dibahas orang.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/fb9d236dff2b.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e3f83b80f777",
+   "suara": "adriy",
+   "teks": "Supaya lebih jelas, kita pakai contoh sederhana.",
+   "dibaca": "Supaya lebih jelas, kita pakai contoh sederhana.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/e3f83b80f777.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "56719543a288",
+   "suara": "adriy",
+   "teks": "Dan jawabannya.",
+   "dibaca": "Dan jawabannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/56719543a288.wav",
+   "durasi": 0.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
   }
  ]
 }
