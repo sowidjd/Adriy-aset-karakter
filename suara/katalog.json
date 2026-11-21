@@ -60781,6 +60781,171 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e25ebff31952",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, pertanyaan aneh pun layak dijawab.",
+   "dibaca": "Di Adriy Project, pertanyaan aneh pun layak dijawab.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/e25ebff31952.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b09c2b32d03b",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, setiap fakta punya ceritanya sendiri.",
+   "dibaca": "Di Adriy Project, setiap fakta punya ceritanya sendiri.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/b09c2b32d03b.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1da462db47d1",
+   "suara": "hasan",
+   "teks": "Kami di Adriy Project juga sempat kaget waktu pertama tahu.",
+   "dibaca": "Kami di Adriy Project juga sempat kaget waktu pertama tahu.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/1da462db47d1.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5d437819a233",
+   "suara": "hasan",
+   "teks": "Kalau kamu suka video seperti ini, follow Adriy Project, ya.",
+   "dibaca": "Kalau kamu suka video seperti ini, follow Adriy Project, ya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/5d437819a233.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d74b733f93e0",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita cari tahu jawabannya bareng-bareng.",
+   "dibaca": "Di Adriy Project, kita cari tahu jawabannya bareng-bareng.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/d74b733f93e0.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0da22a1422cc",
+   "suara": "hasan",
+   "teks": "Tulis di komentar, kamu pernah mengalaminya atau belum?",
+   "dibaca": "Tulis di komentar, kamu pernah mengalaminya atau belum?",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/0da22a1422cc.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ff6bc75fd143",
+   "suara": "hasan",
+   "teks": "Komentar angka satu sampai sepuluh, seberapa kaget kamu?",
+   "dibaca": "Komentar angka satu sampai sepuluh, seberapa kaget kamu?",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/ff6bc75fd143.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "16fd543616b2",
+   "suara": "hasan",
+   "teks": "Simpan dulu, biar nanti bisa kamu tunjukkan ke teman.",
+   "dibaca": "Simpan dulu, biar nanti bisa kamu tunjukkan ke teman.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/16fd543616b2.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4ec2adefcbf8",
+   "suara": "hasan",
+   "teks": "Kalau menurutmu ini berguna, bagikan, ya.",
+   "dibaca": "Kalau menurutmu ini berguna, bagikan, ya.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/4ec2adefcbf8.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c610960a4435",
+   "suara": "hasan",
+   "teks": "Follow Adriy Project, biar kamu nggak ketinggalan fakta berikutnya.",
+   "dibaca": "Follow Adriy Project, biar kamu nggak ketinggalan fakta berikutnya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/c610960a4435.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f78c7fc5b75c",
+   "suara": "hasan",
+   "teks": "Follow Adriy Project kalau kamu suka belajar dengan cara santai.",
+   "dibaca": "Follow Adriy Project kalau kamu suka belajar dengan cara santai.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/hasan/f78c7fc5b75c.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
