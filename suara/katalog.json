@@ -53624,6 +53624,126 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1d6c14916215",
+   "suara": "mia",
+   "teks": "Air mata ini beda dengan air mata saat kamu sedih.",
+   "dibaca": "Air mata ini beda dengan air mata saat kamu sedih.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1d6c14916215.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "57e6fe613842",
+   "suara": "mia",
+   "teks": "Ini air mata refleks, tugasnya mencuci mata.",
+   "dibaca": "Ini air mata refleks, tugasnya mencuci mata.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/57e6fe613842.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ccfe4ebc9daa",
+   "suara": "mia",
+   "teks": "Tapi karena semakin sedikit hal baru yang kita ingat",
+   "dibaca": "Tapi karena semakin sedikit hal baru yang kita ingat",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/ccfe4ebc9daa.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "308d4a9a2597",
+   "suara": "mia",
+   "teks": "Mungkin kamu juga pernah berada dalam situasi yang sama.",
+   "dibaca": "Mungkin kamu juga pernah berada dalam situasi yang sama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/308d4a9a2597.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "cb69edc40a32",
+   "suara": "mia",
+   "teks": "Semuanya bermula dari sebuah keputusan sederhana.",
+   "dibaca": "Semuanya bermula dari sebuah keputusan sederhana.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/cb69edc40a32.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a44d55fde763",
+   "suara": "mia",
+   "teks": "Inilah bagian yang membuat semuanya menjadi semakin menarik.",
+   "dibaca": "Inilah bagian yang membuat semuanya menjadi semakin menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a44d55fde763.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6e788d2a6e81",
+   "suara": "mia",
+   "teks": "Lucunya, kita sering mengabaikan hal yang justru paling penting.",
+   "dibaca": "Lucunya, kita sering mengabaikan hal yang justru paling penting.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/6e788d2a6e81.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8b99a564038c",
+   "suara": "mia",
+   "teks": "Kita tidak selalu tahu apa yang sedang orang lain hadapi.",
+   "dibaca": "Kita tidak selalu tahu apa yang sedang orang lain hadapi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/8b99a564038c.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
