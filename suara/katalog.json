@@ -32972,6 +32972,186 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0b6bb6d34126",
+   "suara": "hasan",
+   "teks": "Begitu pisau merobek sel, keduanya bercampur.",
+   "dibaca": "Begitu pisau merobek sel, keduanya bercampur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/0b6bb6d34126.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0f306bdf686b",
+   "suara": "hasan",
+   "teks": "Air mata ini beda dengan air mata saat kamu sedih.",
+   "dibaca": "Air mata ini beda dengan air mata saat kamu sedih.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/0f306bdf686b.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "35d951096bcb",
+   "suara": "hasan",
+   "teks": "Ini air mata refleks, tugasnya mencuci mata.",
+   "dibaca": "Ini air mata refleks, tugasnya mencuci mata.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/35d951096bcb.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f83f273151d5",
+   "suara": "hasan",
+   "teks": "Tapi karena semakin sedikit hal baru yang kita ingat",
+   "dibaca": "Tapi karena semakin sedikit hal baru yang kita ingat",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/f83f273151d5.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e9aa586c9fb8",
+   "suara": "hasan",
+   "teks": "Mungkin kamu juga pernah berada dalam situasi yang sama.",
+   "dibaca": "Mungkin kamu juga pernah berada dalam situasi yang sama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e9aa586c9fb8.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d54f74080c31",
+   "suara": "hasan",
+   "teks": "Semuanya bermula dari sebuah keputusan sederhana.",
+   "dibaca": "Semuanya bermula dari sebuah keputusan sederhana.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/d54f74080c31.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d783f44f0826",
+   "suara": "hasan",
+   "teks": "Inilah bagian yang membuat semuanya menjadi semakin menarik.",
+   "dibaca": "Inilah bagian yang membuat semuanya menjadi semakin menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d783f44f0826.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dd3e4841f913",
+   "suara": "hasan",
+   "teks": "Lucunya, kita sering mengabaikan hal yang justru paling penting.",
+   "dibaca": "Lucunya, kita sering mengabaikan hal yang justru paling penting.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/dd3e4841f913.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2d23fc845569",
+   "suara": "hasan",
+   "teks": "Kita tidak selalu tahu apa yang sedang orang lain hadapi.",
+   "dibaca": "Kita tidak selalu tahu apa yang sedang orang lain hadapi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/2d23fc845569.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "20d079444be7",
+   "suara": "hasan",
+   "teks": "Jawabannya ternyata lebih sederhana dari yang kamu kira.",
+   "dibaca": "Jawabannya ternyata lebih sederhana dari yang kamu kira.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/20d079444be7.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "65c5223c2dda",
+   "suara": "hasan",
+   "teks": "Para ilmuwan punya penjelasan menarik soal ini.",
+   "dibaca": "Para ilmuwan punya penjelasan menarik soal ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/65c5223c2dda.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1431ca4074a1",
+   "suara": "hasan",
+   "teks": "Angkanya ternyata jauh lebih kecil dari dugaan kita.",
+   "dibaca": "Angkanya ternyata jauh lebih kecil dari dugaan kita.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/1431ca4074a1.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
