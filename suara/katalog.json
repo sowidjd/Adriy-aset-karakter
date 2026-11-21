@@ -62029,6 +62029,171 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d1ffa35b1c48",
+   "suara": "mia",
+   "teks": "Di Adriy Project, rasa penasaranmu selalu punya tempat.",
+   "dibaca": "Di Adriy Project, rasa penasaranmu selalu punya tempat.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/d1ffa35b1c48.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4d4a3fff6365",
+   "suara": "mia",
+   "teks": "Kami di Adriy Project sudah cek sumbernya, dan hasilnya menarik.",
+   "dibaca": "Kami di Adriy Project sudah cek sumbernya, dan hasilnya menarik.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/4d4a3fff6365.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8747856fd1d9",
+   "suara": "mia",
+   "teks": "Menurutmu jawabannya apa? Tulis dulu sebelum lanjut.",
+   "dibaca": "Menurutmu jawabannya apa? Tulis dulu sebelum lanjut.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/mia/8747856fd1d9.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fa1b13be8301",
+   "suara": "mia",
+   "teks": "Kalau kamu punya pengalaman lucu soal ini, cerita di komentar.",
+   "dibaca": "Kalau kamu punya pengalaman lucu soal ini, cerita di komentar.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/fa1b13be8301.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "09641c5e0a90",
+   "suara": "mia",
+   "teks": "Follow Adriy Project, dan kita lanjut di video berikutnya.",
+   "dibaca": "Follow Adriy Project, dan kita lanjut di video berikutnya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/09641c5e0a90.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "79a8266c64f9",
+   "suara": "mia",
+   "teks": "Di Adriy Project, kita ubah yang membingungkan jadi lebih jelas.",
+   "dibaca": "Di Adriy Project, kita ubah yang membingungkan jadi lebih jelas.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/79a8266c64f9.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b517153151d2",
+   "suara": "mia",
+   "teks": "Di Adriy Project, kita kupas fakta di balik kebiasaan sehari-hari.",
+   "dibaca": "Di Adriy Project, kita kupas fakta di balik kebiasaan sehari-hari.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/b517153151d2.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a9a6b3c3c044",
+   "suara": "mia",
+   "teks": "Di Adriy Project, kita bahas sains dengan cara yang santai.",
+   "dibaca": "Di Adriy Project, kita bahas sains dengan cara yang santai.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/a9a6b3c3c044.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6aee75c076e1",
+   "suara": "mia",
+   "teks": "Coba tebak di komentar, lalu tonton sampai habis.",
+   "dibaca": "Coba tebak di komentar, lalu tonton sampai habis.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/6aee75c076e1.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "96b74da99664",
+   "suara": "mia",
+   "teks": "Di Adriy Project, kita lihat dunia dari sudut yang berbeda.",
+   "dibaca": "Di Adriy Project, kita lihat dunia dari sudut yang berbeda.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/96b74da99664.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "27e46787a793",
+   "suara": "mia",
+   "teks": "Sebelum lanjut, coba ingat-ingat kapan terakhir kamu mengalaminya.",
+   "dibaca": "Sebelum lanjut, coba ingat-ingat kapan terakhir kamu mengalaminya.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/mia/27e46787a793.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
