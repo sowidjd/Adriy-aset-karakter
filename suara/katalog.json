@@ -68678,6 +68678,51 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6a3c6175bd34",
+   "suara": "hasan",
+   "teks": "Tubuh kita punya cara sendiri untuk melindungi diri.",
+   "dibaca": "Tubuh kita punya cara sendiri untuk melindungi diri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/6a3c6175bd34.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "bab77192b9f4",
+   "suara": "mia",
+   "teks": "Tubuh kita punya cara sendiri untuk melindungi diri.",
+   "dibaca": "Tubuh kita punya cara sendiri untuk melindungi diri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/bab77192b9f4.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7d2e3f6984ce",
+   "suara": "ongky",
+   "teks": "Tubuh kita punya cara sendiri untuk melindungi diri.",
+   "dibaca": "Tubuh kita punya cara sendiri untuk melindungi diri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/7d2e3f6984ce.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
