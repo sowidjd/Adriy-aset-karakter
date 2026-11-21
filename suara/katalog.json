@@ -69716,6 +69716,97 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "763aa12626f8",
+   "suara": "ongky",
+   "teks": "Ingatan kita tidak sesempurna yang kita kira.",
+   "dibaca": "Ingatan kita tidak sesempurna yang kita kira.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/763aa12626f8.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "797fec5215b1",
+   "suara": "ongky",
+   "teks": "Otak kita terus bekerja, bahkan saat kita melamun.",
+   "dibaca": "Otak kita terus bekerja, bahkan saat kita melamun.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/797fec5215b1.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "dc31ef0f327c",
+   "suara": "ongky",
+   "teks": "Fenomena ini punya nama ilmiah yang cukup unik.",
+   "dibaca": "Fenomena ini punya nama ilmiah yang cukup unik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/dc31ef0f327c.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "db3738f7f069",
+   "suara": "ongky",
+   "teks": "Otak tidak selalu bisa membedakan bayangan dan kenyataan.",
+   "dibaca": "Otak tidak selalu bisa membedakan bayangan dan kenyataan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/db3738f7f069.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8233eaa662d1",
+   "suara": "ongky",
+   "teks": "Rasa penasaran ternyata membuat kita lebih mudah belajar.",
+   "dibaca": "Rasa penasaran ternyata membuat kita lebih mudah belajar.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/8233eaa662d1.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "87418c9dcc08",
+   "suara": "ongky",
+   "teks": "Ternyata, perasaan kita juga dipengaruhi oleh kebiasaan kecil.",
+   "dibaca": "Ternyata, perasaan kita juga dipengaruhi oleh kebiasaan kecil.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/87418c9dcc08.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
