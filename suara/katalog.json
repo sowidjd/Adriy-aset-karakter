@@ -68314,6 +68314,51 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "893495fad9dd",
+   "suara": "ongky",
+   "teks": "Sekarang kamu punya fakta baru untuk diceritakan.",
+   "dibaca": "Sekarang kamu punya fakta baru untuk diceritakan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/893495fad9dd.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "af726b56f54c",
+   "suara": "ongky",
+   "teks": "Semoga sekarang semuanya terasa lebih masuk akal.",
+   "dibaca": "Semoga sekarang semuanya terasa lebih masuk akal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/af726b56f54c.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4cd2a46ef6a6",
+   "suara": "ongky",
+   "teks": "Ternyata, jawabannya ada di depan mata kita sendiri.",
+   "dibaca": "Ternyata, jawabannya ada di depan mata kita sendiri.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/4cd2a46ef6a6.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
