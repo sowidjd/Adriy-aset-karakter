@@ -34582,6 +34582,159 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7dffc6c9ea6b",
+   "suara": "hasan",
+   "teks": "Tapi ternyata, kejadian ini bukan sekadar karena kamu pelupa.",
+   "dibaca": "Tapi ternyata, kejadian ini bukan sekadar karena kamu pelupa.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/7dffc6c9ea6b.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1680b0476366",
+   "suara": "hasan",
+   "teks": "Apa yang terjadi berikutnya akan mengubah cara kita melihat semuanya.",
+   "dibaca": "Apa yang terjadi berikutnya akan mengubah cara kita melihat semuanya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/1680b0476366.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "de51ea39b91c",
+   "suara": "hasan",
+   "teks": "Bayangkan jika hal ini terjadi tepat di depan mata kita.",
+   "dibaca": "Bayangkan jika hal ini terjadi tepat di depan mata kita.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/de51ea39b91c.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "31efb342d0ea",
+   "suara": "hasan",
+   "teks": "Perbedaannya terletak pada satu detail kecil yang sering terlewatkan.",
+   "dibaca": "Perbedaannya terletak pada satu detail kecil yang sering terlewatkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/31efb342d0ea.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9eaade601be1",
+   "suara": "hasan",
+   "teks": "Dan sekarang, kita sampai pada bagian yang paling mengejutkan.",
+   "dibaca": "Dan sekarang, kita sampai pada bagian yang paling mengejutkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/9eaade601be1.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "695f5444168e",
+   "suara": "hasan",
+   "teks": "Perubahan kecil ini ternyata memicu efek yang luar biasa besar.",
+   "dibaca": "Perubahan kecil ini ternyata memicu efek yang luar biasa besar.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/695f5444168e.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "302e930a5a67",
+   "suara": "hasan",
+   "teks": "Ternyata, hal sesederhana ini punya penjelasan ilmiah.",
+   "dibaca": "Ternyata, hal sesederhana ini punya penjelasan ilmiah.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/302e930a5a67.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0f764c5b1bd9",
+   "suara": "hasan",
+   "teks": "Fakta yang satu ini mungkin bakal mengubah cara kamu melihatnya.",
+   "dibaca": "Fakta yang satu ini mungkin bakal mengubah cara kamu melihatnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/0f764c5b1bd9.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "910c4ce9b332",
+   "suara": "hasan",
+   "teks": "Menurut penelitian, jawabannya ternyata cukup mengejutkan.",
+   "dibaca": "Menurut penelitian, jawabannya ternyata cukup mengejutkan.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/910c4ce9b332.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b9aa10e79f63",
+   "suara": "hasan",
+   "teks": "Tapi ingat, ini bukan berarti berlaku untuk semua orang.",
+   "dibaca": "Tapi ingat, ini bukan berarti berlaku untuk semua orang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b9aa10e79f63.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
