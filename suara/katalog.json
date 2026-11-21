@@ -64560,6 +64560,157 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ea67fcf1e18e",
+   "suara": "ongky",
+   "teks": "Pernah nggak kamu merasa, liburan tiga hari kok lewat secepat kedipan mata?",
+   "dibaca": "Pernah nggak kamu merasa, liburan tiga hari kok lewat secepat kedipan mata?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/ea67fcf1e18e.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b462d4e99e8c",
+   "suara": "ongky",
+   "teks": "Di sekitar setiap folikel rambut, ada otot kecil yang disebut arrector pili.",
+   "dibaca": "Di sekitar setiap folikel rambut, ada otot kecil yang disebut arrector pili.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/b462d4e99e8c.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0a6fabe1eb5a",
+   "suara": "ongky",
+   "teks": "Lagu yang membuatmu merinding, belum tentu memberi sensasi yang sama kepada orang lain.",
+   "dibaca": "Lagu yang membuatmu merinding, belum tentu memberi sensasi yang sama kepada orang lain.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/0a6fabe1eb5a.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a8ce155dc35f",
+   "suara": "ongky",
+   "teks": "Hampir semua orang pernah mengalaminya, tapi jarang yang tahu alasannya.",
+   "dibaca": "Hampir semua orang pernah mengalaminya, tapi jarang yang tahu alasannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/a8ce155dc35f.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "342d351c182f",
+   "suara": "ongky",
+   "teks": "Sebaliknya, seminggu sekolah atau kerja terasa lama sekali saat dijalani.",
+   "dibaca": "Sebaliknya, seminggu sekolah atau kerja terasa lama sekali saat dijalani.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/342d351c182f.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ebb36eb3a449",
+   "suara": "ongky",
+   "teks": "Senin sampai Jumat terasa mirip, jadi otak menumpuknya jadi satu buku tipis.",
+   "dibaca": "Senin sampai Jumat terasa mirip, jadi otak menumpuknya jadi satu buku tipis.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/ebb36eb3a449.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6e1c0f4b2e70",
+   "suara": "ongky",
+   "teks": "Bayangkan kucing yang kaget: bulunya mengembang, dan tubuhnya terlihat jauh lebih besar.",
+   "dibaca": "Bayangkan kucing yang kaget: bulunya mengembang, dan tubuhnya terlihat jauh lebih besar.",
+   "fungsi": [
+    "memberikan analogi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/6e1c0f4b2e70.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ac51f18b1868",
+   "suara": "ongky",
+   "teks": "Ini bisa terjadi ketika musik atau pengalaman tertentu memicu respons emosional yang kuat.",
+   "dibaca": "Ini bisa terjadi ketika musik atau pengalaman tertentu memicu respons emosional yang kuat.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/ac51f18b1868.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c0fffd2aa991",
+   "suara": "ongky",
+   "teks": "Tapi para peneliti belum sepenuhnya memahami mengapa setiap orang merespons musik secara berbeda.",
+   "dibaca": "Tapi para peneliti belum sepenuhnya memahami mengapa setiap orang merespons musik secara berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/c0fffd2aa991.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a22b42f6a40d",
+   "suara": "ongky",
+   "teks": "Tapi anehnya, waktu diingat-ingat lagi, liburan itu terasa panjang sekali.",
+   "dibaca": "Tapi anehnya, waktu diingat-ingat lagi, liburan itu terasa panjang sekali.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/a22b42f6a40d.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
