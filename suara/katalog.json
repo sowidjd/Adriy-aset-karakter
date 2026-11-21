@@ -67410,6 +67410,186 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3083cbbe9158",
+   "suara": "hasan",
+   "teks": "Kesimpulannya, hal kecil pun punya penjelasan besar.",
+   "dibaca": "Kesimpulannya, hal kecil pun punya penjelasan besar.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/3083cbbe9158.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "074e09fb102a",
+   "suara": "hasan",
+   "teks": "Jadi, sekarang kamu tahu kenapa itu terjadi.",
+   "dibaca": "Jadi, sekarang kamu tahu kenapa itu terjadi.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/074e09fb102a.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a4d5ac30c2b8",
+   "suara": "hasan",
+   "teks": "Intinya, tubuh kita jauh lebih pintar dari yang kita kira.",
+   "dibaca": "Intinya, tubuh kita jauh lebih pintar dari yang kita kira.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/a4d5ac30c2b8.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ee06c4e14f54",
+   "suara": "hasan",
+   "teks": "Jadi, lain kali kamu mengalaminya, jangan heran.",
+   "dibaca": "Jadi, lain kali kamu mengalaminya, jangan heran.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/ee06c4e14f54.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8b671796d0a8",
+   "suara": "hasan",
+   "teks": "Kira-kira seperti spons yang menyerap air.",
+   "dibaca": "Kira-kira seperti spons yang menyerap air.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/8b671796d0a8.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2bf3a67a7dc9",
+   "suara": "hasan",
+   "teks": "Ibaratnya seperti baterai yang pelan-pelan habis.",
+   "dibaca": "Ibaratnya seperti baterai yang pelan-pelan habis.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/2bf3a67a7dc9.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0b680075be1f",
+   "suara": "hasan",
+   "teks": "Bayangkan seperti jalan raya yang tiba-tiba macet.",
+   "dibaca": "Bayangkan seperti jalan raya yang tiba-tiba macet.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/0b680075be1f.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "697d2b825428",
+   "suara": "hasan",
+   "teks": "Bayangkan kamu sedang menyusun puzzle tanpa gambar contoh.",
+   "dibaca": "Bayangkan kamu sedang menyusun puzzle tanpa gambar contoh.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/697d2b825428.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a30c5da5dbc7",
+   "suara": "hasan",
+   "teks": "Ini mirip seperti komputer yang sedang memuat ulang.",
+   "dibaca": "Ini mirip seperti komputer yang sedang memuat ulang.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/a30c5da5dbc7.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ac795bb7e805",
+   "suara": "mia",
+   "teks": "Kesimpulannya, hal kecil pun punya penjelasan besar.",
+   "dibaca": "Kesimpulannya, hal kecil pun punya penjelasan besar.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/ac795bb7e805.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2aa6c873a3d9",
+   "suara": "mia",
+   "teks": "Jadi, sekarang kamu tahu kenapa itu terjadi.",
+   "dibaca": "Jadi, sekarang kamu tahu kenapa itu terjadi.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/2aa6c873a3d9.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e15478b8521c",
+   "suara": "mia",
+   "teks": "Intinya, tubuh kita jauh lebih pintar dari yang kita kira.",
+   "dibaca": "Intinya, tubuh kita jauh lebih pintar dari yang kita kira.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/e15478b8521c.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
