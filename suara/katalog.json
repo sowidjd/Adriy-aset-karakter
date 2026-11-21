@@ -47794,6 +47794,384 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "70f940a0130f",
+   "suara": "mia",
+   "teks": "Follow Adriy Project, karena belajar ternyata bisa seseru ini.",
+   "dibaca": "Follow Adriy Project, karena belajar ternyata bisa seseru ini.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/70f940a0130f.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "23687ab44804",
+   "suara": "mia",
+   "teks": "Kalau sudah paham bagian ini, sisanya jadi lebih mudah.",
+   "dibaca": "Kalau sudah paham bagian ini, sisanya jadi lebih mudah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/23687ab44804.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "8dfdcc2ccdb9",
+   "suara": "mia",
+   "teks": "Jadi, kalau ditarik ke belakang, semuanya saling terhubung.",
+   "dibaca": "Jadi, kalau ditarik ke belakang, semuanya saling terhubung.",
+   "fungsi": [
+    "menghubungkan dua topik",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/8dfdcc2ccdb9.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f65fe8ba37f4",
+   "suara": "mia",
+   "teks": "Kalau kamu ketawa sendiri, berarti kamu pernah ngalamin.",
+   "dibaca": "Kalau kamu ketawa sendiri, berarti kamu pernah ngalamin.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f65fe8ba37f4.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f780b27b7dc9",
+   "suara": "mia",
+   "teks": "Mulai sekarang, kamu bisa melihatnya dengan cara berbeda.",
+   "dibaca": "Mulai sekarang, kamu bisa melihatnya dengan cara berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f780b27b7dc9.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "60634c7cca54",
+   "suara": "mia",
+   "teks": "Kalau saja semuanya semudah membalikkan telapak tangan.",
+   "dibaca": "Kalau saja semuanya semudah membalikkan telapak tangan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/60634c7cca54.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "93ceb78bc3d6",
+   "suara": "mia",
+   "teks": "Sampai jumpa di video berikutnya, dan jangan lupa follow Adriy Project.",
+   "dibaca": "Sampai jumpa di video berikutnya, dan jangan lupa follow Adriy Project.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/93ceb78bc3d6.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "ff16d45d60ca",
+   "suara": "mia",
+   "teks": "Mau tahu fakta menarik lainnya? Tulis topiknya di komentar.",
+   "dibaca": "Mau tahu fakta menarik lainnya? Tulis topiknya di komentar.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/ff16d45d60ca.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f2b992c8d193",
+   "suara": "mia",
+   "teks": "Di Adriy Project, setiap pertanyaan kecil punya jawaban yang menarik.",
+   "dibaca": "Di Adriy Project, setiap pertanyaan kecil punya jawaban yang menarik.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/f2b992c8d193.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f48106bf85d0",
+   "suara": "mia",
+   "teks": "Terima kasih sudah menonton, sampai jumpa di Adriy Project berikutnya.",
+   "dibaca": "Terima kasih sudah menonton, sampai jumpa di Adriy Project berikutnya.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/f48106bf85d0.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "96dcebce828f",
+   "suara": "mia",
+   "teks": "Follow Adriy Project, biar rasa penasaranmu selalu terjawab.",
+   "dibaca": "Follow Adriy Project, biar rasa penasaranmu selalu terjawab.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/96dcebce828f.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1762b3782017",
+   "suara": "mia",
+   "teks": "Kalau kamu sering mengalami ini, kamu nggak sendirian.",
+   "dibaca": "Kalau kamu sering mengalami ini, kamu nggak sendirian.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/mia/1762b3782017.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c4acd41e7d88",
+   "suara": "mia",
+   "teks": "Itulah sebabnya hal ini lebih sering terjadi pada kondisi tertentu.",
+   "dibaca": "Itulah sebabnya hal ini lebih sering terjadi pada kondisi tertentu.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/c4acd41e7d88.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "244a7cf0e84d",
+   "suara": "mia",
+   "teks": "Dengan kata lain, ini adalah cara alami tubuh untuk beradaptasi.",
+   "dibaca": "Dengan kata lain, ini adalah cara alami tubuh untuk beradaptasi.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/244a7cf0e84d.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "243f763c2bb1",
+   "suara": "mia",
+   "teks": "Setelah semua penjelasan tadi, kita bisa ambil satu kesimpulan.",
+   "dibaca": "Setelah semua penjelasan tadi, kita bisa ambil satu kesimpulan.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/243f763c2bb1.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "392c029842f6",
+   "suara": "mia",
+   "teks": "Dan rasa itu tetap tinggal, bahkan setelah semuanya berlalu.",
+   "dibaca": "Dan rasa itu tetap tinggal, bahkan setelah semuanya berlalu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/392c029842f6.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3d895d87bae2",
+   "suara": "mia",
+   "teks": "Yang hari ini terasa sulit, besok mungkin jadi kebiasaan.",
+   "dibaca": "Yang hari ini terasa sulit, besok mungkin jadi kebiasaan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3d895d87bae2.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4a6067dce240",
+   "suara": "mia",
+   "teks": "Dan itu semua terjadi, bahkan tanpa kita sadari.",
+   "dibaca": "Dan itu semua terjadi, bahkan tanpa kita sadari.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4a6067dce240.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "74d4453eb4eb",
+   "suara": "mia",
+   "teks": "Dan sekarang, kamu tahu sesuatu yang belum banyak orang tahu.",
+   "dibaca": "Dan sekarang, kamu tahu sesuatu yang belum banyak orang tahu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/74d4453eb4eb.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "89b24dbdd1b0",
+   "suara": "mia",
+   "teks": "Duh, catatanku hilang lagi. Kemarin aku tulis di mana, ya?",
+   "dibaca": "Duh, catatanku hilang lagi. Kemarin aku tulis di mana, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/89b24dbdd1b0.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "9389c2e8193b",
+   "suara": "mia",
+   "teks": "Kadang, kita baru menyadari sesuatu ketika semuanya sudah berubah.",
+   "dibaca": "Kadang, kita baru menyadari sesuatu ketika semuanya sudah berubah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9389c2e8193b.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "834c730eb782",
+   "suara": "mia",
+   "teks": "Di Adriy Project, kita belajar hal baru dengan cara yang ringan.",
+   "dibaca": "Di Adriy Project, kita belajar hal baru dengan cara yang ringan.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/834c730eb782.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d69cdeb0173b",
+   "suara": "mia",
+   "teks": "Jadi, lain kali kamu mengalaminya, kamu sudah tahu alasannya.",
+   "dibaca": "Jadi, lain kali kamu mengalaminya, kamu sudah tahu alasannya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/d69cdeb0173b.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "7d9f57cc2f17",
+   "suara": "mia",
+   "teks": "Di Adriy Project, kita bahas hal yang bikin kamu pengin tahu lebih banyak.",
+   "dibaca": "Di Adriy Project, kita bahas hal yang bikin kamu pengin tahu lebih banyak.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/7d9f57cc2f17.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "905fe6bd0e7a",
+   "suara": "mia",
+   "teks": "Di Adriy Project, kita jelaskan yang rumit jadi lebih sederhana.",
+   "dibaca": "Di Adriy Project, kita jelaskan yang rumit jadi lebih sederhana.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/905fe6bd0e7a.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
