@@ -62874,6 +62874,157 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d5c4f5da6aca",
+   "suara": "adriy",
+   "teks": "Ada pengalaman emosional yang sedang diterjemahkan menjadi respons fisik.",
+   "dibaca": "Ada pengalaman emosional yang sedang diterjemahkan menjadi respons fisik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/d5c4f5da6aca.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5045496fb598",
+   "suara": "adriy",
+   "teks": "Peneliti menyebut pengalaman ini sebagai emotional chills atau frisson.",
+   "dibaca": "Peneliti menyebut pengalaman ini sebagai emotional chills atau frisong.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/5045496fb598.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b68c31be41fe",
+   "suara": "adriy",
+   "teks": "Mungkin itulah cara tubuh berkata: momen ini penting.",
+   "dibaca": "Mungkin itulah cara tubuh berkata: momen ini penting.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/b68c31be41fe.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "017f282abe1d",
+   "suara": "adriy",
+   "teks": "Kepribadian, kenangan, dan selera musik diduga ikut berperan.",
+   "dibaca": "Kepribadian, kenangan, dan selera musik diduga ikut berperan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/017f282abe1d.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "0521010797a3",
+   "suara": "adriy",
+   "teks": "Kalau kamu pernah mengalami ini, coba ingat lagu yang paling sering membuatmu merinding.",
+   "dibaca": "Kalau kamu pernah mengalami ini, coba ingat lagu yang paling sering membuatmu merinding.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/0521010797a3.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4d4bba056280",
+   "suara": "adriy",
+   "teks": "Coba ingat saat lagu favoritmu tiba-tiba mencapai bagian yang paling emosional.",
+   "dibaca": "Coba ingat saat lagu favoritmu tiba-tiba mencapai bagian yang paling emosional.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/4d4bba056280.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "5076ecca41db",
+   "suara": "adriy",
+   "teks": "Di sekitar setiap folikel rambut, ada otot kecil yang disebut arrector pili.",
+   "dibaca": "Di sekitar setiap folikel rambut, ada otot kecil yang disebut arrector pili.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/5076ecca41db.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6eafa6e8652a",
+   "suara": "adriy",
+   "teks": "Lagu yang membuatmu merinding, belum tentu memberi sensasi yang sama kepada orang lain.",
+   "dibaca": "Lagu yang membuatmu merinding, belum tentu memberi sensasi yang sama kepada orang lain.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/6eafa6e8652a.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6762f0061680",
+   "suara": "adriy",
+   "teks": "Bayangkan kucing yang kaget: bulunya mengembang, dan tubuhnya terlihat jauh lebih besar.",
+   "dibaca": "Bayangkan kucing yang kaget: bulunya mengembang, dan tubuhnya terlihat jauh lebih besar.",
+   "fungsi": [
+    "memberikan analogi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/6762f0061680.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "fd8d1e22bd18",
+   "suara": "adriy",
+   "teks": "Ini bisa terjadi ketika musik atau pengalaman tertentu memicu respons emosional yang kuat.",
+   "dibaca": "Ini bisa terjadi ketika musik atau pengalaman tertentu memicu respons emosional yang kuat.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/fd8d1e22bd18.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
