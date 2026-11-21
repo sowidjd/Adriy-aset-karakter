@@ -43319,6 +43319,145 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4c07eec5bc11",
+   "suara": "mia",
+   "teks": "Titik.",
+   "dibaca": "Titik.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/mia/4c07eec5bc11.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "a47d362acf74",
+   "suara": "mia",
+   "teks": "Lalu...",
+   "dibaca": "Lalu...",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/mia/a47d362acf74.wav",
+   "durasi": 0.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4853c4a7d4a3",
+   "suara": "mia",
+   "teks": "Yang kedua.",
+   "dibaca": "Yang kedua.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4853c4a7d4a3.wav",
+   "durasi": 0.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "34186e25d2ce",
+   "suara": "mia",
+   "teks": "Luar biasa, kan?",
+   "dibaca": "Luar biasa, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/34186e25d2ce.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1110f84c6efd",
+   "suara": "mia",
+   "teks": "Simpel, kan?",
+   "dibaca": "Simpel, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/1110f84c6efd.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "09ef9a550e06",
+   "suara": "mia",
+   "teks": "Dan kemudian...",
+   "dibaca": "Dan kemudian...",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/mia/09ef9a550e06.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "29c34acceeda",
+   "suara": "mia",
+   "teks": "Yang pertama.",
+   "dibaca": "Yang pertama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/29c34acceeda.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "f6417a9e4aae",
+   "suara": "mia",
+   "teks": "Nggak nyangka, kan?",
+   "dibaca": "Nggak nyangka, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/f6417a9e4aae.wav",
+   "durasi": 1.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "da8cf8f36b4f",
+   "suara": "mia",
+   "teks": "Plot twist, kan?",
+   "dibaca": "Plot twist, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/da8cf8f36b4f.wav",
+   "durasi": 0.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-21"
   }
  ]
 }
