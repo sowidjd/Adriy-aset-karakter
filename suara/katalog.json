@@ -71195,6 +71195,66 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "206d40edc60f",
+   "suara": "adriy",
+   "teks": "Kebiasaan kecil soal uang bisa berdampak besar dalam setahun.",
+   "dibaca": "Kebiasaan kecil soal uang bisa berdampak besar dalam setahun.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/206d40edc60f.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "30f873e46f33",
+   "suara": "adriy",
+   "teks": "Waktu terasa lebih cepat saat kita sibuk.",
+   "dibaca": "Waktu terasa lebih cepat saat kita sibuk.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/30f873e46f33.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "d5464e3554e9",
+   "suara": "adriy",
+   "teks": "Pagi hari ternyata punya pengaruh besar untuk seharian.",
+   "dibaca": "Pagi hari ternyata punya pengaruh besar untuk seharian.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/d5464e3554e9.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6088362df7e3",
+   "suara": "adriy",
+   "teks": "Menunda pekerjaan ternyata bukan soal malas.",
+   "dibaca": "Menunda pekerjaan ternyata bukan soal malas.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/6088362df7e3.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
   }
  ]
 }
