@@ -72245,6 +72245,306 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6f2387ab37f2",
+   "suara": "hasan",
+   "teks": "Lima menit yang kecil bisa mengubah kebiasaan.",
+   "dibaca": "Lima menit yang kecil bisa mengubah kebiasaan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/6f2387ab37f2.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0518646c6d3c",
+   "suara": "hasan",
+   "teks": "Otak kita butuh istirahat supaya tetap fokus.",
+   "dibaca": "Otak kita butuh istirahat supaya tetap fokus.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/0518646c6d3c.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d655ca4c8213",
+   "suara": "hasan",
+   "teks": "Hari-hari yang mirip membuat waktu terasa lebih singkat.",
+   "dibaca": "Hari-hari yang mirip membuat waktu terasa lebih singkat.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/d655ca4c8213.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e0f3b9930e86",
+   "suara": "hasan",
+   "teks": "Ponsel kita ternyata lebih pintar dari komputer zaman dulu.",
+   "dibaca": "Ponsel kita ternyata lebih pintar dari komputer zaman dulu.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/e0f3b9930e86.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c0219608aa85",
+   "suara": "hasan",
+   "teks": "Notifikasi kecil bisa membuat fokus kita buyar.",
+   "dibaca": "notifikasi kecil bisa membuat fokus kita buyar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/c0219608aa85.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b7f17e4eabe4",
+   "suara": "hasan",
+   "teks": "Teknologi ini sudah ada di sekitar kita setiap hari.",
+   "dibaca": "Teknologi ini sudah ada di sekitar kita setiap hari.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b7f17e4eabe4.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f54b6bf507e1",
+   "suara": "hasan",
+   "teks": "Ternyata, cara kerjanya cukup sederhana.",
+   "dibaca": "Ternyata, cara kerjanya cukup sederhana.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/f54b6bf507e1.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b4d7465f421f",
+   "suara": "adriy",
+   "teks": "Pernah kepikiran bagaimana benda kecil ini bisa mengunci dua sisi kain hanya dengan satu tarikan?",
+   "dibaca": "Pernah kepikiran bagaimana benda kecil ini bisa mengunci dua sisi kain hanya dengan satu tarikan?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/b4d7465f421f.wav",
+   "durasi": 5.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c1cec7803252",
+   "suara": "adriy",
+   "teks": "Di Adriy Project, kita membongkar cara kerja benda yang selama ini kita anggap biasa.",
+   "dibaca": "Di Adriy Project, kita membongkar cara kerja benda yang selama ini kita anggap biasa.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/adriy/c1cec7803252.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e4780d6718e2",
+   "suara": "adriy",
+   "teks": "Sekilas, resleting cuma punya dua baris gigi dan satu bagian yang kita tarik.",
+   "dibaca": "Sekilas, resleting cuma punya dua baris gigi dan satu bagian yang kita tarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/e4780d6718e2.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1a8aa6688e1c",
+   "suara": "adriy",
+   "teks": "Tapi rahasia sebenarnya tersembunyi di dalam slider kecil ini.",
+   "dibaca": "Tapi rahasia sebenarnya tersembunyi di dalam slider kecil ini.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/1a8aa6688e1c.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f647c4e2579b",
+   "suara": "adriy",
+   "teks": "Slider ini memiliki jalur khusus yang bentuknya menyerupai huruf Y.",
+   "dibaca": "Slider ini memiliki jalur khusus yang bentuknya menyerupai huruf Y.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/f647c4e2579b.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7baec179e2de",
+   "suara": "adriy",
+   "teks": "Dua baris gigi masuk dari jalur berbeda, lalu diarahkan untuk bertemu.",
+   "dibaca": "Dua baris gigi masuk dari jalur berbeda, lalu diarahkan untuk bertemu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/7baec179e2de.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "bb6be7ac61a6",
+   "suara": "adriy",
+   "teks": "Bentuk setiap gigi dirancang agar tonjolan satu sisi masuk ke celah sisi lainnya.",
+   "dibaca": "Bentuk setiap gigi dirancang agar tonjolan satu sisi masuk ke celah sisi lainnya.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/bb6be7ac61a6.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f1305582df50",
+   "suara": "adriy",
+   "teks": "Ketika slider bergerak, gigi-gigi itu terkunci satu per satu.",
+   "dibaca": "Ketika slider bergerak, gigi-gigi itu terkunci satu per satu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/f1305582df50.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "25516f4759b4",
+   "suara": "adriy",
+   "teks": "Itulah yang membuat kedua sisi kain bisa menyatu tanpa lem atau magnet.",
+   "dibaca": "Itulah yang membuat kedua sisi kain bisa menyatu tanpa lem atau magnet.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/25516f4759b4.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9c27f04f8dff",
+   "suara": "adriy",
+   "teks": "Coba simpan video ini, karena benda sehari-hari lainnya juga punya mekanisme yang tidak kalah menarik.",
+   "dibaca": "Coba simpan video ini, karena benda sehari-hari lainnya juga punya mekanisme yang tidak kalah menarik.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/adriy/9c27f04f8dff.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "04f71411ed24",
+   "suara": "adriy",
+   "teks": "Saat slider ditarik ke arah sebaliknya, jalur yang sama memisahkan gigi-gigi tadi.",
+   "dibaca": "Saat slider ditarik ke arah sebaliknya, jalur yang sama memisahkan gigi-gigi tadi.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/04f71411ed24.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d1a2bde0de1a",
+   "suara": "adriy",
+   "teks": "Satu komponen kecil ternyata bisa melakukan dua fungsi hanya dengan mengubah arah gerak.",
+   "dibaca": "Satu komponen kecil ternyata bisa melakukan dua fungsi hanya dengan mengubah arah gerak.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/d1a2bde0de1a.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d58ff4db2bbd",
+   "suara": "adriy",
+   "teks": "Jadi, resleting bukan sekadar pegangan, tetapi pengarah mekanisme yang sangat sederhana dan efektif.",
+   "dibaca": "Jadi, resleting bukan sekadar pegangan, tetapi pengarah mekanisme yang sangat sederhana dan efektif.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/d58ff4db2bbd.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
   }
  ]
 }
