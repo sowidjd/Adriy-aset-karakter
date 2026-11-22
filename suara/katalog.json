@@ -84015,6 +84015,141 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b7cc49171fd2",
+   "suara": "mia",
+   "teks": "Tanpa zat ini, otak seperti merekam video tanpa menekan tombol simpan.",
+   "dibaca": "Tanpa zat ini, otak seperti merekam video tanpa menekan tombol simpan.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/b7cc49171fd2.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "149ef3ecd53e",
+   "suara": "mia",
+   "teks": "Selain itu, angka sembilan sudah lama kita kaitkan dengan diskon dan promo.",
+   "dibaca": "Selain itu, angka sembilan sudah lama kita kaitkan dengan diskon dan promo.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/mia/149ef3ecd53e.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "103c410fd4d3",
+   "suara": "mia",
+   "teks": "Jadi saat melihat angka sembilan, otak langsung berpikir, ini pasti harga hemat.",
+   "dibaca": "Jadi saat melihat angka sembilan, otak langsung berpikir, ini pasti harga hemat.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/103c410fd4d3.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2f57a399788a",
+   "suara": "mia",
+   "teks": "Jadi, es batu di gelasmu sedang menunjukkan salah satu sifat air yang paling penting bagi kehidupan.",
+   "dibaca": "Jadi, es batu di gelasmu sedang menunjukkan salah satu sifat air yang paling penting bagi kehidupan.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/2f57a399788a.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "08f1f5b09ede",
+   "suara": "mia",
+   "teks": "Jadi, laut dalam yang kita kira gelap gulita, sebenarnya dipenuhi lampu-lampu kecil yang hidup.",
+   "dibaca": "Jadi, laut dalam yang kita kira gelap gulita, sebenarnya dipenuhi lampu-lampu kecil yang hidup.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/08f1f5b09ede.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "17fec7d87344",
+   "suara": "mia",
+   "teks": "Jadi, rute pesawat adalah hasil perhitungan antara jarak, angin, dan keselamatan.",
+   "dibaca": "Jadi, rute pesawat adalah hasil perhitungan antara jarak, angin, dan keselamatan.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/17fec7d87344.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "233238675ea2",
+   "suara": "mia",
+   "teks": "Jadi, angka sembilan di label harga bukan kebetulan, melainkan pesan kecil untuk otakmu.",
+   "dibaca": "Jadi, angka sembilan di label harga bukan kebetulan, melainkan pesan kecil untuk otakmu.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/233238675ea2.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "446f0a6c5d69",
+   "suara": "mia",
+   "teks": "Selain itu, ada aturan jalur udara, cuaca buruk, dan bandara cadangan yang harus selalu terjangkau.",
+   "dibaca": "Selain itu, ada aturan jalur udara, cuaca buruk, dan bandara cadangan yang harus selalu terjangkau.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/mia/446f0a6c5d69.wav",
+   "durasi": 6.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a58bc5292197",
+   "suara": "mia",
+   "teks": "Jadi, mumi bukan hanya peninggalan kematian, tapi juga catatan kehidupan dari masa lalu.",
+   "dibaca": "Jadi, mumi bukan hanya peninggalan kematian, tapi juga catatan kehidupan dari masa lalu.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/a58bc5292197.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
