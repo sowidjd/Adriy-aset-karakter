@@ -73610,6 +73610,156 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "737fff8cc2f9",
+   "suara": "mia",
+   "teks": "Satu komponen kecil ternyata bisa melakukan dua fungsi hanya dengan mengubah arah gerak.",
+   "dibaca": "Satu komponen kecil ternyata bisa melakukan dua fungsi hanya dengan mengubah arah gerak.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/737fff8cc2f9.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "086970cf4e69",
+   "suara": "mia",
+   "teks": "Pernah kepikiran bagaimana benda kecil ini bisa mengunci dua sisi kain hanya dengan satu tarikan?",
+   "dibaca": "Pernah kepikiran bagaimana benda kecil ini bisa mengunci dua sisi kain hanya dengan satu tarikan?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/086970cf4e69.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "dd26b2bf38ff",
+   "suara": "ongky",
+   "teks": "Itulah yang membuat kedua sisi kain bisa menyatu tanpa lem atau magnet.",
+   "dibaca": "Itulah yang membuat kedua sisi kain bisa menyatu tanpa lem atau magnet.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/dd26b2bf38ff.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b1edd98bd882",
+   "suara": "ongky",
+   "teks": "Di Adriy Project, kita membongkar cara kerja benda yang selama ini kita anggap biasa.",
+   "dibaca": "Di Adriy Project, kita membongkar cara kerja benda yang selama ini kita anggap biasa.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/ongky/b1edd98bd882.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "785afd05e396",
+   "suara": "ongky",
+   "teks": "Bentuk setiap gigi dirancang agar tonjolan satu sisi masuk ke celah sisi lainnya.",
+   "dibaca": "Bentuk setiap gigi dirancang agar tonjolan satu sisi masuk ke celah sisi lainnya.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/ongky/785afd05e396.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "32f3bf86438d",
+   "suara": "ongky",
+   "teks": "Coba simpan video ini, karena benda sehari-hari lainnya juga punya mekanisme yang tidak kalah menarik.",
+   "dibaca": "Coba simpan video ini, karena benda sehari-hari lainnya juga punya mekanisme yang tidak kalah menarik.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/ongky/32f3bf86438d.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f25a8da15ee9",
+   "suara": "ongky",
+   "teks": "Jadi, resleting bukan sekadar pegangan, tetapi pengarah mekanisme yang sangat sederhana dan efektif.",
+   "dibaca": "Jadi, resleting bukan sekadar pegangan, tetapi pengarah mekanisme yang sangat sederhana dan efektif.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/f25a8da15ee9.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "60153a70fdc9",
+   "suara": "ongky",
+   "teks": "Ketika slider bergerak, gigi-gigi itu terkunci satu per satu.",
+   "dibaca": "Ketika slider bergerak, gigi-gigi itu terkunci satu per satu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/60153a70fdc9.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f39ec2bb0d40",
+   "suara": "ongky",
+   "teks": "Tapi rahasia sebenarnya tersembunyi di dalam slider kecil ini.",
+   "dibaca": "Tapi rahasia sebenarnya tersembunyi di dalam slider kecil ini.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/f39ec2bb0d40.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "db162883d664",
+   "suara": "ongky",
+   "teks": "Slider ini memiliki jalur khusus yang bentuknya menyerupai huruf Y.",
+   "dibaca": "Slider ini memiliki jalur khusus yang bentuknya menyerupai huruf Y.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/db162883d664.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
