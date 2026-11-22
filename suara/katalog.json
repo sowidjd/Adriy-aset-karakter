@@ -90596,6 +90596,111 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e322ce5e852c",
+   "suara": "adriy",
+   "teks": "Menariknya, geosmin juga yang membuat bit dan beberapa ikan air tawar terasa seperti tanah.",
+   "dibaca": "Menariknya, geosmin juga yang membuat bit dan beberapa ikan air tawar terasa seperti tanah.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/e322ce5e852c.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "40b1e2180e96",
+   "suara": "adriy",
+   "teks": "Semakin banyak domain yang sejajar, efek magnetik material semakin kuat.",
+   "dibaca": "Semakin banyak domain yang sejajar, efek magnetik material semakin kuat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/40b1e2180e96.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "05aae0e87555",
+   "suara": "adriy",
+   "teks": "Pada magnet permanen, susunan sejajar ini terkunci dan sulit kembali acak.",
+   "dibaca": "Pada magnet permanen, susunan sejajar ini terkunci dan sulit kembali acak.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/05aae0e87555.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8fb8d44fd547",
+   "suara": "adriy",
+   "teks": "Bahkan Pluto dan bulannya, Charon, saling mengunci, sehingga keduanya selalu saling menatap.",
+   "dibaca": "Bahkan Pluto dan bulannya, Charon, saling mengunci, sehingga keduanya selalu saling menatap.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/8fb8d44fd547.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "45dd822fd0c5",
+   "suara": "adriy",
+   "teks": "Pembusukan terjadi karena bakteri dan jamur, dan mereka butuh air untuk hidup.",
+   "dibaca": "Pembusukan terjadi karena bakteri dan jamur, dan mereka butuh air untuk hidup.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/45dd822fd0c5.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e344b38003ea",
+   "suara": "adriy",
+   "teks": "Langkah pertama, organ dalam dikeluarkan, karena bagian inilah yang paling cepat membusuk.",
+   "dibaca": "Langkah pertama, organ dalam dikeluarkan, karena bagian inilah yang paling cepat membusuk.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/e344b38003ea.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "dee5b8801cc5",
+   "suara": "adriy",
+   "teks": "Langkah terakhir, tubuh dibungkus dengan kain linen yang panjangnya bisa mencapai ratusan meter.",
+   "dibaca": "Langkah terakhir, tubuh dibungkus dengan kain linen yang panjangnya bisa mencapai ratusan meter.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/dee5b8801cc5.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
