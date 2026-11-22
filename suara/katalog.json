@@ -77263,6 +77263,36 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "057d3c077d4a",
+   "suara": "adriy",
+   "teks": "Inilah yang membuat hal ini begitu istimewa.",
+   "dibaca": "Inilah yang membuat hal ini begitu istimewa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/057d3c077d4a.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d59280219f76",
+   "suara": "adriy",
+   "teks": "Dan semua itu dimulai dari sini.",
+   "dibaca": "Dan semua itu dimulai dari sini.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/adriy/d59280219f76.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
   }
  ]
 }
