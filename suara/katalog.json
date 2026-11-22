@@ -77459,6 +77459,174 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b773d9de2f3a",
+   "suara": "hasan",
+   "teks": "Siapa sangka, kesalahan kecil bisa menjadi penemuan besar.",
+   "dibaca": "Siapa sangka, kesalahan kecil bisa menjadi penemuan besar.",
+   "fungsi": [
+    "pertanyaan retoris",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/b773d9de2f3a.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ed5f96d8c453",
+   "suara": "hasan",
+   "teks": "Dulu, orang punya penjelasan yang berbeda.",
+   "dibaca": "Dulu, orang punya penjelasan yang berbeda.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/ed5f96d8c453.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6c8732220e86",
+   "suara": "hasan",
+   "teks": "Ceritanya berawal dari sebuah ketidaksengajaan.",
+   "dibaca": "Ceritanya berawal dari sebuah ketidaksengajaan.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/6c8732220e86.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "71f2ce60e169",
+   "suara": "hasan",
+   "teks": "Tidak ada yang menyangka hasilnya akan seperti ini.",
+   "dibaca": "Tidak ada yang menyangka hasilnya akan seperti ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/71f2ce60e169.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ed7c29f69629",
+   "suara": "hasan",
+   "teks": "Butuh waktu lama sampai orang benar-benar memahaminya.",
+   "dibaca": "Butuh waktu lama sampai orang benar-benar memahaminya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ed7c29f69629.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "268fab00e55a",
+   "suara": "mia",
+   "teks": "Siapa sangka, kesalahan kecil bisa menjadi penemuan besar.",
+   "dibaca": "Siapa sangka, kesalahan kecil bisa menjadi penemuan besar.",
+   "fungsi": [
+    "pertanyaan retoris",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/268fab00e55a.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f579a8266f46",
+   "suara": "mia",
+   "teks": "Dulu, orang punya penjelasan yang berbeda.",
+   "dibaca": "Dulu, orang punya penjelasan yang berbeda.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/f579a8266f46.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3aca870f996f",
+   "suara": "mia",
+   "teks": "Ceritanya berawal dari sebuah ketidaksengajaan.",
+   "dibaca": "Ceritanya berawal dari sebuah ketidaksengajaan.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/3aca870f996f.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "567dc1a52fce",
+   "suara": "mia",
+   "teks": "Tidak ada yang menyangka hasilnya akan seperti ini.",
+   "dibaca": "Tidak ada yang menyangka hasilnya akan seperti ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/567dc1a52fce.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2e975719a74e",
+   "suara": "mia",
+   "teks": "Butuh waktu lama sampai orang benar-benar memahaminya.",
+   "dibaca": "Butuh waktu lama sampai orang benar-benar memahaminya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2e975719a74e.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "387644f0cb7e",
+   "suara": "ongky",
+   "teks": "Siapa sangka, kesalahan kecil bisa menjadi penemuan besar.",
+   "dibaca": "Siapa sangka, kesalahan kecil bisa menjadi penemuan besar.",
+   "fungsi": [
+    "pertanyaan retoris",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/387644f0cb7e.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
