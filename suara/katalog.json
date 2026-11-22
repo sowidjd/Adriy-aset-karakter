@@ -82946,6 +82946,381 @@
    "catatan": "",
    "sumber": "naskah:08-kopi.txt",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1749f70959ef",
+   "suara": "hasan",
+   "teks": "Kenapa bau tanah saat hujan pertama turun terasa begitu khas dan menenangkan?",
+   "dibaca": "Kenapa bau tanah saat hujan pertama turun terasa begitu khas dan menenangkan?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/1749f70959ef.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "646d6634761e",
+   "suara": "hasan",
+   "teks": "Bau ini begitu akrab, sampai punya nama sendiri, yaitu petrikor.",
+   "dibaca": "Bau ini begitu akrab, sampai punya nama sendiri, yaitu petrikor.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/646d6634761e.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6dad76d17108",
+   "suara": "hasan",
+   "teks": "Nama ini diberikan oleh dua ilmuwan Australia pada tahun seribu sembilan ratus enam puluh empat.",
+   "dibaca": "Nama ini diberikan oleh dua ilmuwan Australia pada tahun seribu sembilan ratus enam puluh empat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/6dad76d17108.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ac593f23056f",
+   "suara": "hasan",
+   "teks": "Petrikor berasal dari bahasa Yunani, petra yang berarti batu, dan ichor, cairan yang mengalir di pembuluh para dewa.",
+   "dibaca": "Petrikor berasal dari bahasa Yunani, petra yang berarti batu, dan ichor, cairan yang mengalir di pembuluh para dewa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ac593f23056f.wav",
+   "durasi": 7.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "be7b5eb25521",
+   "suara": "hasan",
+   "teks": "Tapi dari mana sebenarnya bau ini berasal?",
+   "dibaca": "Tapi dari mana sebenarnya bau ini berasal?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/be7b5eb25521.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "be3902c659f6",
+   "suara": "hasan",
+   "teks": "Jawabannya ternyata dari makhluk yang sangat kecil.",
+   "dibaca": "Jawabannya ternyata dari makhluk yang sangat kecil.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/be3902c659f6.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b0196021c706",
+   "suara": "hasan",
+   "teks": "Di dalam tanah, hidup bakteri bernama Streptomyces.",
+   "dibaca": "Di dalam tanah, hidup bakteri bernama Streptomyces.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b0196021c706.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e05dbb4abfd4",
+   "suara": "hasan",
+   "teks": "Bakteri ini menghasilkan zat bernama geosmin.",
+   "dibaca": "Bakteri ini menghasilkan zat bernama geosmin.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e05dbb4abfd4.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "75788273f728",
+   "suara": "hasan",
+   "teks": "Saat tanah kering lama, geosmin dan minyak dari tumbuhan menumpuk di permukaan tanah dan batu.",
+   "dibaca": "Saat tanah kering lama, geosmin dan minyak dari tumbuhan menumpuk di permukaan tanah dan batu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/75788273f728.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "affa819a8578",
+   "suara": "hasan",
+   "teks": "Lalu bagaimana bau itu bisa terbang sampai ke hidung kita?",
+   "dibaca": "Lalu bagaimana bau itu bisa terbang sampai ke hidung kita?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/affa819a8578.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a0ebf03cf80c",
+   "suara": "hasan",
+   "teks": "Peneliti di MIT merekam tetesan hujan dengan kamera super cepat.",
+   "dibaca": "Peneliti di MIT merekam tetesan hujan dengan kamera super cepat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/a0ebf03cf80c.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fab83e8a17d3",
+   "suara": "hasan",
+   "teks": "Mereka menemukan bahwa saat tetes hujan menghantam tanah, ia menjebak gelembung udara kecil.",
+   "dibaca": "Mereka menemukan bahwa saat tetes hujan menghantam tanah, ia menjebak gelembung udara kecil.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/fab83e8a17d3.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a45ac9575bb2",
+   "suara": "hasan",
+   "teks": "Gelembung itu naik dan pecah, lalu menyemburkan butiran sangat halus ke udara, seperti buih soda.",
+   "dibaca": "Gelembung itu naik dan pecah, lalu menyemburkan butiran sangat halus ke udara, seperti buih soda.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/a45ac9575bb2.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "874e8837bc90",
+   "suara": "hasan",
+   "teks": "Butiran halus inilah yang membawa aroma tanah, dan bisa terbawa angin.",
+   "dibaca": "Butiran halus inilah yang membawa aroma tanah, dan bisa terbawa angin.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/874e8837bc90.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "15930f4f5eeb",
+   "suara": "hasan",
+   "teks": "Hujan yang turun pelan di tanah yang kering justru paling banyak melepaskan aroma ini.",
+   "dibaca": "Hujan yang turun pelan di tanah yang kering justru paling banyak melepaskan aroma ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/15930f4f5eeb.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2fa06b372dda",
+   "suara": "hasan",
+   "teks": "Kenapa hidung kita begitu peka dengan bau ini?",
+   "dibaca": "Kenapa hidung kita begitu peka dengan bau ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/2fa06b372dda.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "328ebbea403a",
+   "suara": "hasan",
+   "teks": "Hidung manusia bisa mencium geosmin dalam jumlah yang sangat kecil, sekitar beberapa bagian dalam satu triliun.",
+   "dibaca": "Hidung manusia bisa mencium geosmin dalam jumlah yang sangat kecil, sekitar beberapa bagian dalam satu triliun.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/328ebbea403a.wav",
+   "durasi": 5.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "72d82f9a4c2c",
+   "suara": "hasan",
+   "teks": "Kepekaan kita pada geosmin lebih tinggi daripada pada banyak bau lain.",
+   "dibaca": "Kepekaan kita pada geosmin lebih tinggi daripada pada banyak bau lain.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/72d82f9a4c2c.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6ab10fd7f50d",
+   "suara": "hasan",
+   "teks": "Sebagian ilmuwan menduga, kepekaan ini membantu nenek moyang kita menemukan air dan tanah yang subur.",
+   "dibaca": "Sebagian ilmuwan menduga, kepekaan ini membantu nenek moyang kita menemukan air dan tanah yang subur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/6ab10fd7f50d.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b3928f6a336f",
+   "suara": "hasan",
+   "teks": "Tapi dugaan ini belum terbukti dan masih menjadi bahan penelitian.",
+   "dibaca": "Tapi dugaan ini belum terbukti dan masih menjadi bahan penelitian.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b3928f6a336f.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d59ee270fe70",
+   "suara": "hasan",
+   "teks": "Ada juga bau lain sebelum badai datang, yang lebih tajam dan segar.",
+   "dibaca": "Ada juga bau lain sebelum badai datang, yang lebih tajam dan segar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d59ee270fe70.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4a395cc4e3f1",
+   "suara": "hasan",
+   "teks": "Itu biasanya bau ozon, yang terbentuk dari petir lalu terbawa angin ke bawah.",
+   "dibaca": "Itu biasanya bau ozon, yang terbentuk dari petir lalu terbawa angin ke bawah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/4a395cc4e3f1.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6d4d73513357",
+   "suara": "hasan",
+   "teks": "Menariknya, geosmin juga yang membuat bit dan beberapa ikan air tawar terasa seperti tanah.",
+   "dibaca": "Menariknya, geosmin juga yang membuat bit dan beberapa ikan air tawar terasa seperti tanah.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/6d4d73513357.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ddf74ca21ba4",
+   "suara": "hasan",
+   "teks": "Jadi, saat kamu mencium bau hujan pertama, kamu sedang mencium hasil kerja jutaan bakteri, dibantu oleh tetes-tetes hujan.",
+   "dibaca": "Jadi, saat kamu mencium bau hujan pertama, kamu sedang mencium hasil kerja jutaan bakteri, dibantu oleh tetes-tetes hujan.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/ddf74ca21ba4.wav",
+   "durasi": 6.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "16211d04926f",
+   "suara": "hasan",
+   "teks": "Hal sederhana yang kita sukai ternyata punya cerita sains yang luar biasa.",
+   "dibaca": "Hal sederhana yang kita sukai ternyata punya cerita sains yang luar biasa.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/16211d04926f.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:09-hujan.txt",
+   "dibuat": "2026-11-22"
   }
  ]
 }
