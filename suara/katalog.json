@@ -74795,6 +74795,111 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3473b309de2b",
+   "suara": "ongky",
+   "teks": "Bayangkan sebuah kota kecil di dalam tubuhmu.",
+   "dibaca": "Bayangkan sebuah kota kecil di dalam tubuhmu.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/3473b309de2b.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fd0181652440",
+   "suara": "ongky",
+   "teks": "Mirip seperti ponsel yang baterainya hampir habis.",
+   "dibaca": "Mirip seperti ponsel yang baterainya hampir habis.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/fd0181652440.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "33c0f6c0d5a9",
+   "suara": "ongky",
+   "teks": "Anggap saja seperti antrean di kasir minimarket.",
+   "dibaca": "Anggap saja seperti antrean di kasir minimarket.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/33c0f6c0d5a9.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8e7a9dde1974",
+   "suara": "ongky",
+   "teks": "Tapi tunggu dulu, ceritanya belum selesai.",
+   "dibaca": "Tapi tunggu dulu, ceritanya belum selesai.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/8e7a9dde1974.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f5dfd089b7d3",
+   "suara": "ongky",
+   "teks": "Tubuhmu ternyata bekerja lebih keras dari yang kamu kira.",
+   "dibaca": "Tubuhmu ternyata bekerja lebih keras dari yang kamu kira.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/f5dfd089b7d3.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "158e9eb86943",
+   "suara": "ongky",
+   "teks": "Kadang, otak kita tertipu oleh hal yang sederhana.",
+   "dibaca": "Kadang, otak kita tertipu oleh hal yang sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/158e9eb86943.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "85ae7f48ed7f",
+   "suara": "ongky",
+   "teks": "Kedengarannya aneh, tapi memang begitu kenyataannya.",
+   "dibaca": "Kedengarannya aneh, tapi memang begitu kenyataannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/85ae7f48ed7f.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
