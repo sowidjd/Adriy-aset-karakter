@@ -73835,6 +73835,81 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a274e16b0cd2",
+   "suara": "adriy",
+   "teks": "Sekarang, mari kita lihat dari sisi yang berbeda.",
+   "dibaca": "Sekarang, mari kita lihat dari sisi yang berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/a274e16b0cd2.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "70210f480ade",
+   "suara": "adriy",
+   "teks": "Pertanyaannya sederhana, tapi jawabannya tidak.",
+   "dibaca": "Pertanyaannya sederhana, tapi jawabannya tidak.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/70210f480ade.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "141c93c1d333",
+   "suara": "adriy",
+   "teks": "Kamu mungkin pernah melihatnya tanpa sadar.",
+   "dibaca": "Kamu mungkin pernah melihatnya tanpa sadar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/141c93c1d333.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ed5c6f4be6a8",
+   "suara": "adriy",
+   "teks": "Coba perhatikan baik-baik.",
+   "dibaca": "Coba perhatikan baik-baik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/ed5c6f4be6a8.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "33757d0eb378",
+   "suara": "adriy",
+   "teks": "Di sinilah bagian menariknya dimulai.",
+   "dibaca": "Di sinilah bagian menariknya dimulai.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/adriy/33757d0eb378.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
   }
  ]
 }
