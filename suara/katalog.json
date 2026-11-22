@@ -74330,6 +74330,201 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0f8340ccad7e",
+   "suara": "hasan",
+   "teks": "Ada satu hal yang sering terlewat.",
+   "dibaca": "Ada satu hal yang sering terlewat.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/0f8340ccad7e.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cf55a26f9a14",
+   "suara": "hasan",
+   "teks": "Ini bukan sulap, ini sains.",
+   "dibaca": "Ini bukan sulap, ini sains.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/cf55a26f9a14.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2bcb8679185f",
+   "suara": "hasan",
+   "teks": "Dan jawabannya ternyata cukup mengejutkan.",
+   "dibaca": "Dan jawabannya ternyata cukup mengejutkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/2bcb8679185f.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "308dd559d325",
+   "suara": "hasan",
+   "teks": "Prosesnya jauh lebih cepat dari kedipan mata.",
+   "dibaca": "Prosesnya jauh lebih cepat dari kedipan mata.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/308dd559d325.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6f9129376aad",
+   "suara": "hasan",
+   "teks": "Mungkin kamu tidak percaya, tapi ini benar.",
+   "dibaca": "Mungkin kamu tidak percaya, tapi ini benar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/6f9129376aad.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8e85690018c5",
+   "suara": "hasan",
+   "teks": "Bayangkan sebuah kota kecil di dalam tubuhmu.",
+   "dibaca": "Bayangkan sebuah kota kecil di dalam tubuhmu.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/8e85690018c5.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e060554bb6ec",
+   "suara": "hasan",
+   "teks": "Mirip seperti ponsel yang baterainya hampir habis.",
+   "dibaca": "Mirip seperti ponsel yang baterainya hampir habis.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/e060554bb6ec.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "30a937d844ca",
+   "suara": "hasan",
+   "teks": "Anggap saja seperti antrean di kasir minimarket.",
+   "dibaca": "Anggap saja seperti antrean di kasir minimarket.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/30a937d844ca.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2d2a3a592202",
+   "suara": "hasan",
+   "teks": "Tapi tunggu dulu, ceritanya belum selesai.",
+   "dibaca": "Tapi tunggu dulu, ceritanya belum selesai.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/2d2a3a592202.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9b65e58300ab",
+   "suara": "hasan",
+   "teks": "Tubuhmu ternyata bekerja lebih keras dari yang kamu kira.",
+   "dibaca": "Tubuhmu ternyata bekerja lebih keras dari yang kamu kira.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/9b65e58300ab.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7269271e4efc",
+   "suara": "hasan",
+   "teks": "Kadang, otak kita tertipu oleh hal yang sederhana.",
+   "dibaca": "Kadang, otak kita tertipu oleh hal yang sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/7269271e4efc.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "111dca224ab8",
+   "suara": "hasan",
+   "teks": "Kedengarannya aneh, tapi memang begitu kenyataannya.",
+   "dibaca": "Kedengarannya aneh, tapi memang begitu kenyataannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/111dca224ab8.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5ca689b36f4b",
+   "suara": "hasan",
+   "teks": "Kita jarang memikirkannya, padahal ini terjadi setiap hari.",
+   "dibaca": "Kita jarang memikirkannya, padahal ini terjadi setiap hari.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/5ca689b36f4b.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
