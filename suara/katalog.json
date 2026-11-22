@@ -88870,6 +88870,141 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7fbb11d9cf3b",
+   "suara": "adriy",
+   "teks": "Karena cahaya biru adalah warna yang paling jauh menembus air laut.",
+   "dibaca": "Karena cahaya biru adalah warna yang paling jauh menembus air laut.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/7fbb11d9cf3b.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "bf4144364bba",
+   "suara": "adriy",
+   "teks": "Setelah kering, tubuh diolesi minyak dan resin pohon.",
+   "dibaca": "Setelah kering, tubuh diolesi minyak dan resin pohon.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/bf4144364bba.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9bd0dc849708",
+   "suara": "adriy",
+   "teks": "Keanehan kecil ini ternyata menyelamatkan kehidupan di Bumi.",
+   "dibaca": "Keanehan kecil ini ternyata menyelamatkan kehidupan di Bumi.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/9bd0dc849708.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "91b7059fc428",
+   "suara": "adriy",
+   "teks": "Lalu bagaimana bau itu bisa terbang sampai ke hidung kita?",
+   "dibaca": "Lalu bagaimana bau itu bisa terbang sampai ke hidung kita?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/91b7059fc428.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e8ee75d8a4cb",
+   "suara": "adriy",
+   "teks": "Cahaya itu lahir dari reaksi kimia di dalam tubuh hewan.",
+   "dibaca": "Cahaya itu lahir dari reaksi kimia di dalam tubuh hewan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/e8ee75d8a4cb.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b8860ab64c08",
+   "suara": "adriy",
+   "teks": "Predator yang melihat dari bawah jadi sulit menemukan mereka.",
+   "dibaca": "Predator yang melihat dari bawah jadi sulit menemukan mereka.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/b8860ab64c08.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "358a558bd7cf",
+   "suara": "adriy",
+   "teks": "Keempat, untuk berkomunikasi dan mencari pasangan.",
+   "dibaca": "Keempat, untuk berkomunikasi dan mencari pasangan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/358a558bd7cf.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a8eef765f1a8",
+   "suara": "adriy",
+   "teks": "Mumi Mesir adalah salah satu peninggalan paling misterius di dunia.",
+   "dibaca": "Mumi Mesir adalah salah satu peninggalan paling misterius di dunia.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/a8eef765f1a8.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c0fd193de3bb",
+   "suara": "adriy",
+   "teks": "Orang Mesir kuno tampaknya menyadari hal ini dari pengalaman.",
+   "dibaca": "Orang Mesir kuno tampaknya menyadari hal ini dari pengalaman.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/c0fd193de3bb.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
