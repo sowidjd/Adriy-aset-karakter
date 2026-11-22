@@ -75219,6 +75219,157 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b6c00cf62d40",
+   "suara": "adriy",
+   "teks": "Para ilmuwan sudah lama penasaran dengan hal ini.",
+   "dibaca": "Para ilmuwan sudah lama penasaran dengan hal ini.",
+   "fungsi": [
+    "memperkenalkan fakta",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/b6c00cf62d40.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8db680aab2d4",
+   "suara": "adriy",
+   "teks": "Penelitian tentang hal ini masih terus berjalan.",
+   "dibaca": "Penelitian tentang hal ini masih terus berjalan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/8db680aab2d4.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4762713e78e8",
+   "suara": "adriy",
+   "teks": "Sebagian ilmuwan setuju, sebagian lagi masih ragu.",
+   "dibaca": "Sebagian ilmuwan setuju, sebagian lagi masih ragu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/4762713e78e8.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "446bf5364581",
+   "suara": "adriy",
+   "teks": "Jawabannya belum sepenuhnya pasti.",
+   "dibaca": "Jawabannya belum sepenuhnya pasti.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/446bf5364581.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8f6c12385b3f",
+   "suara": "adriy",
+   "teks": "Ini baru dugaan, tapi cukup masuk akal.",
+   "dibaca": "Ini baru dugaan, tapi cukup masuk akal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/8f6c12385b3f.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d64fecaff3c6",
+   "suara": "adriy",
+   "teks": "Ada beberapa teori yang mencoba menjelaskannya.",
+   "dibaca": "Ada beberapa teori yang mencoba menjelaskannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/d64fecaff3c6.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c969bea7030f",
+   "suara": "adriy",
+   "teks": "Teori pertama cukup sederhana.",
+   "dibaca": "Teori pertama cukup sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/c969bea7030f.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9699b869bae4",
+   "suara": "adriy",
+   "teks": "Teori kedua sedikit lebih rumit.",
+   "dibaca": "Teori kedua sedikit lebih rumit.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/9699b869bae4.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2e27d3326d01",
+   "suara": "adriy",
+   "teks": "Lalu, teori mana yang paling masuk akal?",
+   "dibaca": "Lalu, teori mana yang paling masuk akal?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/2e27d3326d01.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4effdee2964a",
+   "suara": "adriy",
+   "teks": "Faktanya, hal ini sudah dibuktikan lewat penelitian.",
+   "dibaca": "Faktanya, hal ini sudah dibuktikan lewat penelitian.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/4effdee2964a.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
   }
  ]
 }
