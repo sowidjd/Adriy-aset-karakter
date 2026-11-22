@@ -76903,6 +76903,51 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f50d3a6d9c97",
+   "suara": "adriy",
+   "teks": "Hal kecil ini ternyata punya peran besar.",
+   "dibaca": "Hal kecil ini ternyata punya peran besar.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/f50d3a6d9c97.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2ce4928dd764",
+   "suara": "adriy",
+   "teks": "Tanpa ini, hidup kita akan jauh berbeda.",
+   "dibaca": "Tanpa ini, hidup kita akan jauh berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/2ce4928dd764.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "02801c7d5a7f",
+   "suara": "adriy",
+   "teks": "Coba bayangkan dunia tanpa hal ini.",
+   "dibaca": "Coba bayangkan dunia tanpa hal ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/02801c7d5a7f.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
   }
  ]
 }
