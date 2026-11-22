@@ -71840,6 +71840,411 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ac3a440b9e42",
+   "suara": "ongky",
+   "teks": "Lima menit yang kecil bisa mengubah kebiasaan.",
+   "dibaca": "Lima menit yang kecil bisa mengubah kebiasaan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/ac3a440b9e42.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "35357cdb7bbb",
+   "suara": "ongky",
+   "teks": "Otak kita butuh istirahat supaya tetap fokus.",
+   "dibaca": "Otak kita butuh istirahat supaya tetap fokus.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/35357cdb7bbb.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "15668aa0ce4c",
+   "suara": "ongky",
+   "teks": "Hari-hari yang mirip membuat waktu terasa lebih singkat.",
+   "dibaca": "Hari-hari yang mirip membuat waktu terasa lebih singkat.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/15668aa0ce4c.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3ea589d48016",
+   "suara": "ongky",
+   "teks": "Ponsel kita ternyata lebih pintar dari komputer zaman dulu.",
+   "dibaca": "Ponsel kita ternyata lebih pintar dari komputer zaman dulu.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/3ea589d48016.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "45fea8c51908",
+   "suara": "ongky",
+   "teks": "Notifikasi kecil bisa membuat fokus kita buyar.",
+   "dibaca": "notifikasi kecil bisa membuat fokus kita buyar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/45fea8c51908.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d5be2f1a4c3b",
+   "suara": "ongky",
+   "teks": "Teknologi ini sudah ada di sekitar kita setiap hari.",
+   "dibaca": "Teknologi ini sudah ada di sekitar kita setiap hari.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/d5be2f1a4c3b.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4810d5e70d82",
+   "suara": "ongky",
+   "teks": "Ternyata, cara kerjanya cukup sederhana.",
+   "dibaca": "Ternyata, cara kerjanya cukup sederhana.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/4810d5e70d82.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "233b28eecd4f",
+   "suara": "ongky",
+   "teks": "Tanpa kita sadari, kita sangat bergantung pada teknologi ini.",
+   "dibaca": "Tanpa kita sadari, kita sangat bergantung pada teknologi ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/233b28eecd4f.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4d6d2aed76be",
+   "suara": "ongky",
+   "teks": "Penemuan ini terjadi secara tidak sengaja.",
+   "dibaca": "Penemuan ini terjadi secara tidak sengaja.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/4d6d2aed76be.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9ffbf57c2d3c",
+   "suara": "ongky",
+   "teks": "Dulu, orang punya cara yang sangat berbeda untuk melakukannya.",
+   "dibaca": "Dulu, orang punya cara yang sangat berbeda untuk melakukannya.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/ongky/9ffbf57c2d3c.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4a5ddf2f8bf3",
+   "suara": "ongky",
+   "teks": "Sejarah mencatat kejadian ini sebagai titik balik.",
+   "dibaca": "Sejarah mencatat kejadian ini sebagai titik balik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/4a5ddf2f8bf3.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cdb26bcdd583",
+   "suara": "ongky",
+   "teks": "Ternyata, penemunya sempat diremehkan.",
+   "dibaca": "Ternyata, penemunya sempat diremehkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/cdb26bcdd583.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ebb535f8018f",
+   "suara": "ongky",
+   "teks": "Ratusan tahun lalu, hal ini dianggap mustahil.",
+   "dibaca": "Ratusan tahun lalu, hal ini dianggap mustahil.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/ebb535f8018f.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9bc0476220b0",
+   "suara": "ongky",
+   "teks": "Satu kesalahan kecil justru melahirkan penemuan besar.",
+   "dibaca": "Satu kesalahan kecil justru melahirkan penemuan besar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/9bc0476220b0.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e801567a1552",
+   "suara": "ongky",
+   "teks": "Butuh waktu bertahun-tahun sampai orang percaya.",
+   "dibaca": "Butuh waktu bertahun-tahun sampai orang percaya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/e801567a1552.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "442e42b96356",
+   "suara": "ongky",
+   "teks": "Angka ini mungkin terdengar kecil, tapi efeknya besar.",
+   "dibaca": "Angka ini mungkin terdengar kecil, tapi efeknya besar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/442e42b96356.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "99c4d3819dae",
+   "suara": "ongky",
+   "teks": "Kalau dibandingkan, perbedaannya sangat jauh.",
+   "dibaca": "Kalau dibandingkan, perbedaannya sangat jauh.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/ongky/99c4d3819dae.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "05833ff937be",
+   "suara": "ongky",
+   "teks": "Jumlahnya bahkan lebih banyak dari penduduk Bumi.",
+   "dibaca": "Jumlahnya bahkan lebih banyak dari penduduk Bumi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/05833ff937be.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "33fb0ff2eaa2",
+   "suara": "ongky",
+   "teks": "Ukurannya kira-kira sebesar butiran pasir.",
+   "dibaca": "Ukurannya kira-kira sebesar butiran pasir.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/33fb0ff2eaa2.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0010932b2a4e",
+   "suara": "ongky",
+   "teks": "Kecepatannya lebih cepat dari mobil balap.",
+   "dibaca": "Kecepatannya lebih cepat dari mobil balap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/0010932b2a4e.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cf9763e52cad",
+   "suara": "ongky",
+   "teks": "Jaraknya setara dengan beberapa kali keliling Bumi.",
+   "dibaca": "Jaraknya setara dengan beberapa kali keliling Bumi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/cf9763e52cad.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "be9fdd925abc",
+   "suara": "ongky",
+   "teks": "Kadang, jawaban terbaik justru datang dari pertanyaan sederhana.",
+   "dibaca": "Kadang, jawaban terbaik justru datang dari pertanyaan sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/be9fdd925abc.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d21d5bb5d235",
+   "suara": "ongky",
+   "teks": "Semakin kita tahu, semakin kita sadar banyak yang belum kita tahu.",
+   "dibaca": "Semakin kita tahu, semakin kita sadar banyak yang belum kita tahu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/d21d5bb5d235.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3826c0d685b6",
+   "suara": "ongky",
+   "teks": "Dunia ini penuh hal kecil yang menakjubkan.",
+   "dibaca": "Dunia ini penuh hal kecil yang menakjubkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/3826c0d685b6.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "292ac4f32b8a",
+   "suara": "ongky",
+   "teks": "Jangan berhenti bertanya, karena di situlah kita belajar.",
+   "dibaca": "Jangan berhenti bertanya, karena di situlah kita belajar.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/292ac4f32b8a.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2c1822fb0551",
+   "suara": "ongky",
+   "teks": "Hal yang kita anggap biasa ternyata luar biasa.",
+   "dibaca": "Hal yang kita anggap biasa ternyata luar biasa.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/2c1822fb0551.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a736f261a6b1",
+   "suara": "ongky",
+   "teks": "Pengetahuan kecil bisa mengubah cara kita melihat dunia.",
+   "dibaca": "Pengetahuan kecil bisa mengubah cara kita melihat dunia.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/a736f261a6b1.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
   }
  ]
 }
