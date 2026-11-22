@@ -86327,6 +86327,126 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5cabb6f3c6fd",
+   "suara": "mia",
+   "teks": "Mereka tersusun seperti sarang lebah segi enam, dengan banyak ruang kosong di tengahnya.",
+   "dibaca": "Mereka tersusun seperti sarang lebah segi enam, dengan banyak ruang kosong di tengahnya.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/5cabb6f3c6fd.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4758850e63e7",
+   "suara": "mia",
+   "teks": "Saat musim dingin, danau dan laut membeku dari atas, bukan dari bawah.",
+   "dibaca": "Saat musim dingin, danau dan laut membeku dari atas, bukan dari bawah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4758850e63e7.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4c0c26ce8a3a",
+   "suara": "mia",
+   "teks": "Diam sebentar, ingat-ingat mimpimu, lalu tulis di buku catatan.",
+   "dibaca": "Diam sebentar, ingat-ingat mimpimu, lalu tulis di buku catatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4c0c26ce8a3a.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "eedf231f29ef",
+   "suara": "mia",
+   "teks": "Untuk memahaminya, kita kenalan dulu dengan zat bernama adenosin.",
+   "dibaca": "Untuk memahaminya, kita kenalan dulu dengan zat bernama adenosin.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/eedf231f29ef.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "59c1bd47e144",
+   "suara": "mia",
+   "teks": "Saat banyak kunci yang menempel, otak mendapat pesan, sudah waktunya istirahat.",
+   "dibaca": "Saat banyak kunci yang menempel, otak mendapat pesan, sudah waktunya istirahat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/59c1bd47e144.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "77d9e3e8778c",
+   "suara": "mia",
+   "teks": "Karena dua waktu ini sama persis, sisi yang menghadap kita tidak pernah berganti.",
+   "dibaca": "Karena dua waktu ini sama persis, sisi yang menghadap kita tidak pernah berganti.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/77d9e3e8778c.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cdef2e1194d7",
+   "suara": "mia",
+   "teks": "Gravitasi Bumi menarik sisi bulan yang lebih dekat sedikit lebih kuat daripada sisi yang jauh.",
+   "dibaca": "Gravitasi Bumi menarik sisi bulan yang lebih dekat sedikit lebih kuat daripada sisi yang jauh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/cdef2e1194d7.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a6491b9e34f9",
+   "suara": "mia",
+   "teks": "Tarikan ini membuat bulan sedikit memanjang, seperti bola yang ditarik dari dua arah.",
+   "dibaca": "Tarikan ini membuat bulan sedikit memanjang, seperti bola yang ditarik dari dua arah.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/a6491b9e34f9.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
