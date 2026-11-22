@@ -87531,6 +87531,82 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "77172865adfb",
+   "suara": "mia",
+   "teks": "Petrikor berasal dari bahasa Yunani, petra yang berarti batu, dan ichor, cairan yang mengalir di pembuluh para dewa.",
+   "dibaca": "Petrikor berasal dari bahasa Yunani, petra yang berarti batu, dan ichor, cairan yang mengalir di pembuluh para dewa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/77172865adfb.wav",
+   "durasi": 7.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "af8cb29ea98c",
+   "suara": "mia",
+   "teks": "Ini terjadi karena orbit bulan tidak bulat sempurna dan porosnya sedikit miring, jadi bulan terlihat seperti mengangguk pelan.",
+   "dibaca": "Ini terjadi karena orbit bulan tidak bulat sempurna dan porosnya sedikit miring, jadi bulan terlihat seperti mengangguk pelan.",
+   "fungsi": [
+    "memberikan analogi",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/af8cb29ea98c.wav",
+   "durasi": 7.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "13b7bf9aadd0",
+   "suara": "mia",
+   "teks": "Ada juga cerita populer bahwa harga sembilan puluh sembilan dulu dipakai supaya kasir harus memberi kembalian dan mencatat penjualan.",
+   "dibaca": "Ada juga cerita populer bahwa harga sembilan puluh sembilan dulu dipakai supaya kasir harus memberi kembalian dan mencatat penjualan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/13b7bf9aadd0.wav",
+   "durasi": 8.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6ac420360a16",
+   "suara": "mia",
+   "teks": "Saat tidur, otak hanya mengeluarkan sangat sedikit noradrenalin, zat kimia yang membantu kita fokus dan menyimpan ingatan baru.",
+   "dibaca": "Saat tidur, otak hanya mengeluarkan sangat sedikit noradrenalin, zat kimia yang membantu kita fokus dan menyimpan ingatan baru.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/6ac420360a16.wav",
+   "durasi": 7.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "74e4f7c5ca2b",
+   "suara": "mia",
+   "teks": "Untuk orang dewasa yang sehat, batas aman yang sering dipakai adalah sekitar empat ratus miligram kafein per hari, kira-kira tiga sampai empat cangkir kopi.",
+   "dibaca": "Untuk orang dewasa yang sehat, batas aman yang sering dipakai adalah sekitar empat ratus miligram kafein per hari, kira-kira tiga sampai empat cangkir kopi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/74e4f7c5ca2b.wav",
+   "durasi": 9.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
