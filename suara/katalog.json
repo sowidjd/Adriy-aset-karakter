@@ -77293,6 +77293,96 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "736cfb9d3351",
+   "suara": "hasan",
+   "teks": "Dan semua itu dimulai dari sini.",
+   "dibaca": "Dan semua itu dimulai dari sini.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/736cfb9d3351.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "957e8a1bb429",
+   "suara": "hasan",
+   "teks": "Inilah yang membuat hal ini begitu istimewa.",
+   "dibaca": "Inilah yang membuat hal ini begitu istimewa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/957e8a1bb429.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "adde5bdca5d4",
+   "suara": "mia",
+   "teks": "Dan semua itu dimulai dari sini.",
+   "dibaca": "Dan semua itu dimulai dari sini.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/adde5bdca5d4.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "99546559aa38",
+   "suara": "mia",
+   "teks": "Inilah yang membuat hal ini begitu istimewa.",
+   "dibaca": "Inilah yang membuat hal ini begitu istimewa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/99546559aa38.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "06faadfc77ae",
+   "suara": "ongky",
+   "teks": "Dan semua itu dimulai dari sini.",
+   "dibaca": "Dan semua itu dimulai dari sini.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/ongky/06faadfc77ae.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "02bd028a2e30",
+   "suara": "ongky",
+   "teks": "Inilah yang membuat hal ini begitu istimewa.",
+   "dibaca": "Inilah yang membuat hal ini begitu istimewa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/02bd028a2e30.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
