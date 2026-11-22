@@ -84150,6 +84150,157 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e9160dae2347",
+   "suara": "mia",
+   "teks": "Jadi saat kita membuka mata, mimpi baru saja terjadi, tapi sistem penyimpanannya belum siap.",
+   "dibaca": "Jadi saat kita membuka mata, mimpi baru saja terjadi, tapi sistem penyimpanannya belum siap.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/e9160dae2347.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5532d53a4bac",
+   "suara": "mia",
+   "teks": "Jadi, saat kamu mencium bau hujan pertama, kamu sedang mencium hasil kerja jutaan bakteri, dibantu oleh tetes-tetes hujan.",
+   "dibaca": "Jadi, saat kamu mencium bau hujan pertama, kamu sedang mencium hasil kerja jutaan bakteri, dibantu oleh tetes-tetes hujan.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/5532d53a4bac.wav",
+   "durasi": 8.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2f2fae3efc50",
+   "suara": "mia",
+   "teks": "Jadi, saat kamu memandang bulan malam ini, ingat bahwa kamu sedang melihat wajah yang sama dengan yang dilihat nenek moyang kita.",
+   "dibaca": "Jadi, saat kamu memandang bulan malam ini, ingat bahwa kamu sedang melihat wajah yang sama dengan yang dilihat nenek moyang kita.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/2f2fae3efc50.wav",
+   "durasi": 7.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "431ecab36823",
+   "suara": "mia",
+   "teks": "Selain itu, hipokampus, bagian otak yang berperan menyimpan ingatan baru, diduga termasuk bagian yang paling lambat bangun.",
+   "dibaca": "Selain itu, hipokampus, bagian otak yang berperan menyimpan ingatan baru, diduga termasuk bagian yang paling lambat bangun.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/mia/431ecab36823.wav",
+   "durasi": 7.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2f8ad1987d8c",
+   "suara": "mia",
+   "teks": "Ternyata tidak.",
+   "dibaca": "Ternyata tidak.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/2f8ad1987d8c.wav",
+   "durasi": 0.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c440fecc138f",
+   "suara": "mia",
+   "teks": "Apakah ini kebetulan?",
+   "dibaca": "Apakah ini kebetulan?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/c440fecc138f.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "18a34c9a3a0d",
+   "suara": "mia",
+   "teks": "Tapi ada yang menarik.",
+   "dibaca": "Tapi ada yang menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/18a34c9a3a0d.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "94a9d1e9cb8c",
+   "suara": "mia",
+   "teks": "Kenapa tubuh bisa membusuk?",
+   "dibaca": "Kenapa tubuh bisa membusuk?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/94a9d1e9cb8c.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "032961cfafed",
+   "suara": "mia",
+   "teks": "Ternyata justru sebaliknya.",
+   "dibaca": "Ternyata justru sebaliknya.",
+   "fungsi": [
+    "membantah asumsi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/032961cfafed.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c45d4c4d2400",
+   "suara": "mia",
+   "teks": "Lalu kenapa bisa sekompak itu?",
+   "dibaca": "Lalu kenapa bisa sekompak itu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/c45d4c4d2400.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
