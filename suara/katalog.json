@@ -72545,6 +72545,216 @@
    "catatan": "",
    "sumber": "naskah:naskah.txt",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2558f3fd9cba",
+   "suara": "hasan",
+   "teks": "Kalau dibandingkan, perbedaannya sangat jauh.",
+   "dibaca": "Kalau dibandingkan, perbedaannya sangat jauh.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/hasan/2558f3fd9cba.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "442648c139d7",
+   "suara": "hasan",
+   "teks": "Itulah yang membuat kedua sisi kain bisa menyatu tanpa lem atau magnet.",
+   "dibaca": "Itulah yang membuat kedua sisi kain bisa menyatu tanpa lem atau magnet.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/442648c139d7.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e75d5527429b",
+   "suara": "hasan",
+   "teks": "Di Adriy Project, kita membongkar cara kerja benda yang selama ini kita anggap biasa.",
+   "dibaca": "Di Adriy Project, kita membongkar cara kerja benda yang selama ini kita anggap biasa.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/hasan/e75d5527429b.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "40ca7751fde9",
+   "suara": "hasan",
+   "teks": "Bentuk setiap gigi dirancang agar tonjolan satu sisi masuk ke celah sisi lainnya.",
+   "dibaca": "Bentuk setiap gigi dirancang agar tonjolan satu sisi masuk ke celah sisi lainnya.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/hasan/40ca7751fde9.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "06b7a7b33a61",
+   "suara": "hasan",
+   "teks": "Coba simpan video ini, karena benda sehari-hari lainnya juga punya mekanisme yang tidak kalah menarik.",
+   "dibaca": "Coba simpan video ini, karena benda sehari-hari lainnya juga punya mekanisme yang tidak kalah menarik.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/06b7a7b33a61.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "599db0dd064c",
+   "suara": "hasan",
+   "teks": "Jadi, resleting bukan sekadar pegangan, tetapi pengarah mekanisme yang sangat sederhana dan efektif.",
+   "dibaca": "Jadi, resleting bukan sekadar pegangan, tetapi pengarah mekanisme yang sangat sederhana dan efektif.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/599db0dd064c.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e863f0e290e8",
+   "suara": "hasan",
+   "teks": "Kecepatannya lebih cepat dari mobil balap.",
+   "dibaca": "Kecepatannya lebih cepat dari mobil balap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e863f0e290e8.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "295012213b3c",
+   "suara": "hasan",
+   "teks": "Penemuan ini terjadi secara tidak sengaja.",
+   "dibaca": "Penemuan ini terjadi secara tidak sengaja.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/295012213b3c.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2a12c246af28",
+   "suara": "hasan",
+   "teks": "Jaraknya setara dengan beberapa kali keliling Bumi.",
+   "dibaca": "Jaraknya setara dengan beberapa kali keliling Bumi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/2a12c246af28.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d5b41124d071",
+   "suara": "hasan",
+   "teks": "Butuh waktu bertahun-tahun sampai orang percaya.",
+   "dibaca": "Butuh waktu bertahun-tahun sampai orang percaya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d5b41124d071.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "289daf9fa2ba",
+   "suara": "hasan",
+   "teks": "Dunia ini penuh hal kecil yang menakjubkan.",
+   "dibaca": "Dunia ini penuh hal kecil yang menakjubkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/289daf9fa2ba.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "453855a1fcbe",
+   "suara": "hasan",
+   "teks": "Hal yang kita anggap biasa ternyata luar biasa.",
+   "dibaca": "Hal yang kita anggap biasa ternyata luar biasa.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/453855a1fcbe.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8e794be385db",
+   "suara": "hasan",
+   "teks": "Sejarah mencatat kejadian ini sebagai titik balik.",
+   "dibaca": "Sejarah mencatat kejadian ini sebagai titik balik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/8e794be385db.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c60186cf94df",
+   "suara": "hasan",
+   "teks": "Ternyata, penemunya sempat diremehkan.",
+   "dibaca": "Ternyata, penemunya sempat diremehkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/c60186cf94df.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
