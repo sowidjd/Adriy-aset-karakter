@@ -87607,6 +87607,127 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1cbef29ea590",
+   "suara": "mia",
+   "teks": "Sebuah penelitian di Amerika menemukan bahwa barang seharga dua koma sembilan sembilan dolar terasa jauh lebih murah daripada tiga dolar, dibanding selisih harga lain yang sama besar.",
+   "dibaca": "Sebuah penelitian di Amerika menemukan bahwa barang seharga dua koma sembilan sembilan dolar terasa jauh lebih murah daripada tiga dolar, dibanding selisih harga lain yang sama besar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1cbef29ea590.wav",
+   "durasi": 11.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ead6c4554106",
+   "suara": "adriy",
+   "teks": "Sifat mengembang ini juga punya sisi lain.",
+   "dibaca": "Sifat mengembang ini juga punya sisi lain.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/ead6c4554106.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4d6adec92d5d",
+   "suara": "adriy",
+   "teks": "Jadi, mimpimu bukan hilang karena tidak penting.",
+   "dibaca": "Jadi, mimpimu bukan hilang karena tidak penting.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/4d6adec92d5d.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "43ce554b5ccd",
+   "suara": "adriy",
+   "teks": "Jadi, kopi tidak memberimu energi baru.",
+   "dibaca": "Jadi, kopi tidak memberimu energi baru.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/43ce554b5ccd.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4c31a47e22ab",
+   "suara": "adriy",
+   "teks": "Itulah rasa kantuk yang kita rasakan di sore atau malam hari.",
+   "dibaca": "Itulah rasa kantuk yang kita rasakan di sore atau malam hari.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/4c31a47e22ab.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5ce7f0774f67",
+   "suara": "adriy",
+   "teks": "Itulah kenapa magnet kulkas bisa bertahan bertahun-tahun.",
+   "dibaca": "Itulah kenapa magnet kulkas bisa bertahan bertahun-tahun.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/5ce7f0774f67.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c8418ba9829a",
+   "suara": "adriy",
+   "teks": "Itulah kenapa waktu terbang pergi dan pulang di rute yang sama bisa berbeda.",
+   "dibaca": "Itulah kenapa waktu terbang pergi dan pulang di rute yang sama bisa berbeda.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/c8418ba9829a.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a4b62cc02abe",
+   "suara": "adriy",
+   "teks": "Tulis di kolom komentar, berapa gelas kopi yang kamu minum hari ini?",
+   "dibaca": "Tulis di kolom komentar, berapa gelas kopi yang kamu minum hari ini?",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/adriy/a4b62cc02abe.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
