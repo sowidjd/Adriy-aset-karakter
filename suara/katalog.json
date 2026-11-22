@@ -83698,6 +83698,156 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6cffc9339cf1",
+   "suara": "hasan",
+   "teks": "Lalu muncul pertanyaan: kalau semua benda punya elektron, kenapa tidak semua benda jadi magnet?",
+   "dibaca": "Lalu muncul pertanyaan: kalau semua benda punya elektron, kenapa tidak semua benda jadi magnet?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/6cffc9339cf1.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "45c16e3a46db",
+   "suara": "hasan",
+   "teks": "Medan magnet terbentuk di sekitar magnet, keluar dari kutub utara dan masuk ke kutub selatan.",
+   "dibaca": "Medan magnet terbentuk di sekitar magnet, keluar dari kutub utara dan masuk ke kutub selatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/45c16e3a46db.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b54b53003dfe",
+   "suara": "hasan",
+   "teks": "Untuk sementara, besi itu berubah menjadi magnet, dengan kutub yang berlawanan menghadap magnet kita.",
+   "dibaca": "Untuk sementara, besi itu berubah menjadi magnet, dengan kutub yang berlawanan menghadap magnet kita.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b54b53003dfe.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "25cb8c4b494d",
+   "suara": "hasan",
+   "teks": "Dan yang lebih menarik, atom-atom tetangga ini saling memengaruhi supaya menghadap ke arah yang sama.",
+   "dibaca": "Dan yang lebih menarik, atom-atom tetangga ini saling memengaruhi supaya menghadap ke arah yang sama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/25cb8c4b494d.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5be1eadcb49f",
+   "suara": "hasan",
+   "teks": "Sifat magnet ini datang dari spin elektron dan gerakannya mengelilingi inti atom.",
+   "dibaca": "Sifat magnet ini datang dari spin elektron dan gerakannya mengelilingi inti atom.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/5be1eadcb49f.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fa3580669b88",
+   "suara": "hasan",
+   "teks": "Saat diberi medan magnet yang kuat, domain yang searah membesar, dan batas antardomain ikut bergeser.",
+   "dibaca": "Saat diberi medan magnet yang kuat, domain yang searah membesar, dan batas antardomain ikut bergeser.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/fa3580669b88.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3a0d630bf78f",
+   "suara": "hasan",
+   "teks": "Atom-atomnya punya elektron yang tidak berpasangan, jadi masing-masing atom tetap bersifat magnet.",
+   "dibaca": "Atom-atomnya punya elektron yang tidak berpasangan, jadi masing-masing atom tetap bersifat magnet.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3a0d630bf78f.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a3b7621c2ff8",
+   "suara": "hasan",
+   "teks": "Kalau dipanaskan melewati suhu tertentu, yang disebut suhu Curie, susunan itu kembali acak dan sifat magnetnya hilang.",
+   "dibaca": "Kalau dipanaskan melewati suhu tertentu, yang disebut suhu Curie, susunan itu kembali acak dan sifat magnetnya hilang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/a3b7621c2ff8.wav",
+   "durasi": 6.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fc0478047141",
+   "suara": "mia",
+   "teks": "Tulis pendapatmu di kolom komentar.",
+   "dibaca": "Tulis pendapatmu di kolom komentar.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/fc0478047141.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2d288861137c",
+   "suara": "mia",
+   "teks": "Sifat mengembang ini juga punya sisi lain.",
+   "dibaca": "Sifat mengembang ini juga punya sisi lain.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/mia/2d288861137c.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
