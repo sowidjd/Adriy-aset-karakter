@@ -75958,6 +75958,186 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "860bb797d4a3",
+   "suara": "hasan",
+   "teks": "Mari kita perbesar sedikit.",
+   "dibaca": "Mari kita perbesar sedikit.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/860bb797d4a3.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a152edce7fb8",
+   "suara": "hasan",
+   "teks": "Dari luar terlihat biasa saja.",
+   "dibaca": "Dari luar terlihat biasa saja.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/a152edce7fb8.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1ca425d4b676",
+   "suara": "hasan",
+   "teks": "Sekarang, kita perbesar lagi.",
+   "dibaca": "Sekarang, kita perbesar lagi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/1ca425d4b676.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6ec2971e6b44",
+   "suara": "hasan",
+   "teks": "Coba bandingkan dengan sesuatu yang lebih akrab.",
+   "dibaca": "Coba bandingkan dengan sesuatu yang lebih akrab.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/6ec2971e6b44.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f2b4cdbcd288",
+   "suara": "hasan",
+   "teks": "Hasilnya ternyata di luar dugaan.",
+   "dibaca": "Hasilnya ternyata di luar dugaan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/f2b4cdbcd288.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "80ff9659f024",
+   "suara": "hasan",
+   "teks": "Tapi di dalamnya, ada proses yang rumit.",
+   "dibaca": "Tapi di dalamnya, ada proses yang rumit.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/80ff9659f024.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "900546f62b9f",
+   "suara": "hasan",
+   "teks": "Di tingkat yang lebih kecil, semuanya berbeda.",
+   "dibaca": "Di tingkat yang lebih kecil, semuanya berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/900546f62b9f.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cc8e6f76fd45",
+   "suara": "hasan",
+   "teks": "Angka ini mungkin terdengar kecil, tapi dampaknya besar.",
+   "dibaca": "Angka ini mungkin terdengar kecil, tapi dampaknya besar.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/cc8e6f76fd45.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c98c478a736c",
+   "suara": "hasan",
+   "teks": "Semakin dalam kita mencari, semakin menarik ceritanya.",
+   "dibaca": "Semakin dalam kita mencari, semakin menarik ceritanya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/c98c478a736c.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "db8e4e75a255",
+   "suara": "mia",
+   "teks": "Mari kita perbesar sedikit.",
+   "dibaca": "Mari kita perbesar sedikit.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/db8e4e75a255.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d2d25eb4932c",
+   "suara": "mia",
+   "teks": "Dari luar terlihat biasa saja.",
+   "dibaca": "Dari luar terlihat biasa saja.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d2d25eb4932c.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "51403b811385",
+   "suara": "mia",
+   "teks": "Sekarang, kita perbesar lagi.",
+   "dibaca": "Sekarang, kita perbesar lagi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/51403b811385.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
