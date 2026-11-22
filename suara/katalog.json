@@ -72965,6 +72965,186 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "85962a1f9a33",
+   "suara": "hasan",
+   "teks": "Dua baris gigi masuk dari jalur berbeda, lalu diarahkan untuk bertemu.",
+   "dibaca": "Dua baris gigi masuk dari jalur berbeda, lalu diarahkan untuk bertemu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/85962a1f9a33.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f243b6438c59",
+   "suara": "hasan",
+   "teks": "Saat slider ditarik ke arah sebaliknya, jalur yang sama memisahkan gigi-gigi tadi.",
+   "dibaca": "Saat slider ditarik ke arah sebaliknya, jalur yang sama memisahkan gigi-gigi tadi.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/f243b6438c59.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cfc490772dcc",
+   "suara": "hasan",
+   "teks": "Sekilas, resleting cuma punya dua baris gigi dan satu bagian yang kita tarik.",
+   "dibaca": "Sekilas, resleting cuma punya dua baris gigi dan satu bagian yang kita tarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/cfc490772dcc.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2523fec560ef",
+   "suara": "hasan",
+   "teks": "Satu komponen kecil ternyata bisa melakukan dua fungsi hanya dengan mengubah arah gerak.",
+   "dibaca": "Satu komponen kecil ternyata bisa melakukan dua fungsi hanya dengan mengubah arah gerak.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/2523fec560ef.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b58aac9e41fa",
+   "suara": "hasan",
+   "teks": "Pernah kepikiran bagaimana benda kecil ini bisa mengunci dua sisi kain hanya dengan satu tarikan?",
+   "dibaca": "Pernah kepikiran bagaimana benda kecil ini bisa mengunci dua sisi kain hanya dengan satu tarikan?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/b58aac9e41fa.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4253dfbf244d",
+   "suara": "mia",
+   "teks": "Kalau dibandingkan, perbedaannya sangat jauh.",
+   "dibaca": "Kalau dibandingkan, perbedaannya sangat jauh.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/mia/4253dfbf244d.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5e5e6b10e52c",
+   "suara": "mia",
+   "teks": "Itulah yang membuat kedua sisi kain bisa menyatu tanpa lem atau magnet.",
+   "dibaca": "Itulah yang membuat kedua sisi kain bisa menyatu tanpa lem atau magnet.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/5e5e6b10e52c.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "43bb3e65ee97",
+   "suara": "mia",
+   "teks": "Di Adriy Project, kita membongkar cara kerja benda yang selama ini kita anggap biasa.",
+   "dibaca": "Di Adriy Project, kita membongkar cara kerja benda yang selama ini kita anggap biasa.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/43bb3e65ee97.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2e41e28d9bea",
+   "suara": "mia",
+   "teks": "Bentuk setiap gigi dirancang agar tonjolan satu sisi masuk ke celah sisi lainnya.",
+   "dibaca": "Bentuk setiap gigi dirancang agar tonjolan satu sisi masuk ke celah sisi lainnya.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/mia/2e41e28d9bea.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3622a42245db",
+   "suara": "mia",
+   "teks": "Coba simpan video ini, karena benda sehari-hari lainnya juga punya mekanisme yang tidak kalah menarik.",
+   "dibaca": "Coba simpan video ini, karena benda sehari-hari lainnya juga punya mekanisme yang tidak kalah menarik.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/3622a42245db.wav",
+   "durasi": 6.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3708dca2e6cd",
+   "suara": "mia",
+   "teks": "Jadi, resleting bukan sekadar pegangan, tetapi pengarah mekanisme yang sangat sederhana dan efektif.",
+   "dibaca": "Jadi, resleting bukan sekadar pegangan, tetapi pengarah mekanisme yang sangat sederhana dan efektif.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/3708dca2e6cd.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c026bf4d5408",
+   "suara": "mia",
+   "teks": "Kecepatannya lebih cepat dari mobil balap.",
+   "dibaca": "Kecepatannya lebih cepat dari mobil balap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c026bf4d5408.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
