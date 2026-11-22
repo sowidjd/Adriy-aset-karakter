@@ -86567,6 +86567,307 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5db8e69c9327",
+   "suara": "mia",
+   "teks": "Saat tanah kering lama, geosmin dan minyak dari tumbuhan menumpuk di permukaan tanah dan batu.",
+   "dibaca": "Saat tanah kering lama, geosmin dan minyak dari tumbuhan menumpuk di permukaan tanah dan batu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5db8e69c9327.wav",
+   "durasi": 5.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "68bc4fa6fae6",
+   "suara": "mia",
+   "teks": "Hujan yang turun pelan di tanah yang kering justru paling banyak melepaskan aroma ini.",
+   "dibaca": "Hujan yang turun pelan di tanah yang kering justru paling banyak melepaskan aroma ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/68bc4fa6fae6.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1c14aa0d05e2",
+   "suara": "mia",
+   "teks": "Coba bayangkan kamu berjalan mengelilingi meja, sambil wajahmu terus menghadap ke meja.",
+   "dibaca": "Coba bayangkan kamu berjalan mengelilingi meja, sambil wajahmu terus menghadap ke meja.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/1c14aa0d05e2.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b2b4fc6d8919",
+   "suara": "mia",
+   "teks": "Kamu tetap berputar satu kali, tapi orang di tengah hanya melihat wajahmu.",
+   "dibaca": "Kamu tetap berputar satu kali, tapi orang di tengah hanya melihat wajahmu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b2b4fc6d8919.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "24f366b5d932",
+   "suara": "mia",
+   "teks": "Dulu, saat bulan masih berputar lebih cepat, tonjolan ini terus ditarik kembali oleh Bumi.",
+   "dibaca": "Dulu, saat bulan masih berputar lebih cepat, tonjolan ini terus ditarik kembali oleh Bumi.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/24f366b5d932.wav",
+   "durasi": 5.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0a01f910e128",
+   "suara": "mia",
+   "teks": "Dan di bawah sekitar seribu meter, cahaya matahari praktis tidak sampai sama sekali.",
+   "dibaca": "Dan di bawah sekitar seribu meter, cahaya matahari praktis tidak sampai sama sekali.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0a01f910e128.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5f3586abcce4",
+   "suara": "mia",
+   "teks": "Saat jalur lingkaran besar itu digambar ulang di peta datar, hasilnya terlihat melengkung.",
+   "dibaca": "Saat jalur lingkaran besar itu digambar ulang di peta datar, hasilnya terlihat melengkung.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5f3586abcce4.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e3e39a2b66c2",
+   "suara": "mia",
+   "teks": "Selisihnya cuma sedikit dengan angka bulat, tapi hampir semua toko melakukannya.",
+   "dibaca": "Selisihnya cuma sedikit dengan angka bulat, tapi hampir semua toko melakukannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/e3e39a2b66c2.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d63969a3e176",
+   "suara": "mia",
+   "teks": "Sejak kita bangun pagi, otak terus menghasilkan adenosin sebagai sisa dari aktivitasnya.",
+   "dibaca": "Sejak kita bangun pagi, otak terus menghasilkan adenosin sebagai sisa dari aktivitasnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d63969a3e176.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fac87291b38b",
+   "suara": "mia",
+   "teks": "Efek kafein biasanya mulai terasa sekitar dua puluh sampai empat puluh lima menit setelah diminum.",
+   "dibaca": "Efek kafein biasanya mulai terasa sekitar dua puluh sampai empat puluh lima menit setelah diminum.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/fac87291b38b.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d40fbd346fc4",
+   "suara": "mia",
+   "teks": "Menariknya, geosmin juga yang membuat bit dan beberapa ikan air tawar terasa seperti tanah.",
+   "dibaca": "Menariknya, geosmin juga yang membuat bit dan beberapa ikan air tawar terasa seperti tanah.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/d40fbd346fc4.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "71f8f598c4b3",
+   "suara": "mia",
+   "teks": "Bahkan Pluto dan bulannya, Charon, saling mengunci, sehingga keduanya selalu saling menatap.",
+   "dibaca": "Bahkan Pluto dan bulannya, Charon, saling mengunci, sehingga keduanya selalu saling menatap.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/71f8f598c4b3.wav",
+   "durasi": 5.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "81b50aa070d5",
+   "suara": "mia",
+   "teks": "Pembusukan terjadi karena bakteri dan jamur, dan mereka butuh air untuk hidup.",
+   "dibaca": "Pembusukan terjadi karena bakteri dan jamur, dan mereka butuh air untuk hidup.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/81b50aa070d5.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6c08a02b7bcf",
+   "suara": "mia",
+   "teks": "Langkah pertama, organ dalam dikeluarkan, karena bagian inilah yang paling cepat membusuk.",
+   "dibaca": "Langkah pertama, organ dalam dikeluarkan, karena bagian inilah yang paling cepat membusuk.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/6c08a02b7bcf.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ac1d3fbae5a6",
+   "suara": "mia",
+   "teks": "Langkah terakhir, tubuh dibungkus dengan kain linen yang panjangnya bisa mencapai ratusan meter.",
+   "dibaca": "Langkah terakhir, tubuh dibungkus dengan kain linen yang panjangnya bisa mencapai ratusan meter.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ac1d3fbae5a6.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "168a784ef44d",
+   "suara": "mia",
+   "teks": "Untuk mengubah bola menjadi lembaran datar, bentuk benua dan jarak pasti ikut berubah.",
+   "dibaca": "Untuk mengubah bola menjadi lembaran datar, bentuk benua dan jarak pasti ikut berubah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/168a784ef44d.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2742f0480882",
+   "suara": "mia",
+   "teks": "Akibatnya, harga itu terasa jauh lebih murah, padahal selisihnya hanya seratus rupiah.",
+   "dibaca": "Akibatnya, harga itu terasa jauh lebih murah, padahal selisihnya hanya seratus rupiah.",
+   "fungsi": [
+    "membantah asumsi",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/2742f0480882.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e28e6b6de698",
+   "suara": "mia",
+   "teks": "Angka bulat juga lebih mudah diproses otak, sehingga cocok untuk keputusan yang berdasarkan perasaan.",
+   "dibaca": "Angka bulat juga lebih mudah diproses otak, sehingga cocok untuk keputusan yang berdasarkan perasaan.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/e28e6b6de698.wav",
+   "durasi": 6.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6e5305f81c88",
+   "suara": "mia",
+   "teks": "Wajah itu terbentuk dari tarikan gravitasi yang bekerja tanpa henti selama jutaan tahun.",
+   "dibaca": "Wajah itu terbentuk dari tarikan gravitasi yang bekerja tanpa henti selama jutaan tahun.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/6e5305f81c88.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b402c05ba7e4",
+   "suara": "mia",
+   "teks": "Karena tubuh yang kering, resin, dan udara gurun yang kering bekerja sama mencegah pembusukan.",
+   "dibaca": "Karena tubuh yang kering, resin, dan udara gurun yang kering bekerja sama mencegah pembusukan.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/b402c05ba7e4.wav",
+   "durasi": 5.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
