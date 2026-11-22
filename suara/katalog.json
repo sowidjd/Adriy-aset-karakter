@@ -87728,6 +87728,126 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fc375ba3027f",
+   "suara": "adriy",
+   "teks": "Itulah kenapa kopi sore hari masih bisa mengganggu tidur malammu.",
+   "dibaca": "Itulah kenapa kopi sore hari masih bisa mengganggu tidur malammu.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/fc375ba3027f.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "157f18f470aa",
+   "suara": "adriy",
+   "teks": "Tanpa zat ini, otak seperti merekam video tanpa menekan tombol simpan.",
+   "dibaca": "Tanpa zat ini, otak seperti merekam video tanpa menekan tombol simpan.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/adriy/157f18f470aa.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "34c7e5ca0132",
+   "suara": "adriy",
+   "teks": "Selain itu, angka sembilan sudah lama kita kaitkan dengan diskon dan promo.",
+   "dibaca": "Selain itu, angka sembilan sudah lama kita kaitkan dengan diskon dan promo.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/34c7e5ca0132.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "809c57bbde4e",
+   "suara": "adriy",
+   "teks": "Jadi saat melihat angka sembilan, otak langsung berpikir, ini pasti harga hemat.",
+   "dibaca": "Jadi saat melihat angka sembilan, otak langsung berpikir, ini pasti harga hemat.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/809c57bbde4e.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d4c72d3274df",
+   "suara": "adriy",
+   "teks": "Jadi, es batu di gelasmu sedang menunjukkan salah satu sifat air yang paling penting bagi kehidupan.",
+   "dibaca": "Jadi, es batu di gelasmu sedang menunjukkan salah satu sifat air yang paling penting bagi kehidupan.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/d4c72d3274df.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a3531d83fa68",
+   "suara": "adriy",
+   "teks": "Jadi, laut dalam yang kita kira gelap gulita, sebenarnya dipenuhi lampu-lampu kecil yang hidup.",
+   "dibaca": "Jadi, laut dalam yang kita kira gelap gulita, sebenarnya dipenuhi lampu-lampu kecil yang hidup.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/a3531d83fa68.wav",
+   "durasi": 6.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8691ca60239e",
+   "suara": "adriy",
+   "teks": "Jadi, rute pesawat adalah hasil perhitungan antara jarak, angin, dan keselamatan.",
+   "dibaca": "Jadi, rute pesawat adalah hasil perhitungan antara jarak, angin, dan keselamatan.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/8691ca60239e.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8bace4a70ac4",
+   "suara": "adriy",
+   "teks": "Jadi, angka sembilan di label harga bukan kebetulan, melainkan pesan kecil untuk otakmu.",
+   "dibaca": "Jadi, angka sembilan di label harga bukan kebetulan, melainkan pesan kecil untuk otakmu.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/8bace4a70ac4.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
