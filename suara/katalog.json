@@ -80541,6 +80541,412 @@
    "catatan": "",
    "sumber": "naskah:02-laut.txt",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0a83b1c81a40",
+   "suara": "hasan",
+   "teks": "Bagaimana mungkin tubuh manusia bisa tetap utuh selama lebih dari tiga ribu tahun?",
+   "dibaca": "Bagaimana mungkin tubuh manusia bisa tetap utuh selama lebih dari tiga ribu tahun?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/0a83b1c81a40.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "44708ebf8188",
+   "suara": "hasan",
+   "teks": "Mumi Mesir adalah salah satu peninggalan paling misterius di dunia.",
+   "dibaca": "Mumi Mesir adalah salah satu peninggalan paling misterius di dunia.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/44708ebf8188.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f948c059e78f",
+   "suara": "hasan",
+   "teks": "Tapi rahasianya ternyata bukan sihir, melainkan sains yang sangat cerdas.",
+   "dibaca": "Tapi rahasianya ternyata bukan sihir, melainkan sains yang sangat cerdas.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/f948c059e78f.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "15aedd5fd604",
+   "suara": "hasan",
+   "teks": "Kita mulai dari satu pertanyaan.",
+   "dibaca": "Kita mulai dari satu pertanyaan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/15aedd5fd604.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2663ceaa5663",
+   "suara": "hasan",
+   "teks": "Kenapa tubuh bisa membusuk?",
+   "dibaca": "Kenapa tubuh bisa membusuk?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/2663ceaa5663.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fec141c7ab21",
+   "suara": "hasan",
+   "teks": "Pembusukan terjadi karena bakteri dan jamur, dan mereka butuh air untuk hidup.",
+   "dibaca": "Pembusukan terjadi karena bakteri dan jamur, dan mereka butuh air untuk hidup.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/fec141c7ab21.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "59587e53290d",
+   "suara": "hasan",
+   "teks": "Kalau tubuh benar-benar kering, bakteri tidak bisa bekerja.",
+   "dibaca": "Kalau tubuh benar-benar kering, bakteri tidak bisa bekerja.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/59587e53290d.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "50903eb97919",
+   "suara": "hasan",
+   "teks": "Orang Mesir kuno tampaknya menyadari hal ini dari pengalaman.",
+   "dibaca": "Orang Mesir kuno tampaknya menyadari hal ini dari pengalaman.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/50903eb97919.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "da8ba0668b0e",
+   "suara": "hasan",
+   "teks": "Jenazah yang dikubur di pasir gurun yang panas dan kering ternyata bisa awet secara alami.",
+   "dibaca": "Jenazah yang dikubur di pasir gurun yang panas dan kering ternyata bisa awet secara alami.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/da8ba0668b0e.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "822ffe1e0737",
+   "suara": "hasan",
+   "teks": "Dari situ, mereka mengembangkan proses pengawetan yang jauh lebih rumit.",
+   "dibaca": "Dari situ, mereka mengembangkan proses pengawetan yang jauh lebih rumit.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/822ffe1e0737.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d2ea652c99a9",
+   "suara": "hasan",
+   "teks": "Langkah pertama, organ dalam dikeluarkan, karena bagian inilah yang paling cepat membusuk.",
+   "dibaca": "Langkah pertama, organ dalam dikeluarkan, karena bagian inilah yang paling cepat membusuk.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/d2ea652c99a9.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "516bd8ec8a92",
+   "suara": "hasan",
+   "teks": "Paru-paru, hati, lambung, dan usus disimpan dalam wadah khusus.",
+   "dibaca": "Paru-paru, hati, lambung, dan usus disimpan dalam wadah khusus.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/516bd8ec8a92.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1f1047d9621d",
+   "suara": "hasan",
+   "teks": "Jantung biasanya dibiarkan di dalam tubuh, karena dianggap pusat jiwa dan pikiran.",
+   "dibaca": "Jantung biasanya dibiarkan di dalam tubuh, karena dianggap pusat jiwa dan pikiran.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/1f1047d9621d.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e6b353417a0d",
+   "suara": "hasan",
+   "teks": "Langkah kedua adalah bagian terpenting, yaitu mengeringkan tubuh.",
+   "dibaca": "Langkah kedua adalah bagian terpenting, yaitu mengeringkan tubuh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e6b353417a0d.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "18b75225d1cf",
+   "suara": "hasan",
+   "teks": "Tubuh ditimbun dengan natron, garam alami yang diambil dari dasar danau kering.",
+   "dibaca": "Tubuh ditimbun dengan natron, garam alami yang diambil dari dasar danau kering.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/18b75225d1cf.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "30441acc0975",
+   "suara": "hasan",
+   "teks": "Natron menyerap air dari tubuh selama sekitar empat puluh hari.",
+   "dibaca": "Natron menyerap air dari tubuh selama sekitar empat puluh hari.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/30441acc0975.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f6a3197612b9",
+   "suara": "hasan",
+   "teks": "Setelah kering, tubuh diolesi minyak dan resin pohon.",
+   "dibaca": "Setelah kering, tubuh diolesi minyak dan resin pohon.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/f6a3197612b9.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ce4348fcb4bb",
+   "suara": "hasan",
+   "teks": "Resin ini membantu melindungi kulit dan menahan masuknya kelembapan.",
+   "dibaca": "Resin ini membantu melindungi kulit dan menahan masuknya kelembapan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ce4348fcb4bb.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f82430d0139d",
+   "suara": "hasan",
+   "teks": "Langkah terakhir, tubuh dibungkus dengan kain linen yang panjangnya bisa mencapai ratusan meter.",
+   "dibaca": "Langkah terakhir, tubuh dibungkus dengan kain linen yang panjangnya bisa mencapai ratusan meter.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/f82430d0139d.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3549dd97089b",
+   "suara": "hasan",
+   "teks": "Di antara lapisan kain, sering diselipkan jimat kecil untuk perlindungan.",
+   "dibaca": "Di antara lapisan kain, sering diselipkan jimat kecil untuk perlindungan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3549dd97089b.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2b99faae14e8",
+   "suara": "hasan",
+   "teks": "Menurut catatan sejarawan Yunani, Herodotus, seluruh proses ini memakan waktu sekitar tujuh puluh hari.",
+   "dibaca": "Menurut catatan sejarawan Yunani, Herodotus, seluruh proses ini memakan waktu sekitar tujuh puluh hari.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/2b99faae14e8.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "df64b9d362ba",
+   "suara": "hasan",
+   "teks": "Lalu kenapa mumi bisa bertahan ribuan tahun?",
+   "dibaca": "Lalu kenapa mumi bisa bertahan ribuan tahun?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/df64b9d362ba.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "eea9ac29d44e",
+   "suara": "hasan",
+   "teks": "Karena tubuh yang kering, resin, dan udara gurun yang kering bekerja sama mencegah pembusukan.",
+   "dibaca": "Karena tubuh yang kering, resin, dan udara gurun yang kering bekerja sama mencegah pembusukan.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/eea9ac29d44e.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2a40a287fb01",
+   "suara": "hasan",
+   "teks": "Makam yang tertutup rapat juga melindungi mumi dari air dan hewan.",
+   "dibaca": "Makam yang tertutup rapat juga melindungi mumi dari air dan hewan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/2a40a287fb01.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6eb33484ee18",
+   "suara": "hasan",
+   "teks": "Dan yang menarik, ilmuwan sekarang bisa memindai mumi dengan sinar-X dan CT scan, tanpa membuka kainnya.",
+   "dibaca": "Dan yang menarik, ilmuwan sekarang bisa memindai mumi dengan sinar eks dan CT scan, tanpa membuka kainnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/6eb33484ee18.wav",
+   "durasi": 6.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2ab04d03975e",
+   "suara": "hasan",
+   "teks": "Dari situ kita bisa tahu usia, penyakit, bahkan pola makan orang yang hidup ribuan tahun lalu.",
+   "dibaca": "Dari situ kita bisa tahu usia, penyakit, bahkan pola makan orang yang hidup ribuan tahun lalu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/2ab04d03975e.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d0abd05c74ad",
+   "suara": "hasan",
+   "teks": "Jadi, mumi bukan hanya peninggalan kematian, tapi juga catatan kehidupan dari masa lalu.",
+   "dibaca": "Jadi, mumi bukan hanya peninggalan kematian, tapi juga catatan kehidupan dari masa lalu.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/d0abd05c74ad.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:03-mumi.txt",
+   "dibuat": "2026-11-22"
   }
  ]
 }
