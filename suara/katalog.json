@@ -89005,6 +89005,141 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3f8bb12e50f0",
+   "suara": "adriy",
+   "teks": "Volumenya bertambah, tapi beratnya tetap sama.",
+   "dibaca": "Volumenya bertambah, tapi beratnya tetap sama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/3f8bb12e50f0.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0ddc7dc0a1eb",
+   "suara": "adriy",
+   "teks": "Kenapa harga barang di toko sering berakhiran sembilan puluh sembilan?",
+   "dibaca": "Kenapa harga barang di toko sering berakhiran sembilan puluh sembilan?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/0ddc7dc0a1eb.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7e8e313b63d0",
+   "suara": "adriy",
+   "teks": "Pernah sadar nggak, bulan yang kamu lihat malam ini wajahnya selalu sama?",
+   "dibaca": "Pernah sadar nggak, bulan yang kamu lihat malam ini wajahnya selalu sama?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/7e8e313b63d0.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "59657fd9a7c4",
+   "suara": "adriy",
+   "teks": "Banyak bulan milik planet lain juga terkunci dengan cara yang sama.",
+   "dibaca": "Banyak bulan milik planet lain juga terkunci dengan cara yang sama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/59657fd9a7c4.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "bf52dfa827c7",
+   "suara": "adriy",
+   "teks": "Kalau tubuh benar-benar kering, bakteri tidak bisa bekerja.",
+   "dibaca": "Kalau tubuh benar-benar kering, bakteri tidak bisa bekerja.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/bf52dfa827c7.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "dcc447a1c9be",
+   "suara": "adriy",
+   "teks": "Makam yang tertutup rapat juga melindungi mumi dari air dan hewan.",
+   "dibaca": "Makam yang tertutup rapat juga melindungi mumi dari air dan hewan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/dcc447a1c9be.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "03e06b343b7c",
+   "suara": "adriy",
+   "teks": "Padahal, ini salah satu keanehan terbesar di dunia kimia.",
+   "dibaca": "Padahal, ini salah satu keanehan terbesar di dunia kimia.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/03e06b343b7c.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8363b03eb1a9",
+   "suara": "adriy",
+   "teks": "Saat membeku, air mengembang sekitar sembilan persen.",
+   "dibaca": "Saat membeku, air mengembang sekitar sembilan persen.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/8363b03eb1a9.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6eff84e95c2a",
+   "suara": "adriy",
+   "teks": "Para peneliti menyebut fenomena ini efek digit kiri.",
+   "dibaca": "Para peneliti menyebut fenomena ini efek digit kiri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/6eff84e95c2a.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
