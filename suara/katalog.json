@@ -82526,6 +82526,426 @@
    "catatan": "",
    "sumber": "naskah:07-harga.txt",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "05e1f97415e7",
+   "suara": "hasan",
+   "teks": "Kenapa secangkir kopi bisa bikin mata yang tadinya berat langsung terbuka?",
+   "dibaca": "Kenapa secangkir kopi bisa bikin mata yang tadinya berat langsung terbuka?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/05e1f97415e7.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8349878569b1",
+   "suara": "hasan",
+   "teks": "Banyak orang mengira kopi memberi kita tenaga tambahan.",
+   "dibaca": "Banyak orang mengira kopi memberi kita tenaga tambahan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/8349878569b1.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8a61bacaf57e",
+   "suara": "hasan",
+   "teks": "Padahal, kopi sebenarnya tidak menambah energi sama sekali.",
+   "dibaca": "Padahal, kopi sebenarnya tidak menambah energi sama sekali.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/8a61bacaf57e.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "71c047fe38b3",
+   "suara": "hasan",
+   "teks": "Kopi bekerja dengan cara menipu otak.",
+   "dibaca": "Kopi bekerja dengan cara menipu otak.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/71c047fe38b3.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8c84d55c568a",
+   "suara": "hasan",
+   "teks": "Untuk memahaminya, kita kenalan dulu dengan zat bernama adenosin.",
+   "dibaca": "Untuk memahaminya, kita kenalan dulu dengan zat bernama adenosin.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/8c84d55c568a.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fbf2a8f42f92",
+   "suara": "hasan",
+   "teks": "Sejak kita bangun pagi, otak terus menghasilkan adenosin sebagai sisa dari aktivitasnya.",
+   "dibaca": "Sejak kita bangun pagi, otak terus menghasilkan adenosin sebagai sisa dari aktivitasnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/fbf2a8f42f92.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "49c17287c753",
+   "suara": "hasan",
+   "teks": "Semakin lama kita terjaga, semakin banyak adenosin yang menumpuk.",
+   "dibaca": "Semakin lama kita terjaga, semakin banyak adenosin yang menumpuk.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/49c17287c753.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "61f2516121ab",
+   "suara": "hasan",
+   "teks": "Adenosin lalu menempel pada penerima khusus di sel otak, seperti kunci yang masuk ke gemboknya.",
+   "dibaca": "Adenosin lalu menempel pada penerima khusus di sel otak, seperti kunci yang masuk ke gemboknya.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/61f2516121ab.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "274202a6b3ae",
+   "suara": "hasan",
+   "teks": "Saat banyak kunci yang menempel, otak mendapat pesan, sudah waktunya istirahat.",
+   "dibaca": "Saat banyak kunci yang menempel, otak mendapat pesan, sudah waktunya istirahat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/274202a6b3ae.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "825cd9e5a624",
+   "suara": "hasan",
+   "teks": "Itulah rasa kantuk yang kita rasakan di sore atau malam hari.",
+   "dibaca": "Itulah rasa kantuk yang kita rasakan di sore atau malam hari.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/825cd9e5a624.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "83606bb0ec7a",
+   "suara": "hasan",
+   "teks": "Nah, di sinilah kafein masuk.",
+   "dibaca": "Nah, di sinilah kafein masuk.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/83606bb0ec7a.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "07fd6fc6faa5",
+   "suara": "hasan",
+   "teks": "Bentuk molekul kafein sangat mirip dengan adenosin.",
+   "dibaca": "Bentuk molekul kafein sangat mirip dengan adenosin.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/07fd6fc6faa5.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d5a3c2d150f3",
+   "suara": "hasan",
+   "teks": "Kafein bisa masuk ke gembok yang sama, tapi tidak membuka pesan kantuk.",
+   "dibaca": "Kafein bisa masuk ke gembok yang sama, tapi tidak membuka pesan kantuk.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d5a3c2d150f3.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a032d222eb78",
+   "suara": "hasan",
+   "teks": "Kafein hanya menutup gembok itu, sehingga adenosin tidak bisa menempel.",
+   "dibaca": "Kafein hanya menutup gembok itu, sehingga adenosin tidak bisa menempel.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/a032d222eb78.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a4d60e7da524",
+   "suara": "hasan",
+   "teks": "Rasa kantuknya tidak hilang, hanya saja pesannya tidak sampai.",
+   "dibaca": "Rasa kantuknya tidak hilang, hanya saja pesannya tidak sampai.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/a4d60e7da524.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a8c319cf7e11",
+   "suara": "hasan",
+   "teks": "Tulis di kolom komentar, berapa gelas kopi yang kamu minum hari ini?",
+   "dibaca": "Tulis di kolom komentar, berapa gelas kopi yang kamu minum hari ini?",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/a8c319cf7e11.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "baa2ecbe8d76",
+   "suara": "hasan",
+   "teks": "Efek kafein biasanya mulai terasa sekitar dua puluh sampai empat puluh lima menit setelah diminum.",
+   "dibaca": "Efek kafein biasanya mulai terasa sekitar dua puluh sampai empat puluh lima menit setelah diminum.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/baa2ecbe8d76.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4657c66e065a",
+   "suara": "hasan",
+   "teks": "Di dalam tubuh, kafein butuh sekitar lima jam sampai jumlahnya tinggal separuh, walaupun lamanya berbeda pada tiap orang.",
+   "dibaca": "Di dalam tubuh, kafein butuh sekitar lima jam sampai jumlahnya tinggal separuh, walaupun lamanya berbeda pada tiap orang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/4657c66e065a.wav",
+   "durasi": 6.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2a6e28b73f31",
+   "suara": "hasan",
+   "teks": "Itulah kenapa kopi sore hari masih bisa mengganggu tidur malammu.",
+   "dibaca": "Itulah kenapa kopi sore hari masih bisa mengganggu tidur malammu.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/2a6e28b73f31.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e0ba25ebed1d",
+   "suara": "hasan",
+   "teks": "Lalu, kenapa kadang setelah efek kopi habis kita malah sangat mengantuk?",
+   "dibaca": "Lalu, kenapa kadang setelah efek kopi habis kita malah sangat mengantuk?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/e0ba25ebed1d.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5e74f4c879ac",
+   "suara": "hasan",
+   "teks": "Karena selama kafein bekerja, adenosin terus menumpuk tanpa kita sadari.",
+   "dibaca": "Karena selama kafein bekerja, adenosin terus menumpuk tanpa kita sadari.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/5e74f4c879ac.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "de558d593280",
+   "suara": "hasan",
+   "teks": "Saat kafein habis, adenosin yang menumpuk itu menempel sekaligus.",
+   "dibaca": "Saat kafein habis, adenosin yang menumpuk itu menempel sekaligus.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/de558d593280.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "11afbe9aef97",
+   "suara": "hasan",
+   "teks": "Dan kalau kita minum kopi setiap hari, otak bisa menambah jumlah gemboknya.",
+   "dibaca": "Dan kalau kita minum kopi setiap hari, otak bisa menambah jumlah gemboknya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/11afbe9aef97.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1c382a5935ad",
+   "suara": "hasan",
+   "teks": "Akibatnya, kita butuh kopi lebih banyak untuk merasakan efek yang sama.",
+   "dibaca": "Akibatnya, kita butuh kopi lebih banyak untuk merasakan efek yang sama.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/1c382a5935ad.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b5d0bb19928d",
+   "suara": "hasan",
+   "teks": "Untuk orang dewasa yang sehat, batas aman yang sering dipakai adalah sekitar empat ratus miligram kafein per hari, kira-kira tiga sampai empat cangkir kopi.",
+   "dibaca": "Untuk orang dewasa yang sehat, batas aman yang sering dipakai adalah sekitar empat ratus miligram kafein per hari, kira-kira tiga sampai empat cangkir kopi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b5d0bb19928d.wav",
+   "durasi": 8.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "df2eeef2746d",
+   "suara": "hasan",
+   "teks": "Kalau punya kondisi kesehatan tertentu, sebaiknya tanya ke tenaga kesehatan.",
+   "dibaca": "Kalau punya kondisi kesehatan tertentu, sebaiknya tanya ke tenaga kesehatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/df2eeef2746d.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4f1893f6e64f",
+   "suara": "hasan",
+   "teks": "Jadi, kopi tidak memberimu energi baru.",
+   "dibaca": "Jadi, kopi tidak memberimu energi baru.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/4f1893f6e64f.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "011b1aed7e6d",
+   "suara": "hasan",
+   "teks": "Kopi hanya menunda pesan lelah dari otakmu.",
+   "dibaca": "Kopi hanya menunda pesan lelah dari otakmu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/011b1aed7e6d.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:08-kopi.txt",
+   "dibuat": "2026-11-22"
   }
  ]
 }
