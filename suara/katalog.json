@@ -77809,6 +77809,190 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e3f05e6048d6",
+   "suara": "hasan",
+   "teks": "Jadi, apa artinya buat kita?",
+   "dibaca": "Jadi, apa artinya buat kita?",
+   "fungsi": [
+    "menyampaikan kesimpulan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/e3f05e6048d6.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d456198ef88b",
+   "suara": "hasan",
+   "teks": "Apa hubungannya dengan kehidupan kita?",
+   "dibaca": "Apa hubungannya dengan kehidupan kita?",
+   "fungsi": [
+    "menghubungkan dua topik",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/d456198ef88b.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cb78a2aeb606",
+   "suara": "hasan",
+   "teks": "Sekarang, kita sudah tahu jawabannya.",
+   "dibaca": "Sekarang, kita sudah tahu jawabannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/cb78a2aeb606.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "36500df315ff",
+   "suara": "hasan",
+   "teks": "Tapi masih ada bagian yang belum terjawab.",
+   "dibaca": "Tapi masih ada bagian yang belum terjawab.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/36500df315ff.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5849022bfbb1",
+   "suara": "hasan",
+   "teks": "Yang jelas, ceritanya belum berakhir.",
+   "dibaca": "Yang jelas, ceritanya belum berakhir.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/5849022bfbb1.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a18320bef279",
+   "suara": "hasan",
+   "teks": "Zaman dulu, hal ini dianggap misteri.",
+   "dibaca": "Zaman dulu, hal ini dianggap misteri.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/a18320bef279.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1e43037a0711",
+   "suara": "hasan",
+   "teks": "Sampai sekarang, ini masih jadi bahan penelitian.",
+   "dibaca": "Sampai sekarang, ini masih jadi bahan penelitian.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/1e43037a0711.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ed67cd3553b0",
+   "suara": "hasan",
+   "teks": "Mungkin suatu hari nanti, kita akan tahu jawabannya.",
+   "dibaca": "Mungkin suatu hari nanti, kita akan tahu jawabannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ed67cd3553b0.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ca01bd928d2d",
+   "suara": "mia",
+   "teks": "Jadi, apa artinya buat kita?",
+   "dibaca": "Jadi, apa artinya buat kita?",
+   "fungsi": [
+    "menyampaikan kesimpulan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/ca01bd928d2d.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2f8e44316fe5",
+   "suara": "mia",
+   "teks": "Apa hubungannya dengan kehidupan kita?",
+   "dibaca": "Apa hubungannya dengan kehidupan kita?",
+   "fungsi": [
+    "menghubungkan dua topik",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/2f8e44316fe5.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "15669d40edaf",
+   "suara": "mia",
+   "teks": "Sekarang, kita sudah tahu jawabannya.",
+   "dibaca": "Sekarang, kita sudah tahu jawabannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/15669d40edaf.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a8bd3d530dd3",
+   "suara": "mia",
+   "teks": "Tapi masih ada bagian yang belum terjawab.",
+   "dibaca": "Tapi masih ada bagian yang belum terjawab.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a8bd3d530dd3.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
