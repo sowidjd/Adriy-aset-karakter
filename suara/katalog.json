@@ -86191,6 +86191,142 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1d991ed19c74",
+   "suara": "mia",
+   "teks": "Orang yang terbiasa menulis jurnal mimpi biasanya jadi lebih sering mengingat mimpinya.",
+   "dibaca": "Orang yang terbiasa menulis jurnal mimpi biasanya jadi lebih sering mengingat mimpinya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1d991ed19c74.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5924cf0bb88e",
+   "suara": "mia",
+   "teks": "Angka bulat terasa lebih elegan dan bisa membuat produk terkesan berkualitas tinggi.",
+   "dibaca": "Angka bulat terasa lebih elegan dan bisa membuat produk terkesan berkualitas tinggi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5924cf0bb88e.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2e2deed5f362",
+   "suara": "mia",
+   "teks": "Tapi cerita ini belum tentu benar, jadi anggap saja sebagai kisah menarik.",
+   "dibaca": "Tapi cerita ini belum tentu benar, jadi anggap saja sebagai kisah menarik.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/2e2deed5f362.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cb71c7dc85bc",
+   "suara": "mia",
+   "teks": "Kafein hanya menutup gembok itu, sehingga adenosin tidak bisa menempel.",
+   "dibaca": "Kafein hanya menutup gembok itu, sehingga adenosin tidak bisa menempel.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/cb71c7dc85bc.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "805f47a91b44",
+   "suara": "mia",
+   "teks": "Saat kafein habis, adenosin yang menumpuk itu menempel sekaligus.",
+   "dibaca": "Saat kafein habis, adenosin yang menumpuk itu menempel sekaligus.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/805f47a91b44.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e12732b691f6",
+   "suara": "mia",
+   "teks": "Akibatnya, kita butuh kopi lebih banyak untuk merasakan efek yang sama.",
+   "dibaca": "Akibatnya, kita butuh kopi lebih banyak untuk merasakan efek yang sama.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/e12732b691f6.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "96df3e5f365d",
+   "suara": "mia",
+   "teks": "Dan bulan juga butuh sekitar dua puluh tujuh hari untuk sekali berputar pada porosnya.",
+   "dibaca": "Dan bulan juga butuh sekitar dua puluh tujuh hari untuk sekali berputar pada porosnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/96df3e5f365d.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f814893febc0",
+   "suara": "mia",
+   "teks": "Tapi rahasianya ternyata bukan sihir, melainkan sains yang sangat cerdas.",
+   "dibaca": "Tapi rahasianya ternyata bukan sihir, melainkan sains yang sangat cerdas.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/f814893febc0.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d4fb9f4da24d",
+   "suara": "mia",
+   "teks": "Jenazah yang dikubur di pasir gurun yang panas dan kering ternyata bisa awet secara alami.",
+   "dibaca": "Jenazah yang dikubur di pasir gurun yang panas dan kering ternyata bisa awet secara alami.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/d4fb9f4da24d.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
