@@ -76753,6 +76753,126 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "651703ae892e",
+   "suara": "mia",
+   "teks": "Kalau terjadi terlalu sering, sebaiknya periksa ke tenaga kesehatan.",
+   "dibaca": "Kalau terjadi terlalu sering, sebaiknya periksa ke tenaga kesehatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/651703ae892e.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3043719cdc00",
+   "suara": "ongky",
+   "teks": "Jadi, bukan cuma perasaanmu saja.",
+   "dibaca": "Jadi, bukan cuma perasaanmu saja.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/3043719cdc00.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "53b670e97f28",
+   "suara": "ongky",
+   "teks": "Inilah alasan kenapa kita merasakannya.",
+   "dibaca": "Inilah alasan kenapa kita merasakannya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/53b670e97f28.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8e7aad3ea74b",
+   "suara": "ongky",
+   "teks": "Ini juga menjelaskan kenapa hal itu sering terjadi.",
+   "dibaca": "Ini juga menjelaskan kenapa hal itu sering terjadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/8e7aad3ea74b.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e2c780154fdd",
+   "suara": "ongky",
+   "teks": "Ternyata, ini hal yang sangat normal.",
+   "dibaca": "Ternyata, ini hal yang sangat normal.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/e2c780154fdd.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d4dea034e329",
+   "suara": "ongky",
+   "teks": "Kalau dilihat dari jauh, polanya baru kelihatan.",
+   "dibaca": "Kalau dilihat dari jauh, polanya baru kelihatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/d4dea034e329.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "68fa54c58e40",
+   "suara": "ongky",
+   "teks": "Kalau dilihat dari dekat, bentuknya ternyata unik.",
+   "dibaca": "Kalau dilihat dari dekat, bentuknya ternyata unik.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/68fa54c58e40.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "528854304185",
+   "suara": "ongky",
+   "teks": "Kamu tidak sendirian, banyak orang merasakan hal yang sama.",
+   "dibaca": "Kamu tidak sendirian, banyak orang merasakan hal yang sama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/528854304185.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
