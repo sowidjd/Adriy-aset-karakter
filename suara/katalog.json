@@ -78612,6 +78612,127 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "82c9cc2c7ca2",
+   "suara": "adriy",
+   "teks": "Kita sering menganggap magnet hanyalah benda biasa dengan dua kutub.",
+   "dibaca": "Kita sering menganggap magnet hanyalah benda biasa dengan dua kutub.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/82c9cc2c7ca2.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "98c5fa730202",
+   "suara": "adriy",
+   "teks": "Pembongkaran ini adalah visualisasi struktur materialnya.",
+   "dibaca": "Pembongkaran ini adalah visualisasi struktur materialnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/98c5fa730202.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "25a7395a750d",
+   "suara": "adriy",
+   "teks": "Walaupun tidak terlihat, medan ini dapat memengaruhi benda tertentu.",
+   "dibaca": "Walaupun tidak terlihat, medan ini dapat memengaruhi benda tertentu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/25a7395a750d.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "882e7a0d049f",
+   "suara": "adriy",
+   "teks": "Ketika banyak domain menjadi lebih sejajar, efek magnetik material semakin kuat.",
+   "dibaca": "Ketika banyak domain menjadi lebih sejajar, efek magnetik material semakin kuat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/882e7a0d049f.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1789ed00ee93",
+   "suara": "adriy",
+   "teks": "Momen magnetik atom dapat berinteraksi dan membentuk kelompok yang disebut domain magnetik.",
+   "dibaca": "Momen magnetik atom dapat berinteraksi dan membentuk kelompok yang disebut domain magnetik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/1789ed00ee93.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8bd1729ac2e2",
+   "suara": "adriy",
+   "teks": "Di balik benda sederhana, terdapat dunia mikroskopis dengan susunan magnetik yang luar biasa.",
+   "dibaca": "Di balik benda sederhana, terdapat dunia mikroskopis dengan susunan magnetik yang luar biasa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/8bd1729ac2e2.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "300e05e38d57",
+   "suara": "adriy",
+   "teks": "Pernah nggak kamu melihat benda kecil seperti ini, tetapi mampu menarik benda lain tanpa menyentuhnya?",
+   "dibaca": "Pernah nggak kamu melihat benda kecil seperti ini, tetapi mampu menarik benda lain tanpa menyentuhnya?",
+   "fungsi": [
+    "memberikan analogi",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/300e05e38d57.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0a37a042ddce",
+   "suara": "adriy",
+   "teks": "Saat besi mendekat, medan magnet menyebabkan perubahan susunan magnetik yang menghasilkan gaya tarik.",
+   "dibaca": "Saat besi mendekat, medan magnet menyebabkan perubahan susunan magnetik yang menghasilkan gaya tarik.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/0a37a042ddce.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
