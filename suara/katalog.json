@@ -84736,6 +84736,171 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cdaa0b8c1080",
+   "suara": "mia",
+   "teks": "Menurutmu, mana yang paling masuk akal?",
+   "dibaca": "Menurutmu, mana yang paling masuk akal?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/cdaa0b8c1080.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a5b503d6993f",
+   "suara": "mia",
+   "teks": "Banyak orang mengira bulan tidak berputar sama sekali.",
+   "dibaca": "Banyak orang mengira bulan tidak berputar sama sekali.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a5b503d6993f.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cbd02f0f4c06",
+   "suara": "mia",
+   "teks": "Lalu bagaimana dengan sisi yang tidak pernah kita lihat?",
+   "dibaca": "Lalu bagaimana dengan sisi yang tidak pernah kita lihat?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/cbd02f0f4c06.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a53a3484b780",
+   "suara": "mia",
+   "teks": "Lalu kenapa cahayanya kebanyakan berwarna biru?",
+   "dibaca": "Lalu kenapa cahayanya kebanyakan berwarna biru?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/a53a3484b780.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "19d3fccbb8c9",
+   "suara": "mia",
+   "teks": "Lalu kenapa mumi bisa bertahan ribuan tahun?",
+   "dibaca": "Lalu kenapa mumi bisa bertahan ribuan tahun?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/19d3fccbb8c9.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9f97dbb70d96",
+   "suara": "mia",
+   "teks": "Coba pikirkan lilin, mentega, atau besi.",
+   "dibaca": "Coba pikirkan lilin, mentega, atau besi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9f97dbb70d96.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "dd5b01cf5e1c",
+   "suara": "mia",
+   "teks": "Masalahnya ada pada peta yang biasa kita lihat.",
+   "dibaca": "Masalahnya ada pada peta yang biasa kita lihat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/dd5b01cf5e1c.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "651e5aec7da2",
+   "suara": "mia",
+   "teks": "Itu adalah jalan pintas di atas Bumi yang bulat.",
+   "dibaca": "Itu adalah jalan pintas di atas Bumi yang bulat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/651e5aec7da2.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0dfb12db352c",
+   "suara": "mia",
+   "teks": "Banyak orang mengira kopi memberi kita tenaga tambahan.",
+   "dibaca": "Banyak orang mengira kopi memberi kita tenaga tambahan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0dfb12db352c.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ad4a4325b57c",
+   "suara": "mia",
+   "teks": "Ilmuwan menyebut keadaan ini penguncian pasang surut.",
+   "dibaca": "Ilmuwan menyebut keadaan ini penguncian pasang surut.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ad4a4325b57c.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f78f6a10ee84",
+   "suara": "mia",
+   "teks": "Ketiga, untuk mengelabui musuh.",
+   "dibaca": "Ketiga, untuk mengelabui musuh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f78f6a10ee84.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
