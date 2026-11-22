@@ -77627,6 +77627,66 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3985121c4f38",
+   "suara": "ongky",
+   "teks": "Dulu, orang punya penjelasan yang berbeda.",
+   "dibaca": "Dulu, orang punya penjelasan yang berbeda.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/ongky/3985121c4f38.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "90129bcf4820",
+   "suara": "ongky",
+   "teks": "Ceritanya berawal dari sebuah ketidaksengajaan.",
+   "dibaca": "Ceritanya berawal dari sebuah ketidaksengajaan.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/ongky/90129bcf4820.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0a2c68d26e85",
+   "suara": "ongky",
+   "teks": "Tidak ada yang menyangka hasilnya akan seperti ini.",
+   "dibaca": "Tidak ada yang menyangka hasilnya akan seperti ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/0a2c68d26e85.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a5fc0bf684a9",
+   "suara": "ongky",
+   "teks": "Butuh waktu lama sampai orang benar-benar memahaminya.",
+   "dibaca": "Butuh waktu lama sampai orang benar-benar memahaminya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/a5fc0bf684a9.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
