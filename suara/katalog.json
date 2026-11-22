@@ -73910,6 +73910,231 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c51e68dad29c",
+   "suara": "hasan",
+   "teks": "Coba perhatikan baik-baik.",
+   "dibaca": "Coba perhatikan baik-baik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/c51e68dad29c.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "86bbc6cfe938",
+   "suara": "hasan",
+   "teks": "Di sinilah bagian menariknya dimulai.",
+   "dibaca": "Di sinilah bagian menariknya dimulai.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/86bbc6cfe938.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "704856ebbc13",
+   "suara": "hasan",
+   "teks": "Kamu mungkin pernah melihatnya tanpa sadar.",
+   "dibaca": "Kamu mungkin pernah melihatnya tanpa sadar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/704856ebbc13.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ce8be3170c88",
+   "suara": "hasan",
+   "teks": "Pertanyaannya sederhana, tapi jawabannya tidak.",
+   "dibaca": "Pertanyaannya sederhana, tapi jawabannya tidak.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ce8be3170c88.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "aa6f149b7b37",
+   "suara": "hasan",
+   "teks": "Sekarang, mari kita lihat dari sisi yang berbeda.",
+   "dibaca": "Sekarang, mari kita lihat dari sisi yang berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/aa6f149b7b37.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "42f7e5d9766d",
+   "suara": "mia",
+   "teks": "Coba perhatikan baik-baik.",
+   "dibaca": "Coba perhatikan baik-baik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/42f7e5d9766d.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ba493e191c2f",
+   "suara": "mia",
+   "teks": "Di sinilah bagian menariknya dimulai.",
+   "dibaca": "Di sinilah bagian menariknya dimulai.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/ba493e191c2f.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9cd6fa801e90",
+   "suara": "mia",
+   "teks": "Kamu mungkin pernah melihatnya tanpa sadar.",
+   "dibaca": "Kamu mungkin pernah melihatnya tanpa sadar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9cd6fa801e90.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f94c31069bcf",
+   "suara": "mia",
+   "teks": "Pertanyaannya sederhana, tapi jawabannya tidak.",
+   "dibaca": "Pertanyaannya sederhana, tapi jawabannya tidak.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f94c31069bcf.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "375ccb4a4c94",
+   "suara": "mia",
+   "teks": "Sekarang, mari kita lihat dari sisi yang berbeda.",
+   "dibaca": "Sekarang, mari kita lihat dari sisi yang berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/375ccb4a4c94.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4cda0cbbc594",
+   "suara": "ongky",
+   "teks": "Coba perhatikan baik-baik.",
+   "dibaca": "Coba perhatikan baik-baik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/4cda0cbbc594.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fd32a96d3edd",
+   "suara": "ongky",
+   "teks": "Di sinilah bagian menariknya dimulai.",
+   "dibaca": "Di sinilah bagian menariknya dimulai.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/ongky/fd32a96d3edd.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "214c5f50a533",
+   "suara": "ongky",
+   "teks": "Kamu mungkin pernah melihatnya tanpa sadar.",
+   "dibaca": "Kamu mungkin pernah melihatnya tanpa sadar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/214c5f50a533.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3c6ac629e989",
+   "suara": "ongky",
+   "teks": "Pertanyaannya sederhana, tapi jawabannya tidak.",
+   "dibaca": "Pertanyaannya sederhana, tapi jawabannya tidak.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/3c6ac629e989.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "68827b32ccc2",
+   "suara": "ongky",
+   "teks": "Sekarang, mari kita lihat dari sisi yang berbeda.",
+   "dibaca": "Sekarang, mari kita lihat dari sisi yang berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/68827b32ccc2.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
