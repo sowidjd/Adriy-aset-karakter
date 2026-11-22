@@ -71435,6 +71435,411 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-21"
+  },
+  {
+   "id": "3e825eaae075",
+   "suara": "adriy",
+   "teks": "Lima menit yang kecil bisa mengubah kebiasaan.",
+   "dibaca": "Lima menit yang kecil bisa mengubah kebiasaan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/3e825eaae075.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "14b7748cf4d2",
+   "suara": "adriy",
+   "teks": "Otak kita butuh istirahat supaya tetap fokus.",
+   "dibaca": "Otak kita butuh istirahat supaya tetap fokus.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/14b7748cf4d2.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "de871fb442e0",
+   "suara": "adriy",
+   "teks": "Hari-hari yang mirip membuat waktu terasa lebih singkat.",
+   "dibaca": "Hari-hari yang mirip membuat waktu terasa lebih singkat.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/de871fb442e0.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "91d865191c9b",
+   "suara": "adriy",
+   "teks": "Ponsel kita ternyata lebih pintar dari komputer zaman dulu.",
+   "dibaca": "Ponsel kita ternyata lebih pintar dari komputer zaman dulu.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/91d865191c9b.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c6086fa59b0f",
+   "suara": "adriy",
+   "teks": "Notifikasi kecil bisa membuat fokus kita buyar.",
+   "dibaca": "notifikasi kecil bisa membuat fokus kita buyar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/c6086fa59b0f.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "74a5b73e7133",
+   "suara": "adriy",
+   "teks": "Teknologi ini sudah ada di sekitar kita setiap hari.",
+   "dibaca": "Teknologi ini sudah ada di sekitar kita setiap hari.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/74a5b73e7133.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2235c68d057c",
+   "suara": "adriy",
+   "teks": "Ternyata, cara kerjanya cukup sederhana.",
+   "dibaca": "Ternyata, cara kerjanya cukup sederhana.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/2235c68d057c.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "10e4a3787076",
+   "suara": "adriy",
+   "teks": "Tanpa kita sadari, kita sangat bergantung pada teknologi ini.",
+   "dibaca": "Tanpa kita sadari, kita sangat bergantung pada teknologi ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/10e4a3787076.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "23c123e6767c",
+   "suara": "adriy",
+   "teks": "Penemuan ini terjadi secara tidak sengaja.",
+   "dibaca": "Penemuan ini terjadi secara tidak sengaja.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/23c123e6767c.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "e491041393c5",
+   "suara": "adriy",
+   "teks": "Dulu, orang punya cara yang sangat berbeda untuk melakukannya.",
+   "dibaca": "Dulu, orang punya cara yang sangat berbeda untuk melakukannya.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/adriy/e491041393c5.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "2bf8a705102b",
+   "suara": "adriy",
+   "teks": "Sejarah mencatat kejadian ini sebagai titik balik.",
+   "dibaca": "Sejarah mencatat kejadian ini sebagai titik balik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/2bf8a705102b.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "c4dda84141ed",
+   "suara": "adriy",
+   "teks": "Ternyata, penemunya sempat diremehkan.",
+   "dibaca": "Ternyata, penemunya sempat diremehkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/c4dda84141ed.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "b14f46d4f6cd",
+   "suara": "adriy",
+   "teks": "Ratusan tahun lalu, hal ini dianggap mustahil.",
+   "dibaca": "Ratusan tahun lalu, hal ini dianggap mustahil.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/b14f46d4f6cd.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "02aeeea42e00",
+   "suara": "adriy",
+   "teks": "Satu kesalahan kecil justru melahirkan penemuan besar.",
+   "dibaca": "Satu kesalahan kecil justru melahirkan penemuan besar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/02aeeea42e00.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "1d97d94c8c34",
+   "suara": "adriy",
+   "teks": "Butuh waktu bertahun-tahun sampai orang percaya.",
+   "dibaca": "Butuh waktu bertahun-tahun sampai orang percaya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/1d97d94c8c34.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "6a88f52240bd",
+   "suara": "adriy",
+   "teks": "Angka ini mungkin terdengar kecil, tapi efeknya besar.",
+   "dibaca": "Angka ini mungkin terdengar kecil, tapi efeknya besar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/6a88f52240bd.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-21"
+  },
+  {
+   "id": "4b4f2e1125ce",
+   "suara": "adriy",
+   "teks": "Kalau dibandingkan, perbedaannya sangat jauh.",
+   "dibaca": "Kalau dibandingkan, perbedaannya sangat jauh.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/4b4f2e1125ce.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "bc79d2965ff6",
+   "suara": "adriy",
+   "teks": "Jumlahnya bahkan lebih banyak dari penduduk Bumi.",
+   "dibaca": "Jumlahnya bahkan lebih banyak dari penduduk Bumi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/bc79d2965ff6.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9b511ed916cd",
+   "suara": "adriy",
+   "teks": "Ukurannya kira-kira sebesar butiran pasir.",
+   "dibaca": "Ukurannya kira-kira sebesar butiran pasir.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/9b511ed916cd.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "70440cdb74d8",
+   "suara": "adriy",
+   "teks": "Kecepatannya lebih cepat dari mobil balap.",
+   "dibaca": "Kecepatannya lebih cepat dari mobil balap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/70440cdb74d8.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c94917dffdba",
+   "suara": "adriy",
+   "teks": "Jaraknya setara dengan beberapa kali keliling Bumi.",
+   "dibaca": "Jaraknya setara dengan beberapa kali keliling Bumi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/c94917dffdba.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ac7a102502f5",
+   "suara": "adriy",
+   "teks": "Kadang, jawaban terbaik justru datang dari pertanyaan sederhana.",
+   "dibaca": "Kadang, jawaban terbaik justru datang dari pertanyaan sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/ac7a102502f5.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "be507f139c31",
+   "suara": "adriy",
+   "teks": "Semakin kita tahu, semakin kita sadar banyak yang belum kita tahu.",
+   "dibaca": "Semakin kita tahu, semakin kita sadar banyak yang belum kita tahu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/be507f139c31.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "47d942aed701",
+   "suara": "adriy",
+   "teks": "Dunia ini penuh hal kecil yang menakjubkan.",
+   "dibaca": "Dunia ini penuh hal kecil yang menakjubkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/47d942aed701.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a9d573bfefcc",
+   "suara": "adriy",
+   "teks": "Jangan berhenti bertanya, karena di situlah kita belajar.",
+   "dibaca": "Jangan berhenti bertanya, karena di situlah kita belajar.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/a9d573bfefcc.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6bb64ffa12f8",
+   "suara": "adriy",
+   "teks": "Hal yang kita anggap biasa ternyata luar biasa.",
+   "dibaca": "Hal yang kita anggap biasa ternyata luar biasa.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/6bb64ffa12f8.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f8c7469add9c",
+   "suara": "adriy",
+   "teks": "Pengetahuan kecil bisa mengubah cara kita melihat dunia.",
+   "dibaca": "Pengetahuan kecil bisa mengubah cara kita melihat dunia.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/f8c7469add9c.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
   }
  ]
 }
