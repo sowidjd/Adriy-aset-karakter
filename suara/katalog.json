@@ -85336,6 +85336,156 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fbbc02df54bb",
+   "suara": "mia",
+   "teks": "Makam yang tertutup rapat juga melindungi mumi dari air dan hewan.",
+   "dibaca": "Makam yang tertutup rapat juga melindungi mumi dari air dan hewan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/fbbc02df54bb.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ef91cc90d678",
+   "suara": "mia",
+   "teks": "Padahal, ini salah satu keanehan terbesar di dunia kimia.",
+   "dibaca": "Padahal, ini salah satu keanehan terbesar di dunia kimia.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/ef91cc90d678.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d863cb0dcd9e",
+   "suara": "mia",
+   "teks": "Saat membeku, air mengembang sekitar sembilan persen.",
+   "dibaca": "Saat membeku, air mengembang sekitar sembilan persen.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d863cb0dcd9e.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ad3cfceda5c0",
+   "suara": "mia",
+   "teks": "Para peneliti menyebut fenomena ini efek digit kiri.",
+   "dibaca": "Para peneliti menyebut fenomena ini efek digit kiri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ad3cfceda5c0.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2784f54cbcef",
+   "suara": "mia",
+   "teks": "Caranya sederhana, bulatkan harga ke atas di kepalamu.",
+   "dibaca": "Caranya sederhana, bulatkan harga ke atas di kepalamu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2784f54cbcef.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "94fb8bce46cc",
+   "suara": "mia",
+   "teks": "Dengan begitu, kamu menilai harga dengan lebih jujur.",
+   "dibaca": "Dengan begitu, kamu menilai harga dengan lebih jujur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/94fb8bce46cc.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ff33ee8a298f",
+   "suara": "mia",
+   "teks": "Di dalam tanah, hidup bakteri bernama Streptomyces.",
+   "dibaca": "Di dalam tanah, hidup bakteri bernama Streptomyces.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ff33ee8a298f.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "102015b0af04",
+   "suara": "mia",
+   "teks": "Peneliti di MIT merekam tetesan hujan dengan kamera super cepat.",
+   "dibaca": "Peneliti di MIT merekam tetesan hujan dengan kamera super cepat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/102015b0af04.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0158f6c0b881",
+   "suara": "mia",
+   "teks": "Padahal bulan berputar, hanya saja dengan cara yang sangat istimewa.",
+   "dibaca": "Padahal bulan berputar, hanya saja dengan cara yang sangat istimewa.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/0158f6c0b881.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "07929b0036eb",
+   "suara": "mia",
+   "teks": "Bulan butuh sekitar dua puluh tujuh hari untuk sekali mengelilingi Bumi.",
+   "dibaca": "Bulan butuh sekitar dua puluh tujuh hari untuk sekali mengelilingi Bumi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/07929b0036eb.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
