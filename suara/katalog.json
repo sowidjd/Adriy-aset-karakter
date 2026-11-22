@@ -73145,6 +73145,186 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "33e8e8d5692a",
+   "suara": "mia",
+   "teks": "Penemuan ini terjadi secara tidak sengaja.",
+   "dibaca": "Penemuan ini terjadi secara tidak sengaja.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/33e8e8d5692a.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b574e0abb13c",
+   "suara": "mia",
+   "teks": "Lima menit yang kecil bisa mengubah kebiasaan.",
+   "dibaca": "Lima menit yang kecil bisa mengubah kebiasaan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b574e0abb13c.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7f58fdf82df2",
+   "suara": "mia",
+   "teks": "Ternyata, cara kerjanya cukup sederhana.",
+   "dibaca": "Ternyata, cara kerjanya cukup sederhana.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/7f58fdf82df2.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c5f8396ab686",
+   "suara": "mia",
+   "teks": "Jaraknya setara dengan beberapa kali keliling Bumi.",
+   "dibaca": "Jaraknya setara dengan beberapa kali keliling Bumi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c5f8396ab686.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fe7e3a8493d7",
+   "suara": "mia",
+   "teks": "Hari-hari yang mirip membuat waktu terasa lebih singkat.",
+   "dibaca": "Hari-hari yang mirip membuat waktu terasa lebih singkat.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/fe7e3a8493d7.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fc55d0ed768c",
+   "suara": "mia",
+   "teks": "Butuh waktu bertahun-tahun sampai orang percaya.",
+   "dibaca": "Butuh waktu bertahun-tahun sampai orang percaya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/fc55d0ed768c.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e682608ac79d",
+   "suara": "mia",
+   "teks": "Dunia ini penuh hal kecil yang menakjubkan.",
+   "dibaca": "Dunia ini penuh hal kecil yang menakjubkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/e682608ac79d.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "72b255b6695b",
+   "suara": "mia",
+   "teks": "Hal yang kita anggap biasa ternyata luar biasa.",
+   "dibaca": "Hal yang kita anggap biasa ternyata luar biasa.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/72b255b6695b.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fc5c6e6102ae",
+   "suara": "mia",
+   "teks": "Sejarah mencatat kejadian ini sebagai titik balik.",
+   "dibaca": "Sejarah mencatat kejadian ini sebagai titik balik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/fc5c6e6102ae.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8430bb7c7d6d",
+   "suara": "mia",
+   "teks": "Ternyata, penemunya sempat diremehkan.",
+   "dibaca": "Ternyata, penemunya sempat diremehkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/8430bb7c7d6d.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c821caa7bbb9",
+   "suara": "mia",
+   "teks": "Jumlahnya bahkan lebih banyak dari penduduk Bumi.",
+   "dibaca": "Jumlahnya bahkan lebih banyak dari penduduk Bumi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c821caa7bbb9.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b12afd51cab5",
+   "suara": "mia",
+   "teks": "Ukurannya kira-kira sebesar butiran pasir.",
+   "dibaca": "Ukurannya kira-kira sebesar butiran pasir.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b12afd51cab5.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
