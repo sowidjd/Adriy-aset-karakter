@@ -74915,6 +74915,82 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5836fcf17127",
+   "suara": "adriy",
+   "teks": "Seperti lampu lalu lintas yang berganti warna.",
+   "dibaca": "Seperti lampu lalu lintas yang berganti warna.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/5836fcf17127.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1237e1a4ed05",
+   "suara": "adriy",
+   "teks": "Kalau diibaratkan, ini seperti menekan tombol jeda.",
+   "dibaca": "Kalau diibaratkan, ini seperti menekan tombol jeda.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/1237e1a4ed05.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6d98b58ba23e",
+   "suara": "adriy",
+   "teks": "Sederhananya, tubuh sedang memberi tanda.",
+   "dibaca": "Sederhananya, tubuh sedang memberi tanda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/6d98b58ba23e.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b10bddff0dc9",
+   "suara": "adriy",
+   "teks": "Ini adalah cara alam bertahan hidup.",
+   "dibaca": "Ini adalah cara alam bertahan hidup.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/b10bddff0dc9.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e34c7e465161",
+   "suara": "adriy",
+   "teks": "Ternyata, ada alasan kenapa hal ini terus terjadi.",
+   "dibaca": "Ternyata, ada alasan kenapa hal ini terus terjadi.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/e34c7e465161.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
   }
  ]
 }
