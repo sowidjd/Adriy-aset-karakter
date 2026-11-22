@@ -80947,6 +80947,426 @@
    "catatan": "",
    "sumber": "naskah:03-mumi.txt",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4a330515a8ba",
+   "suara": "hasan",
+   "teks": "Coba masukkan es batu ke dalam gelas berisi air.",
+   "dibaca": "Coba masukkan es batu ke dalam gelas berisi air.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/4a330515a8ba.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d8581ec3dcf4",
+   "suara": "hasan",
+   "teks": "Es batu itu akan mengapung, dan kelihatannya biasa saja.",
+   "dibaca": "Es batu itu akan mengapung, dan kelihatannya biasa saja.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d8581ec3dcf4.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4b545fa85b7d",
+   "suara": "hasan",
+   "teks": "Padahal, ini salah satu keanehan terbesar di dunia kimia.",
+   "dibaca": "Padahal, ini salah satu keanehan terbesar di dunia kimia.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/4b545fa85b7d.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "88b60fcec31a",
+   "suara": "hasan",
+   "teks": "Coba pikirkan lilin, mentega, atau besi.",
+   "dibaca": "Coba pikirkan lilin, mentega, atau besi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/88b60fcec31a.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3d7a9b8b7c43",
+   "suara": "hasan",
+   "teks": "Saat dibekukan, hampir semua zat menjadi lebih padat dan lebih rapat.",
+   "dibaca": "Saat dibekukan, hampir semua zat menjadi lebih padat dan lebih rapat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3d7a9b8b7c43.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cfeb11209fcf",
+   "suara": "hasan",
+   "teks": "Bentuk padatnya lebih berat daripada bentuk cairnya, sehingga ia tenggelam.",
+   "dibaca": "Bentuk padatnya lebih berat daripada bentuk cairnya, sehingga ia tenggelam.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/cfeb11209fcf.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "831b06a44ce6",
+   "suara": "hasan",
+   "teks": "Tapi air justru melakukan kebalikannya.",
+   "dibaca": "Tapi air justru melakukan kebalikannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/831b06a44ce6.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d5d88a636ed4",
+   "suara": "hasan",
+   "teks": "Saat membeku, air mengembang sekitar sembilan persen.",
+   "dibaca": "Saat membeku, air mengembang sekitar sembilan persen.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d5d88a636ed4.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5f538ca861d0",
+   "suara": "hasan",
+   "teks": "Volumenya bertambah, tapi beratnya tetap sama.",
+   "dibaca": "Volumenya bertambah, tapi beratnya tetap sama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/5f538ca861d0.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a56ccf16309a",
+   "suara": "hasan",
+   "teks": "Akibatnya, es menjadi lebih ringan daripada air di sekitarnya, dan ia pun mengapung.",
+   "dibaca": "Akibatnya, es menjadi lebih ringan daripada air di sekitarnya, dan ia pun mengapung.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/a56ccf16309a.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7c0df4109681",
+   "suara": "hasan",
+   "teks": "Lalu kenapa air bisa mengembang saat membeku?",
+   "dibaca": "Lalu kenapa air bisa mengembang saat membeku?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/7c0df4109681.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "54daa043c9dc",
+   "suara": "hasan",
+   "teks": "Rahasianya ada pada bentuk molekul air.",
+   "dibaca": "Rahasianya ada pada bentuk molekul air.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/54daa043c9dc.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6ba33c5e622f",
+   "suara": "hasan",
+   "teks": "Satu molekul air terdiri dari satu atom oksigen dan dua atom hidrogen, membentuk huruf V.",
+   "dibaca": "Satu molekul air terdiri dari satu atom oksigen dan dua atom hidrogen, membentuk huruf V.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/6ba33c5e622f.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3662d36ecd62",
+   "suara": "hasan",
+   "teks": "Molekul-molekul ini saling tarik lewat ikatan yang disebut ikatan hidrogen.",
+   "dibaca": "Molekul-molekul ini saling tarik lewat ikatan yang disebut ikatan hidrogen.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3662d36ecd62.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4978d4f39bc1",
+   "suara": "hasan",
+   "teks": "Dalam air cair, ikatan ini terus putus dan tersambung lagi, jadi molekulnya bisa berdesakan rapat.",
+   "dibaca": "Dalam air cair, ikatan ini terus putus dan tersambung lagi, jadi molekulnya bisa berdesakan rapat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/4978d4f39bc1.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "838db03d0674",
+   "suara": "hasan",
+   "teks": "Tapi saat membeku, setiap molekul terkunci di posisi yang tetap.",
+   "dibaca": "Tapi saat membeku, setiap molekul terkunci di posisi yang tetap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/838db03d0674.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "699c52d846cd",
+   "suara": "hasan",
+   "teks": "Mereka tersusun seperti sarang lebah segi enam, dengan banyak ruang kosong di tengahnya.",
+   "dibaca": "Mereka tersusun seperti sarang lebah segi enam, dengan banyak ruang kosong di tengahnya.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/699c52d846cd.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f32e52510cd3",
+   "suara": "hasan",
+   "teks": "Ruang kosong inilah yang membuat es lebih renggang daripada air.",
+   "dibaca": "Ruang kosong inilah yang membuat es lebih renggang daripada air.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/f32e52510cd3.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e66a11e46195",
+   "suara": "hasan",
+   "teks": "Keanehan kecil ini ternyata menyelamatkan kehidupan di Bumi.",
+   "dibaca": "Keanehan kecil ini ternyata menyelamatkan kehidupan di Bumi.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/e66a11e46195.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1a40f76137ca",
+   "suara": "hasan",
+   "teks": "Saat musim dingin, danau dan laut membeku dari atas, bukan dari bawah.",
+   "dibaca": "Saat musim dingin, danau dan laut membeku dari atas, bukan dari bawah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/1a40f76137ca.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "23e99f469942",
+   "suara": "hasan",
+   "teks": "Lapisan es di permukaan bekerja seperti selimut, menahan dingin agar air di bawahnya tidak ikut membeku.",
+   "dibaca": "Lapisan es di permukaan bekerja seperti selimut, menahan dingin agar air di bawahnya tidak ikut membeku.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/23e99f469942.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e52e426eec8c",
+   "suara": "hasan",
+   "teks": "Air paling berat pada suhu sekitar empat derajat Celsius, jadi air sesuhu itu tenggelam ke dasar.",
+   "dibaca": "Air paling berat pada suhu sekitar empat derajat Celsius, jadi air sesuhu itu tenggelam ke dasar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e52e426eec8c.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a92aaf8a9049",
+   "suara": "hasan",
+   "teks": "Berkat itu, ikan dan makhluk lain tetap bisa hidup di bawah es sepanjang musim dingin.",
+   "dibaca": "Berkat itu, ikan dan makhluk lain tetap bisa hidup di bawah es sepanjang musim dingin.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/a92aaf8a9049.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ec35b190dde3",
+   "suara": "hasan",
+   "teks": "Seandainya es tenggelam, danau bisa membeku dari dasar sampai ke atas.",
+   "dibaca": "Seandainya es tenggelam, danau bisa membeku dari dasar sampai ke atas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ec35b190dde3.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6ed2c9334200",
+   "suara": "hasan",
+   "teks": "Sifat mengembang ini juga punya sisi lain.",
+   "dibaca": "Sifat mengembang ini juga punya sisi lain.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/hasan/6ed2c9334200.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1eef608f43e3",
+   "suara": "hasan",
+   "teks": "Pipa air di negara dingin bisa pecah saat airnya membeku.",
+   "dibaca": "Pipa air di negara dingin bisa pecah saat airnya membeku.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/1eef608f43e3.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "42c0f8053999",
+   "suara": "hasan",
+   "teks": "Dan gunung es yang kita lihat di laut, sekitar sembilan puluh persen bagiannya tersembunyi di bawah permukaan.",
+   "dibaca": "Dan gunung es yang kita lihat di laut, sekitar sembilan puluh persen bagiannya tersembunyi di bawah permukaan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/42c0f8053999.wav",
+   "durasi": 5.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9426b1ab7621",
+   "suara": "hasan",
+   "teks": "Jadi, es batu di gelasmu sedang menunjukkan salah satu sifat air yang paling penting bagi kehidupan.",
+   "dibaca": "Jadi, es batu di gelasmu sedang menunjukkan salah satu sifat air yang paling penting bagi kehidupan.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/9426b1ab7621.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:04-es.txt",
+   "dibuat": "2026-11-22"
   }
  ]
 }
