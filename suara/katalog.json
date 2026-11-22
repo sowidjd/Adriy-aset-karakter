@@ -76363,6 +76363,141 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0fedcdd76b5e",
+   "suara": "adriy",
+   "teks": "Kalau dilihat dari dekat, bentuknya ternyata unik.",
+   "dibaca": "Kalau dilihat dari dekat, bentuknya ternyata unik.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/0fedcdd76b5e.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2e5449a36118",
+   "suara": "adriy",
+   "teks": "Kalau dilihat dari jauh, polanya baru kelihatan.",
+   "dibaca": "Kalau dilihat dari jauh, polanya baru kelihatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/2e5449a36118.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d49fc96cccd3",
+   "suara": "adriy",
+   "teks": "Inilah alasan kenapa kita merasakannya.",
+   "dibaca": "Inilah alasan kenapa kita merasakannya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/d49fc96cccd3.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "380f00f94aec",
+   "suara": "adriy",
+   "teks": "Ini juga menjelaskan kenapa hal itu sering terjadi.",
+   "dibaca": "Ini juga menjelaskan kenapa hal itu sering terjadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/380f00f94aec.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a67db10fe9b0",
+   "suara": "adriy",
+   "teks": "Jadi, bukan cuma perasaanmu saja.",
+   "dibaca": "Jadi, bukan cuma perasaanmu saja.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/a67db10fe9b0.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7662e8f1e765",
+   "suara": "adriy",
+   "teks": "Kamu tidak sendirian, banyak orang merasakan hal yang sama.",
+   "dibaca": "Kamu tidak sendirian, banyak orang merasakan hal yang sama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/7662e8f1e765.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3dbfa4f0191c",
+   "suara": "adriy",
+   "teks": "Ternyata, ini hal yang sangat normal.",
+   "dibaca": "Ternyata, ini hal yang sangat normal.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/3dbfa4f0191c.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d4f801f10d2a",
+   "suara": "adriy",
+   "teks": "Kalau terjadi terlalu sering, sebaiknya periksa ke tenaga kesehatan.",
+   "dibaca": "Kalau terjadi terlalu sering, sebaiknya periksa ke tenaga kesehatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/d4f801f10d2a.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c0a416fa1a38",
+   "suara": "adriy",
+   "teks": "Tapi jangan khawatir, dalam banyak kasus ini tidak berbahaya.",
+   "dibaca": "Tapi jangan khawatir, dalam banyak kasus ini tidak berbahaya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/c0a416fa1a38.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
   }
  ]
 }
