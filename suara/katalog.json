@@ -90266,6 +90266,216 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7314f73c6b8f",
+   "suara": "adriy",
+   "teks": "Untuk besi, suhu itu sekitar tujuh ratus tujuh puluh derajat Celsius.",
+   "dibaca": "Untuk besi, suhu itu sekitar tujuh ratus tujuh puluh derajat Celsius.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/7314f73c6b8f.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "07baf22ce06c",
+   "suara": "adriy",
+   "teks": "Karena dua waktu ini sama persis, sisi yang menghadap kita tidak pernah berganti.",
+   "dibaca": "Karena dua waktu ini sama persis, sisi yang menghadap kita tidak pernah berganti.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/07baf22ce06c.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "454bb21c60c2",
+   "suara": "adriy",
+   "teks": "Gravitasi Bumi menarik sisi bulan yang lebih dekat sedikit lebih kuat daripada sisi yang jauh.",
+   "dibaca": "Gravitasi Bumi menarik sisi bulan yang lebih dekat sedikit lebih kuat daripada sisi yang jauh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/454bb21c60c2.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "992a0867535b",
+   "suara": "adriy",
+   "teks": "Tarikan ini membuat bulan sedikit memanjang, seperti bola yang ditarik dari dua arah.",
+   "dibaca": "Tarikan ini membuat bulan sedikit memanjang, seperti bola yang ditarik dari dua arah.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/992a0867535b.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5f464bf0b43d",
+   "suara": "adriy",
+   "teks": "Padahal sisi itu juga mendapat cahaya matahari, sama banyaknya dengan sisi depan.",
+   "dibaca": "Padahal sisi itu juga mendapat cahaya matahari, sama banyaknya dengan sisi depan.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/5f464bf0b43d.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "06514a632a52",
+   "suara": "adriy",
+   "teks": "Bayangkan kamu menyelam ke tempat yang begitu gelap, sampai tanganmu sendiri tidak kelihatan.",
+   "dibaca": "Bayangkan kamu menyelam ke tempat yang begitu gelap, sampai tanganmu sendiri tidak kelihatan.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/06514a632a52.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b5ce0eaa8900",
+   "suara": "adriy",
+   "teks": "Ada udang yang menyemburkan cairan bercahaya, lalu kabur saat musuhnya kebingungan.",
+   "dibaca": "Ada udang yang menyemburkan cairan bercahaya, lalu kabur saat musuhnya kebingungan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/b5ce0eaa8900.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "473e8cd2fe3a",
+   "suara": "adriy",
+   "teks": "Jantung biasanya dibiarkan di dalam tubuh, karena dianggap pusat jiwa dan pikiran.",
+   "dibaca": "Jantung biasanya dibiarkan di dalam tubuh, karena dianggap pusat jiwa dan pikiran.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/473e8cd2fe3a.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d6be8baac14e",
+   "suara": "adriy",
+   "teks": "Tubuh ditimbun dengan natron, garam alami yang diambil dari dasar danau kering.",
+   "dibaca": "Tubuh ditimbun dengan natron, garam alami yang diambil dari dasar danau kering.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/d6be8baac14e.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1ac2217fbe2c",
+   "suara": "adriy",
+   "teks": "Berkat itu, ikan dan makhluk lain tetap bisa hidup di bawah es sepanjang musim dingin.",
+   "dibaca": "Berkat itu, ikan dan makhluk lain tetap bisa hidup di bawah es sepanjang musim dingin.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/1ac2217fbe2c.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a6d2469b5c89",
+   "suara": "adriy",
+   "teks": "Di tahap ini, otak sangat aktif, hampir seperti saat kita terjaga.",
+   "dibaca": "Di tahap ini, otak sangat aktif, hampir seperti saat kita terjaga.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/a6d2469b5c89.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0a581fc20ad2",
+   "suara": "adriy",
+   "teks": "Toko barang mewah justru sering memakai angka bulat, seperti lima juta rupiah.",
+   "dibaca": "Toko barang mewah justru sering memakai angka bulat, seperti lima juta rupiah.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/0a581fc20ad2.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "843f8a40034b",
+   "suara": "adriy",
+   "teks": "Saat tanah kering lama, geosmin dan minyak dari tumbuhan menumpuk di permukaan tanah dan batu.",
+   "dibaca": "Saat tanah kering lama, geosmin dan minyak dari tumbuhan menumpuk di permukaan tanah dan batu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/843f8a40034b.wav",
+   "durasi": 5.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cd39445182f8",
+   "suara": "adriy",
+   "teks": "Hujan yang turun pelan di tanah yang kering justru paling banyak melepaskan aroma ini.",
+   "dibaca": "Hujan yang turun pelan di tanah yang kering justru paling banyak melepaskan aroma ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/cd39445182f8.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
