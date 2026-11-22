@@ -78356,6 +78356,262 @@
    "catatan": "",
    "sumber": "naskah:naskah.txt",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "224dd358924d",
+   "suara": "hasan",
+   "teks": "Elektron memiliki sifat magnetik yang berhubungan dengan spin dan gerak orbital.",
+   "dibaca": "Elektron memiliki sifat magnetik yang berhubungan dengan spin dan gerak orbital.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/hasan/224dd358924d.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ee7899a42450",
+   "suara": "hasan",
+   "teks": "Di dalam material terdapat atom.",
+   "dibaca": "Di dalam material terdapat atom.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ee7899a42450.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "94eb8dd04ec6",
+   "suara": "hasan",
+   "teks": "Bayangkan kita bisa membongkar magnet ini.",
+   "dibaca": "Bayangkan kita bisa membongkar magnet ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/94eb8dd04ec6.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a48c90b38b3d",
+   "suara": "hasan",
+   "teks": "Medan magnet terbentuk di sekitar magnet.",
+   "dibaca": "Medan magnet terbentuk di sekitar magnet.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/a48c90b38b3d.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "44d019b9fa51",
+   "suara": "hasan",
+   "teks": "Kita sering menganggap magnet hanyalah benda biasa dengan dua kutub.",
+   "dibaca": "Kita sering menganggap magnet hanyalah benda biasa dengan dua kutub.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/44d019b9fa51.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6ac9cd3241fe",
+   "suara": "hasan",
+   "teks": "Pembongkaran ini adalah visualisasi struktur materialnya.",
+   "dibaca": "Pembongkaran ini adalah visualisasi struktur materialnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/6ac9cd3241fe.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3fbbb557f24c",
+   "suara": "hasan",
+   "teks": "Walaupun tidak terlihat, medan ini dapat memengaruhi benda tertentu.",
+   "dibaca": "Walaupun tidak terlihat, medan ini dapat memengaruhi benda tertentu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3fbbb557f24c.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "edaceaed4f90",
+   "suara": "hasan",
+   "teks": "Ketika banyak domain menjadi lebih sejajar, efek magnetik material semakin kuat.",
+   "dibaca": "Ketika banyak domain menjadi lebih sejajar, efek magnetik material semakin kuat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/edaceaed4f90.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "bba9a72971e8",
+   "suara": "hasan",
+   "teks": "Momen magnetik atom dapat berinteraksi dan membentuk kelompok yang disebut domain magnetik.",
+   "dibaca": "Momen magnetik atom dapat berinteraksi dan membentuk kelompok yang disebut domain magnetik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/bba9a72971e8.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5e298e4ceb3c",
+   "suara": "hasan",
+   "teks": "Di balik benda sederhana, terdapat dunia mikroskopis dengan susunan magnetik yang luar biasa.",
+   "dibaca": "Di balik benda sederhana, terdapat dunia mikroskopis dengan susunan magnetik yang luar biasa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/5e298e4ceb3c.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e8260770f51c",
+   "suara": "hasan",
+   "teks": "Pernah nggak kamu melihat benda kecil seperti ini, tetapi mampu menarik benda lain tanpa menyentuhnya?",
+   "dibaca": "Pernah nggak kamu melihat benda kecil seperti ini, tetapi mampu menarik benda lain tanpa menyentuhnya?",
+   "fungsi": [
+    "memberikan analogi",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/e8260770f51c.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6484864e49b0",
+   "suara": "hasan",
+   "teks": "Saat besi mendekat, medan magnet menyebabkan perubahan susunan magnetik yang menghasilkan gaya tarik.",
+   "dibaca": "Saat besi mendekat, medan magnet menyebabkan perubahan susunan magnetik yang menghasilkan gaya tarik.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/6484864e49b0.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8acd98372d46",
+   "suara": "hasan",
+   "teks": "Magnet permanen terbuat dari material khusus seperti neodymium, ferrite, atau alnico.",
+   "dibaca": "Magnet permanen terbuat dari material khusus seperti neodymium, ferrite, atau alnico.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/8acd98372d46.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d860d6d4e9b0",
+   "suara": "adriy",
+   "teks": "Elektron memiliki sifat magnetik yang berhubungan dengan spin dan gerak orbital.",
+   "dibaca": "Elektron memiliki sifat magnetik yang berhubungan dengan spin dan gerak orbital.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/d860d6d4e9b0.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3aaa083bb8bc",
+   "suara": "adriy",
+   "teks": "Di dalam material terdapat atom.",
+   "dibaca": "Di dalam material terdapat atom.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/3aaa083bb8bc.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fa1d8ea928b9",
+   "suara": "adriy",
+   "teks": "Bayangkan kita bisa membongkar magnet ini.",
+   "dibaca": "Bayangkan kita bisa membongkar magnet ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/fa1d8ea928b9.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e1fa7dde8c62",
+   "suara": "adriy",
+   "teks": "Medan magnet terbentuk di sekitar magnet.",
+   "dibaca": "Medan magnet terbentuk di sekitar magnet.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/e1fa7dde8c62.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
