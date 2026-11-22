@@ -77993,6 +77993,369 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "10ecf5512363",
+   "suara": "mia",
+   "teks": "Yang jelas, ceritanya belum berakhir.",
+   "dibaca": "Yang jelas, ceritanya belum berakhir.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/10ecf5512363.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "73bd565b7acf",
+   "suara": "mia",
+   "teks": "Zaman dulu, hal ini dianggap misteri.",
+   "dibaca": "Zaman dulu, hal ini dianggap misteri.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/73bd565b7acf.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fcfab555af21",
+   "suara": "mia",
+   "teks": "Sampai sekarang, ini masih jadi bahan penelitian.",
+   "dibaca": "Sampai sekarang, ini masih jadi bahan penelitian.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/fcfab555af21.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "416879fa5808",
+   "suara": "mia",
+   "teks": "Mungkin suatu hari nanti, kita akan tahu jawabannya.",
+   "dibaca": "Mungkin suatu hari nanti, kita akan tahu jawabannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/416879fa5808.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7e883d6dd3e4",
+   "suara": "ongky",
+   "teks": "Jadi, apa artinya buat kita?",
+   "dibaca": "Jadi, apa artinya buat kita?",
+   "fungsi": [
+    "menyampaikan kesimpulan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/7e883d6dd3e4.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d1f790732092",
+   "suara": "ongky",
+   "teks": "Apa hubungannya dengan kehidupan kita?",
+   "dibaca": "Apa hubungannya dengan kehidupan kita?",
+   "fungsi": [
+    "menghubungkan dua topik",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/d1f790732092.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cfe519ad73df",
+   "suara": "ongky",
+   "teks": "Sekarang, kita sudah tahu jawabannya.",
+   "dibaca": "Sekarang, kita sudah tahu jawabannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/cfe519ad73df.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "81dd7bc63c3a",
+   "suara": "ongky",
+   "teks": "Tapi masih ada bagian yang belum terjawab.",
+   "dibaca": "Tapi masih ada bagian yang belum terjawab.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/81dd7bc63c3a.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a7d1b3f84779",
+   "suara": "ongky",
+   "teks": "Yang jelas, ceritanya belum berakhir.",
+   "dibaca": "Yang jelas, ceritanya belum berakhir.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/a7d1b3f84779.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cffd68414298",
+   "suara": "ongky",
+   "teks": "Zaman dulu, hal ini dianggap misteri.",
+   "dibaca": "Zaman dulu, hal ini dianggap misteri.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/cffd68414298.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "35232c17dc71",
+   "suara": "ongky",
+   "teks": "Sampai sekarang, ini masih jadi bahan penelitian.",
+   "dibaca": "Sampai sekarang, ini masih jadi bahan penelitian.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/35232c17dc71.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cb14ce532d75",
+   "suara": "mia",
+   "teks": "Pernah nggak kamu melihat benda kecil seperti ini, tetapi mampu menarik benda lain tanpa menyentuhnya?",
+   "dibaca": "Pernah nggak kamu melihat benda kecil seperti ini, tetapi mampu menarik benda lain tanpa menyentuhnya?",
+   "fungsi": [
+    "memberikan analogi",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/cb14ce532d75.wav",
+   "durasi": 5.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "955c6d26a31b",
+   "suara": "mia",
+   "teks": "Kita sering menganggap magnet hanyalah benda biasa dengan dua kutub.",
+   "dibaca": "Kita sering menganggap magnet hanyalah benda biasa dengan dua kutub.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/955c6d26a31b.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e703b59e96d0",
+   "suara": "mia",
+   "teks": "Magnet permanen terbuat dari material khusus seperti neodymium, ferrite, atau alnico.",
+   "dibaca": "Magnet permanen terbuat dari material khusus seperti neodymium, ferrite, atau alnico.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/e703b59e96d0.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0ffb438813e5",
+   "suara": "mia",
+   "teks": "Bayangkan kita bisa membongkar magnet ini.",
+   "dibaca": "Bayangkan kita bisa membongkar magnet ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/0ffb438813e5.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e4250f676fd5",
+   "suara": "mia",
+   "teks": "Pembongkaran ini adalah visualisasi struktur materialnya.",
+   "dibaca": "Pembongkaran ini adalah visualisasi struktur materialnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/e4250f676fd5.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "71032d6d1a82",
+   "suara": "mia",
+   "teks": "Di dalam material terdapat atom.",
+   "dibaca": "Di dalam material terdapat atom.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/71032d6d1a82.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e17164682ec1",
+   "suara": "mia",
+   "teks": "Elektron memiliki sifat magnetik yang berhubungan dengan spin dan gerak orbital.",
+   "dibaca": "Elektron memiliki sifat magnetik yang berhubungan dengan spin dan gerak orbital.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/mia/e17164682ec1.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c4624bc3aca0",
+   "suara": "mia",
+   "teks": "Momen magnetik atom dapat berinteraksi dan membentuk kelompok yang disebut domain magnetik.",
+   "dibaca": "Momen magnetik atom dapat berinteraksi dan membentuk kelompok yang disebut domain magnetik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c4624bc3aca0.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "81860dc55469",
+   "suara": "mia",
+   "teks": "Ketika banyak domain menjadi lebih sejajar, efek magnetik material semakin kuat.",
+   "dibaca": "Ketika banyak domain menjadi lebih sejajar, efek magnetik material semakin kuat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/81860dc55469.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "38677730ea64",
+   "suara": "mia",
+   "teks": "Medan magnet terbentuk di sekitar magnet.",
+   "dibaca": "Medan magnet terbentuk di sekitar magnet.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/38677730ea64.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "53c9ffdbd557",
+   "suara": "mia",
+   "teks": "Walaupun tidak terlihat, medan ini dapat memengaruhi benda tertentu.",
+   "dibaca": "Walaupun tidak terlihat, medan ini dapat memengaruhi benda tertentu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/53c9ffdbd557.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b05750dc8401",
+   "suara": "mia",
+   "teks": "Saat besi mendekat, medan magnet menyebabkan perubahan susunan magnetik yang menghasilkan gaya tarik.",
+   "dibaca": "Saat besi mendekat, medan magnet menyebabkan perubahan susunan magnetik yang menghasilkan gaya tarik.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/b05750dc8401.wav",
+   "durasi": 5.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d5e5dd3fa737",
+   "suara": "mia",
+   "teks": "Di balik benda sederhana, terdapat dunia mikroskopis dengan susunan magnetik yang luar biasa.",
+   "dibaca": "Di balik benda sederhana, terdapat dunia mikroskopis dengan susunan magnetik yang luar biasa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d5e5dd3fa737.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
   }
  ]
 }
