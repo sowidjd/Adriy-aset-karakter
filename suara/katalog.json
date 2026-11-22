@@ -83848,6 +83848,173 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c644d6089b98",
+   "suara": "mia",
+   "teks": "Jadi, mimpimu bukan hilang karena tidak penting.",
+   "dibaca": "Jadi, mimpimu bukan hilang karena tidak penting.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/c644d6089b98.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "46625916c63a",
+   "suara": "mia",
+   "teks": "Jadi, kopi tidak memberimu energi baru.",
+   "dibaca": "Jadi, kopi tidak memberimu energi baru.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/46625916c63a.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "927e070e5cab",
+   "suara": "mia",
+   "teks": "Ternyata, hubungannya lebih dekat dari yang kita kira.",
+   "dibaca": "Ternyata, hubungannya lebih dekat dari yang kita kira.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/mia/927e070e5cab.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0876c1d600c3",
+   "suara": "mia",
+   "teks": "Pengetahuan kecil ini bisa kamu bagikan ke teman.",
+   "dibaca": "Pengetahuan kecil ini bisa kamu bagikan ke teman.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/0876c1d600c3.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "838b5e6152a1",
+   "suara": "mia",
+   "teks": "Bagikan video ini ke temanmu yang sering mengalaminya.",
+   "dibaca": "Bagikan video ini ke temanmu yang sering mengalaminya.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/838b5e6152a1.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c5f2086639f4",
+   "suara": "mia",
+   "teks": "Simpan video ini supaya kamu tidak lupa.",
+   "dibaca": "Simpan video ini supaya kamu tidak lupa.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/c5f2086639f4.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3b6c2fe19d2f",
+   "suara": "mia",
+   "teks": "Itulah rasa kantuk yang kita rasakan di sore atau malam hari.",
+   "dibaca": "Itulah rasa kantuk yang kita rasakan di sore atau malam hari.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/3b6c2fe19d2f.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "af17aec8a874",
+   "suara": "mia",
+   "teks": "Itulah kenapa waktu terbang pergi dan pulang di rute yang sama bisa berbeda.",
+   "dibaca": "Itulah kenapa waktu terbang pergi dan pulang di rute yang sama bisa berbeda.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/af17aec8a874.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "24735e95db82",
+   "suara": "mia",
+   "teks": "Tulis di kolom komentar, berapa gelas kopi yang kamu minum hari ini?",
+   "dibaca": "Tulis di kolom komentar, berapa gelas kopi yang kamu minum hari ini?",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/24735e95db82.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "71a2756c6fb3",
+   "suara": "mia",
+   "teks": "Itulah kenapa kopi sore hari masih bisa mengganggu tidur malammu.",
+   "dibaca": "Itulah kenapa kopi sore hari masih bisa mengganggu tidur malammu.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/71a2756c6fb3.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5a65de997b98",
+   "suara": "mia",
+   "teks": "Kalau kamu punya cerita sendiri, tulis di komentar, ya.",
+   "dibaca": "Kalau kamu punya cerita sendiri, tulis di komentar, ya.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/5a65de997b98.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
