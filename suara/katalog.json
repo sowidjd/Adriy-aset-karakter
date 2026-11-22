@@ -79668,6 +79668,443 @@
    "catatan": "",
    "sumber": "naskah:naskah.txt",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c30ad5aa4d5d",
+   "suara": "hasan",
+   "teks": "Pernah sadar nggak, bulan yang kamu lihat malam ini wajahnya selalu sama?",
+   "dibaca": "Pernah sadar nggak, bulan yang kamu lihat malam ini wajahnya selalu sama?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/c30ad5aa4d5d.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d8fc1c55bb90",
+   "suara": "hasan",
+   "teks": "Dari Indonesia, dari Jepang, sampai dari kutub, pola gelap di permukaan bulan selalu terlihat sama.",
+   "dibaca": "Dari Indonesia, dari Jepang, sampai dari kutub, pola gelap di permukaan bulan selalu terlihat sama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d8fc1c55bb90.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c6d8a71d6a11",
+   "suara": "hasan",
+   "teks": "Banyak orang mengira bulan tidak berputar sama sekali.",
+   "dibaca": "Banyak orang mengira bulan tidak berputar sama sekali.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/c6d8a71d6a11.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "69ffaf25f979",
+   "suara": "hasan",
+   "teks": "Padahal bulan berputar, hanya saja dengan cara yang sangat istimewa.",
+   "dibaca": "Padahal bulan berputar, hanya saja dengan cara yang sangat istimewa.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/69ffaf25f979.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3d2186be85e7",
+   "suara": "hasan",
+   "teks": "Bulan butuh sekitar dua puluh tujuh hari untuk sekali mengelilingi Bumi.",
+   "dibaca": "Bulan butuh sekitar dua puluh tujuh hari untuk sekali mengelilingi Bumi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3d2186be85e7.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "20e44b67bbaa",
+   "suara": "hasan",
+   "teks": "Dan bulan juga butuh sekitar dua puluh tujuh hari untuk sekali berputar pada porosnya.",
+   "dibaca": "Dan bulan juga butuh sekitar dua puluh tujuh hari untuk sekali berputar pada porosnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/20e44b67bbaa.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a97358058015",
+   "suara": "hasan",
+   "teks": "Karena dua waktu ini sama persis, sisi yang menghadap kita tidak pernah berganti.",
+   "dibaca": "Karena dua waktu ini sama persis, sisi yang menghadap kita tidak pernah berganti.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/a97358058015.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "581f5eda56ed",
+   "suara": "hasan",
+   "teks": "Coba bayangkan kamu berjalan mengelilingi meja, sambil wajahmu terus menghadap ke meja.",
+   "dibaca": "Coba bayangkan kamu berjalan mengelilingi meja, sambil wajahmu terus menghadap ke meja.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/581f5eda56ed.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "bd02750a849d",
+   "suara": "hasan",
+   "teks": "Kamu tetap berputar satu kali, tapi orang di tengah hanya melihat wajahmu.",
+   "dibaca": "Kamu tetap berputar satu kali, tapi orang di tengah hanya melihat wajahmu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/bd02750a849d.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "37cae2b68034",
+   "suara": "hasan",
+   "teks": "Ilmuwan menyebut keadaan ini penguncian pasang surut.",
+   "dibaca": "Ilmuwan menyebut keadaan ini penguncian pasang surut.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/37cae2b68034.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "effba62d3bfe",
+   "suara": "hasan",
+   "teks": "Lalu kenapa bisa sekompak itu?",
+   "dibaca": "Lalu kenapa bisa sekompak itu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/effba62d3bfe.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2058c9e3b19e",
+   "suara": "hasan",
+   "teks": "Jawabannya ada pada gravitasi Bumi.",
+   "dibaca": "Jawabannya ada pada gravitasi Bumi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/2058c9e3b19e.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "dbb2086f8ad6",
+   "suara": "hasan",
+   "teks": "Gravitasi Bumi menarik sisi bulan yang lebih dekat sedikit lebih kuat daripada sisi yang jauh.",
+   "dibaca": "Gravitasi Bumi menarik sisi bulan yang lebih dekat sedikit lebih kuat daripada sisi yang jauh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/dbb2086f8ad6.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "784e2fddaeb3",
+   "suara": "hasan",
+   "teks": "Tarikan ini membuat bulan sedikit memanjang, seperti bola yang ditarik dari dua arah.",
+   "dibaca": "Tarikan ini membuat bulan sedikit memanjang, seperti bola yang ditarik dari dua arah.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/784e2fddaeb3.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0ebcbcf6b2dc",
+   "suara": "hasan",
+   "teks": "Dulu, saat bulan masih berputar lebih cepat, tonjolan ini terus ditarik kembali oleh Bumi.",
+   "dibaca": "Dulu, saat bulan masih berputar lebih cepat, tonjolan ini terus ditarik kembali oleh Bumi.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/0ebcbcf6b2dc.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b1cacb4fb225",
+   "suara": "hasan",
+   "teks": "Tarikan itu bekerja seperti rem yang pelan tapi tidak pernah berhenti.",
+   "dibaca": "Tarikan itu bekerja seperti rem yang pelan tapi tidak pernah berhenti.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/b1cacb4fb225.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fb7e61f82fb8",
+   "suara": "hasan",
+   "teks": "Selama jutaan tahun, putaran bulan melambat, sampai akhirnya terkunci seperti sekarang.",
+   "dibaca": "Selama jutaan tahun, putaran bulan melambat, sampai akhirnya terkunci seperti sekarang.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/fb7e61f82fb8.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "afd5f28eb102",
+   "suara": "hasan",
+   "teks": "Tapi ada satu kejutan kecil.",
+   "dibaca": "Tapi ada satu kejutan kecil.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/afd5f28eb102.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e4fcf29279b7",
+   "suara": "hasan",
+   "teks": "Kita ternyata bisa melihat sedikit lebih dari setengah permukaan bulan, sekitar lima puluh sembilan persen.",
+   "dibaca": "Kita ternyata bisa melihat sedikit lebih dari setengah permukaan bulan, sekitar lima puluh sembilan persen.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e4fcf29279b7.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a8b9300342fd",
+   "suara": "hasan",
+   "teks": "Ini terjadi karena orbit bulan tidak bulat sempurna dan porosnya sedikit miring, jadi bulan terlihat seperti mengangguk pelan.",
+   "dibaca": "Ini terjadi karena orbit bulan tidak bulat sempurna dan porosnya sedikit miring, jadi bulan terlihat seperti mengangguk pelan.",
+   "fungsi": [
+    "memberikan analogi",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/a8b9300342fd.wav",
+   "durasi": 7.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7e825f56190d",
+   "suara": "hasan",
+   "teks": "Lalu bagaimana dengan sisi yang tidak pernah kita lihat?",
+   "dibaca": "Lalu bagaimana dengan sisi yang tidak pernah kita lihat?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/7e825f56190d.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8cd1ecfc83dd",
+   "suara": "hasan",
+   "teks": "Banyak yang menyebutnya sisi gelap bulan.",
+   "dibaca": "Banyak yang menyebutnya sisi gelap bulan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/8cd1ecfc83dd.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4b04d1b8cbe9",
+   "suara": "hasan",
+   "teks": "Padahal sisi itu juga mendapat cahaya matahari, sama banyaknya dengan sisi depan.",
+   "dibaca": "Padahal sisi itu juga mendapat cahaya matahari, sama banyaknya dengan sisi depan.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/4b04d1b8cbe9.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d5fcaec56e28",
+   "suara": "hasan",
+   "teks": "Manusia baru melihat wajah sisi jauh itu pada tahun seribu sembilan ratus lima puluh sembilan, lewat foto wahana Luna tiga.",
+   "dibaca": "Manusia baru melihat wajah sisi jauh itu pada tahun seribu sembilan ratus lima puluh sembilan, lewat foto wahana Luna tiga.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d5fcaec56e28.wav",
+   "durasi": 7.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8550978ee564",
+   "suara": "hasan",
+   "teks": "Dan bulan bukan satu-satunya.",
+   "dibaca": "Dan bulan bukan satu-satunya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/8550978ee564.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a94fee0df272",
+   "suara": "hasan",
+   "teks": "Banyak bulan milik planet lain juga terkunci dengan cara yang sama.",
+   "dibaca": "Banyak bulan milik planet lain juga terkunci dengan cara yang sama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/a94fee0df272.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f44ab22d2bb1",
+   "suara": "hasan",
+   "teks": "Bahkan Pluto dan bulannya, Charon, saling mengunci, sehingga keduanya selalu saling menatap.",
+   "dibaca": "Bahkan Pluto dan bulannya, Charon, saling mengunci, sehingga keduanya selalu saling menatap.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/f44ab22d2bb1.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b0586784c9db",
+   "suara": "hasan",
+   "teks": "Jadi, saat kamu memandang bulan malam ini, ingat bahwa kamu sedang melihat wajah yang sama dengan yang dilihat nenek moyang kita.",
+   "dibaca": "Jadi, saat kamu memandang bulan malam ini, ingat bahwa kamu sedang melihat wajah yang sama dengan yang dilihat nenek moyang kita.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/b0586784c9db.wav",
+   "durasi": 7.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "af5be8c2bc69",
+   "suara": "hasan",
+   "teks": "Wajah itu terbentuk dari tarikan gravitasi yang bekerja tanpa henti selama jutaan tahun.",
+   "dibaca": "Wajah itu terbentuk dari tarikan gravitasi yang bekerja tanpa henti selama jutaan tahun.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/af5be8c2bc69.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:01-bulan.txt",
+   "dibuat": "2026-11-22"
   }
  ]
 }
