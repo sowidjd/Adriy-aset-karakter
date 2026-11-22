@@ -84901,6 +84901,156 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e75366688571",
+   "suara": "mia",
+   "teks": "Coba masukkan es batu ke dalam gelas berisi air.",
+   "dibaca": "Coba masukkan es batu ke dalam gelas berisi air.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/e75366688571.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8ba2814ea8a8",
+   "suara": "mia",
+   "teks": "Jalur melengkung itu sering kali adalah jalur yang paling pendek.",
+   "dibaca": "Jalur melengkung itu sering kali adalah jalur yang paling pendek.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/8ba2814ea8a8.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b54f5720565a",
+   "suara": "mia",
+   "teks": "Greenland di peta itu terlihat hampir sebesar Afrika.",
+   "dibaca": "Greenland di peta itu terlihat hampir sebesar Afrika.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b54f5720565a.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "18c2ae073b03",
+   "suara": "mia",
+   "teks": "Tarik tali itu sekencang mungkin di antara dua kota.",
+   "dibaca": "Tarik tali itu sekencang mungkin di antara dua kota.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/18c2ae073b03.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "50dd139b807d",
+   "suara": "mia",
+   "teks": "Tali akan mengikuti jalur terpendek di permukaan bola.",
+   "dibaca": "Tali akan mengikuti jalur terpendek di permukaan bola.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/50dd139b807d.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fb849e4e7b59",
+   "suara": "mia",
+   "teks": "Lalu kenapa kadang kita bisa ingat mimpi dengan jelas?",
+   "dibaca": "Lalu kenapa kadang kita bisa ingat mimpi dengan jelas?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/fb849e4e7b59.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "151777c030bd",
+   "suara": "mia",
+   "teks": "Strategi ini dikenal sebagai harga psikologis.",
+   "dibaca": "Strategi ini dikenal sebagai harga psikologis.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/151777c030bd.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "16bc521f3a66",
+   "suara": "mia",
+   "teks": "Kuncinya ada pada cara otak kita membaca angka.",
+   "dibaca": "Kuncinya ada pada cara otak kita membaca angka.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/16bc521f3a66.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5f0bc2f59ec5",
+   "suara": "mia",
+   "teks": "Bentuk molekul kafein sangat mirip dengan adenosin.",
+   "dibaca": "Bentuk molekul kafein sangat mirip dengan adenosin.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/5f0bc2f59ec5.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "75f645e83277",
+   "suara": "mia",
+   "teks": "Jawabannya ternyata dari makhluk yang sangat kecil.",
+   "dibaca": "Jawabannya ternyata dari makhluk yang sangat kecil.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/75f645e83277.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
