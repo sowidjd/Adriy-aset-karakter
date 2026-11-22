@@ -77128,6 +77128,141 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "50f847c3cdf3",
+   "suara": "hasan",
+   "teks": "Kita sering menganggapnya remeh.",
+   "dibaca": "Kita sering menganggapnya remeh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/50f847c3cdf3.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b0812ac12851",
+   "suara": "hasan",
+   "teks": "Padahal, di baliknya ada cerita yang luar biasa.",
+   "dibaca": "Padahal, di baliknya ada cerita yang luar biasa.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/b0812ac12851.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "28c3bc14692f",
+   "suara": "hasan",
+   "teks": "Sesuatu yang tampak sepele ternyata sangat penting.",
+   "dibaca": "Sesuatu yang tampak sepele ternyata sangat penting.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/28c3bc14692f.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "883fd4dd8d16",
+   "suara": "mia",
+   "teks": "Kita sering menganggapnya remeh.",
+   "dibaca": "Kita sering menganggapnya remeh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/883fd4dd8d16.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1b619185f5a5",
+   "suara": "mia",
+   "teks": "Padahal, di baliknya ada cerita yang luar biasa.",
+   "dibaca": "Padahal, di baliknya ada cerita yang luar biasa.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/1b619185f5a5.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "86039e159531",
+   "suara": "mia",
+   "teks": "Sesuatu yang tampak sepele ternyata sangat penting.",
+   "dibaca": "Sesuatu yang tampak sepele ternyata sangat penting.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/86039e159531.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9a3725f19cda",
+   "suara": "ongky",
+   "teks": "Kita sering menganggapnya remeh.",
+   "dibaca": "Kita sering menganggapnya remeh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/9a3725f19cda.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8da51be7b79c",
+   "suara": "ongky",
+   "teks": "Padahal, di baliknya ada cerita yang luar biasa.",
+   "dibaca": "Padahal, di baliknya ada cerita yang luar biasa.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/8da51be7b79c.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0565441ccee8",
+   "suara": "ongky",
+   "teks": "Sesuatu yang tampak sepele ternyata sangat penting.",
+   "dibaca": "Sesuatu yang tampak sepele ternyata sangat penting.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/0565441ccee8.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
