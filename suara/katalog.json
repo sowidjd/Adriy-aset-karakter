@@ -91271,6 +91271,1057 @@
    "catatan": "pabrik kokas",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7081be17f3e0",
+   "suara": "mia",
+   "teks": "Selamat datang di pabrik kokas.",
+   "dibaca": "Selamat datang di pabrik kokas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/7081be17f3e0.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "259caaea0a42",
+   "suara": "mia",
+   "teks": "Pabrik kokas mengolah batu bara menjadi kokas.",
+   "dibaca": "Pabrik kokas mengolah batu bara menjadi kokas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/259caaea0a42.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c9cabeb03b80",
+   "suara": "mia",
+   "teks": "Kokas adalah batu bara yang sudah dipanaskan tanpa udara.",
+   "dibaca": "Kokas adalah batu bara yang sudah dipanaskan tanpa udara.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c9cabeb03b80.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "49b68e2cd6e6",
+   "suara": "mia",
+   "teks": "Proses ini disebut karbonisasi.",
+   "dibaca": "Proses ini disebut karbonisasi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/49b68e2cd6e6.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3ae43c248b36",
+   "suara": "mia",
+   "teks": "Batu bara dipanaskan di dalam tungku tertutup selama berjam-jam.",
+   "dibaca": "Batu bara dipanaskan di dalam tungku tertutup selama berjam-jam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3ae43c248b36.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0cb035342812",
+   "suara": "mia",
+   "teks": "Suhu di dalam tungku bisa mencapai lebih dari seribu derajat Celsius.",
+   "dibaca": "Suhu di dalam tungku bisa mencapai lebih dari seribu derajat Celsius.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0cb035342812.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fb7d44d96fcb",
+   "suara": "mia",
+   "teks": "Karena tidak ada udara, batu bara tidak terbakar menjadi abu.",
+   "dibaca": "Karena tidak ada udara, batu bara tidak terbakar menjadi abu.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/fb7d44d96fcb.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6f005f58f019",
+   "suara": "mia",
+   "teks": "Zat yang mudah menguap keluar sebagai gas dan uap.",
+   "dibaca": "Zat yang mudah menguap keluar sebagai gas dan uap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/6f005f58f019.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4eb7f0a25c3b",
+   "suara": "mia",
+   "teks": "Yang tersisa adalah kokas yang keras, ringan, dan berpori.",
+   "dibaca": "Yang tersisa adalah kokas yang keras, ringan, dan berpori.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4eb7f0a25c3b.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d5c1e3f0a8df",
+   "suara": "mia",
+   "teks": "Kokas dipakai sebagai bahan bakar sekaligus bahan pereduksi di tanur.",
+   "dibaca": "Kokas dipakai sebagai bahan bakar sekaligus bahan pereduksi di tanur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d5c1e3f0a8df.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fc9fe379e445",
+   "suara": "mia",
+   "teks": "Tanpa kokas, bijih besi dan nikel sulit diolah menjadi logam.",
+   "dibaca": "Tanpa kokas, bijih besi dan nikel sulit diolah menjadi logam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/fc9fe379e445.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "883c9dd7ff68",
+   "suara": "mia",
+   "teks": "Satu deretan tungku kokas disebut baterai.",
+   "dibaca": "Satu deretan tungku kokas disebut baterai.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/883c9dd7ff68.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9b256e03a788",
+   "suara": "mia",
+   "teks": "Satu baterai bisa berisi puluhan ruang oven yang berjajar rapat.",
+   "dibaca": "Satu baterai bisa berisi puluhan ruang oven yang berjajar rapat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9b256e03a788.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4c9e21e17e1c",
+   "suara": "mia",
+   "teks": "Setiap ruang oven sempit, tinggi, dan panjang.",
+   "dibaca": "Setiap ruang oven sempit, tinggi, dan panjang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4c9e21e17e1c.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1c1b5c2f8531",
+   "suara": "mia",
+   "teks": "Di antara ruang oven ada dinding pemanas.",
+   "dibaca": "Di antara ruang oven ada dinding pemanas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1c1b5c2f8531.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "bfd44dabfada",
+   "suara": "mia",
+   "teks": "Gas dibakar di dinding pemanas untuk memanaskan batu bara.",
+   "dibaca": "Gas dibakar di dinding pemanas untuk memanaskan batu bara.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/bfd44dabfada.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cbe48b2c9a9d",
+   "suara": "mia",
+   "teks": "Sebelum masuk tungku, beberapa jenis batu bara dicampur dulu.",
+   "dibaca": "Sebelum masuk tungku, beberapa jenis batu bara dicampur dulu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/cbe48b2c9a9d.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "aad35056f4e3",
+   "suara": "mia",
+   "teks": "Pencampuran batu bara ini menentukan kualitas kokas.",
+   "dibaca": "Pencampuran batu bara ini menentukan kualitas kokas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/aad35056f4e3.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a9b6ae548be3",
+   "suara": "mia",
+   "teks": "Batu bara lalu dihancurkan sampai halus di mesin penghancur.",
+   "dibaca": "Batu bara lalu dihancurkan sampai halus di mesin penghancur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a9b6ae548be3.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "da61cfc3ff66",
+   "suara": "mia",
+   "teks": "Batu bara halus disimpan di menara batu bara.",
+   "dibaca": "Batu bara halus disimpan di menara batu bara.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/da61cfc3ff66.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f28553aea1c5",
+   "suara": "mia",
+   "teks": "Mobil pengisi membawa batu bara dari menara ke atas tungku.",
+   "dibaca": "Mobil pengisi membawa batu bara dari menara ke atas tungku.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f28553aea1c5.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0ce931339cb2",
+   "suara": "mia",
+   "teks": "Batu bara dimasukkan lewat lubang di atas oven.",
+   "dibaca": "Batu bara dimasukkan lewat lubang di atas oven.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0ce931339cb2.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "724ae99bf4c9",
+   "suara": "mia",
+   "teks": "Setelah terisi penuh, lubang ditutup rapat.",
+   "dibaca": "Setelah terisi penuh, lubang ditutup rapat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/724ae99bf4c9.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1433d8153c78",
+   "suara": "mia",
+   "teks": "Waktu pemasakan biasanya belasan sampai dua puluhan jam.",
+   "dibaca": "Waktu pemasakan biasanya belasan sampai dua puluhan jam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1433d8153c78.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6af95325b637",
+   "suara": "mia",
+   "teks": "Selama pemasakan, suhu oven harus dijaga stabil.",
+   "dibaca": "Selama pemasakan, suhu oven harus dijaga stabil.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/6af95325b637.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1617ac18895d",
+   "suara": "mia",
+   "teks": "Setelah matang, batu bara berubah menjadi bongkahan kokas yang membara.",
+   "dibaca": "Setelah matang, batu bara berubah menjadi bongkahan kokas yang membara.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1617ac18895d.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "181aae1c6c77",
+   "suara": "mia",
+   "teks": "Pintu oven dibuka di kedua sisi.",
+   "dibaca": "Pintu oven dibuka di kedua sisi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/181aae1c6c77.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "313b9c05982e",
+   "suara": "mia",
+   "teks": "Mesin pendorong mendorong kokas panas keluar dari oven.",
+   "dibaca": "Mesin pendorong mendorong kokas panas keluar dari oven.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/313b9c05982e.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5603e455be76",
+   "suara": "mia",
+   "teks": "Kokas jatuh ke gerbong pemadam.",
+   "dibaca": "Kokas jatuh ke gerbong pemadam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5603e455be76.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "dd348629d6fe",
+   "suara": "mia",
+   "teks": "Gerbong pemadam membawa kokas ke menara pemadam.",
+   "dibaca": "Gerbong pemadam membawa kokas ke menara pemadam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/dd348629d6fe.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2b2d560f4a3b",
+   "suara": "mia",
+   "teks": "Di menara pemadam, kokas disiram air dalam jumlah besar.",
+   "dibaca": "Di menara pemadam, kokas disiram air dalam jumlah besar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2b2d560f4a3b.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2c21f9827fe5",
+   "suara": "mia",
+   "teks": "Uap putih yang besar keluar dari menara pemadam.",
+   "dibaca": "Uap putih yang besar keluar dari menara pemadam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2c21f9827fe5.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a8e0da4fd1df",
+   "suara": "mia",
+   "teks": "Ada juga cara pemadaman kering memakai gas lembam.",
+   "dibaca": "Ada juga cara pemadaman kering memakai gas lembam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a8e0da4fd1df.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "602999289bf0",
+   "suara": "mia",
+   "teks": "Panas dari pemadaman kering bisa dipakai untuk membangkitkan listrik.",
+   "dibaca": "Panas dari pemadaman kering bisa dipakai untuk membangkitkan listrik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/602999289bf0.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2466b799c4dc",
+   "suara": "mia",
+   "teks": "Setelah dingin, kokas diayak sesuai ukurannya.",
+   "dibaca": "Setelah dingin, kokas diayak sesuai ukurannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2466b799c4dc.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "52f47ef07437",
+   "suara": "mia",
+   "teks": "Kokas lalu dibawa dengan ban berjalan ke tempat penyimpanan.",
+   "dibaca": "Kokas lalu dibawa dengan ban berjalan ke tempat penyimpanan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/52f47ef07437.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "34ee2c9b9874",
+   "suara": "mia",
+   "teks": "Gas yang keluar dari oven disebut gas oven kokas atau COG.",
+   "dibaca": "Gas yang keluar dari oven disebut gas oven kokas atau se o ge.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/34ee2c9b9874.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5ef0df10fda3",
+   "suara": "mia",
+   "teks": "Gas ini naik lewat pipa naik, lalu dikumpulkan di pipa pengumpul.",
+   "dibaca": "Gas ini naik lewat pipa naik, lalu dikumpulkan di pipa pengumpul.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5ef0df10fda3.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "aa1411908cdb",
+   "suara": "mia",
+   "teks": "Gas didinginkan supaya ter dan air amonia terpisah.",
+   "dibaca": "Gas didinginkan supaya ter dan air amonia terpisah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/aa1411908cdb.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e754229d9315",
+   "suara": "mia",
+   "teks": "Ter batu bara dan bahan lain diolah menjadi produk sampingan.",
+   "dibaca": "Ter batu bara dan bahan lain diolah menjadi produk sampingan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/e754229d9315.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cb91925ac1b4",
+   "suara": "mia",
+   "teks": "Belerang dalam gas dibuang lewat proses desulfurisasi.",
+   "dibaca": "Belerang dalam gas dibuang lewat proses desulfurisasi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/cb91925ac1b4.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "dad74a54c8fd",
+   "suara": "mia",
+   "teks": "Gas yang sudah bersih dipakai lagi untuk memanaskan tungku.",
+   "dibaca": "Gas yang sudah bersih dipakai lagi untuk memanaskan tungku.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/dad74a54c8fd.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "29b440bdde1b",
+   "suara": "mia",
+   "teks": "Pernah lihat asap putih besar dari menara di kawasan industri?",
+   "dibaca": "Pernah lihat asap putih besar dari menara di kawasan industri?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/29b440bdde1b.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "98ae6d832b26",
+   "suara": "mia",
+   "teks": "Bisa jadi itu bukan asap, melainkan uap air dari pemadaman kokas.",
+   "dibaca": "Bisa jadi itu bukan asap, melainkan uap air dari pemadaman kokas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/98ae6d832b26.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "638ab4b36c48",
+   "suara": "mia",
+   "teks": "Batu bara hitam ternyata bisa berubah menjadi bahan yang lebih kuat.",
+   "dibaca": "Batu bara hitam ternyata bisa berubah menjadi bahan yang lebih kuat.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/638ab4b36c48.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e6eba5080ec5",
+   "suara": "mia",
+   "teks": "Kokas punya banyak pori, seperti spons yang keras.",
+   "dibaca": "Kokas punya banyak pori, seperti spons yang keras.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/e6eba5080ec5.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1afae3605c42",
+   "suara": "mia",
+   "teks": "Pori-pori ini membantu udara panas mengalir di dalam tanur.",
+   "dibaca": "Pori-pori ini membantu udara panas mengalir di dalam tanur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1afae3605c42.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ef76213121bc",
+   "suara": "mia",
+   "teks": "Kokas yang bagus harus kuat supaya tidak hancur ditimpa beban berat.",
+   "dibaca": "Kokas yang bagus harus kuat supaya tidak hancur ditimpa beban berat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ef76213121bc.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "01fab2767940",
+   "suara": "mia",
+   "teks": "Kalau kokasnya rapuh, proses di tanur bisa terganggu.",
+   "dibaca": "Kalau kokasnya rapuh, proses di tanur bisa terganggu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/01fab2767940.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9432e9af6312",
+   "suara": "mia",
+   "teks": "Jadi, di balik logam yang kita pakai, ada kerja keras pabrik kokas.",
+   "dibaca": "Jadi, di balik logam yang kita pakai, ada kerja keras pabrik kokas.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/9432e9af6312.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "dec446cb1bf4",
+   "suara": "mia",
+   "teks": "Tahukah kamu, ponsel dan mobil listrik juga berhubungan dengan kokas?",
+   "dibaca": "Tahukah kamu, ponsel dan mobil listrik juga berhubungan dengan kokas?",
+   "fungsi": [
+    "menghubungkan dua topik",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/dec446cb1bf4.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e2cbd7101d4d",
+   "suara": "mia",
+   "teks": "Nikel untuk baterai diolah di tanur yang memakai kokas atau batu bara.",
+   "dibaca": "Nikel untuk baterai diolah di tanur yang memakai kokas atau batu bara.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/e2cbd7101d4d.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "84cdd65b4eb9",
+   "suara": "mia",
+   "teks": "Pekerja kokas bekerja di dekat panas yang luar biasa setiap hari.",
+   "dibaca": "Pekerja kokas bekerja di dekat panas yang luar biasa setiap hari.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/84cdd65b4eb9.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "426a34b91223",
+   "suara": "mia",
+   "teks": "Bayangkan bekerja di samping dinding yang suhunya ribuan derajat.",
+   "dibaca": "Bayangkan bekerja di samping dinding yang suhunya ribuan derajat.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/426a34b91223.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "23093c71c3f6",
+   "suara": "mia",
+   "teks": "Itulah kenapa keselamatan kerja jadi nomor satu di pabrik kokas.",
+   "dibaca": "Itulah kenapa keselamatan kerja jadi nomor satu di pabrik kokas.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/23093c71c3f6.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e646346544ad",
+   "suara": "mia",
+   "teks": "Selamat pagi semua, kita mulai safety talk.",
+   "dibaca": "Selamat pagi semua, kita mulai sefti tok.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/e646346544ad.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "95d4bfd2b70f",
+   "suara": "mia",
+   "teks": "Sebelum mulai kerja, kita briefing dulu.",
+   "dibaca": "Sebelum mulai kerja, kita brifing dulu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/95d4bfd2b70f.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ada4b80aa788",
+   "suara": "mia",
+   "teks": "Hari ini ada pekerjaan perbaikan di baterai dua.",
+   "dibaca": "Hari ini ada pekerjaan perbaikan di baterai dua.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ada4b80aa788.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "dff6b8d75b79",
+   "suara": "mia",
+   "teks": "Semua pekerja wajib memakai APD lengkap.",
+   "dibaca": "Semua pekerja wajib memakai a pe de lengkap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/dff6b8d75b79.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5fa90d1176d8",
+   "suara": "mia",
+   "teks": "Helm, kacamata, sarung tangan, sepatu keselamatan, dan baju tahan panas.",
+   "dibaca": "Helm, kacamata, sarung tangan, sepatu keselamatan, dan baju tahan panas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5fa90d1176d8.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "36668024fbf6",
+   "suara": "mia",
+   "teks": "Masker gas wajib dibawa di area tungku.",
+   "dibaca": "Masker gas wajib dibawa di area tungku.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/36668024fbf6.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "197be736081d",
+   "suara": "mia",
+   "teks": "Jangan pernah masuk area gas sendirian.",
+   "dibaca": "Jangan pernah masuk area gas sendirian.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/197be736081d.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4415b69012eb",
+   "suara": "mia",
+   "teks": "Selalu cek kadar gas CO sebelum masuk area tertutup.",
+   "dibaca": "Selalu cek kadar gas se o sebelum masuk area tertutup.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4415b69012eb.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "569a5a7d8163",
+   "suara": "mia",
+   "teks": "Gas CO tidak berwarna dan tidak berbau, tapi sangat beracun.",
+   "dibaca": "Gas se o tidak berwarna dan tidak berbau, tapi sangat beracun.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/569a5a7d8163.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1b70ccf6709f",
+   "suara": "mia",
+   "teks": "Kalau alarm gas berbunyi, segera keluar ke tempat aman.",
+   "dibaca": "Kalau alarm gas berbunyi, segera keluar ke tempat aman.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1b70ccf6709f.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "52c7c079428d",
+   "suara": "mia",
+   "teks": "Berjalanlah melawan arah angin saat terjadi kebocoran gas.",
+   "dibaca": "Berjalanlah melawan arah angin saat terjadi kebocoran gas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/52c7c079428d.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1da71fecdeea",
+   "suara": "mia",
+   "teks": "Jangan berdiri di jalur mesin pendorong.",
+   "dibaca": "Jangan berdiri di jalur mesin pendorong.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1da71fecdeea.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0e2b800f309d",
+   "suara": "mia",
+   "teks": "Jauhi pintu oven saat proses pendorongan berlangsung.",
+   "dibaca": "Jauhi pintu oven saat proses pendorongan berlangsung.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0e2b800f309d.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "750bd07a2e50",
+   "suara": "mia",
+   "teks": "Area ini panas, jaga jarak aman.",
+   "dibaca": "Area ini panas, jaga jarak aman.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/750bd07a2e50.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d1bcc30672f6",
+   "suara": "mia",
+   "teks": "Dilarang merokok di seluruh area pabrik.",
+   "dibaca": "Dilarang merokok di seluruh area pabrik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d1bcc30672f6.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
   }
  ]
 }
