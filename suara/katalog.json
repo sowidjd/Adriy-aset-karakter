@@ -89665,6 +89665,231 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5a26e2873a5f",
+   "suara": "adriy",
+   "teks": "Langkah kedua adalah bagian terpenting, yaitu mengeringkan tubuh.",
+   "dibaca": "Langkah kedua adalah bagian terpenting, yaitu mengeringkan tubuh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/5a26e2873a5f.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1dab398e6c81",
+   "suara": "adriy",
+   "teks": "Di antara lapisan kain, sering diselipkan jimat kecil untuk perlindungan.",
+   "dibaca": "Di antara lapisan kain, sering diselipkan jimat kecil untuk perlindungan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/1dab398e6c81.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "bf7741b5ed9f",
+   "suara": "adriy",
+   "teks": "Lalu, kenapa kadang setelah efek kopi habis kita malah sangat mengantuk?",
+   "dibaca": "Lalu, kenapa kadang setelah efek kopi habis kita malah sangat mengantuk?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/bf7741b5ed9f.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "05b650ccaca0",
+   "suara": "adriy",
+   "teks": "Karena selama kafein bekerja, adenosin terus menumpuk tanpa kita sadari.",
+   "dibaca": "Karena selama kafein bekerja, adenosin terus menumpuk tanpa kita sadari.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/05b650ccaca0.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "54e3652b3159",
+   "suara": "adriy",
+   "teks": "Dan kalau kita minum kopi setiap hari, otak bisa menambah jumlah gemboknya.",
+   "dibaca": "Dan kalau kita minum kopi setiap hari, otak bisa menambah jumlah gemboknya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/54e3652b3159.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3d6b3efd2bdb",
+   "suara": "adriy",
+   "teks": "Bau ini begitu akrab, sampai punya nama sendiri, yaitu petrikor.",
+   "dibaca": "Bau ini begitu akrab, sampai punya nama sendiri, yaitu petrikor.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/3d6b3efd2bdb.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "523142214fc5",
+   "suara": "adriy",
+   "teks": "Butiran halus inilah yang membawa aroma tanah, dan bisa terbawa angin.",
+   "dibaca": "Butiran halus inilah yang membawa aroma tanah, dan bisa terbawa angin.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/523142214fc5.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7a8bff487e66",
+   "suara": "adriy",
+   "teks": "Kepekaan kita pada geosmin lebih tinggi daripada pada banyak bau lain.",
+   "dibaca": "Kepekaan kita pada geosmin lebih tinggi daripada pada banyak bau lain.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/7a8bff487e66.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "65e364a71325",
+   "suara": "adriy",
+   "teks": "Di dalam material, ada miliaran atom yang tersusun sangat rapat.",
+   "dibaca": "Di dalam material, ada miliaran atom yang tersusun sangat rapat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/65e364a71325.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "444a8fe23def",
+   "suara": "adriy",
+   "teks": "Satu domain ukurannya sangat kecil, bisa hanya beberapa mikrometer.",
+   "dibaca": "Satu domain ukurannya sangat kecil, bisa hanya beberapa mikrometer.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/444a8fe23def.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d6411afe62cb",
+   "suara": "adriy",
+   "teks": "Saat dibekukan, hampir semua zat menjadi lebih padat dan lebih rapat.",
+   "dibaca": "Saat dibekukan, hampir semua zat menjadi lebih padat dan lebih rapat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/d6411afe62cb.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fee733989461",
+   "suara": "adriy",
+   "teks": "Seandainya es tenggelam, danau bisa membeku dari dasar sampai ke atas.",
+   "dibaca": "Seandainya es tenggelam, danau bisa membeku dari dasar sampai ke atas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/fee733989461.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5edfb3a15260",
+   "suara": "adriy",
+   "teks": "Biasanya karena kita terbangun tepat di tengah mimpi atau sesaat setelahnya.",
+   "dibaca": "Biasanya karena kita terbangun tepat di tengah mimpi atau sesaat setelahnya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/5edfb3a15260.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e944e6aea7fa",
+   "suara": "adriy",
+   "teks": "Kalau punya kondisi kesehatan tertentu, sebaiknya tanya ke tenaga kesehatan.",
+   "dibaca": "Kalau punya kondisi kesehatan tertentu, sebaiknya tanya ke tenaga kesehatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/e944e6aea7fa.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1e7c1b17881d",
+   "suara": "adriy",
+   "teks": "Kenapa bau tanah saat hujan pertama turun terasa begitu khas dan menenangkan?",
+   "dibaca": "Kenapa bau tanah saat hujan pertama turun terasa begitu khas dan menenangkan?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/1e7c1b17881d.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
