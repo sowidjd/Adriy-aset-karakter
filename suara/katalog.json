@@ -88120,6 +88120,186 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "dac1e0022fd2",
+   "suara": "adriy",
+   "teks": "Tapi dari mana sebenarnya bau ini berasal?",
+   "dibaca": "Tapi dari mana sebenarnya bau ini berasal?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/dac1e0022fd2.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b87734c5d401",
+   "suara": "adriy",
+   "teks": "Kita mulai dari cahaya matahari.",
+   "dibaca": "Kita mulai dari cahaya matahari.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/b87734c5d401.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "42b52eea4155",
+   "suara": "adriy",
+   "teks": "Jawabannya ada pada gravitasi Bumi.",
+   "dibaca": "Jawabannya ada pada gravitasi Bumi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/42b52eea4155.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b683483adb28",
+   "suara": "adriy",
+   "teks": "Banyak yang menyebutnya sisi gelap bulan.",
+   "dibaca": "Banyak yang menyebutnya sisi gelap bulan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/b683483adb28.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "852371f4e436",
+   "suara": "adriy",
+   "teks": "Pertama, untuk berburu.",
+   "dibaca": "Pertama, untuk berburu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/852371f4e436.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c069405a49a5",
+   "suara": "adriy",
+   "teks": "Apakah pilotnya mengambil jalan memutar?",
+   "dibaca": "Apakah pilotnya mengambil jalan memutar?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/c069405a49a5.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "08613d260d1e",
+   "suara": "adriy",
+   "teks": "Jalur ini disebut lingkaran besar.",
+   "dibaca": "Jalur ini disebut lingkaran besar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/08613d260d1e.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "84b543c52de2",
+   "suara": "adriy",
+   "teks": "Hampir semua orang bermimpi setiap malam.",
+   "dibaca": "Hampir semua orang bermimpi setiap malam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/84b543c52de2.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "62681f7e9df2",
+   "suara": "adriy",
+   "teks": "Kita mulai dari cara tidur bekerja.",
+   "dibaca": "Kita mulai dari cara tidur bekerja.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/62681f7e9df2.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c08453ae8c03",
+   "suara": "adriy",
+   "teks": "Kopi bekerja dengan cara menipu otak.",
+   "dibaca": "Kopi bekerja dengan cara menipu otak.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/c08453ae8c03.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3750667cf277",
+   "suara": "adriy",
+   "teks": "Kenapa hidung kita begitu peka dengan bau ini?",
+   "dibaca": "Kenapa hidung kita begitu peka dengan bau ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/3750667cf277.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fd4cb457aae9",
+   "suara": "adriy",
+   "teks": "Kenapa hewan di laut dalam bisa bercahaya?",
+   "dibaca": "Kenapa hewan di laut dalam bisa bercahaya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/fd4cb457aae9.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
