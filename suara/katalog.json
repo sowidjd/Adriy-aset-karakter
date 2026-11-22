@@ -87848,6 +87848,97 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a21d581b8cf1",
+   "suara": "adriy",
+   "teks": "Jadi, di balik benda sederhana ini, ada dunia mikroskopis yang bekerja tanpa henti.",
+   "dibaca": "Jadi, di balik benda sederhana ini, ada dunia mikroskopis yang bekerja tanpa henti.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/a21d581b8cf1.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1a0e904e752e",
+   "suara": "adriy",
+   "teks": "Selain itu, ada aturan jalur udara, cuaca buruk, dan bandara cadangan yang harus selalu terjangkau.",
+   "dibaca": "Selain itu, ada aturan jalur udara, cuaca buruk, dan bandara cadangan yang harus selalu terjangkau.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/1a0e904e752e.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "758514a5e7da",
+   "suara": "adriy",
+   "teks": "Jadi, mumi bukan hanya peninggalan kematian, tapi juga catatan kehidupan dari masa lalu.",
+   "dibaca": "Jadi, mumi bukan hanya peninggalan kematian, tapi juga catatan kehidupan dari masa lalu.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/758514a5e7da.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1a08f4ece4ff",
+   "suara": "adriy",
+   "teks": "Jadi saat kita membuka mata, mimpi baru saja terjadi, tapi sistem penyimpanannya belum siap.",
+   "dibaca": "Jadi saat kita membuka mata, mimpi baru saja terjadi, tapi sistem penyimpanannya belum siap.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/1a08f4ece4ff.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2c80cfe838a0",
+   "suara": "adriy",
+   "teks": "Itulah sebabnya magnet tidak menarik plastik atau kayu, karena tidak ada domain yang bisa disejajarkan.",
+   "dibaca": "Itulah sebabnya magnet tidak menarik plastik atau kayu, karena tidak ada domain yang bisa disejajarkan.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/2c80cfe838a0.wav",
+   "durasi": 6.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "71474f9c589c",
+   "suara": "adriy",
+   "teks": "Jadi, saat kamu mencium bau hujan pertama, kamu sedang mencium hasil kerja jutaan bakteri, dibantu oleh tetes-tetes hujan.",
+   "dibaca": "Jadi, saat kamu mencium bau hujan pertama, kamu sedang mencium hasil kerja jutaan bakteri, dibantu oleh tetes-tetes hujan.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/71474f9c589c.wav",
+   "durasi": 8.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
