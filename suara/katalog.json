@@ -81367,6 +81367,398 @@
    "catatan": "",
    "sumber": "naskah:04-es.txt",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "187cdb2b660c",
+   "suara": "hasan",
+   "teks": "Pernah lihat rute pesawat di layar kursi penumpang, lalu bingung kenapa jalurnya melengkung?",
+   "dibaca": "Pernah lihat rute pesawat di layar kursi penumpang, lalu bingung kenapa jalurnya melengkung?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/187cdb2b660c.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "47dba640095a",
+   "suara": "hasan",
+   "teks": "Kalau tujuannya ada di sebelah kanan peta, kenapa pesawat malah berbelok ke atas, mendekati kutub?",
+   "dibaca": "Kalau tujuannya ada di sebelah kanan peta, kenapa pesawat malah berbelok ke atas, mendekati kutub?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/47dba640095a.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d170d24bb046",
+   "suara": "hasan",
+   "teks": "Apakah pilotnya mengambil jalan memutar?",
+   "dibaca": "Apakah pilotnya mengambil jalan memutar?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/d170d24bb046.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7e76d6736a08",
+   "suara": "hasan",
+   "teks": "Ternyata justru sebaliknya.",
+   "dibaca": "Ternyata justru sebaliknya.",
+   "fungsi": [
+    "membantah asumsi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/7e76d6736a08.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d04dafda3e65",
+   "suara": "hasan",
+   "teks": "Jalur melengkung itu sering kali adalah jalur yang paling pendek.",
+   "dibaca": "Jalur melengkung itu sering kali adalah jalur yang paling pendek.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d04dafda3e65.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a1ab4f12eaa8",
+   "suara": "hasan",
+   "teks": "Masalahnya ada pada peta yang biasa kita lihat.",
+   "dibaca": "Masalahnya ada pada peta yang biasa kita lihat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/a1ab4f12eaa8.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0fc4bb277de7",
+   "suara": "hasan",
+   "teks": "Bumi berbentuk bulat, sedangkan peta itu datar.",
+   "dibaca": "Bumi berbentuk bulat, sedangkan peta itu datar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/0fc4bb277de7.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c5f234b42ad2",
+   "suara": "hasan",
+   "teks": "Untuk mengubah bola menjadi lembaran datar, bentuk benua dan jarak pasti ikut berubah.",
+   "dibaca": "Untuk mengubah bola menjadi lembaran datar, bentuk benua dan jarak pasti ikut berubah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/c5f234b42ad2.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fb410251ca64",
+   "suara": "hasan",
+   "teks": "Pada peta yang paling umum, yaitu peta Mercator, daerah dekat kutub terlihat jauh lebih besar dari aslinya.",
+   "dibaca": "Pada peta yang paling umum, yaitu peta Mercator, daerah dekat kutub terlihat jauh lebih besar dari aslinya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/fb410251ca64.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fece29603f51",
+   "suara": "hasan",
+   "teks": "Greenland di peta itu terlihat hampir sebesar Afrika.",
+   "dibaca": "Greenland di peta itu terlihat hampir sebesar Afrika.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/fece29603f51.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "59e1b3035ab0",
+   "suara": "hasan",
+   "teks": "Padahal, Afrika sebenarnya sekitar empat belas kali lebih luas.",
+   "dibaca": "Padahal, Afrika sebenarnya sekitar empat belas kali lebih luas.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/59e1b3035ab0.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1fbf5cb7516e",
+   "suara": "hasan",
+   "teks": "Karena peta menipu mata kita, garis lurus di peta belum tentu jalur terpendek di Bumi.",
+   "dibaca": "Karena peta menipu mata kita, garis lurus di peta belum tentu jalur terpendek di Bumi.",
+   "fungsi": [
+    "membantah asumsi",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/1fbf5cb7516e.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "64a5fe923749",
+   "suara": "hasan",
+   "teks": "Coba bayangkan kamu mengambil sebuah bola dunia dan seutas tali.",
+   "dibaca": "Coba bayangkan kamu mengambil sebuah bola dunia dan seutas tali.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/64a5fe923749.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "bd97d7342806",
+   "suara": "hasan",
+   "teks": "Tarik tali itu sekencang mungkin di antara dua kota.",
+   "dibaca": "Tarik tali itu sekencang mungkin di antara dua kota.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/bd97d7342806.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b1a857632ad5",
+   "suara": "hasan",
+   "teks": "Tali akan mengikuti jalur terpendek di permukaan bola.",
+   "dibaca": "Tali akan mengikuti jalur terpendek di permukaan bola.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b1a857632ad5.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7268f6cf8116",
+   "suara": "hasan",
+   "teks": "Jalur ini disebut lingkaran besar.",
+   "dibaca": "Jalur ini disebut lingkaran besar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/7268f6cf8116.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5dd458a848ef",
+   "suara": "hasan",
+   "teks": "Saat jalur lingkaran besar itu digambar ulang di peta datar, hasilnya terlihat melengkung.",
+   "dibaca": "Saat jalur lingkaran besar itu digambar ulang di peta datar, hasilnya terlihat melengkung.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/5dd458a848ef.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "45cfaba039c7",
+   "suara": "hasan",
+   "teks": "Sebagai contoh, penerbangan dari New York ke Tokyo biasanya lewat dekat Alaska, bukan lurus melintasi Pasifik di tengah peta.",
+   "dibaca": "Sebagai contoh, penerbangan dari New York ke Tokyo biasanya lewat dekat Alaska, bukan lurus melintasi Pasifik di tengah peta.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/45cfaba039c7.wav",
+   "durasi": 7.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1f79019220d0",
+   "suara": "hasan",
+   "teks": "Tapi jalur terpendek bukan satu-satunya pertimbangan.",
+   "dibaca": "Tapi jalur terpendek bukan satu-satunya pertimbangan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/1f79019220d0.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cc8ac87150bd",
+   "suara": "hasan",
+   "teks": "Pilot juga memperhitungkan arus angin kencang di ketinggian, yang disebut jet stream.",
+   "dibaca": "Pilot juga memperhitungkan arus angin kencang di ketinggian, yang disebut jet stream.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/cc8ac87150bd.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3c8de0400569",
+   "suara": "hasan",
+   "teks": "Kalau angin datang dari belakang, pesawat bisa lebih cepat dan lebih hemat bahan bakar.",
+   "dibaca": "Kalau angin datang dari belakang, pesawat bisa lebih cepat dan lebih hemat bahan bakar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3c8de0400569.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "55e0427bf024",
+   "suara": "hasan",
+   "teks": "Itulah kenapa waktu terbang pergi dan pulang di rute yang sama bisa berbeda.",
+   "dibaca": "Itulah kenapa waktu terbang pergi dan pulang di rute yang sama bisa berbeda.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/55e0427bf024.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9dc2142ea4c4",
+   "suara": "hasan",
+   "teks": "Selain itu, ada aturan jalur udara, cuaca buruk, dan bandara cadangan yang harus selalu terjangkau.",
+   "dibaca": "Selain itu, ada aturan jalur udara, cuaca buruk, dan bandara cadangan yang harus selalu terjangkau.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/hasan/9dc2142ea4c4.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c0fb4ab165c8",
+   "suara": "hasan",
+   "teks": "Jadi, rute pesawat adalah hasil perhitungan antara jarak, angin, dan keselamatan.",
+   "dibaca": "Jadi, rute pesawat adalah hasil perhitungan antara jarak, angin, dan keselamatan.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/c0fb4ab165c8.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2447baf5e340",
+   "suara": "hasan",
+   "teks": "Lain kali kamu melihat jalur yang melengkung di layar pesawat, kamu tahu bahwa itu bukan jalan memutar.",
+   "dibaca": "Lain kali kamu melihat jalur yang melengkung di layar pesawat, kamu tahu bahwa itu bukan jalan memutar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/2447baf5e340.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a965fada9cc1",
+   "suara": "hasan",
+   "teks": "Itu adalah jalan pintas di atas Bumi yang bulat.",
+   "dibaca": "Itu adalah jalan pintas di atas Bumi yang bulat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/a965fada9cc1.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:05-pesawat.txt",
+   "dibuat": "2026-11-22"
   }
  ]
 }
