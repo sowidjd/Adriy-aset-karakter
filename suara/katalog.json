@@ -81759,6 +81759,382 @@
    "catatan": "",
    "sumber": "naskah:05-pesawat.txt",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1aa031a0fed5",
+   "suara": "hasan",
+   "teks": "Pernah bangun tidur, ingat mimpi yang seru banget, tapi beberapa menit kemudian semuanya hilang?",
+   "dibaca": "Pernah bangun tidur, ingat mimpi yang seru banget, tapi beberapa menit kemudian semuanya hilang?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/1aa031a0fed5.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e363a06c1576",
+   "suara": "hasan",
+   "teks": "Hampir semua orang bermimpi setiap malam.",
+   "dibaca": "Hampir semua orang bermimpi setiap malam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e363a06c1576.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "484771749299",
+   "suara": "hasan",
+   "teks": "Tapi sebagian besar mimpi itu lenyap begitu saja, bahkan sebelum kita sempat menceritakannya.",
+   "dibaca": "Tapi sebagian besar mimpi itu lenyap begitu saja, bahkan sebelum kita sempat menceritakannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/484771749299.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a449dfd7729b",
+   "suara": "hasan",
+   "teks": "Kenapa otak begitu cepat melupakan mimpi?",
+   "dibaca": "Kenapa otak begitu cepat melupakan mimpi?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/a449dfd7729b.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "09944adb979f",
+   "suara": "hasan",
+   "teks": "Kita mulai dari cara tidur bekerja.",
+   "dibaca": "Kita mulai dari cara tidur bekerja.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/09944adb979f.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "216ff8e0834c",
+   "suara": "hasan",
+   "teks": "Saat tidur, kita melewati beberapa tahap, dan mimpi yang paling jelas biasanya terjadi di tahap yang disebut REM.",
+   "dibaca": "Saat tidur, kita melewati beberapa tahap, dan mimpi yang paling jelas biasanya terjadi di tahap yang disebut rem.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/216ff8e0834c.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cb6d16a52dee",
+   "suara": "hasan",
+   "teks": "REM adalah singkatan dari gerakan mata cepat, karena mata kita bergerak-gerak di balik kelopak.",
+   "dibaca": "rem adalah singkatan dari gerakan mata cepat, karena mata kita bergerak-gerak di balik kelopak.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/cb6d16a52dee.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5cb4e55b51ef",
+   "suara": "hasan",
+   "teks": "Di tahap ini, otak sangat aktif, hampir seperti saat kita terjaga.",
+   "dibaca": "Di tahap ini, otak sangat aktif, hampir seperti saat kita terjaga.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/5cb4e55b51ef.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4c2792d34384",
+   "suara": "hasan",
+   "teks": "Tapi ada satu bagian yang bekerja berbeda.",
+   "dibaca": "Tapi ada satu bagian yang bekerja berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/4c2792d34384.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "98f6e9d464dd",
+   "suara": "hasan",
+   "teks": "Saat tidur, otak hanya mengeluarkan sangat sedikit noradrenalin, zat kimia yang membantu kita fokus dan menyimpan ingatan baru.",
+   "dibaca": "Saat tidur, otak hanya mengeluarkan sangat sedikit noradrenalin, zat kimia yang membantu kita fokus dan menyimpan ingatan baru.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/98f6e9d464dd.wav",
+   "durasi": 7.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "60e8e23ec51f",
+   "suara": "hasan",
+   "teks": "Tanpa zat ini, otak seperti merekam video tanpa menekan tombol simpan.",
+   "dibaca": "Tanpa zat ini, otak seperti merekam video tanpa menekan tombol simpan.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/hasan/60e8e23ec51f.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ec8229043d90",
+   "suara": "hasan",
+   "teks": "Selain itu, hipokampus, bagian otak yang berperan menyimpan ingatan baru, diduga termasuk bagian yang paling lambat bangun.",
+   "dibaca": "Selain itu, hipokampus, bagian otak yang berperan menyimpan ingatan baru, diduga termasuk bagian yang paling lambat bangun.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/hasan/ec8229043d90.wav",
+   "durasi": 7.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0ae0eee6577b",
+   "suara": "hasan",
+   "teks": "Jadi saat kita membuka mata, mimpi baru saja terjadi, tapi sistem penyimpanannya belum siap.",
+   "dibaca": "Jadi saat kita membuka mata, mimpi baru saja terjadi, tapi sistem penyimpanannya belum siap.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/0ae0eee6577b.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "36b0fa19c0f8",
+   "suara": "hasan",
+   "teks": "Ada juga penelitian pada tikus yang menemukan sekelompok sel otak yang aktif saat REM dan justru membantu otak melupakan.",
+   "dibaca": "Ada juga penelitian pada tikus yang menemukan sekelompok sel otak yang aktif saat rem dan justru membantu otak melupakan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/36b0fa19c0f8.wav",
+   "durasi": 6.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d59ea794669e",
+   "suara": "hasan",
+   "teks": "Para ilmuwan menduga lupa ini disengaja, supaya kita tidak mencampuradukkan mimpi dengan kenyataan.",
+   "dibaca": "Para ilmuwan menduga lupa ini disengaja, supaya kita tidak mencampuradukkan mimpi dengan kenyataan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d59ea794669e.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "09ea7344b267",
+   "suara": "hasan",
+   "teks": "Tapi dugaan ini masih terus diteliti.",
+   "dibaca": "Tapi dugaan ini masih terus diteliti.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/09ea7344b267.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "73e838a45b99",
+   "suara": "hasan",
+   "teks": "Lalu kenapa kadang kita bisa ingat mimpi dengan jelas?",
+   "dibaca": "Lalu kenapa kadang kita bisa ingat mimpi dengan jelas?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/73e838a45b99.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d29b7cc73b32",
+   "suara": "hasan",
+   "teks": "Biasanya karena kita terbangun tepat di tengah mimpi atau sesaat setelahnya.",
+   "dibaca": "Biasanya karena kita terbangun tepat di tengah mimpi atau sesaat setelahnya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/d29b7cc73b32.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3f06a43b65b5",
+   "suara": "hasan",
+   "teks": "Mimpi yang sangat emosional, menakutkan, atau aneh juga lebih mudah menempel di ingatan.",
+   "dibaca": "Mimpi yang sangat emosional, menakutkan, atau aneh juga lebih mudah menempel di ingatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3f06a43b65b5.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d54f3fc5123f",
+   "suara": "hasan",
+   "teks": "Kalau kamu ingin lebih sering ingat mimpi, ada satu cara sederhana.",
+   "dibaca": "Kalau kamu ingin lebih sering ingat mimpi, ada satu cara sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d54f3fc5123f.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e26ee3f4071b",
+   "suara": "hasan",
+   "teks": "Begitu bangun, jangan langsung bergerak atau membuka ponsel.",
+   "dibaca": "Begitu bangun, jangan langsung bergerak atau membuka ponsel.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e26ee3f4071b.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0c7ca75ed50c",
+   "suara": "hasan",
+   "teks": "Diam sebentar, ingat-ingat mimpimu, lalu tulis di buku catatan.",
+   "dibaca": "Diam sebentar, ingat-ingat mimpimu, lalu tulis di buku catatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/0c7ca75ed50c.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "28f03cbe799b",
+   "suara": "hasan",
+   "teks": "Orang yang terbiasa menulis jurnal mimpi biasanya jadi lebih sering mengingat mimpinya.",
+   "dibaca": "Orang yang terbiasa menulis jurnal mimpi biasanya jadi lebih sering mengingat mimpinya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/28f03cbe799b.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "732ef276e676",
+   "suara": "hasan",
+   "teks": "Jadi, mimpimu bukan hilang karena tidak penting.",
+   "dibaca": "Jadi, mimpimu bukan hilang karena tidak penting.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/732ef276e676.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d08a7aa5fac2",
+   "suara": "hasan",
+   "teks": "Otakmu hanya sedang berada dalam mode yang tidak dirancang untuk menyimpan.",
+   "dibaca": "Otakmu hanya sedang berada dalam mode yang tidak dirancang untuk menyimpan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d08a7aa5fac2.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:06-mimpi.txt",
+   "dibuat": "2026-11-22"
   }
  ]
 }
