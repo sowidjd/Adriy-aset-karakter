@@ -88480,6 +88480,381 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c29c84ea01dd",
+   "suara": "adriy",
+   "teks": "Banyak orang mengira bulan tidak berputar sama sekali.",
+   "dibaca": "Banyak orang mengira bulan tidak berputar sama sekali.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/c29c84ea01dd.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "70e0b81adfab",
+   "suara": "adriy",
+   "teks": "Lalu bagaimana dengan sisi yang tidak pernah kita lihat?",
+   "dibaca": "Lalu bagaimana dengan sisi yang tidak pernah kita lihat?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/70e0b81adfab.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6ab937409392",
+   "suara": "adriy",
+   "teks": "Lalu kenapa cahayanya kebanyakan berwarna biru?",
+   "dibaca": "Lalu kenapa cahayanya kebanyakan berwarna biru?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/6ab937409392.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c6370529ae6b",
+   "suara": "adriy",
+   "teks": "Lalu kenapa mumi bisa bertahan ribuan tahun?",
+   "dibaca": "Lalu kenapa mumi bisa bertahan ribuan tahun?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/c6370529ae6b.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "434c5be7c22b",
+   "suara": "adriy",
+   "teks": "Coba pikirkan lilin, mentega, atau besi.",
+   "dibaca": "Coba pikirkan lilin, mentega, atau besi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/434c5be7c22b.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "55bbf169bb62",
+   "suara": "adriy",
+   "teks": "Masalahnya ada pada peta yang biasa kita lihat.",
+   "dibaca": "Masalahnya ada pada peta yang biasa kita lihat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/55bbf169bb62.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "034f8183cdc0",
+   "suara": "adriy",
+   "teks": "Itu adalah jalan pintas di atas Bumi yang bulat.",
+   "dibaca": "Itu adalah jalan pintas di atas Bumi yang bulat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/034f8183cdc0.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7e4904a686f2",
+   "suara": "adriy",
+   "teks": "Banyak orang mengira kopi memberi kita tenaga tambahan.",
+   "dibaca": "Banyak orang mengira kopi memberi kita tenaga tambahan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/7e4904a686f2.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8c3eed67076d",
+   "suara": "adriy",
+   "teks": "Tapi ada satu musuhnya, yaitu panas.",
+   "dibaca": "Tapi ada satu musuhnya, yaitu panas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/8c3eed67076d.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "40234027ce04",
+   "suara": "adriy",
+   "teks": "Ilmuwan menyebut keadaan ini penguncian pasang surut.",
+   "dibaca": "Ilmuwan menyebut keadaan ini penguncian pasang surut.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/40234027ce04.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2eb525f9fa88",
+   "suara": "adriy",
+   "teks": "Ketiga, untuk mengelabui musuh.",
+   "dibaca": "Ketiga, untuk mengelabui musuh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/2eb525f9fa88.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5f9f8ef01680",
+   "suara": "adriy",
+   "teks": "Coba masukkan es batu ke dalam gelas berisi air.",
+   "dibaca": "Coba masukkan es batu ke dalam gelas berisi air.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/5f9f8ef01680.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "098362cccf0e",
+   "suara": "adriy",
+   "teks": "Jalur melengkung itu sering kali adalah jalur yang paling pendek.",
+   "dibaca": "Jalur melengkung itu sering kali adalah jalur yang paling pendek.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/098362cccf0e.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e24edd5156b7",
+   "suara": "adriy",
+   "teks": "Greenland di peta itu terlihat hampir sebesar Afrika.",
+   "dibaca": "Greenland di peta itu terlihat hampir sebesar Afrika.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/e24edd5156b7.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8afc5a822931",
+   "suara": "adriy",
+   "teks": "Tarik tali itu sekencang mungkin di antara dua kota.",
+   "dibaca": "Tarik tali itu sekencang mungkin di antara dua kota.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/8afc5a822931.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c7ba80c2bd8c",
+   "suara": "adriy",
+   "teks": "Tali akan mengikuti jalur terpendek di permukaan bola.",
+   "dibaca": "Tali akan mengikuti jalur terpendek di permukaan bola.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/c7ba80c2bd8c.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "923283533a52",
+   "suara": "adriy",
+   "teks": "Lalu kenapa kadang kita bisa ingat mimpi dengan jelas?",
+   "dibaca": "Lalu kenapa kadang kita bisa ingat mimpi dengan jelas?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/923283533a52.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "637e0b39741f",
+   "suara": "adriy",
+   "teks": "Strategi ini dikenal sebagai harga psikologis.",
+   "dibaca": "Strategi ini dikenal sebagai harga psikologis.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/637e0b39741f.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5ef40f7df9cd",
+   "suara": "adriy",
+   "teks": "Kuncinya ada pada cara otak kita membaca angka.",
+   "dibaca": "Kuncinya ada pada cara otak kita membaca angka.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/5ef40f7df9cd.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1dea86dd8432",
+   "suara": "adriy",
+   "teks": "Bentuk molekul kafein sangat mirip dengan adenosin.",
+   "dibaca": "Bentuk molekul kafein sangat mirip dengan adenosin.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/1dea86dd8432.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "924a021e5ded",
+   "suara": "adriy",
+   "teks": "Jawabannya ternyata dari makhluk yang sangat kecil.",
+   "dibaca": "Jawabannya ternyata dari makhluk yang sangat kecil.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/924a021e5ded.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3df61d322b21",
+   "suara": "adriy",
+   "teks": "Bumi berbentuk bulat, sedangkan peta itu datar.",
+   "dibaca": "Bumi berbentuk bulat, sedangkan peta itu datar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/3df61d322b21.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d804e846be16",
+   "suara": "adriy",
+   "teks": "Tapi jalur terpendek bukan satu-satunya pertimbangan.",
+   "dibaca": "Tapi jalur terpendek bukan satu-satunya pertimbangan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/d804e846be16.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4a4d675a4cc9",
+   "suara": "adriy",
+   "teks": "Semakin lama kita terjaga, semakin banyak adenosin yang menumpuk.",
+   "dibaca": "Semakin lama kita terjaga, semakin banyak adenosin yang menumpuk.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/4a4d675a4cc9.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6cd0d39371d8",
+   "suara": "adriy",
+   "teks": "Bakteri ini menghasilkan zat bernama geosmin.",
+   "dibaca": "Bakteri ini menghasilkan zat bernama geosmin.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/6cd0d39371d8.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
