@@ -87366,6 +87366,96 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d250969192b0",
+   "suara": "mia",
+   "teks": "Saat melihat harga empat puluh sembilan ribu sembilan ratus, otak dengan cepat menangkap angka empat puluh, bukan lima puluh.",
+   "dibaca": "Saat melihat harga empat puluh sembilan ribu sembilan ratus, otak dengan cepat menangkap angka empat puluh, bukan lima puluh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d250969192b0.wav",
+   "durasi": 7.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "57f4afac24e6",
+   "suara": "mia",
+   "teks": "Dari Indonesia, dari Jepang, sampai dari kutub, pola gelap di permukaan bulan selalu terlihat sama.",
+   "dibaca": "Dari Indonesia, dari Jepang, sampai dari kutub, pola gelap di permukaan bulan selalu terlihat sama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/57f4afac24e6.wav",
+   "durasi": 6.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "477596258f75",
+   "suara": "mia",
+   "teks": "Saat tidur, kita melewati beberapa tahap, dan mimpi yang paling jelas biasanya terjadi di tahap yang disebut REM.",
+   "dibaca": "Saat tidur, kita melewati beberapa tahap, dan mimpi yang paling jelas biasanya terjadi di tahap yang disebut rem.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/477596258f75.wav",
+   "durasi": 7.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4ac7a53e4a34",
+   "suara": "mia",
+   "teks": "Sebuah penelitian di perairan Monterey, Amerika, menemukan sekitar tiga perempat hewan yang teramati punya kemampuan ini.",
+   "dibaca": "Sebuah penelitian di perairan Monterey, Amerika, menemukan sekitar tiga perempat hewan yang teramati punya kemampuan ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4ac7a53e4a34.wav",
+   "durasi": 8.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2b35698b3423",
+   "suara": "mia",
+   "teks": "Beberapa ikan menyalakan cahaya di bagian perutnya, supaya bayangan tubuhnya menyatu dengan cahaya samar dari atas.",
+   "dibaca": "Beberapa ikan menyalakan cahaya di bagian perutnya, supaya bayangan tubuhnya menyatu dengan cahaya samar dari atas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2b35698b3423.wav",
+   "durasi": 7.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "abe79d259cdf",
+   "suara": "mia",
+   "teks": "Di dalam tubuh, kafein butuh sekitar lima jam sampai jumlahnya tinggal separuh, walaupun lamanya berbeda pada tiap orang.",
+   "dibaca": "Di dalam tubuh, kafein butuh sekitar lima jam sampai jumlahnya tinggal separuh, walaupun lamanya berbeda pada tiap orang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/abe79d259cdf.wav",
+   "durasi": 7.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
