@@ -86447,6 +86447,126 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5ec41bb98a50",
+   "suara": "mia",
+   "teks": "Padahal sisi itu juga mendapat cahaya matahari, sama banyaknya dengan sisi depan.",
+   "dibaca": "Padahal sisi itu juga mendapat cahaya matahari, sama banyaknya dengan sisi depan.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/5ec41bb98a50.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f5aa9e95b9b9",
+   "suara": "mia",
+   "teks": "Bayangkan kamu menyelam ke tempat yang begitu gelap, sampai tanganmu sendiri tidak kelihatan.",
+   "dibaca": "Bayangkan kamu menyelam ke tempat yang begitu gelap, sampai tanganmu sendiri tidak kelihatan.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/f5aa9e95b9b9.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "abaf6418e06b",
+   "suara": "mia",
+   "teks": "Ada udang yang menyemburkan cairan bercahaya, lalu kabur saat musuhnya kebingungan.",
+   "dibaca": "Ada udang yang menyemburkan cairan bercahaya, lalu kabur saat musuhnya kebingungan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/abaf6418e06b.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ac579e13f9c7",
+   "suara": "mia",
+   "teks": "Jantung biasanya dibiarkan di dalam tubuh, karena dianggap pusat jiwa dan pikiran.",
+   "dibaca": "Jantung biasanya dibiarkan di dalam tubuh, karena dianggap pusat jiwa dan pikiran.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/ac579e13f9c7.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c931cb8b819f",
+   "suara": "mia",
+   "teks": "Tubuh ditimbun dengan natron, garam alami yang diambil dari dasar danau kering.",
+   "dibaca": "Tubuh ditimbun dengan natron, garam alami yang diambil dari dasar danau kering.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c931cb8b819f.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d1dacbe5daf5",
+   "suara": "mia",
+   "teks": "Berkat itu, ikan dan makhluk lain tetap bisa hidup di bawah es sepanjang musim dingin.",
+   "dibaca": "Berkat itu, ikan dan makhluk lain tetap bisa hidup di bawah es sepanjang musim dingin.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d1dacbe5daf5.wav",
+   "durasi": 6.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d0d55cd044fc",
+   "suara": "mia",
+   "teks": "Di tahap ini, otak sangat aktif, hampir seperti saat kita terjaga.",
+   "dibaca": "Di tahap ini, otak sangat aktif, hampir seperti saat kita terjaga.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/d0d55cd044fc.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "afefb5497804",
+   "suara": "mia",
+   "teks": "Toko barang mewah justru sering memakai angka bulat, seperti lima juta rupiah.",
+   "dibaca": "Toko barang mewah justru sering memakai angka bulat, seperti lima juta rupiah.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/afefb5497804.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
