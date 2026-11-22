@@ -82135,6 +82135,397 @@
    "catatan": "",
    "sumber": "naskah:06-mimpi.txt",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ebe4815ba5d4",
+   "suara": "hasan",
+   "teks": "Kenapa harga barang di toko sering berakhiran sembilan puluh sembilan?",
+   "dibaca": "Kenapa harga barang di toko sering berakhiran sembilan puluh sembilan?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/ebe4815ba5d4.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e0621a437f7e",
+   "suara": "hasan",
+   "teks": "Empat puluh sembilan ribu sembilan ratus, sembilan puluh sembilan ribu, atau satu koma sembilan sembilan juta rupiah.",
+   "dibaca": "Empat puluh sembilan ribu sembilan ratus, sembilan puluh sembilan ribu, atau satu koma sembilan sembilan juta rupiah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e0621a437f7e.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d4ebb4955d79",
+   "suara": "hasan",
+   "teks": "Selisihnya cuma sedikit dengan angka bulat, tapi hampir semua toko melakukannya.",
+   "dibaca": "Selisihnya cuma sedikit dengan angka bulat, tapi hampir semua toko melakukannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d4ebb4955d79.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c37e97fbefc6",
+   "suara": "hasan",
+   "teks": "Apakah ini kebetulan?",
+   "dibaca": "Apakah ini kebetulan?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/c37e97fbefc6.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f134e977091a",
+   "suara": "hasan",
+   "teks": "Ternyata tidak.",
+   "dibaca": "Ternyata tidak.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/f134e977091a.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4d0fc4fe76ac",
+   "suara": "hasan",
+   "teks": "Strategi ini dikenal sebagai harga psikologis.",
+   "dibaca": "Strategi ini dikenal sebagai harga psikologis.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/4d0fc4fe76ac.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "10bddc7a8a8d",
+   "suara": "hasan",
+   "teks": "Kuncinya ada pada cara otak kita membaca angka.",
+   "dibaca": "Kuncinya ada pada cara otak kita membaca angka.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/10bddc7a8a8d.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5852a57a8e48",
+   "suara": "hasan",
+   "teks": "Kita membaca dari kiri ke kanan, dan otak memberi perhatian paling besar pada angka pertama.",
+   "dibaca": "Kita membaca dari kiri ke kanan, dan otak memberi perhatian paling besar pada angka pertama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/5852a57a8e48.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "643d22cfe78f",
+   "suara": "hasan",
+   "teks": "Saat melihat harga empat puluh sembilan ribu sembilan ratus, otak dengan cepat menangkap angka empat puluh, bukan lima puluh.",
+   "dibaca": "Saat melihat harga empat puluh sembilan ribu sembilan ratus, otak dengan cepat menangkap angka empat puluh, bukan lima puluh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/643d22cfe78f.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7c69ec59410e",
+   "suara": "hasan",
+   "teks": "Akibatnya, harga itu terasa jauh lebih murah, padahal selisihnya hanya seratus rupiah.",
+   "dibaca": "Akibatnya, harga itu terasa jauh lebih murah, padahal selisihnya hanya seratus rupiah.",
+   "fungsi": [
+    "membantah asumsi",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/7c69ec59410e.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3fadf49cbcb3",
+   "suara": "hasan",
+   "teks": "Para peneliti menyebut fenomena ini efek digit kiri.",
+   "dibaca": "Para peneliti menyebut fenomena ini efek digit kiri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3fadf49cbcb3.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "95a40417310e",
+   "suara": "hasan",
+   "teks": "Sebuah penelitian di Amerika menemukan bahwa barang seharga dua koma sembilan sembilan dolar terasa jauh lebih murah daripada tiga dolar, dibanding selisih harga lain yang sama besar.",
+   "dibaca": "Sebuah penelitian di Amerika menemukan bahwa barang seharga dua koma sembilan sembilan dolar terasa jauh lebih murah daripada tiga dolar, dibanding selisih harga lain yang sama besar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/95a40417310e.wav",
+   "durasi": 10.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "00bd8a9c7a08",
+   "suara": "hasan",
+   "teks": "Selain itu, angka sembilan sudah lama kita kaitkan dengan diskon dan promo.",
+   "dibaca": "Selain itu, angka sembilan sudah lama kita kaitkan dengan diskon dan promo.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/hasan/00bd8a9c7a08.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0f2d925b71d6",
+   "suara": "hasan",
+   "teks": "Jadi saat melihat angka sembilan, otak langsung berpikir, ini pasti harga hemat.",
+   "dibaca": "Jadi saat melihat angka sembilan, otak langsung berpikir, ini pasti harga hemat.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/0f2d925b71d6.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f03b220481bc",
+   "suara": "hasan",
+   "teks": "Tapi ada yang menarik.",
+   "dibaca": "Tapi ada yang menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/f03b220481bc.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b74ba68beec3",
+   "suara": "hasan",
+   "teks": "Toko barang mewah justru sering memakai angka bulat, seperti lima juta rupiah.",
+   "dibaca": "Toko barang mewah justru sering memakai angka bulat, seperti lima juta rupiah.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/b74ba68beec3.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ab2b607aac78",
+   "suara": "hasan",
+   "teks": "Angka bulat terasa lebih elegan dan bisa membuat produk terkesan berkualitas tinggi.",
+   "dibaca": "Angka bulat terasa lebih elegan dan bisa membuat produk terkesan berkualitas tinggi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ab2b607aac78.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "787915cc98a0",
+   "suara": "hasan",
+   "teks": "Angka bulat juga lebih mudah diproses otak, sehingga cocok untuk keputusan yang berdasarkan perasaan.",
+   "dibaca": "Angka bulat juga lebih mudah diproses otak, sehingga cocok untuk keputusan yang berdasarkan perasaan.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/787915cc98a0.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a63a4a36ca96",
+   "suara": "hasan",
+   "teks": "Sedangkan angka ganjil seperti sembilan puluh sembilan cocok untuk keputusan yang penuh pertimbangan harga.",
+   "dibaca": "Sedangkan angka ganjil seperti sembilan puluh sembilan cocok untuk keputusan yang penuh pertimbangan harga.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/a63a4a36ca96.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c51ebbb4cda6",
+   "suara": "hasan",
+   "teks": "Ada juga cerita populer bahwa harga sembilan puluh sembilan dulu dipakai supaya kasir harus memberi kembalian dan mencatat penjualan.",
+   "dibaca": "Ada juga cerita populer bahwa harga sembilan puluh sembilan dulu dipakai supaya kasir harus memberi kembalian dan mencatat penjualan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/c51ebbb4cda6.wav",
+   "durasi": 7.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "07bf066f0359",
+   "suara": "hasan",
+   "teks": "Tapi cerita ini belum tentu benar, jadi anggap saja sebagai kisah menarik.",
+   "dibaca": "Tapi cerita ini belum tentu benar, jadi anggap saja sebagai kisah menarik.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/hasan/07bf066f0359.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2d9cf3353c3c",
+   "suara": "hasan",
+   "teks": "Lalu bagaimana supaya kita tidak terjebak?",
+   "dibaca": "Lalu bagaimana supaya kita tidak terjebak?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/2d9cf3353c3c.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a5fb696ce24d",
+   "suara": "hasan",
+   "teks": "Caranya sederhana, bulatkan harga ke atas di kepalamu.",
+   "dibaca": "Caranya sederhana, bulatkan harga ke atas di kepalamu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/a5fb696ce24d.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f5646fa5176c",
+   "suara": "hasan",
+   "teks": "Empat puluh sembilan ribu sembilan ratus itu sama dengan lima puluh ribu, dan satu koma sembilan sembilan juta itu dua juta.",
+   "dibaca": "Empat puluh sembilan ribu sembilan ratus itu sama dengan lima puluh ribu, dan satu koma sembilan sembilan juta itu dua juta.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/f5646fa5176c.wav",
+   "durasi": 7.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "456a27a0ffeb",
+   "suara": "hasan",
+   "teks": "Dengan begitu, kamu menilai harga dengan lebih jujur.",
+   "dibaca": "Dengan begitu, kamu menilai harga dengan lebih jujur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/456a27a0ffeb.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2bf6916839fe",
+   "suara": "hasan",
+   "teks": "Jadi, angka sembilan di label harga bukan kebetulan, melainkan pesan kecil untuk otakmu.",
+   "dibaca": "Jadi, angka sembilan di label harga bukan kebetulan, melainkan pesan kecil untuk otakmu.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/2bf6916839fe.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:07-harga.txt",
+   "dibuat": "2026-11-22"
   }
  ]
 }
