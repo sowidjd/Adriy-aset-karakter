@@ -83321,6 +83321,217 @@
    "catatan": "",
    "sumber": "naskah:09-hujan.txt",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "beea1dc35e77",
+   "suara": "hasan",
+   "teks": "Itulah kenapa magnet kulkas bisa bertahan bertahun-tahun.",
+   "dibaca": "Itulah kenapa magnet kulkas bisa bertahan bertahun-tahun.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/beea1dc35e77.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f0bef16e638d",
+   "suara": "hasan",
+   "teks": "Jadi, di balik benda sederhana ini, ada dunia mikroskopis yang bekerja tanpa henti.",
+   "dibaca": "Jadi, di balik benda sederhana ini, ada dunia mikroskopis yang bekerja tanpa henti.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/f0bef16e638d.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ecf4386efa9e",
+   "suara": "hasan",
+   "teks": "Itulah sebabnya magnet tidak menarik plastik atau kayu, karena tidak ada domain yang bisa disejajarkan.",
+   "dibaca": "Itulah sebabnya magnet tidak menarik plastik atau kayu, karena tidak ada domain yang bisa disejajarkan.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/ecf4386efa9e.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ac7532b8c206",
+   "suara": "hasan",
+   "teks": "Sekarang kamu tahu rahasianya.",
+   "dibaca": "Sekarang kamu tahu rahasianya.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/ac7532b8c206.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4d397366e644",
+   "suara": "hasan",
+   "teks": "Lalu, dari mana datangnya gaya tarik?",
+   "dibaca": "Lalu, dari mana datangnya gaya tarik?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/4d397366e644.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0fee8376c76f",
+   "suara": "hasan",
+   "teks": "Menurutmu, mana yang paling masuk akal?",
+   "dibaca": "Menurutmu, mana yang paling masuk akal?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/0fee8376c76f.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c6f960979b27",
+   "suara": "hasan",
+   "teks": "Tapi ada satu musuhnya, yaitu panas.",
+   "dibaca": "Tapi ada satu musuhnya, yaitu panas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/c6f960979b27.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "daab536b7414",
+   "suara": "hasan",
+   "teks": "Akibatnya, efek magnet mereka saling meniadakan.",
+   "dibaca": "Akibatnya, efek magnet mereka saling meniadakan.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/daab536b7414.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8f0e863f4d78",
+   "suara": "hasan",
+   "teks": "Lain kali kamu melihatnya, coba ingat penjelasan ini.",
+   "dibaca": "Lain kali kamu melihatnya, coba ingat penjelasan ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/8f0e863f4d78.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4948e528ed0e",
+   "suara": "hasan",
+   "teks": "Tapi besi, nikel, kobalt, dan neodymium berbeda.",
+   "dibaca": "Tapi besi, nikel, kobalt, dan neodymium berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/4948e528ed0e.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "dfd0cbfcacd9",
+   "suara": "hasan",
+   "teks": "Kutub yang berlawanan saling tarik, dan besi pun menempel.",
+   "dibaca": "Kutub yang berlawanan saling tarik, dan besi pun menempel.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/dfd0cbfcacd9.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "475ddc46af5b",
+   "suara": "hasan",
+   "teks": "Bayangkan kita bisa membongkar magnet ini, lapis demi lapis.",
+   "dibaca": "Bayangkan kita bisa membongkar magnet ini, lapis demi lapis.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/475ddc46af5b.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "73111f4b51ca",
+   "suara": "hasan",
+   "teks": "Di dalam material, ada miliaran atom yang tersusun sangat rapat.",
+   "dibaca": "Di dalam material, ada miliaran atom yang tersusun sangat rapat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/73111f4b51ca.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2888ce55fb61",
+   "suara": "hasan",
+   "teks": "Satu domain ukurannya sangat kecil, bisa hanya beberapa mikrometer.",
+   "dibaca": "Satu domain ukurannya sangat kecil, bisa hanya beberapa mikrometer.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/2888ce55fb61.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
