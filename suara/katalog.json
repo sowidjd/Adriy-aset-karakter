@@ -92322,6 +92322,96 @@
    "catatan": "pabrik kokas",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "eb3b6a9e96cc",
+   "suara": "mia",
+   "teks": "Pernah penasaran, apa yang terjadi di dalam stapler saat kamu menekannya?",
+   "dibaca": "Pernah penasaran, apa yang terjadi di dalam stapler saat kamu menekannya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/eb3b6a9e96cc.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a6515ce4df52",
+   "suara": "mia",
+   "teks": "Kita belah jadi dua.",
+   "dibaca": "Kita belah jadi dua.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a6515ce4df52.wav",
+   "durasi": 1.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a64d581f2b46",
+   "suara": "mia",
+   "teks": "Di dalamnya ada pegas, pendorong, isi staples, pisau pendorong, dan landasan.",
+   "dibaca": "Di dalamnya ada pegas, pendorong, isi staples, pisau pendorong, dan landasan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a64d581f2b46.wav",
+   "durasi": 6.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "358996fdba63",
+   "suara": "mia",
+   "teks": "Saat ditekan, pisau mendorong satu staples menembus kertas.",
+   "dibaca": "Saat ditekan, pisau mendorong satu staples menembus kertas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/358996fdba63.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "23e086b99449",
+   "suara": "mia",
+   "teks": "Landasan lalu menekuk kedua kakinya ke dalam, sehingga kertas terkunci.",
+   "dibaca": "Landasan lalu menekuk kedua kakinya ke dalam, sehingga kertas terkunci.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/23e086b99449.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b932a534033b",
+   "suara": "mia",
+   "teks": "Saat dilepas, pegas mendorong staples berikutnya maju, siap dipakai lagi.",
+   "dibaca": "Saat dilepas, pegas mendorong staples berikutnya maju, siap dipakai lagi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b932a534033b.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
   }
  ]
 }
