@@ -85756,6 +85756,141 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d4c7c2a0b8e0",
+   "suara": "mia",
+   "teks": "Kalau kamu ingin lebih sering ingat mimpi, ada satu cara sederhana.",
+   "dibaca": "Kalau kamu ingin lebih sering ingat mimpi, ada satu cara sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d4c7c2a0b8e0.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9e33872e7724",
+   "suara": "mia",
+   "teks": "Kenapa secangkir kopi bisa bikin mata yang tadinya berat langsung terbuka?",
+   "dibaca": "Kenapa secangkir kopi bisa bikin mata yang tadinya berat langsung terbuka?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/9e33872e7724.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a29bac11c479",
+   "suara": "mia",
+   "teks": "Kafein bisa masuk ke gembok yang sama, tapi tidak membuka pesan kantuk.",
+   "dibaca": "Kafein bisa masuk ke gembok yang sama, tapi tidak membuka pesan kantuk.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a29bac11c479.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e40335a771ee",
+   "suara": "mia",
+   "teks": "Ada juga bau lain sebelum badai datang, yang lebih tajam dan segar.",
+   "dibaca": "Ada juga bau lain sebelum badai datang, yang lebih tajam dan segar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/e40335a771ee.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e787df111241",
+   "suara": "mia",
+   "teks": "Hal sederhana yang kita sukai ternyata punya cerita sains yang luar biasa.",
+   "dibaca": "Hal sederhana yang kita sukai ternyata punya cerita sains yang luar biasa.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/e787df111241.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "981072848f7d",
+   "suara": "mia",
+   "teks": "Lalu tiba-tiba, di depanmu muncul cahaya biru kecil yang berkedip.",
+   "dibaca": "Lalu tiba-tiba, di depanmu muncul cahaya biru kecil yang berkedip.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/981072848f7d.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4f6f94ba4322",
+   "suara": "mia",
+   "teks": "Tapi semakin dalam kita turun, cahaya matahari semakin cepat menghilang.",
+   "dibaca": "Tapi semakin dalam kita turun, cahaya matahari semakin cepat menghilang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4f6f94ba4322.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "578274bf065a",
+   "suara": "mia",
+   "teks": "Dan yang mengejutkan, sebagian besar hewan di laut dalam ternyata bisa bercahaya.",
+   "dibaca": "Dan yang mengejutkan, sebagian besar hewan di laut dalam ternyata bisa bercahaya.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/578274bf065a.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c4cb0dea5d9d",
+   "suara": "mia",
+   "teks": "Langkah kedua adalah bagian terpenting, yaitu mengeringkan tubuh.",
+   "dibaca": "Langkah kedua adalah bagian terpenting, yaitu mengeringkan tubuh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c4cb0dea5d9d.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
