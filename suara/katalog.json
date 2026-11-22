@@ -77687,6 +77687,128 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0d8f9a9505a9",
+   "suara": "adriy",
+   "teks": "Zaman dulu, hal ini dianggap misteri.",
+   "dibaca": "Zaman dulu, hal ini dianggap misteri.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/0d8f9a9505a9.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "558837490976",
+   "suara": "adriy",
+   "teks": "Sekarang, kita sudah tahu jawabannya.",
+   "dibaca": "Sekarang, kita sudah tahu jawabannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/558837490976.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7163c68a4eb7",
+   "suara": "adriy",
+   "teks": "Tapi masih ada bagian yang belum terjawab.",
+   "dibaca": "Tapi masih ada bagian yang belum terjawab.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/7163c68a4eb7.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0601ead93c81",
+   "suara": "adriy",
+   "teks": "Mungkin suatu hari nanti, kita akan tahu jawabannya.",
+   "dibaca": "Mungkin suatu hari nanti, kita akan tahu jawabannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/0601ead93c81.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "484724b74b56",
+   "suara": "adriy",
+   "teks": "Sampai sekarang, ini masih jadi bahan penelitian.",
+   "dibaca": "Sampai sekarang, ini masih jadi bahan penelitian.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/484724b74b56.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "43dff3f2c85c",
+   "suara": "adriy",
+   "teks": "Yang jelas, ceritanya belum berakhir.",
+   "dibaca": "Yang jelas, ceritanya belum berakhir.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/43dff3f2c85c.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "dd826c098d76",
+   "suara": "adriy",
+   "teks": "Jadi, apa artinya buat kita?",
+   "dibaca": "Jadi, apa artinya buat kita?",
+   "fungsi": [
+    "menyampaikan kesimpulan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/dd826c098d76.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3070a10aab10",
+   "suara": "adriy",
+   "teks": "Apa hubungannya dengan kehidupan kita?",
+   "dibaca": "Apa hubungannya dengan kehidupan kita?",
+   "fungsi": [
+    "menghubungkan dua topik",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/3070a10aab10.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
   }
  ]
 }
