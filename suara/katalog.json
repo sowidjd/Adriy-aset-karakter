@@ -73475,6 +73475,141 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b723526e217d",
+   "suara": "mia",
+   "teks": "Ketika slider bergerak, gigi-gigi itu terkunci satu per satu.",
+   "dibaca": "Ketika slider bergerak, gigi-gigi itu terkunci satu per satu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b723526e217d.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "da230ba8d71b",
+   "suara": "mia",
+   "teks": "Angka ini mungkin terdengar kecil, tapi efeknya besar.",
+   "dibaca": "Angka ini mungkin terdengar kecil, tapi efeknya besar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/da230ba8d71b.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e74dc5ec5635",
+   "suara": "mia",
+   "teks": "Jangan berhenti bertanya, karena di situlah kita belajar.",
+   "dibaca": "Jangan berhenti bertanya, karena di situlah kita belajar.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/e74dc5ec5635.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "90a6f8cbb725",
+   "suara": "mia",
+   "teks": "Kadang, jawaban terbaik justru datang dari pertanyaan sederhana.",
+   "dibaca": "Kadang, jawaban terbaik justru datang dari pertanyaan sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/90a6f8cbb725.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "740e2cacb69b",
+   "suara": "mia",
+   "teks": "Tapi rahasia sebenarnya tersembunyi di dalam slider kecil ini.",
+   "dibaca": "Tapi rahasia sebenarnya tersembunyi di dalam slider kecil ini.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/740e2cacb69b.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fdf528097f0d",
+   "suara": "mia",
+   "teks": "Slider ini memiliki jalur khusus yang bentuknya menyerupai huruf Y.",
+   "dibaca": "Slider ini memiliki jalur khusus yang bentuknya menyerupai huruf Y.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/fdf528097f0d.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "139e1e0438fe",
+   "suara": "mia",
+   "teks": "Dua baris gigi masuk dari jalur berbeda, lalu diarahkan untuk bertemu.",
+   "dibaca": "Dua baris gigi masuk dari jalur berbeda, lalu diarahkan untuk bertemu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/139e1e0438fe.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8c37d1de20fc",
+   "suara": "mia",
+   "teks": "Saat slider ditarik ke arah sebaliknya, jalur yang sama memisahkan gigi-gigi tadi.",
+   "dibaca": "Saat slider ditarik ke arah sebaliknya, jalur yang sama memisahkan gigi-gigi tadi.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/8c37d1de20fc.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "03be17792694",
+   "suara": "mia",
+   "teks": "Sekilas, resleting cuma punya dua baris gigi dan satu bagian yang kita tarik.",
+   "dibaca": "Sekilas, resleting cuma punya dua baris gigi dan satu bagian yang kita tarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/03be17792694.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
