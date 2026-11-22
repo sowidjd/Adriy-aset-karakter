@@ -76948,6 +76948,141 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ea41b89e5ce0",
+   "suara": "hasan",
+   "teks": "Hal kecil ini ternyata punya peran besar.",
+   "dibaca": "Hal kecil ini ternyata punya peran besar.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/ea41b89e5ce0.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "800cbaf90413",
+   "suara": "hasan",
+   "teks": "Tanpa ini, hidup kita akan jauh berbeda.",
+   "dibaca": "Tanpa ini, hidup kita akan jauh berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/800cbaf90413.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7a77619e1288",
+   "suara": "hasan",
+   "teks": "Coba bayangkan dunia tanpa hal ini.",
+   "dibaca": "Coba bayangkan dunia tanpa hal ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/7a77619e1288.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5edec8d07afd",
+   "suara": "mia",
+   "teks": "Hal kecil ini ternyata punya peran besar.",
+   "dibaca": "Hal kecil ini ternyata punya peran besar.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/5edec8d07afd.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "48acba4b61a6",
+   "suara": "mia",
+   "teks": "Tanpa ini, hidup kita akan jauh berbeda.",
+   "dibaca": "Tanpa ini, hidup kita akan jauh berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/48acba4b61a6.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7b8dd45fa0e9",
+   "suara": "mia",
+   "teks": "Coba bayangkan dunia tanpa hal ini.",
+   "dibaca": "Coba bayangkan dunia tanpa hal ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/7b8dd45fa0e9.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3106eb52d3f9",
+   "suara": "ongky",
+   "teks": "Hal kecil ini ternyata punya peran besar.",
+   "dibaca": "Hal kecil ini ternyata punya peran besar.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/3106eb52d3f9.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3e2eadfecf1c",
+   "suara": "ongky",
+   "teks": "Tanpa ini, hidup kita akan jauh berbeda.",
+   "dibaca": "Tanpa ini, hidup kita akan jauh berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/3e2eadfecf1c.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6a41993e3f88",
+   "suara": "ongky",
+   "teks": "Coba bayangkan dunia tanpa hal ini.",
+   "dibaca": "Coba bayangkan dunia tanpa hal ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/6a41993e3f88.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
