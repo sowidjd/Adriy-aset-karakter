@@ -85621,6 +85621,141 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "214d8a44c8eb",
+   "suara": "mia",
+   "teks": "Rasa kantuknya tidak hilang, hanya saja pesannya tidak sampai.",
+   "dibaca": "Rasa kantuknya tidak hilang, hanya saja pesannya tidak sampai.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/214d8a44c8eb.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b84a83879750",
+   "suara": "mia",
+   "teks": "Itu bukan lampu penyelam lain, melainkan seekor hewan laut.",
+   "dibaca": "Itu bukan lampu penyelam lain, melainkan seekor hewan laut.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b84a83879750.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4aa1bcb6411a",
+   "suara": "mia",
+   "teks": "Di bawah sekitar dua ratus meter, laut tinggal remang-remang.",
+   "dibaca": "Di bawah sekitar dua ratus meter, laut tinggal remang-remang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4aa1bcb6411a.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9fd83685b0ee",
+   "suara": "mia",
+   "teks": "Di kegelapan inilah, banyak hewan membuat cahayanya sendiri.",
+   "dibaca": "Di kegelapan inilah, banyak hewan membuat cahayanya sendiri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9fd83685b0ee.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3292769ff984",
+   "suara": "mia",
+   "teks": "Natron menyerap air dari tubuh selama sekitar empat puluh hari.",
+   "dibaca": "Natron menyerap air dari tubuh selama sekitar empat puluh hari.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3292769ff984.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "dea6a31081ff",
+   "suara": "mia",
+   "teks": "Es batu itu akan mengapung, dan kelihatannya biasa saja.",
+   "dibaca": "Es batu itu akan mengapung, dan kelihatannya biasa saja.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/dea6a31081ff.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9a7e93badd8d",
+   "suara": "mia",
+   "teks": "Tapi saat membeku, setiap molekul terkunci di posisi yang tetap.",
+   "dibaca": "Tapi saat membeku, setiap molekul terkunci di posisi yang tetap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9a7e93badd8d.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a694c414a20f",
+   "suara": "mia",
+   "teks": "Pipa air di negara dingin bisa pecah saat airnya membeku.",
+   "dibaca": "Pipa air di negara dingin bisa pecah saat airnya membeku.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a694c414a20f.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a9657df35838",
+   "suara": "mia",
+   "teks": "Coba bayangkan kamu mengambil sebuah bola dunia dan seutas tali.",
+   "dibaca": "Coba bayangkan kamu mengambil sebuah bola dunia dan seutas tali.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/a9657df35838.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
