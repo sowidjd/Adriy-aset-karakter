@@ -78959,6 +78959,157 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1d6f021605d4",
+   "suara": "adriy",
+   "teks": "Ternyata, hubungannya lebih dekat dari yang kita kira.",
+   "dibaca": "Ternyata, hubungannya lebih dekat dari yang kita kira.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/1d6f021605d4.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9fc9d630bf83",
+   "suara": "adriy",
+   "teks": "Lain kali kamu melihatnya, coba ingat penjelasan ini.",
+   "dibaca": "Lain kali kamu melihatnya, coba ingat penjelasan ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/9fc9d630bf83.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1c428a04a493",
+   "suara": "adriy",
+   "teks": "Sekarang kamu tahu rahasianya.",
+   "dibaca": "Sekarang kamu tahu rahasianya.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/1c428a04a493.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a108e206e351",
+   "suara": "adriy",
+   "teks": "Pengetahuan kecil ini bisa kamu bagikan ke teman.",
+   "dibaca": "Pengetahuan kecil ini bisa kamu bagikan ke teman.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/adriy/a108e206e351.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9a9709542368",
+   "suara": "adriy",
+   "teks": "Bagikan video ini ke temanmu yang sering mengalaminya.",
+   "dibaca": "Bagikan video ini ke temanmu yang sering mengalaminya.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/adriy/9a9709542368.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b4a484f4180a",
+   "suara": "adriy",
+   "teks": "Simpan video ini supaya kamu tidak lupa.",
+   "dibaca": "Simpan video ini supaya kamu tidak lupa.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/adriy/b4a484f4180a.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f488787989b9",
+   "suara": "adriy",
+   "teks": "Tulis pendapatmu di kolom komentar.",
+   "dibaca": "Tulis pendapatmu di kolom komentar.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/adriy/f488787989b9.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c3cab2fc40eb",
+   "suara": "adriy",
+   "teks": "Menurutmu, mana yang paling masuk akal?",
+   "dibaca": "Menurutmu, mana yang paling masuk akal?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/c3cab2fc40eb.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8e49953032ed",
+   "suara": "adriy",
+   "teks": "Kalau kamu punya cerita sendiri, tulis di komentar, ya.",
+   "dibaca": "Kalau kamu punya cerita sendiri, tulis di komentar, ya.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/adriy/8e49953032ed.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3edf21e18292",
+   "suara": "adriy",
+   "teks": "Jangan lupa tonton sampai habis.",
+   "dibaca": "Jangan lupa tonton sampai habis.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/3edf21e18292.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
   }
  ]
 }
