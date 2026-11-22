@@ -84676,6 +84676,66 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c6319912bb69",
+   "suara": "mia",
+   "teks": "Tapi dugaan ini masih terus diteliti.",
+   "dibaca": "Tapi dugaan ini masih terus diteliti.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c6319912bb69.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f36d66e66155",
+   "suara": "mia",
+   "teks": "Lalu bagaimana supaya kita tidak terjebak?",
+   "dibaca": "Lalu bagaimana supaya kita tidak terjebak?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/f36d66e66155.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4ce40da71ae8",
+   "suara": "mia",
+   "teks": "Kenapa otak begitu cepat melupakan mimpi?",
+   "dibaca": "Kenapa otak begitu cepat melupakan mimpi?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/4ce40da71ae8.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c7c522b42ec3",
+   "suara": "mia",
+   "teks": "Kopi hanya menunda pesan lelah dari otakmu.",
+   "dibaca": "Kopi hanya menunda pesan lelah dari otakmu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c7c522b42ec3.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
