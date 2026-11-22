@@ -80105,6 +80105,442 @@
    "catatan": "",
    "sumber": "naskah:01-bulan.txt",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b4e765c6c4e1",
+   "suara": "hasan",
+   "teks": "Bayangkan kamu menyelam ke tempat yang begitu gelap, sampai tanganmu sendiri tidak kelihatan.",
+   "dibaca": "Bayangkan kamu menyelam ke tempat yang begitu gelap, sampai tanganmu sendiri tidak kelihatan.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/b4e765c6c4e1.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d301e46ad41a",
+   "suara": "hasan",
+   "teks": "Lalu tiba-tiba, di depanmu muncul cahaya biru kecil yang berkedip.",
+   "dibaca": "Lalu tiba-tiba, di depanmu muncul cahaya biru kecil yang berkedip.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d301e46ad41a.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b31cbe2efba9",
+   "suara": "hasan",
+   "teks": "Itu bukan lampu penyelam lain, melainkan seekor hewan laut.",
+   "dibaca": "Itu bukan lampu penyelam lain, melainkan seekor hewan laut.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b31cbe2efba9.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f5253e025bf2",
+   "suara": "hasan",
+   "teks": "Kenapa hewan di laut dalam bisa bercahaya?",
+   "dibaca": "Kenapa hewan di laut dalam bisa bercahaya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/f5253e025bf2.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b27e66f92523",
+   "suara": "hasan",
+   "teks": "Kita mulai dari cahaya matahari.",
+   "dibaca": "Kita mulai dari cahaya matahari.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/b27e66f92523.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3daa4c19ea48",
+   "suara": "hasan",
+   "teks": "Di permukaan, laut terlihat terang dan biru.",
+   "dibaca": "Di permukaan, laut terlihat terang dan biru.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/3daa4c19ea48.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "66f13adabd06",
+   "suara": "hasan",
+   "teks": "Tapi semakin dalam kita turun, cahaya matahari semakin cepat menghilang.",
+   "dibaca": "Tapi semakin dalam kita turun, cahaya matahari semakin cepat menghilang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/66f13adabd06.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "04e779bf5019",
+   "suara": "hasan",
+   "teks": "Di bawah sekitar dua ratus meter, laut tinggal remang-remang.",
+   "dibaca": "Di bawah sekitar dua ratus meter, laut tinggal remang-remang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/04e779bf5019.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cfbc6ff92ae6",
+   "suara": "hasan",
+   "teks": "Dan di bawah sekitar seribu meter, cahaya matahari praktis tidak sampai sama sekali.",
+   "dibaca": "Dan di bawah sekitar seribu meter, cahaya matahari praktis tidak sampai sama sekali.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/cfbc6ff92ae6.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e71388dd66a6",
+   "suara": "hasan",
+   "teks": "Di kegelapan inilah, banyak hewan membuat cahayanya sendiri.",
+   "dibaca": "Di kegelapan inilah, banyak hewan membuat cahayanya sendiri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e71388dd66a6.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9d1e04ce276d",
+   "suara": "hasan",
+   "teks": "Kemampuan ini disebut bioluminesensi.",
+   "dibaca": "Kemampuan ini disebut bioluminesensi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/9d1e04ce276d.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ae1484c0b78c",
+   "suara": "hasan",
+   "teks": "Cahaya itu lahir dari reaksi kimia di dalam tubuh hewan.",
+   "dibaca": "Cahaya itu lahir dari reaksi kimia di dalam tubuh hewan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ae1484c0b78c.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "105eaca3dae0",
+   "suara": "hasan",
+   "teks": "Ada zat bernama luciferin, yang bereaksi dengan oksigen dengan bantuan enzim luciferase.",
+   "dibaca": "Ada zat bernama luciferin, yang bereaksi dengan oksigen dengan bantuan enzim luciferase.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/105eaca3dae0.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2cde1325ad25",
+   "suara": "hasan",
+   "teks": "Hasil reaksinya adalah cahaya yang hampir tidak menghasilkan panas, sehingga sering disebut cahaya dingin.",
+   "dibaca": "Hasil reaksinya adalah cahaya yang hampir tidak menghasilkan panas, sehingga sering disebut cahaya dingin.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/2cde1325ad25.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "263c23cef638",
+   "suara": "hasan",
+   "teks": "Dan yang mengejutkan, sebagian besar hewan di laut dalam ternyata bisa bercahaya.",
+   "dibaca": "Dan yang mengejutkan, sebagian besar hewan di laut dalam ternyata bisa bercahaya.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/263c23cef638.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "15e5cfb1ed44",
+   "suara": "hasan",
+   "teks": "Sebuah penelitian di perairan Monterey, Amerika, menemukan sekitar tiga perempat hewan yang teramati punya kemampuan ini.",
+   "dibaca": "Sebuah penelitian di perairan Monterey, Amerika, menemukan sekitar tiga perempat hewan yang teramati punya kemampuan ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/15e5cfb1ed44.wav",
+   "durasi": 6.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "01161eb72c5e",
+   "suara": "hasan",
+   "teks": "Pertanyaannya, untuk apa mereka bercahaya?",
+   "dibaca": "Pertanyaannya, untuk apa mereka bercahaya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/01161eb72c5e.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "998771e5baea",
+   "suara": "hasan",
+   "teks": "Pertama, untuk berburu.",
+   "dibaca": "Pertama, untuk berburu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/998771e5baea.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1f25b179ad27",
+   "suara": "hasan",
+   "teks": "Ikan sungut ganggang punya umpan bercahaya di kepalanya, untuk memancing mangsa mendekat ke mulutnya.",
+   "dibaca": "Ikan sungut ganggang punya umpan bercahaya di kepalanya, untuk memancing mangsa mendekat ke mulutnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/1f25b179ad27.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d331e775aba0",
+   "suara": "hasan",
+   "teks": "Kedua, untuk bersembunyi.",
+   "dibaca": "Kedua, untuk bersembunyi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d331e775aba0.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1e4df848c377",
+   "suara": "hasan",
+   "teks": "Beberapa ikan menyalakan cahaya di bagian perutnya, supaya bayangan tubuhnya menyatu dengan cahaya samar dari atas.",
+   "dibaca": "Beberapa ikan menyalakan cahaya di bagian perutnya, supaya bayangan tubuhnya menyatu dengan cahaya samar dari atas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/1e4df848c377.wav",
+   "durasi": 6.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7572a7661924",
+   "suara": "hasan",
+   "teks": "Predator yang melihat dari bawah jadi sulit menemukan mereka.",
+   "dibaca": "Predator yang melihat dari bawah jadi sulit menemukan mereka.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/7572a7661924.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4a7fbe22fe0a",
+   "suara": "hasan",
+   "teks": "Ketiga, untuk mengelabui musuh.",
+   "dibaca": "Ketiga, untuk mengelabui musuh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/4a7fbe22fe0a.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e02285cd6467",
+   "suara": "hasan",
+   "teks": "Ada udang yang menyemburkan cairan bercahaya, lalu kabur saat musuhnya kebingungan.",
+   "dibaca": "Ada udang yang menyemburkan cairan bercahaya, lalu kabur saat musuhnya kebingungan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e02285cd6467.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1f7ccf4c8651",
+   "suara": "hasan",
+   "teks": "Keempat, untuk berkomunikasi dan mencari pasangan.",
+   "dibaca": "Keempat, untuk berkomunikasi dan mencari pasangan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/1f7ccf4c8651.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "858a5f1cf384",
+   "suara": "hasan",
+   "teks": "Lalu kenapa cahayanya kebanyakan berwarna biru?",
+   "dibaca": "Lalu kenapa cahayanya kebanyakan berwarna biru?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/858a5f1cf384.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9f284116aeda",
+   "suara": "hasan",
+   "teks": "Karena cahaya biru adalah warna yang paling jauh menembus air laut.",
+   "dibaca": "Karena cahaya biru adalah warna yang paling jauh menembus air laut.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/9f284116aeda.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0dd998a28cc2",
+   "suara": "hasan",
+   "teks": "Warna merah cepat diserap air, jadi banyak hewan laut dalam bahkan tidak bisa melihat warna merah.",
+   "dibaca": "Warna merah cepat diserap air, jadi banyak hewan laut dalam bahkan tidak bisa melihat warna merah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/0dd998a28cc2.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "bc049ca3606a",
+   "suara": "hasan",
+   "teks": "Jadi, laut dalam yang kita kira gelap gulita, sebenarnya dipenuhi lampu-lampu kecil yang hidup.",
+   "dibaca": "Jadi, laut dalam yang kita kira gelap gulita, sebenarnya dipenuhi lampu-lampu kecil yang hidup.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/bc049ca3606a.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:02-laut.txt",
+   "dibuat": "2026-11-22"
   }
  ]
 }
