@@ -87456,6 +87456,81 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4a6ca8d2ebbd",
+   "suara": "mia",
+   "teks": "Ada juga penelitian pada tikus yang menemukan sekelompok sel otak yang aktif saat REM dan justru membantu otak melupakan.",
+   "dibaca": "Ada juga penelitian pada tikus yang menemukan sekelompok sel otak yang aktif saat rem dan justru membantu otak melupakan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4a6ca8d2ebbd.wav",
+   "durasi": 7.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "275e8ef74a2f",
+   "suara": "mia",
+   "teks": "Dan yang menarik, ilmuwan sekarang bisa memindai mumi dengan sinar-X dan CT scan, tanpa membuka kainnya.",
+   "dibaca": "Dan yang menarik, ilmuwan sekarang bisa memindai mumi dengan sinar eks dan CT scan, tanpa membuka kainnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/275e8ef74a2f.wav",
+   "durasi": 7.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d60b68afc166",
+   "suara": "mia",
+   "teks": "Sebagai contoh, penerbangan dari New York ke Tokyo biasanya lewat dekat Alaska, bukan lurus melintasi Pasifik di tengah peta.",
+   "dibaca": "Sebagai contoh, penerbangan dari New York ke Tokyo biasanya lewat dekat Alaska, bukan lurus melintasi Pasifik di tengah peta.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/d60b68afc166.wav",
+   "durasi": 7.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9c9bb48a5457",
+   "suara": "mia",
+   "teks": "Manusia baru melihat wajah sisi jauh itu pada tahun seribu sembilan ratus lima puluh sembilan, lewat foto wahana Luna tiga.",
+   "dibaca": "Manusia baru melihat wajah sisi jauh itu pada tahun seribu sembilan ratus lima puluh sembilan, lewat foto wahana Luna tiga.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9c9bb48a5457.wav",
+   "durasi": 8.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e45983329d39",
+   "suara": "mia",
+   "teks": "Empat puluh sembilan ribu sembilan ratus itu sama dengan lima puluh ribu, dan satu koma sembilan sembilan juta itu dua juta.",
+   "dibaca": "Empat puluh sembilan ribu sembilan ratus itu sama dengan lima puluh ribu, dan satu koma sembilan sembilan juta itu dua juta.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/e45983329d39.wav",
+   "durasi": 8.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
