@@ -85201,6 +85201,141 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d3577e7853da",
+   "suara": "mia",
+   "teks": "Keempat, untuk berkomunikasi dan mencari pasangan.",
+   "dibaca": "Keempat, untuk berkomunikasi dan mencari pasangan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d3577e7853da.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "bf9d9ab3829e",
+   "suara": "mia",
+   "teks": "Mumi Mesir adalah salah satu peninggalan paling misterius di dunia.",
+   "dibaca": "Mumi Mesir adalah salah satu peninggalan paling misterius di dunia.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/bf9d9ab3829e.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "44d98ae6f954",
+   "suara": "mia",
+   "teks": "Orang Mesir kuno tampaknya menyadari hal ini dari pengalaman.",
+   "dibaca": "Orang Mesir kuno tampaknya menyadari hal ini dari pengalaman.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/44d98ae6f954.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ad6b5c118867",
+   "suara": "mia",
+   "teks": "Volumenya bertambah, tapi beratnya tetap sama.",
+   "dibaca": "Volumenya bertambah, tapi beratnya tetap sama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ad6b5c118867.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b6b172aeef8c",
+   "suara": "mia",
+   "teks": "Kenapa harga barang di toko sering berakhiran sembilan puluh sembilan?",
+   "dibaca": "Kenapa harga barang di toko sering berakhiran sembilan puluh sembilan?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/b6b172aeef8c.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ec7942c36df6",
+   "suara": "mia",
+   "teks": "Lain kali kamu melihatnya, coba ingat penjelasan ini.",
+   "dibaca": "Lain kali kamu melihatnya, coba ingat penjelasan ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ec7942c36df6.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6d34051b4ce0",
+   "suara": "mia",
+   "teks": "Pernah sadar nggak, bulan yang kamu lihat malam ini wajahnya selalu sama?",
+   "dibaca": "Pernah sadar nggak, bulan yang kamu lihat malam ini wajahnya selalu sama?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/6d34051b4ce0.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8c95cf49dc9b",
+   "suara": "mia",
+   "teks": "Banyak bulan milik planet lain juga terkunci dengan cara yang sama.",
+   "dibaca": "Banyak bulan milik planet lain juga terkunci dengan cara yang sama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/8c95cf49dc9b.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b4885c733a53",
+   "suara": "mia",
+   "teks": "Kalau tubuh benar-benar kering, bakteri tidak bisa bekerja.",
+   "dibaca": "Kalau tubuh benar-benar kering, bakteri tidak bisa bekerja.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b4885c733a53.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
