@@ -77383,6 +77383,82 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9d0661127287",
+   "suara": "adriy",
+   "teks": "Ceritanya berawal dari sebuah ketidaksengajaan.",
+   "dibaca": "Ceritanya berawal dari sebuah ketidaksengajaan.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/adriy/9d0661127287.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "417f9e6eb936",
+   "suara": "adriy",
+   "teks": "Tidak ada yang menyangka hasilnya akan seperti ini.",
+   "dibaca": "Tidak ada yang menyangka hasilnya akan seperti ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/417f9e6eb936.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8d8841d56e02",
+   "suara": "adriy",
+   "teks": "Siapa sangka, kesalahan kecil bisa menjadi penemuan besar.",
+   "dibaca": "Siapa sangka, kesalahan kecil bisa menjadi penemuan besar.",
+   "fungsi": [
+    "pertanyaan retoris",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/8d8841d56e02.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4ded0a65df4e",
+   "suara": "adriy",
+   "teks": "Butuh waktu lama sampai orang benar-benar memahaminya.",
+   "dibaca": "Butuh waktu lama sampai orang benar-benar memahaminya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/4ded0a65df4e.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6f8f4d8a8655",
+   "suara": "adriy",
+   "teks": "Dulu, orang punya penjelasan yang berbeda.",
+   "dibaca": "Dulu, orang punya penjelasan yang berbeda.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/adriy/6f8f4d8a8655.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
   }
  ]
 }
