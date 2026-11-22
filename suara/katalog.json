@@ -86026,6 +86026,171 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7192d4b0fed0",
+   "suara": "mia",
+   "teks": "Biasanya karena kita terbangun tepat di tengah mimpi atau sesaat setelahnya.",
+   "dibaca": "Biasanya karena kita terbangun tepat di tengah mimpi atau sesaat setelahnya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/7192d4b0fed0.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0d5190ffadb8",
+   "suara": "mia",
+   "teks": "Kalau punya kondisi kesehatan tertentu, sebaiknya tanya ke tenaga kesehatan.",
+   "dibaca": "Kalau punya kondisi kesehatan tertentu, sebaiknya tanya ke tenaga kesehatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0d5190ffadb8.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7968ae88e937",
+   "suara": "mia",
+   "teks": "Kenapa bau tanah saat hujan pertama turun terasa begitu khas dan menenangkan?",
+   "dibaca": "Kenapa bau tanah saat hujan pertama turun terasa begitu khas dan menenangkan?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/7968ae88e937.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e4a9b516decb",
+   "suara": "mia",
+   "teks": "Nama ini diberikan oleh dua ilmuwan Australia pada tahun seribu sembilan ratus enam puluh empat.",
+   "dibaca": "Nama ini diberikan oleh dua ilmuwan Australia pada tahun seribu sembilan ratus enam puluh empat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/e4a9b516decb.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fe932f81a479",
+   "suara": "mia",
+   "teks": "Tapi dugaan ini belum terbukti dan masih menjadi bahan penelitian.",
+   "dibaca": "Tapi dugaan ini belum terbukti dan masih menjadi bahan penelitian.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/fe932f81a479.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "89b8f1eb62f8",
+   "suara": "mia",
+   "teks": "Itu biasanya bau ozon, yang terbentuk dari petir lalu terbawa angin ke bawah.",
+   "dibaca": "Itu biasanya bau ozon, yang terbentuk dari petir lalu terbawa angin ke bawah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/89b8f1eb62f8.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4f24e6093167",
+   "suara": "mia",
+   "teks": "Bagaimana mungkin tubuh manusia bisa tetap utuh selama lebih dari tiga ribu tahun?",
+   "dibaca": "Bagaimana mungkin tubuh manusia bisa tetap utuh selama lebih dari tiga ribu tahun?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/4f24e6093167.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "aa1e3b7d8404",
+   "suara": "mia",
+   "teks": "Paru-paru, hati, lambung, dan usus disimpan dalam wadah khusus.",
+   "dibaca": "Paru-paru, hati, lambung, dan usus disimpan dalam wadah khusus.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/aa1e3b7d8404.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "52ef7e9783ae",
+   "suara": "mia",
+   "teks": "Bentuk padatnya lebih berat daripada bentuk cairnya, sehingga ia tenggelam.",
+   "dibaca": "Bentuk padatnya lebih berat daripada bentuk cairnya, sehingga ia tenggelam.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/52ef7e9783ae.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2639275987a8",
+   "suara": "mia",
+   "teks": "Molekul-molekul ini saling tarik lewat ikatan yang disebut ikatan hidrogen.",
+   "dibaca": "Molekul-molekul ini saling tarik lewat ikatan yang disebut ikatan hidrogen.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2639275987a8.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9cf50685568e",
+   "suara": "mia",
+   "teks": "Kalau angin datang dari belakang, pesawat bisa lebih cepat dan lebih hemat bahan bakar.",
+   "dibaca": "Kalau angin datang dari belakang, pesawat bisa lebih cepat dan lebih hemat bahan bakar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9cf50685568e.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
