@@ -85486,6 +85486,141 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "bd9a6790719a",
+   "suara": "mia",
+   "teks": "Tarikan itu bekerja seperti rem yang pelan tapi tidak pernah berhenti.",
+   "dibaca": "Tarikan itu bekerja seperti rem yang pelan tapi tidak pernah berhenti.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/bd9a6790719a.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cded792659b4",
+   "suara": "mia",
+   "teks": "Di permukaan, laut terlihat terang dan biru.",
+   "dibaca": "Di permukaan, laut terlihat terang dan biru.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/cded792659b4.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b2be519b1690",
+   "suara": "mia",
+   "teks": "Dari situ, mereka mengembangkan proses pengawetan yang jauh lebih rumit.",
+   "dibaca": "Dari situ, mereka mengembangkan proses pengawetan yang jauh lebih rumit.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b2be519b1690.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a40c0463d7f8",
+   "suara": "mia",
+   "teks": "Resin ini membantu melindungi kulit dan menahan masuknya kelembapan.",
+   "dibaca": "Resin ini membantu melindungi kulit dan menahan masuknya kelembapan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a40c0463d7f8.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "04504f67df78",
+   "suara": "mia",
+   "teks": "Ruang kosong inilah yang membuat es lebih renggang daripada air.",
+   "dibaca": "Ruang kosong inilah yang membuat es lebih renggang daripada air.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/04504f67df78.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e8b08c6e5205",
+   "suara": "mia",
+   "teks": "Padahal, Afrika sebenarnya sekitar empat belas kali lebih luas.",
+   "dibaca": "Padahal, Afrika sebenarnya sekitar empat belas kali lebih luas.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/e8b08c6e5205.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "386c7f5938e0",
+   "suara": "mia",
+   "teks": "Begitu bangun, jangan langsung bergerak atau membuka ponsel.",
+   "dibaca": "Begitu bangun, jangan langsung bergerak atau membuka ponsel.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/386c7f5938e0.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "14e60a284893",
+   "suara": "mia",
+   "teks": "Otakmu hanya sedang berada dalam mode yang tidak dirancang untuk menyimpan.",
+   "dibaca": "Otakmu hanya sedang berada dalam mode yang tidak dirancang untuk menyimpan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/14e60a284893.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "00deaf46162a",
+   "suara": "mia",
+   "teks": "Padahal, kopi sebenarnya tidak menambah energi sama sekali.",
+   "dibaca": "Padahal, kopi sebenarnya tidak menambah energi sama sekali.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/00deaf46162a.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
