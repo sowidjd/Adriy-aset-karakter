@@ -92412,6 +92412,2456 @@
    "catatan": "",
    "sumber": "naskah:naskah.txt",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "70a262d45e90",
+   "suara": "mia",
+   "teks": "Batu hitam yang sama, bisa berakhir jadi abu, atau jadi bahan yang menopang industri baja dunia.",
+   "dibaca": "Batu hitam yang sama, bisa berakhir jadi abu, atau jadi bahan yang menopang industri baja dunia.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/70a262d45e90.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f5279bd6eba6",
+   "suara": "mia",
+   "teks": "Di Adriy Project, kali ini kita bedah batubara, bahan baku utama pabrik kokas, dari dalam.",
+   "dibaca": "Di Adriy Project, kali ini kita bedah batubara, bahan baku utama pabrik kokas, dari dalam.",
+   "fungsi": [
+    "pengenalan akun"
+   ],
+   "file": "suara/mia/f5279bd6eba6.wav",
+   "durasi": 6.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ef7dee296d3b",
+   "suara": "mia",
+   "teks": "Kokas adalah bahan padat yang kuat dan berpori, dibuat dari batubara yang dipanaskan tanpa udara.",
+   "dibaca": "Kokas adalah bahan padat yang kuat dan berpori, dibuat dari batubara yang dipanaskan tanpa udara.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ef7dee296d3b.wav",
+   "durasi": 6.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "375d025c51e1",
+   "suara": "mia",
+   "teks": "Tapi ternyata, tidak semua batubara bisa dijadikan kokas.",
+   "dibaca": "Tapi ternyata, tidak semua batubara bisa dijadikan kokas.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/375d025c51e1.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0dea0f02a58e",
+   "suara": "mia",
+   "teks": "Batubara harus dipanaskan di dalam ruang tertutup yang disebut ruang karbonisasi.",
+   "dibaca": "Batubara harus dipanaskan di dalam ruang tertutup yang disebut ruang karbonisasi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0dea0f02a58e.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2a168ee3509f",
+   "suara": "mia",
+   "teks": "Di sana, butiran batubara melunak, melepaskan gas dan cairan, lalu menyatu menjadi satu massa.",
+   "dibaca": "Di sana, butiran batubara melunak, melepaskan gas dan cairan, lalu menyatu menjadi satu massa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2a168ee3509f.wav",
+   "durasi": 6.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6a0d02d6f9c7",
+   "suara": "mia",
+   "teks": "Setelah itu, massa ini mengeras kembali menjadi kokas yang kuat dan berpori.",
+   "dibaca": "Setelah itu, massa ini mengeras kembali menjadi kokas yang kuat dan berpori.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/6a0d02d6f9c7.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "791633d029a7",
+   "suara": "mia",
+   "teks": "Batubara yang bisa berperilaku seperti ini disebut batubara kokas.",
+   "dibaca": "Batubara yang bisa berperilaku seperti ini disebut batubara kokas.",
+   "fungsi": [
+    "memberikan analogi",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/791633d029a7.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6c5833bf350d",
+   "suara": "mia",
+   "teks": "Alurnya begini: batubara dari tambang dipilih berdasarkan kualitas, lalu disiapkan dan dicampur.",
+   "dibaca": "Alurnya begini: batubara dari tambang dipilih berdasarkan kualitas, lalu disiapkan dan dicampur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/6c5833bf350d.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "bdc1b394f079",
+   "suara": "mia",
+   "teks": "Campuran itu diisikan ke ruang karbonisasi, lalu dipanaskan tanpa udara.",
+   "dibaca": "Campuran itu diisikan ke ruang karbonisasi, lalu dipanaskan tanpa udara.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/bdc1b394f079.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f29c2efe35a4",
+   "suara": "mia",
+   "teks": "Hasil utamanya kokas, sedangkan gas dan produk sampingnya dikirim ke bagian pemurnian gas.",
+   "dibaca": "Hasil utamanya kokas, sedangkan gas dan produk sampingnya dikirim ke bagian pemurnian gas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f29c2efe35a4.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "22b89a4fb345",
+   "suara": "mia",
+   "teks": "Kenapa harus tanpa udara?",
+   "dibaca": "Kenapa harus tanpa udara?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/22b89a4fb345.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ec7e6f499781",
+   "suara": "mia",
+   "teks": "Kalau ada oksigen, batubara akan terbakar dan habis menjadi abu dan panas.",
+   "dibaca": "Kalau ada oksigen, batubara akan terbakar dan habis menjadi abu dan panas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ec7e6f499781.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "01b015872cd0",
+   "suara": "mia",
+   "teks": "Tanpa udara, batubara tidak terbakar, tetapi terurai karena panas.",
+   "dibaca": "Tanpa udara, batubara tidak terbakar, tetapi terurai karena panas.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/01b015872cd0.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f8ab712080e1",
+   "suara": "mia",
+   "teks": "Bagian yang mudah menguap keluar sebagai gas, sedangkan karbon padatnya tertinggal sebagai kokas.",
+   "dibaca": "Bagian yang mudah menguap keluar sebagai gas, sedangkan karbon padatnya tertinggal sebagai kokas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f8ab712080e1.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f49c3ba84781",
+   "suara": "mia",
+   "teks": "Panasnya datang dari ruang pembakaran di balik dinding, bukan dari api di dalam ruang karbonisasi.",
+   "dibaca": "Panasnya datang dari ruang pembakaran di balik dinding, bukan dari api di dalam ruang karbonisasi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f49c3ba84781.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0f3b6febafb8",
+   "suara": "mia",
+   "teks": "Lalu, batubara itu sebenarnya apa?",
+   "dibaca": "Lalu, batubara itu sebenarnya apa?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/0f3b6febafb8.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "72c7439f23de",
+   "suara": "mia",
+   "teks": "Batubara adalah bahan padat kaya karbon yang terbentuk dari sisa tumbuhan purba.",
+   "dibaca": "Batubara adalah bahan padat kaya karbon yang terbentuk dari sisa tumbuhan purba.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/72c7439f23de.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a10c18fba19e",
+   "suara": "mia",
+   "teks": "Tumbuhan rawa yang mati tertimbun air, sehingga tidak membusuk habis.",
+   "dibaca": "Tumbuhan rawa yang mati tertimbun air, sehingga tidak membusuk habis.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/a10c18fba19e.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "857837d6b62d",
+   "suara": "mia",
+   "teks": "Lalu tekanan, suhu, dan waktu geologi yang sangat panjang mengubahnya perlahan.",
+   "dibaca": "Lalu tekanan, suhu, dan waktu geologi yang sangat panjang mengubahnya perlahan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/857837d6b62d.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3c6390f88c99",
+   "suara": "mia",
+   "teks": "Proses ini disebut pembatubaraan.",
+   "dibaca": "Proses ini disebut pembatubaraan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3c6390f88c99.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d1e274241845",
+   "suara": "mia",
+   "teks": "Tahap pertama adalah gambut, masih berserat dan sangat basah.",
+   "dibaca": "Tahap pertama adalah gambut, masih berserat dan sangat basah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d1e274241845.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "82fc78d38bc1",
+   "suara": "mia",
+   "teks": "Tahap kedua adalah batubara cokelat atau lignit, dengan kadar air dan zat terbang yang tinggi.",
+   "dibaca": "Tahap kedua adalah batubara cokelat atau lignit, dengan kadar air dan zat terbang yang tinggi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/82fc78d38bc1.wav",
+   "durasi": 5.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1eb8de64ffc1",
+   "suara": "mia",
+   "teks": "Tahap ketiga adalah batubara bituminus, kelompok yang dipakai untuk membuat kokas.",
+   "dibaca": "Tahap ketiga adalah batubara bituminus, kelompok yang dipakai untuk membuat kokas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1eb8de64ffc1.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "344fbdeeec9b",
+   "suara": "mia",
+   "teks": "Tahap terakhir adalah antrasit, paling tua, paling keras, dan karbonnya paling tinggi.",
+   "dibaca": "Tahap terakhir adalah antrasit, paling tua, paling keras, dan karbonnya paling tinggi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/344fbdeeec9b.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "58cdfe34b2d1",
+   "suara": "mia",
+   "teks": "Semakin tinggi tingkat pembatubaraan, kadar karbon umumnya naik, sedangkan air dan zat terbang makin rendah.",
+   "dibaca": "Semakin tinggi tingkat pembatubaraan, kadar karbon umumnya naik, sedangkan air dan zat terbang makin rendah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/58cdfe34b2d1.wav",
+   "durasi": 6.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "427d3e789d3b",
+   "suara": "mia",
+   "teks": "Tapi antrasit tidak bisa dijadikan kokas, karena tidak melunak saat dipanaskan.",
+   "dibaca": "Tapi antrasit tidak bisa dijadikan kokas, karena tidak melunak saat dipanaskan.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/427d3e789d3b.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ab6d066036dd",
+   "suara": "mia",
+   "teks": "Butirannya tidak bisa menyatu, jadi tidak terbentuk kokas.",
+   "dibaca": "Butirannya tidak bisa menyatu, jadi tidak terbentuk kokas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ab6d066036dd.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fea29440868c",
+   "suara": "mia",
+   "teks": "Untuk membedakan kelompoknya, standar Tiongkok memakai kadar zat terbang pada basis kering bebas abu.",
+   "dibaca": "Untuk membedakan kelompoknya, standar Tiongkok memakai kadar zat terbang pada basis kering bebas abu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/fea29440868c.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "485869857dd4",
+   "suara": "mia",
+   "teks": "Antrasit sampai sepuluh persen, bituminus di atas sepuluh sampai sekitar tiga puluh tujuh persen, dan batubara cokelat di atas tiga puluh tujuh persen.",
+   "dibaca": "Antrasit sampai sepuluh persen, bituminus di atas sepuluh sampai sekitar tiga puluh tujuh persen, dan batubara cokelat di atas tiga puluh tujuh persen.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/485869857dd4.wav",
+   "durasi": 9.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0a5166a25981",
+   "suara": "mia",
+   "teks": "Sekarang bandingkan dua jenis batubara: batubara bahan bakar dan batubara kokas.",
+   "dibaca": "Sekarang bandingkan dua jenis batubara: batubara bahan bakar dan batubara kokas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0a5166a25981.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "566cf5d1253c",
+   "suara": "mia",
+   "teks": "Batubara bahan bakar dibakar dengan udara untuk diambil panasnya, seperti di PLTU dan boiler.",
+   "dibaca": "Batubara bahan bakar dibakar dengan udara untuk diambil panasnya, seperti di pe el te u dan boiler.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/566cf5d1253c.wav",
+   "durasi": 6.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "85f19817875d",
+   "suara": "mia",
+   "teks": "Hasil akhirnya abu dan gas buang.",
+   "dibaca": "Hasil akhirnya abu dan gas buang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/85f19817875d.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "192cbe9a528c",
+   "suara": "mia",
+   "teks": "Batubara kokas justru dipanaskan tanpa udara, dan hasilnya kokas, gas, tar, serta produk samping.",
+   "dibaca": "Batubara kokas justru dipanaskan tanpa udara, dan hasilnya kokas, gas, tar, serta produk samping.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/192cbe9a528c.wav",
+   "durasi": 8.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "027692866659",
+   "suara": "mia",
+   "teks": "Yang membedakan adalah perilakunya saat dipanaskan.",
+   "dibaca": "Yang membedakan adalah perilakunya saat dipanaskan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/027692866659.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2760da8e633c",
+   "suara": "mia",
+   "teks": "Kita masuk ke dalam ruang karbonisasi dan lihat perubahannya.",
+   "dibaca": "Kita masuk ke dalam ruang karbonisasi dan lihat perubahannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2760da8e633c.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "433d670509e2",
+   "suara": "mia",
+   "teks": "Pertama, pengeringan: air menguap, sekitar di bawah dua ratus derajat Celsius.",
+   "dibaca": "Pertama, pengeringan: air menguap, sekitar di bawah dua ratus derajat Celsius.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/433d670509e2.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b9f1b27cd628",
+   "suara": "mia",
+   "teks": "Kedua, penguraian akibat panas: ikatan kimia mulai putus dan gas mulai keluar, sekitar dua ratus sampai tiga ratus lima puluh derajat.",
+   "dibaca": "Kedua, penguraian akibat panas: ikatan kimia mulai putus dan gas mulai keluar, sekitar dua ratus sampai tiga ratus lima puluh derajat.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/b9f1b27cd628.wav",
+   "durasi": 9.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "97ad62313a38",
+   "suara": "mia",
+   "teks": "Ketiga, pelunakan: butiran mulai lunak, sekitar tiga ratus lima puluh sampai empat ratus derajat.",
+   "dibaca": "Ketiga, pelunakan: butiran mulai lunak, sekitar tiga ratus lima puluh sampai empat ratus derajat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/97ad62313a38.wav",
+   "durasi": 7.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c2841fc7b78a",
+   "suara": "mia",
+   "teks": "Keempat, terbentuk lapisan plastis, massa lunak seperti adonan yang bercampur gas dan cairan.",
+   "dibaca": "Keempat, terbentuk lapisan plastis, massa lunak seperti adonan yang bercampur gas dan cairan.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/c2841fc7b78a.wav",
+   "durasi": 6.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0a773159e4a3",
+   "suara": "mia",
+   "teks": "Kelima, massa lunak itu mengisi celah dan merekatkan butiran.",
+   "dibaca": "Kelima, massa lunak itu mengisi celah dan merekatkan butiran.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0a773159e4a3.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2b0624fa29d1",
+   "suara": "mia",
+   "teks": "Keenam, pemadatan kembali menjadi semi kokas, sekitar empat ratus lima puluh sampai lima ratus derajat.",
+   "dibaca": "Keenam, pemadatan kembali menjadi semi kokas, sekitar empat ratus lima puluh sampai lima ratus derajat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2b0624fa29d1.wav",
+   "durasi": 7.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9cd0293d473b",
+   "suara": "mia",
+   "teks": "Ketujuh, semi kokas terus melepas gas dan menyusut, sampai pusat kue mencapai sekitar sembilan ratus lima puluh sampai seribu lima puluh derajat.",
+   "dibaca": "Ketujuh, semi kokas terus melepas gas dan menyusut, sampai pusat kue mencapai sekitar sembilan ratus lima puluh sampai seribu lima puluh derajat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9cd0293d473b.wav",
+   "durasi": 9.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "39a5ad0ef485",
+   "suara": "mia",
+   "teks": "Angka suhu ini perkiraan umum dari literatur, bukan angka SOP pabrik.",
+   "dibaca": "Angka suhu ini perkiraan umum dari literatur, bukan angka es o pe pabrik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/39a5ad0ef485.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5bfbd1e9e084",
+   "suara": "mia",
+   "teks": "Tahap pelunakan dan lapisan plastis adalah yang paling penting.",
+   "dibaca": "Tahap pelunakan dan lapisan plastis adalah yang paling penting.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5bfbd1e9e084.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f95464a74f37",
+   "suara": "mia",
+   "teks": "Kalau batubara tidak punya sifat pembentuk kokas yang cukup, butiran tidak menyatu, dan kokas menjadi lemah serta mudah hancur.",
+   "dibaca": "Kalau batubara tidak punya sifat pembentuk kokas yang cukup, butiran tidak menyatu, dan kokas menjadi lemah serta mudah hancur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f95464a74f37.wav",
+   "durasi": 8.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5176e1805e90",
+   "suara": "mia",
+   "teks": "Ada satu hal menarik.",
+   "dibaca": "Ada satu hal menarik.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/5176e1805e90.wav",
+   "durasi": 1.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "bddccd4a6b57",
+   "suara": "mia",
+   "teks": "Panas masuk dari kedua dinding oven, jadi batubara di dekat dinding melunak lebih dulu.",
+   "dibaca": "Panas masuk dari kedua dinding oven, jadi batubara di dekat dinding melunak lebih dulu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/bddccd4a6b57.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a8423ae42b5a",
+   "suara": "mia",
+   "teks": "Lapisan plastis terbentuk di dua sisi, lalu bergerak ke tengah dan bertemu di tengah oven.",
+   "dibaca": "Lapisan plastis terbentuk di dua sisi, lalu bergerak ke tengah dan bertemu di tengah oven.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a8423ae42b5a.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9efc8b8381e7",
+   "suara": "mia",
+   "teks": "Saat keduanya bertemu, gas yang terperangkap menekan dinding, dan ini salah satu sumber tekanan pemuaian.",
+   "dibaca": "Saat keduanya bertemu, gas yang terperangkap menekan dinding, dan ini salah satu sumber tekanan pemuaian.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9efc8b8381e7.wav",
+   "durasi": 6.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d6c9d713a9a3",
+   "suara": "mia",
+   "teks": "Kalau video ini membantu kamu belajar, simpan dulu supaya gampang diulang.",
+   "dibaca": "Kalau video ini membantu kamu belajar, simpan dulu supaya gampang diulang.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/d6c9d713a9a3.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a64af8541f5e",
+   "suara": "mia",
+   "teks": "Sekarang kita bedah isi batubara, komponen apa saja yang diperiksa.",
+   "dibaca": "Sekarang kita bedah isi batubara, komponen apa saja yang diperiksa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a64af8541f5e.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "82ee6c61bd15",
+   "suara": "mia",
+   "teks": "Komponen pertama adalah kadar air.",
+   "dibaca": "Komponen pertama adalah kadar air.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/82ee6c61bd15.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9cdbef934eec",
+   "suara": "mia",
+   "teks": "Ada air bebas yang menempel di permukaan butiran, dan air bawaan yang terikat di dalam pori.",
+   "dibaca": "Ada air bebas yang menempel di permukaan butiran, dan air bawaan yang terikat di dalam pori.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9cdbef934eec.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5ad65c03a89f",
+   "suara": "mia",
+   "teks": "Jumlah keduanya disebut air total.",
+   "dibaca": "Jumlah keduanya disebut air total.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5ad65c03a89f.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "29033b5d0d26",
+   "suara": "mia",
+   "teks": "Selama air belum habis menguap, suhu di tengah kue batubara tertahan sekitar seratus derajat.",
+   "dibaca": "Selama air belum habis menguap, suhu di tengah kue batubara tertahan sekitar seratus derajat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/29033b5d0d26.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4616950c560d",
+   "suara": "mia",
+   "teks": "Makin banyak air, makin lama tertahan, sehingga waktu pematangan kokas bertambah.",
+   "dibaca": "Makin banyak air, makin lama tertahan, sehingga waktu pematangan kokas bertambah.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/4616950c560d.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "28966445fb71",
+   "suara": "mia",
+   "teks": "Komponen kedua adalah kadar abu, yaitu bahan mineral yang tidak terbakar.",
+   "dibaca": "Komponen kedua adalah kadar abu, yaitu bahan mineral yang tidak terbakar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/28966445fb71.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "69dd000e716e",
+   "suara": "mia",
+   "teks": "Abu dari batubara hampir seluruhnya masuk ke dalam kokas.",
+   "dibaca": "Abu dari batubara hampir seluruhnya masuk ke dalam kokas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/69dd000e716e.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4378ec29e4d9",
+   "suara": "mia",
+   "teks": "Dan abu kokas selalu lebih tinggi daripada abu batubara.",
+   "dibaca": "Dan abu kokas selalu lebih tinggi daripada abu batubara.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4378ec29e4d9.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7f7966ecf968",
+   "suara": "mia",
+   "teks": "Karena zat terbang keluar dan beratnya berkurang, sedangkan abunya tertinggal sehingga makin pekat.",
+   "dibaca": "Karena zat terbang keluar dan beratnya berkurang, sedangkan abunya tertinggal sehingga makin pekat.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/7f7966ecf968.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "66340d60694a",
+   "suara": "mia",
+   "teks": "Perkiraannya, abu kokas sama dengan abu batubara dibagi hasil kokas.",
+   "dibaca": "Perkiraannya, abu kokas sama dengan abu batubara dibagi hasil kokas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/66340d60694a.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f1a495f5fa22",
+   "suara": "mia",
+   "teks": "Misalnya abu batubara sembilan persen dan hasil kokas tujuh puluh lima persen, maka abu kokas sekitar dua belas persen.",
+   "dibaca": "Misalnya abu batubara sembilan persen dan hasil kokas tujuh puluh lima persen, maka abu kokas sekitar dua belas persen.",
+   "fungsi": [
+    "memberikan analogi",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f1a495f5fa22.wav",
+   "durasi": 7.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a4a8d3ea5fbb",
+   "suara": "mia",
+   "teks": "Abu berisi silika, alumina, oksida besi, kapur, dan alkali.",
+   "dibaca": "Abu berisi silika, alumina, oksida besi, kapur, dan alkali.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a4a8d3ea5fbb.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ab5c6b8a4bc1",
+   "suara": "mia",
+   "teks": "Alkali yang tinggi membuat kokas mudah bereaksi di tanur tinggi, sehingga kekuatannya turun.",
+   "dibaca": "Alkali yang tinggi membuat kokas mudah bereaksi di tanur tinggi, sehingga kekuatannya turun.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/ab5c6b8a4bc1.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c8c937c1b56e",
+   "suara": "mia",
+   "teks": "Komponen ketiga adalah zat terbang, bagian yang lepas saat batubara dipanaskan tanpa udara.",
+   "dibaca": "Komponen ketiga adalah zat terbang, bagian yang lepas saat batubara dipanaskan tanpa udara.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c8c937c1b56e.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d6e1282d102a",
+   "suara": "mia",
+   "teks": "Zat terbang berubah menjadi gas, uap air, tar, amonia, benzena, naftalena, dan hidrogen sulfida.",
+   "dibaca": "Zat terbang berubah menjadi gas, uap air, tar, amonia, benzena, naftalena, dan hidrogen sulfida.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d6e1282d102a.wav",
+   "durasi": 8.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "036844c8d340",
+   "suara": "mia",
+   "teks": "Semuanya menjadi gas oven kokas mentah, lalu dikirim ke pemurnian gas.",
+   "dibaca": "Semuanya menjadi gas oven kokas mentah, lalu dikirim ke pemurnian gas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/036844c8d340.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e254acb185a9",
+   "suara": "mia",
+   "teks": "Zat terbang tidak menjadi kokas.",
+   "dibaca": "Zat terbang tidak menjadi kokas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/e254acb185a9.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cd5154ab6ae5",
+   "suara": "mia",
+   "teks": "Jadi makin tinggi zat terbang, makin banyak gas dan tar, tetapi kokas yang dihasilkan makin sedikit dan cenderung lebih retak.",
+   "dibaca": "Jadi makin tinggi zat terbang, makin banyak gas dan tar, tetapi kokas yang dihasilkan makin sedikit dan cenderung lebih retak.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/cd5154ab6ae5.wav",
+   "durasi": 7.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fb3683acbe2f",
+   "suara": "mia",
+   "teks": "Di laboratorium, zat terbang diuji dengan memanaskan contoh batubara tanpa udara pada suhu sekitar sembilan ratus derajat.",
+   "dibaca": "Di laboratorium, zat terbang diuji dengan memanaskan contoh batubara tanpa udara pada suhu sekitar sembilan ratus derajat.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/fb3683acbe2f.wav",
+   "durasi": 7.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7f739c9d4d03",
+   "suara": "mia",
+   "teks": "Komponen keempat adalah karbon tetap, bagian padat yang menjadi kerangka kokas.",
+   "dibaca": "Komponen keempat adalah karbon tetap, bagian padat yang menjadi kerangka kokas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/7f739c9d4d03.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3148853756e1",
+   "suara": "mia",
+   "teks": "Karbon tetap tidak diukur langsung, tetapi dihitung.",
+   "dibaca": "Karbon tetap tidak diukur langsung, tetapi dihitung.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3148853756e1.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c36169b01241",
+   "suara": "mia",
+   "teks": "Rumusnya, seratus dikurangi air, dikurangi abu, dikurangi zat terbang.",
+   "dibaca": "Rumusnya, seratus dikurangi air, dikurangi abu, dikurangi zat terbang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c36169b01241.wav",
+   "durasi": 5.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9a163d0ab82b",
+   "suara": "mia",
+   "teks": "Contohnya air satu koma lima persen, abu sembilan persen, zat terbang dua puluh enam persen, maka karbon tetapnya enam puluh tiga koma lima persen.",
+   "dibaca": "Contohnya air satu koma lima persen, abu sembilan persen, zat terbang dua puluh enam persen, maka karbon tetapnya enam puluh tiga koma lima persen.",
+   "fungsi": [
+    "memberikan analogi",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9a163d0ab82b.wav",
+   "durasi": 8.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0734653a5c35",
+   "suara": "mia",
+   "teks": "Komponen kelima adalah sulfur.",
+   "dibaca": "Komponen kelima adalah sulfur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0734653a5c35.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "409726b0d2f4",
+   "suara": "mia",
+   "teks": "Sulfur ada dalam bentuk pirit, sulfur organik, dan sedikit sulfat.",
+   "dibaca": "Sulfur ada dalam bentuk pirit, sulfur organik, dan sedikit sulfat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/409726b0d2f4.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "62d42491fd41",
+   "suara": "mia",
+   "teks": "Sekitar enam puluh sampai delapan puluh persen sulfur tertinggal di kokas.",
+   "dibaca": "Sekitar enam puluh sampai delapan puluh persen sulfur tertinggal di kokas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/62d42491fd41.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3bdfcf39ca2e",
+   "suara": "mia",
+   "teks": "Sisanya keluar sebagai hidrogen sulfida dalam gas, yang nanti dihilangkan di unit penghilangan sulfur.",
+   "dibaca": "Sisanya keluar sebagai hidrogen sulfida dalam gas, yang nanti dihilangkan di unit penghilangan sulfur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3bdfcf39ca2e.wav",
+   "durasi": 5.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "64f616ed7b05",
+   "suara": "mia",
+   "teks": "Di tanur tinggi, sulfur dari kokas membuat baja rapuh saat panas.",
+   "dibaca": "Di tanur tinggi, sulfur dari kokas membuat baja rapuh saat panas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/64f616ed7b05.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0030328c712b",
+   "suara": "mia",
+   "teks": "Komponen keenam adalah fosfor.",
+   "dibaca": "Komponen keenam adalah fosfor.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0030328c712b.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9c1ef965002c",
+   "suara": "mia",
+   "teks": "Berbeda dengan sulfur, fosfor hampir seluruhnya tertinggal di kokas.",
+   "dibaca": "Berbeda dengan sulfur, fosfor hampir seluruhnya tertinggal di kokas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9c1ef965002c.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "223b41aa4ad4",
+   "suara": "mia",
+   "teks": "Di baja, fosfor membuat logam getas dan mudah patah saat dingin.",
+   "dibaca": "Di baja, fosfor membuat logam getas dan mudah patah saat dingin.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/223b41aa4ad4.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "25b8d41d7071",
+   "suara": "mia",
+   "teks": "Satu-satunya cara mengendalikannya adalah memilih batubara yang fosfornya rendah.",
+   "dibaca": "Satu-satunya cara mengendalikannya adalah memilih batubara yang fosfornya rendah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/25b8d41d7071.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7b0c1bfaab63",
+   "suara": "mia",
+   "teks": "Hasil laboratorium juga punya basis analisis.",
+   "dibaca": "Hasil laboratorium juga punya basis analisis.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/7b0c1bfaab63.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cc4e9f95f063",
+   "suara": "mia",
+   "teks": "Basis seperti diterima termasuk semua air, basis kering udara dikeringkan di udara ruangan, basis kering tanpa air sama sekali, dan basis kering bebas abu dianggap tanpa air dan tanpa abu.",
+   "dibaca": "Basis seperti diterima termasuk semua air, basis kering udara dikeringkan di udara ruangan, basis kering tanpa air sama sekali, dan basis kering bebas abu dianggap tanpa air dan tanpa abu.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/cc4e9f95f063.wav",
+   "durasi": 11.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "858bdfee8a6a",
+   "suara": "mia",
+   "teks": "Angka yang sama bisa terlihat berbeda kalau basisnya berbeda, jadi selalu bandingkan dengan basis yang sama.",
+   "dibaca": "Angka yang sama bisa terlihat berbeda kalau basisnya berbeda, jadi selalu bandingkan dengan basis yang sama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/858bdfee8a6a.wav",
+   "durasi": 6.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "14b956fa5f9d",
+   "suara": "mia",
+   "teks": "Komposisi saja belum cukup.",
+   "dibaca": "Komposisi saja belum cukup.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/14b956fa5f9d.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "27abe03d084a",
+   "suara": "mia",
+   "teks": "Kita juga harus tahu bagaimana batubara berperilaku saat dipanaskan.",
+   "dibaca": "Kita juga harus tahu bagaimana batubara berperilaku saat dipanaskan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/27abe03d084a.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0b02dc46a55c",
+   "suara": "mia",
+   "teks": "Sifat pertama adalah kemampuan mengikat, yaitu kemampuan batubara yang melunak mengikat butiran lain menjadi satu massa.",
+   "dibaca": "Sifat pertama adalah kemampuan mengikat, yaitu kemampuan batubara yang melunak mengikat butiran lain menjadi satu massa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0b02dc46a55c.wav",
+   "durasi": 6.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8b60f3b6f367",
+   "suara": "mia",
+   "teks": "Sifat ini diukur dengan indeks G, makin tinggi nilainya makin kuat daya ikatnya.",
+   "dibaca": "Sifat ini diukur dengan indeks G, makin tinggi nilainya makin kuat daya ikatnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/8b60f3b6f367.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "acd4dff97f7f",
+   "suara": "mia",
+   "teks": "Sifat kedua adalah kemampuan membentuk kokas, yaitu kemampuan menghasilkan kokas dengan struktur dan kekuatan yang sesuai.",
+   "dibaca": "Sifat kedua adalah kemampuan membentuk kokas, yaitu kemampuan menghasilkan kokas dengan struktur dan kekuatan yang sesuai.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/acd4dff97f7f.wav",
+   "durasi": 7.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "75d6a72a8056",
+   "suara": "mia",
+   "teks": "Bayangkan lem dan bangunan.",
+   "dibaca": "Bayangkan lem dan bangunan.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/75d6a72a8056.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a6307c62d144",
+   "suara": "mia",
+   "teks": "Kemampuan mengikat itu kekuatan lemnya, sedangkan kemampuan membentuk kokas itu kualitas bangunannya.",
+   "dibaca": "Kemampuan mengikat itu kekuatan lemnya, sedangkan kemampuan membentuk kokas itu kualitas bangunannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a6307c62d144.wav",
+   "durasi": 6.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "53de24524f78",
+   "suara": "mia",
+   "teks": "Lem kuat belum tentu bangunannya bagus.",
+   "dibaca": "Lem kuat belum tentu bangunannya bagus.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/53de24524f78.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9799e0f032c7",
+   "suara": "mia",
+   "teks": "Batubara lemak daya ikatnya sangat kuat, tetapi kalau dipakai sendirian kokasnya banyak retak.",
+   "dibaca": "Batubara lemak daya ikatnya sangat kuat, tetapi kalau dipakai sendirian kokasnya banyak retak.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9799e0f032c7.wav",
+   "durasi": 5.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "97f051a5b865",
+   "suara": "mia",
+   "teks": "Sifat ketiga adalah kecairan saat dipanaskan, diukur dengan alat Gieseler.",
+   "dibaca": "Sifat ketiga adalah kecairan saat dipanaskan, diukur dengan alat giseler.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/97f051a5b865.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "733642697cd0",
+   "suara": "mia",
+   "teks": "Terlalu rendah, butiran tidak menyatu, terlalu tinggi, kokas berpori besar dan rapuh.",
+   "dibaca": "Terlalu rendah, butiran tidak menyatu, terlalu tinggi, kokas berpori besar dan rapuh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/733642697cd0.wav",
+   "durasi": 6.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "31007b566920",
+   "suara": "mia",
+   "teks": "Kuncinya sesuai, bukan setinggi-tingginya.",
+   "dibaca": "Kuncinya sesuai, bukan setinggi-tingginya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/31007b566920.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5a330f5a10d6",
+   "suara": "mia",
+   "teks": "Sifat keempat adalah pemuaian dan penyusutan.",
+   "dibaca": "Sifat keempat adalah pemuaian dan penyusutan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5a330f5a10d6.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "860d12d70946",
+   "suara": "mia",
+   "teks": "Batubara memuai pada tahap plastis, lalu menyusut saat menjadi kokas.",
+   "dibaca": "Batubara memuai pada tahap plastis, lalu menyusut saat menjadi kokas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/860d12d70946.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2f1574b218dc",
+   "suara": "mia",
+   "teks": "Kalau memuai berlebihan, dinding oven tertekan, batanya bisa retak, dan umur oven memendek.",
+   "dibaca": "Kalau memuai berlebihan, dinding oven tertekan, batanya bisa retak, dan umur oven memendek.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2f1574b218dc.wav",
+   "durasi": 6.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cafdfeb7b15d",
+   "suara": "mia",
+   "teks": "Kalau menyusut terlalu sedikit, kokas menempel ke dinding dan sulit didorong keluar.",
+   "dibaca": "Kalau menyusut terlalu sedikit, kokas menempel ke dinding dan sulit didorong keluar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/cafdfeb7b15d.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "39462cb2a1c1",
+   "suara": "mia",
+   "teks": "Penyusutan di akhir justru dibutuhkan, karena membuat celah kecil antara kokas dan dinding.",
+   "dibaca": "Penyusutan di akhir justru dibutuhkan, karena membuat celah kecil antara kokas dan dinding.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/39462cb2a1c1.wav",
+   "durasi": 6.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8149d2f138b6",
+   "suara": "mia",
+   "teks": "Sifat kelima adalah ukuran butiran.",
+   "dibaca": "Sifat kelima adalah ukuran butiran.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/8149d2f138b6.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a1656d0d7c97",
+   "suara": "mia",
+   "teks": "Terlalu kasar, campuran kurang seragam dan kokas bisa retak di titik butiran besar.",
+   "dibaca": "Terlalu kasar, campuran kurang seragam dan kokas bisa retak di titik butiran besar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a1656d0d7c97.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9909fa1d0d7e",
+   "suara": "mia",
+   "teks": "Terlalu halus, kepadatan pengisian turun dan lebih berdebu.",
+   "dibaca": "Terlalu halus, kepadatan pengisian turun dan lebih berdebu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9909fa1d0d7e.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "43b1079ebb3e",
+   "suara": "mia",
+   "teks": "Kehalusan diukur dari persentase butiran yang lolos ayakan tiga milimeter.",
+   "dibaca": "Kehalusan diukur dari persentase butiran yang lolos ayakan tiga milimeter.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/43b1079ebb3e.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "473cbabf03b6",
+   "suara": "mia",
+   "teks": "Menurut materi lama, oven pengisian atas tujuh meter memakai kehalusan tujuh puluh sampai tujuh puluh empat persen, dan oven pemadatan lima koma lima meter memakai delapan puluh enam sampai sembilan puluh persen.",
+   "dibaca": "Menurut materi lama, oven pengisian atas tujuh meter memakai kehalusan tujuh puluh sampai tujuh puluh empat persen, dan oven pemadatan lima koma lima meter memakai delapan puluh enam sampai sembilan puluh persen.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/473cbabf03b6.wav",
+   "durasi": 13.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "43f9c4f732fb",
+   "suara": "mia",
+   "teks": "Laboratorium juga mengukur tebal lapisan plastis, penyusutan akhir, pemuaian, indeks muai bebas, dan reflektansi vitrinit untuk tingkat kematangan batubara.",
+   "dibaca": "Laboratorium juga mengukur tebal lapisan plastis, penyusutan akhir, pemuaian, indeks muai bebas, dan reflektansi vitrinit untuk tingkat kematangan batubara.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/43f9c4f732fb.wav",
+   "durasi": 11.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "42a1e11bb9f6",
+   "suara": "mia",
+   "teks": "Di pabrik kokas, batubara hampir tidak pernah dipakai satu jenis saja.",
+   "dibaca": "Di pabrik kokas, batubara hampir tidak pernah dipakai satu jenis saja.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/42a1e11bb9f6.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b9a72e6a7608",
+   "suara": "mia",
+   "teks": "Beberapa jenis dicampur, dan prosesnya disebut pencampuran batubara.",
+   "dibaca": "Beberapa jenis dicampur, dan prosesnya disebut pencampuran batubara.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b9a72e6a7608.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ca52193447a4",
+   "suara": "mia",
+   "teks": "Alasannya, tidak ada satu jenis yang sempurna, batubara terbaik mahal dan terbatas, jenis tertentu tidak aman untuk oven jika dipakai sendirian, dan campuran membuat kualitas lebih stabil.",
+   "dibaca": "Alasannya, tidak ada satu jenis yang sempurna, batubara terbaik mahal dan terbatas, jenis tertentu tidak aman untuk oven jika dipakai sendirian, dan campuran membuat kualitas lebih stabil.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ca52193447a4.wav",
+   "durasi": 11.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2ef2684d032e",
+   "suara": "mia",
+   "teks": "Batubara gas, zat terbangnya tinggi, menambah gas dan hasil samping, tetapi kokasnya kecil dan retak jika berlebihan.",
+   "dibaca": "Batubara gas, zat terbangnya tinggi, menambah gas dan hasil samping, tetapi kokasnya kecil dan retak jika berlebihan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2ef2684d032e.wav",
+   "durasi": 7.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5c0bee2ab956",
+   "suara": "mia",
+   "teks": "Batubara lemak adalah lem campuran, daya ikatnya sangat kuat dan daerah plastisnya lebar.",
+   "dibaca": "Batubara lemak adalah lem campuran, daya ikatnya sangat kuat dan daerah plastisnya lebar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5c0bee2ab956.wav",
+   "durasi": 6.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7d69eea1dc40",
+   "suara": "mia",
+   "teks": "Batubara kokas utama adalah tulang punggung campuran, yang menghasilkan kokas kuat.",
+   "dibaca": "Batubara kokas utama adalah tulang punggung campuran, yang menghasilkan kokas kuat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/7d69eea1dc40.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "59393b8e9fd1",
+   "suara": "mia",
+   "teks": "Batubara kurus mengatur campuran, mengurangi retak, dan menambah ukuran kokas.",
+   "dibaca": "Batubara kurus mengatur campuran, mengurangi retak, dan menambah ukuran kokas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/59393b8e9fd1.wav",
+   "durasi": 5.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "243b180bd548",
+   "suara": "mia",
+   "teks": "Ada juga sepertiga batubara kokas dan batubara gas lemak yang sering muncul di daftar pabrik.",
+   "dibaca": "Ada juga sepertiga batubara kokas dan batubara gas lemak yang sering muncul di daftar pabrik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/243b180bd548.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1b41dcd262d8",
+   "suara": "mia",
+   "teks": "Masing-masing jenis disimpan terpisah, ditakar sesuai perbandingan, lalu dicampur menjadi campuran batubara yang dikirim ke oven.",
+   "dibaca": "Masing-masing jenis disimpan terpisah, ditakar sesuai perbandingan, lalu dicampur menjadi campuran batubara yang dikirim ke oven.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1b41dcd262d8.wav",
+   "durasi": 7.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "72b55ef7ad0c",
+   "suara": "mia",
+   "teks": "Perbandingan campuran tidak bisa ditentukan hanya dari nama jenisnya.",
+   "dibaca": "Perbandingan campuran tidak bisa ditentukan hanya dari nama jenisnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/72b55ef7ad0c.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b80ddaa16550",
+   "suara": "mia",
+   "teks": "Formulanya ditentukan dari hasil uji bahan baku, target mutu kokas, kondisi oven, dan ketentuan pabrik.",
+   "dibaca": "Formulanya ditentukan dari hasil uji bahan baku, target mutu kokas, kondisi oven, dan ketentuan pabrik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b80ddaa16550.wav",
+   "durasi": 6.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d8125a0297ca",
+   "suara": "mia",
+   "teks": "Tugas operator adalah memastikan perbandingan itu benar-benar tercapai: timbangan akurat, pengumpan tidak macet, dan silo tidak kosong.",
+   "dibaca": "Tugas operator adalah memastikan perbandingan itu benar-benar tercapai: timbangan akurat, pengumpan tidak macet, dan silo tidak kosong.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d8125a0297ca.wav",
+   "durasi": 9.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a2101cc9681b",
+   "suara": "mia",
+   "teks": "Menurut materi lama, batas kesalahan timbangan pencampuran paling besar nol koma lima persen.",
+   "dibaca": "Menurut materi lama, batas kesalahan timbangan pencampuran paling besar nol koma lima persen.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a2101cc9681b.wav",
+   "durasi": 6.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a8414ae36e95",
+   "suara": "mia",
+   "teks": "Kualitas batubara memengaruhi hampir seluruh proses produksi kokas.",
+   "dibaca": "Kualitas batubara memengaruhi hampir seluruh proses produksi kokas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a8414ae36e95.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "52ec981eb3a2",
+   "suara": "mia",
+   "teks": "Kadar air terlalu tinggi, beban panas naik dan kokas bisa kurang matang.",
+   "dibaca": "Kadar air terlalu tinggi, beban panas naik dan kokas bisa kurang matang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/52ec981eb3a2.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "04cd3e62f8d2",
+   "suara": "mia",
+   "teks": "Kadar abu terlalu tinggi, abu kokas ikut naik.",
+   "dibaca": "Kadar abu terlalu tinggi, abu kokas ikut naik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/04cd3e62f8d2.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "42f5efaf941d",
+   "suara": "mia",
+   "teks": "Sulfur terlalu tinggi, sulfur kokas dan hidrogen sulfida di gas ikut naik.",
+   "dibaca": "Sulfur terlalu tinggi, sulfur kokas dan hidrogen sulfida di gas ikut naik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/42f5efaf941d.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "aa155fad9c7f",
+   "suara": "mia",
+   "teks": "Zat terbang terlalu tinggi, gas dan tar naik, hasil kokas turun, dan kokas lebih retak.",
+   "dibaca": "Zat terbang terlalu tinggi, gas dan tar naik, hasil kokas turun, dan kokas lebih retak.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/aa155fad9c7f.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b6c37ce220b5",
+   "suara": "mia",
+   "teks": "Daya ikat terlalu rendah, kokas rapuh dan banyak serbuk.",
+   "dibaca": "Daya ikat terlalu rendah, kokas rapuh dan banyak serbuk.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b6c37ce220b5.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "bd534ac133c3",
+   "suara": "mia",
+   "teks": "Pemuaian berlebihan, tekanan dinding naik dan kokas sulit didorong.",
+   "dibaca": "Pemuaian berlebihan, tekanan dinding naik dan kokas sulit didorong.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/bd534ac133c3.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f4f215665ac9",
+   "suara": "mia",
+   "teks": "Dan kalau kualitasnya berubah-ubah, seluruh proses menjadi tidak stabil.",
+   "dibaca": "Dan kalau kualitasnya berubah-ubah, seluruh proses menjadi tidak stabil.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f4f215665ac9.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4e2c1f0ca9dc",
+   "suara": "mia",
+   "teks": "Kokas kurang matang berwarna hitam, kusam, dan rapuh.",
+   "dibaca": "Kokas kurang matang berwarna hitam, kusam, dan rapuh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4e2c1f0ca9dc.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "93a386edb3c8",
+   "suara": "mia",
+   "teks": "Kokas matang lewat berwarna abu-abu keperakan, getas, dan banyak retak memanjang.",
+   "dibaca": "Kokas matang lewat berwarna abu-abu keperakan, getas, dan banyak retak memanjang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/93a386edb3c8.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "348edeba6f08",
+   "suara": "mia",
+   "teks": "Mutu kokas diukur dengan beberapa angka.",
+   "dibaca": "Mutu kokas diukur dengan beberapa angka.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/348edeba6f08.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b929f93b91a5",
+   "suara": "mia",
+   "teks": "Kekuatan tahan pecah, makin tinggi makin baik.",
+   "dibaca": "Kekuatan tahan pecah, makin tinggi makin baik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b929f93b91a5.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8c29e7dde72a",
+   "suara": "mia",
+   "teks": "Ketahanan aus, makin rendah makin baik.",
+   "dibaca": "Ketahanan aus, makin rendah makin baik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/8c29e7dde72a.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "144c72a68b6a",
+   "suara": "mia",
+   "teks": "Reaktivitas terhadap karbon dioksida, makin rendah umumnya makin baik.",
+   "dibaca": "Reaktivitas terhadap karbon dioksida, makin rendah umumnya makin baik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/144c72a68b6a.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0ae96f616cb0",
+   "suara": "mia",
+   "teks": "Dan kekuatan setelah bereaksi, makin tinggi makin baik.",
+   "dibaca": "Dan kekuatan setelah bereaksi, makin tinggi makin baik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0ae96f616cb0.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d72eb0f29ebf",
+   "suara": "mia",
+   "teks": "Semuanya sangat dipengaruhi oleh campuran batubara.",
+   "dibaca": "Semuanya sangat dipengaruhi oleh campuran batubara.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d72eb0f29ebf.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "054ebb5ac0fb",
+   "suara": "mia",
+   "teks": "Karena itu, sebelum dipakai, kualitas batubara harus diperiksa dan dikendalikan.",
+   "dibaca": "Karena itu, sebelum dipakai, kualitas batubara harus diperiksa dan dikendalikan.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/054ebb5ac0fb.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8c23c9c9ca2b",
+   "suara": "mia",
+   "teks": "Langkah pertama, pengambilan contoh yang mewakili seluruh tumpukan.",
+   "dibaca": "Langkah pertama, pengambilan contoh yang mewakili seluruh tumpukan.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/8c23c9c9ca2b.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "23d3b22cdd58",
+   "suara": "mia",
+   "teks": "Langkah kedua, persiapan contoh: dihancurkan, dicampur, dan dibagi.",
+   "dibaca": "Langkah kedua, persiapan contoh: dihancurkan, dicampur, dan dibagi.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/23d3b22cdd58.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ee787e010dd0",
+   "suara": "mia",
+   "teks": "Langkah ketiga, pengujian di laboratorium.",
+   "dibaca": "Langkah ketiga, pengujian di laboratorium.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ee787e010dd0.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "27e5cebe7d47",
+   "suara": "mia",
+   "teks": "Langkah keempat, penilaian kualitas dengan membandingkan hasil terhadap standar.",
+   "dibaca": "Langkah keempat, penilaian kualitas dengan membandingkan hasil terhadap standar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/27e5cebe7d47.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1a1424a2abbf",
+   "suara": "mia",
+   "teks": "Langkah kelima, penyesuaian campuran jika kualitas bahan berubah.",
+   "dibaca": "Langkah kelima, penyesuaian campuran jika kualitas bahan berubah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1a1424a2abbf.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f3867803a98b",
+   "suara": "mia",
+   "teks": "Dari semua langkah, pengambilan contoh adalah yang paling menentukan.",
+   "dibaca": "Dari semua langkah, pengambilan contoh adalah yang paling menentukan.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/f3867803a98b.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c2d954bfbf2b",
+   "suara": "mia",
+   "teks": "Laboratorium seakurat apa pun tidak berguna jika contohnya tidak mewakili.",
+   "dibaca": "Laboratorium seakurat apa pun tidak berguna jika contohnya tidak mewakili.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/c2d954bfbf2b.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a6e7f097b151",
+   "suara": "mia",
+   "teks": "Ambil dari banyak titik, jangan hanya permukaan atau satu sisi tumpukan.",
+   "dibaca": "Ambil dari banyak titik, jangan hanya permukaan atau satu sisi tumpukan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a6e7f097b151.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2924b4094825",
+   "suara": "mia",
+   "teks": "Jangan memilih bongkahan yang terlihat bagus.",
+   "dibaca": "Jangan memilih bongkahan yang terlihat bagus.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2924b4094825.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "84474484923e",
+   "suara": "mia",
+   "teks": "Simpan di wadah tertutup rapat, dan beri label jenis batubara, lokasi, waktu, dan nama petugas.",
+   "dibaca": "Simpan di wadah tertutup rapat, dan beri label jenis batubara, lokasi, waktu, dan nama petugas.",
+   "fungsi": [
+    "ajakan"
+   ],
+   "file": "suara/mia/84474484923e.wav",
+   "durasi": 7.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ef8c94c5cf1b",
+   "suara": "mia",
+   "teks": "Tujuannya bukan sekadar tahu batubara bagus atau buruk, tetapi memastikan campuran yang masuk ke oven sifatnya stabil.",
+   "dibaca": "Tujuannya bukan sekadar tahu batubara bagus atau buruk, tetapi memastikan campuran yang masuk ke oven sifatnya stabil.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ef8c94c5cf1b.wav",
+   "durasi": 7.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4df313169c67",
+   "suara": "mia",
+   "teks": "Jadi alurnya begini: batubara diperiksa, dipilih jenisnya, ditentukan campurannya, disiapkan, diisikan ke oven, lalu dikarbonisasi menjadi kokas dan gas mentah.",
+   "dibaca": "Jadi alurnya begini: batubara diperiksa, dipilih jenisnya, ditentukan campurannya, disiapkan, diisikan ke oven, lalu dikarbonisasi menjadi kokas dan gas mentah.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/4df313169c67.wav",
+   "durasi": 12.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b70014f66dee",
+   "suara": "mia",
+   "teks": "Ada beberapa salah kaprah yang sering terjadi.",
+   "dibaca": "Ada beberapa salah kaprah yang sering terjadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b70014f66dee.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6075ace2d711",
+   "suara": "mia",
+   "teks": "Semua batubara bisa dijadikan kokas, padahal hanya batubara kokas yang bisa.",
+   "dibaca": "Semua batubara bisa dijadikan kokas, padahal hanya batubara kokas yang bisa.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/6075ace2d711.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4d472afabf8d",
+   "suara": "mia",
+   "teks": "Antrasit paling bagus karena karbonnya tinggi, padahal antrasit tidak melunak.",
+   "dibaca": "Antrasit paling bagus karena karbonnya tinggi, padahal antrasit tidak melunak.",
+   "fungsi": [
+    "membantah asumsi",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/4d472afabf8d.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8ca47258fb15",
+   "suara": "mia",
+   "teks": "Makin halus makin bagus, padahal terlalu halus menurunkan kepadatan pengisian.",
+   "dibaca": "Makin halus makin bagus, padahal terlalu halus menurunkan kepadatan pengisian.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/8ca47258fb15.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3d151eae369d",
+   "suara": "mia",
+   "teks": "Makin kering makin bagus, padahal yang penting sesuai dan stabil.",
+   "dibaca": "Makin kering makin bagus, padahal yang penting sesuai dan stabil.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/3d151eae369d.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "bb24cb41b003",
+   "suara": "mia",
+   "teks": "Abu kokas sama dengan abu batubara, padahal abu kokas selalu lebih tinggi.",
+   "dibaca": "Abu kokas sama dengan abu batubara, padahal abu kokas selalu lebih tinggi.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/bb24cb41b003.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c81b6864482d",
+   "suara": "mia",
+   "teks": "Daya ikat setinggi-tingginya pasti bagus, padahal harus seimbang.",
+   "dibaca": "Daya ikat setinggi-tingginya pasti bagus, padahal harus seimbang.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/c81b6864482d.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "05b4ebb87324",
+   "suara": "mia",
+   "teks": "Dan laboratorium akurat berarti data pasti benar, padahal contoh yang tidak mewakili membuat data tidak sah.",
+   "dibaca": "Dan laboratorium akurat berarti data pasti benar, padahal contoh yang tidak mewakili membuat data tidak sah.",
+   "fungsi": [
+    "memberikan analogi",
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/05b4ebb87324.wav",
+   "durasi": 6.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "dd8e6d9dd398",
+   "suara": "mia",
+   "teks": "Batubara yang stabil menghasilkan proses yang stabil, dan proses yang stabil menghasilkan kokas yang terkendali.",
+   "dibaca": "Batubara yang stabil menghasilkan proses yang stabil, dan proses yang stabil menghasilkan kokas yang terkendali.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/dd8e6d9dd398.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "840b8d252412",
+   "suara": "mia",
+   "teks": "Di bagian berikutnya, kita bedah persiapan batubara, dari penerimaan sampai siap masuk oven.",
+   "dibaca": "Di bagian berikutnya, kita bedah persiapan batubara, dari penerimaan sampai siap masuk oven.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/840b8d252412.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6758f99de0c5",
+   "suara": "mia",
+   "teks": "Follow Adriy Project, biar kamu makin sering bilang, oh ternyata begitu.",
+   "dibaca": "Follow Adriy Project, biar kamu makin sering bilang, oh ternyata begitu.",
+   "fungsi": [
+    "cta"
+   ],
+   "file": "suara/mia/6758f99de0c5.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "naskah:naskah.txt",
+   "dibuat": "2026-11-22"
   }
  ]
 }
