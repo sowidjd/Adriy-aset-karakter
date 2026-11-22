@@ -72755,6 +72755,216 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e0cc50dcbd8a",
+   "suara": "hasan",
+   "teks": "Jumlahnya bahkan lebih banyak dari penduduk Bumi.",
+   "dibaca": "Jumlahnya bahkan lebih banyak dari penduduk Bumi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e0cc50dcbd8a.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c2821f5c8e30",
+   "suara": "hasan",
+   "teks": "Ukurannya kira-kira sebesar butiran pasir.",
+   "dibaca": "Ukurannya kira-kira sebesar butiran pasir.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/c2821f5c8e30.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "28022204489d",
+   "suara": "hasan",
+   "teks": "Pengetahuan kecil bisa mengubah cara kita melihat dunia.",
+   "dibaca": "Pengetahuan kecil bisa mengubah cara kita melihat dunia.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/28022204489d.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4f6658d1cd01",
+   "suara": "hasan",
+   "teks": "Ratusan tahun lalu, hal ini dianggap mustahil.",
+   "dibaca": "Ratusan tahun lalu, hal ini dianggap mustahil.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/4f6658d1cd01.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5ab3f6704bef",
+   "suara": "hasan",
+   "teks": "Tanpa kita sadari, kita sangat bergantung pada teknologi ini.",
+   "dibaca": "Tanpa kita sadari, kita sangat bergantung pada teknologi ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/5ab3f6704bef.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8f8bf6cad418",
+   "suara": "hasan",
+   "teks": "Dulu, orang punya cara yang sangat berbeda untuk melakukannya.",
+   "dibaca": "Dulu, orang punya cara yang sangat berbeda untuk melakukannya.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/hasan/8f8bf6cad418.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8f84491928ca",
+   "suara": "hasan",
+   "teks": "Satu kesalahan kecil justru melahirkan penemuan besar.",
+   "dibaca": "Satu kesalahan kecil justru melahirkan penemuan besar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/8f84491928ca.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "be638f68245d",
+   "suara": "hasan",
+   "teks": "Semakin kita tahu, semakin kita sadar banyak yang belum kita tahu.",
+   "dibaca": "Semakin kita tahu, semakin kita sadar banyak yang belum kita tahu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/be638f68245d.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7c8a52b10130",
+   "suara": "hasan",
+   "teks": "Ketika slider bergerak, gigi-gigi itu terkunci satu per satu.",
+   "dibaca": "Ketika slider bergerak, gigi-gigi itu terkunci satu per satu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/7c8a52b10130.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6ea8caf5bd15",
+   "suara": "hasan",
+   "teks": "Angka ini mungkin terdengar kecil, tapi efeknya besar.",
+   "dibaca": "Angka ini mungkin terdengar kecil, tapi efeknya besar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/6ea8caf5bd15.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4c4c7bbc8375",
+   "suara": "hasan",
+   "teks": "Jangan berhenti bertanya, karena di situlah kita belajar.",
+   "dibaca": "Jangan berhenti bertanya, karena di situlah kita belajar.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/4c4c7bbc8375.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8cbfe37dd9e1",
+   "suara": "hasan",
+   "teks": "Kadang, jawaban terbaik justru datang dari pertanyaan sederhana.",
+   "dibaca": "Kadang, jawaban terbaik justru datang dari pertanyaan sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/8cbfe37dd9e1.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "838d97d02e44",
+   "suara": "hasan",
+   "teks": "Tapi rahasia sebenarnya tersembunyi di dalam slider kecil ini.",
+   "dibaca": "Tapi rahasia sebenarnya tersembunyi di dalam slider kecil ini.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/838d97d02e44.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8281098f39cb",
+   "suara": "hasan",
+   "teks": "Slider ini memiliki jalur khusus yang bentuknya menyerupai huruf Y.",
+   "dibaca": "Slider ini memiliki jalur khusus yang bentuknya menyerupai huruf Y.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/8281098f39cb.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
