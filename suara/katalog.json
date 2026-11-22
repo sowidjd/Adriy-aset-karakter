@@ -78944,6 +78944,21 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b8afe5c25f16",
+   "suara": "ongky",
+   "teks": "Magnet permanen terbuat dari material khusus seperti neodymium, ferrite, atau alnico.",
+   "dibaca": "Magnet permanen terbuat dari material khusus seperti neodymium, ferrite, atau alnico.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/b8afe5c25f16.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
