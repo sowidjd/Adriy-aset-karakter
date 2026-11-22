@@ -86988,6 +86988,294 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "dcaf6b54df20",
+   "suara": "mia",
+   "teks": "Hasil reaksinya adalah cahaya yang hampir tidak menghasilkan panas, sehingga sering disebut cahaya dingin.",
+   "dibaca": "Hasil reaksinya adalah cahaya yang hampir tidak menghasilkan panas, sehingga sering disebut cahaya dingin.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/dcaf6b54df20.wav",
+   "durasi": 6.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c49395bbce52",
+   "suara": "mia",
+   "teks": "Pernah lihat rute pesawat di layar kursi penumpang, lalu bingung kenapa jalurnya melengkung?",
+   "dibaca": "Pernah lihat rute pesawat di layar kursi penumpang, lalu bingung kenapa jalurnya melengkung?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/c49395bbce52.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "209ea7503273",
+   "suara": "mia",
+   "teks": "Kalau tujuannya ada di sebelah kanan peta, kenapa pesawat malah berbelok ke atas, mendekati kutub?",
+   "dibaca": "Kalau tujuannya ada di sebelah kanan peta, kenapa pesawat malah berbelok ke atas, mendekati kutub?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/209ea7503273.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e69fc0dfe3ab",
+   "suara": "mia",
+   "teks": "Karena peta menipu mata kita, garis lurus di peta belum tentu jalur terpendek di Bumi.",
+   "dibaca": "Karena peta menipu mata kita, garis lurus di peta belum tentu jalur terpendek di Bumi.",
+   "fungsi": [
+    "membantah asumsi",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/e69fc0dfe3ab.wav",
+   "durasi": 6.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7efbff3b611b",
+   "suara": "mia",
+   "teks": "Pernah bangun tidur, ingat mimpi yang seru banget, tapi beberapa menit kemudian semuanya hilang?",
+   "dibaca": "Pernah bangun tidur, ingat mimpi yang seru banget, tapi beberapa menit kemudian semuanya hilang?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/7efbff3b611b.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a0567c628e38",
+   "suara": "mia",
+   "teks": "Sedangkan angka ganjil seperti sembilan puluh sembilan cocok untuk keputusan yang penuh pertimbangan harga.",
+   "dibaca": "Sedangkan angka ganjil seperti sembilan puluh sembilan cocok untuk keputusan yang penuh pertimbangan harga.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/a0567c628e38.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c5f5c77f8fb1",
+   "suara": "mia",
+   "teks": "Kita ternyata bisa melihat sedikit lebih dari setengah permukaan bulan, sekitar lima puluh sembilan persen.",
+   "dibaca": "Kita ternyata bisa melihat sedikit lebih dari setengah permukaan bulan, sekitar lima puluh sembilan persen.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c5f5c77f8fb1.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f41cf28d0912",
+   "suara": "mia",
+   "teks": "Ada zat bernama luciferin, yang bereaksi dengan oksigen dengan bantuan enzim luciferase.",
+   "dibaca": "Ada zat bernama luciferin, yang bereaksi dengan oksigen dengan bantuan enzim luciferase.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/f41cf28d0912.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "bd9af69420c6",
+   "suara": "mia",
+   "teks": "Warna merah cepat diserap air, jadi banyak hewan laut dalam bahkan tidak bisa melihat warna merah.",
+   "dibaca": "Warna merah cepat diserap air, jadi banyak hewan laut dalam bahkan tidak bisa melihat warna merah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/bd9af69420c6.wav",
+   "durasi": 6.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8e69e11aaf79",
+   "suara": "mia",
+   "teks": "Lapisan es di permukaan bekerja seperti selimut, menahan dingin agar air di bawahnya tidak ikut membeku.",
+   "dibaca": "Lapisan es di permukaan bekerja seperti selimut, menahan dingin agar air di bawahnya tidak ikut membeku.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/8e69e11aaf79.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d8f7e96dce97",
+   "suara": "mia",
+   "teks": "Lain kali kamu melihat jalur yang melengkung di layar pesawat, kamu tahu bahwa itu bukan jalan memutar.",
+   "dibaca": "Lain kali kamu melihat jalur yang melengkung di layar pesawat, kamu tahu bahwa itu bukan jalan memutar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d8f7e96dce97.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ef688c009223",
+   "suara": "mia",
+   "teks": "Mimpi yang sangat emosional, menakutkan, atau aneh juga lebih mudah menempel di ingatan.",
+   "dibaca": "Mimpi yang sangat emosional, menakutkan, atau aneh juga lebih mudah menempel di ingatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ef688c009223.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8c1813e6f337",
+   "suara": "mia",
+   "teks": "Gelembung itu naik dan pecah, lalu menyemburkan butiran sangat halus ke udara, seperti buih soda.",
+   "dibaca": "Gelembung itu naik dan pecah, lalu menyemburkan butiran sangat halus ke udara, seperti buih soda.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/8c1813e6f337.wav",
+   "durasi": 6.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "22ad20f8fb39",
+   "suara": "mia",
+   "teks": "Sebagian ilmuwan menduga, kepekaan ini membantu nenek moyang kita menemukan air dan tanah yang subur.",
+   "dibaca": "Sebagian ilmuwan menduga, kepekaan ini membantu nenek moyang kita menemukan air dan tanah yang subur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/22ad20f8fb39.wav",
+   "durasi": 6.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4be848644690",
+   "suara": "mia",
+   "teks": "Ikan sungut ganggang punya umpan bercahaya di kepalanya, untuk memancing mangsa mendekat ke mulutnya.",
+   "dibaca": "Ikan sungut ganggang punya umpan bercahaya di kepalanya, untuk memancing mangsa mendekat ke mulutnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4be848644690.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8d78e9b66b19",
+   "suara": "mia",
+   "teks": "Akibatnya, es menjadi lebih ringan daripada air di sekitarnya, dan ia pun mengapung.",
+   "dibaca": "Akibatnya, es menjadi lebih ringan daripada air di sekitarnya, dan ia pun mengapung.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/8d78e9b66b19.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "20c1daaa9ee6",
+   "suara": "mia",
+   "teks": "Air paling berat pada suhu sekitar empat derajat Celsius, jadi air sesuhu itu tenggelam ke dasar.",
+   "dibaca": "Air paling berat pada suhu sekitar empat derajat Celsius, jadi air sesuhu itu tenggelam ke dasar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/20c1daaa9ee6.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cdb544649a03",
+   "suara": "mia",
+   "teks": "Tapi sebagian besar mimpi itu lenyap begitu saja, bahkan sebelum kita sempat menceritakannya.",
+   "dibaca": "Tapi sebagian besar mimpi itu lenyap begitu saja, bahkan sebelum kita sempat menceritakannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/cdb544649a03.wav",
+   "durasi": 5.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b189a44eacc7",
+   "suara": "mia",
+   "teks": "Para ilmuwan menduga lupa ini disengaja, supaya kita tidak mencampuradukkan mimpi dengan kenyataan.",
+   "dibaca": "Para ilmuwan menduga lupa ini disengaja, supaya kita tidak mencampuradukkan mimpi dengan kenyataan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b189a44eacc7.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
