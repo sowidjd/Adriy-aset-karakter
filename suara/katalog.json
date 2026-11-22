@@ -76873,6 +76873,36 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c383bc4f4961",
+   "suara": "ongky",
+   "teks": "Tapi jangan khawatir, dalam banyak kasus ini tidak berbahaya.",
+   "dibaca": "Tapi jangan khawatir, dalam banyak kasus ini tidak berbahaya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/c383bc4f4961.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6c43e9746689",
+   "suara": "ongky",
+   "teks": "Kalau terjadi terlalu sering, sebaiknya periksa ke tenaga kesehatan.",
+   "dibaca": "Kalau terjadi terlalu sering, sebaiknya periksa ke tenaga kesehatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/6c43e9746689.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
