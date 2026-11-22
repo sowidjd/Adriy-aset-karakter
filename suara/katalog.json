@@ -75370,6 +75370,217 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "de708e76f90b",
+   "suara": "hasan",
+   "teks": "Teori kedua sedikit lebih rumit.",
+   "dibaca": "Teori kedua sedikit lebih rumit.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/de708e76f90b.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fc1b5c7a55ba",
+   "suara": "hasan",
+   "teks": "Teori pertama cukup sederhana.",
+   "dibaca": "Teori pertama cukup sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/fc1b5c7a55ba.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "319bb6641658",
+   "suara": "hasan",
+   "teks": "Jawabannya belum sepenuhnya pasti.",
+   "dibaca": "Jawabannya belum sepenuhnya pasti.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/319bb6641658.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "bbaf8e3e48e2",
+   "suara": "hasan",
+   "teks": "Penelitian tentang hal ini masih terus berjalan.",
+   "dibaca": "Penelitian tentang hal ini masih terus berjalan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/bbaf8e3e48e2.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7aefe283acbc",
+   "suara": "hasan",
+   "teks": "Ada beberapa teori yang mencoba menjelaskannya.",
+   "dibaca": "Ada beberapa teori yang mencoba menjelaskannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/7aefe283acbc.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cb699381a5cf",
+   "suara": "hasan",
+   "teks": "Para ilmuwan sudah lama penasaran dengan hal ini.",
+   "dibaca": "Para ilmuwan sudah lama penasaran dengan hal ini.",
+   "fungsi": [
+    "memperkenalkan fakta",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/cb699381a5cf.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1e21cd732f9b",
+   "suara": "hasan",
+   "teks": "Sebagian ilmuwan setuju, sebagian lagi masih ragu.",
+   "dibaca": "Sebagian ilmuwan setuju, sebagian lagi masih ragu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/1e21cd732f9b.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f8c1b849f011",
+   "suara": "hasan",
+   "teks": "Ini baru dugaan, tapi cukup masuk akal.",
+   "dibaca": "Ini baru dugaan, tapi cukup masuk akal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/f8c1b849f011.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cba6abe425dc",
+   "suara": "hasan",
+   "teks": "Lalu, teori mana yang paling masuk akal?",
+   "dibaca": "Lalu, teori mana yang paling masuk akal?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/cba6abe425dc.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "959cba0e5c41",
+   "suara": "hasan",
+   "teks": "Faktanya, hal ini sudah dibuktikan lewat penelitian.",
+   "dibaca": "Faktanya, hal ini sudah dibuktikan lewat penelitian.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/959cba0e5c41.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3e6ba92e0ff6",
+   "suara": "mia",
+   "teks": "Teori kedua sedikit lebih rumit.",
+   "dibaca": "Teori kedua sedikit lebih rumit.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/3e6ba92e0ff6.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "fb9157d27a30",
+   "suara": "mia",
+   "teks": "Teori pertama cukup sederhana.",
+   "dibaca": "Teori pertama cukup sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/fb9157d27a30.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6be3cb3550d0",
+   "suara": "mia",
+   "teks": "Jawabannya belum sepenuhnya pasti.",
+   "dibaca": "Jawabannya belum sepenuhnya pasti.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/6be3cb3550d0.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2d625e2bdb49",
+   "suara": "mia",
+   "teks": "Penelitian tentang hal ini masih terus berjalan.",
+   "dibaca": "Penelitian tentang hal ini masih terus berjalan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2d625e2bdb49.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
