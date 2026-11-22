@@ -75188,6 +75188,37 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "89dba7c3377b",
+   "suara": "ongky",
+   "teks": "Ternyata, ada alasan kenapa hal ini terus terjadi.",
+   "dibaca": "Ternyata, ada alasan kenapa hal ini terus terjadi.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/89dba7c3377b.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b5d3bd673adf",
+   "suara": "ongky",
+   "teks": "Kalau diibaratkan, ini seperti menekan tombol jeda.",
+   "dibaca": "Kalau diibaratkan, ini seperti menekan tombol jeda.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/b5d3bd673adf.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
