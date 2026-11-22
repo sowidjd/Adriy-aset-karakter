@@ -90476,6 +90476,126 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b3f704949483",
+   "suara": "adriy",
+   "teks": "Coba bayangkan kamu berjalan mengelilingi meja, sambil wajahmu terus menghadap ke meja.",
+   "dibaca": "Coba bayangkan kamu berjalan mengelilingi meja, sambil wajahmu terus menghadap ke meja.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/b3f704949483.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "84e71e3c3965",
+   "suara": "adriy",
+   "teks": "Kamu tetap berputar satu kali, tapi orang di tengah hanya melihat wajahmu.",
+   "dibaca": "Kamu tetap berputar satu kali, tapi orang di tengah hanya melihat wajahmu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/84e71e3c3965.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c046446f3142",
+   "suara": "adriy",
+   "teks": "Dulu, saat bulan masih berputar lebih cepat, tonjolan ini terus ditarik kembali oleh Bumi.",
+   "dibaca": "Dulu, saat bulan masih berputar lebih cepat, tonjolan ini terus ditarik kembali oleh Bumi.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/adriy/c046446f3142.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3b39257d1e53",
+   "suara": "adriy",
+   "teks": "Dan di bawah sekitar seribu meter, cahaya matahari praktis tidak sampai sama sekali.",
+   "dibaca": "Dan di bawah sekitar seribu meter, cahaya matahari praktis tidak sampai sama sekali.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/3b39257d1e53.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e6cd4d9f27bc",
+   "suara": "adriy",
+   "teks": "Saat jalur lingkaran besar itu digambar ulang di peta datar, hasilnya terlihat melengkung.",
+   "dibaca": "Saat jalur lingkaran besar itu digambar ulang di peta datar, hasilnya terlihat melengkung.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/e6cd4d9f27bc.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "acdcaf2db370",
+   "suara": "adriy",
+   "teks": "Selisihnya cuma sedikit dengan angka bulat, tapi hampir semua toko melakukannya.",
+   "dibaca": "Selisihnya cuma sedikit dengan angka bulat, tapi hampir semua toko melakukannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/acdcaf2db370.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "07a68e4e0017",
+   "suara": "adriy",
+   "teks": "Sejak kita bangun pagi, otak terus menghasilkan adenosin sebagai sisa dari aktivitasnya.",
+   "dibaca": "Sejak kita bangun pagi, otak terus menghasilkan adenosin sebagai sisa dari aktivitasnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/07a68e4e0017.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "94d6418ff971",
+   "suara": "adriy",
+   "teks": "Efek kafein biasanya mulai terasa sekitar dua puluh sampai empat puluh lima menit setelah diminum.",
+   "dibaca": "Efek kafein biasanya mulai terasa sekitar dua puluh sampai empat puluh lima menit setelah diminum.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/94d6418ff971.wav",
+   "durasi": 6.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
