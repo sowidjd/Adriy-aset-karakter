@@ -86868,6 +86868,126 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c5946dac0aa0",
+   "suara": "mia",
+   "teks": "Dari situ kita bisa tahu usia, penyakit, bahkan pola makan orang yang hidup ribuan tahun lalu.",
+   "dibaca": "Dari situ kita bisa tahu usia, penyakit, bahkan pola makan orang yang hidup ribuan tahun lalu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c5946dac0aa0.wav",
+   "durasi": 6.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "54e326af41d5",
+   "suara": "mia",
+   "teks": "Satu molekul air terdiri dari satu atom oksigen dan dua atom hidrogen, membentuk huruf V.",
+   "dibaca": "Satu molekul air terdiri dari satu atom oksigen dan dua atom hidrogen, membentuk huruf V.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/54e326af41d5.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8cb011cb6d68",
+   "suara": "mia",
+   "teks": "Pilot juga memperhitungkan arus angin kencang di ketinggian, yang disebut jet stream.",
+   "dibaca": "Pilot juga memperhitungkan arus angin kencang di ketinggian, yang disebut jet stream.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/8cb011cb6d68.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c769442fb756",
+   "suara": "mia",
+   "teks": "REM adalah singkatan dari gerakan mata cepat, karena mata kita bergerak-gerak di balik kelopak.",
+   "dibaca": "rem adalah singkatan dari gerakan mata cepat, karena mata kita bergerak-gerak di balik kelopak.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/c769442fb756.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "54fa3da105cb",
+   "suara": "mia",
+   "teks": "Kita membaca dari kiri ke kanan, dan otak memberi perhatian paling besar pada angka pertama.",
+   "dibaca": "Kita membaca dari kiri ke kanan, dan otak memberi perhatian paling besar pada angka pertama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/54fa3da105cb.wav",
+   "durasi": 6.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "dd3ccbe081b4",
+   "suara": "mia",
+   "teks": "Adenosin lalu menempel pada penerima khusus di sel otak, seperti kunci yang masuk ke gemboknya.",
+   "dibaca": "Adenosin lalu menempel pada penerima khusus di sel otak, seperti kunci yang masuk ke gemboknya.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/dd3ccbe081b4.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4e727927cf7e",
+   "suara": "mia",
+   "teks": "Mereka menemukan bahwa saat tetes hujan menghantam tanah, ia menjebak gelembung udara kecil.",
+   "dibaca": "Mereka menemukan bahwa saat tetes hujan menghantam tanah, ia menjebak gelembung udara kecil.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4e727927cf7e.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "168939e76633",
+   "suara": "mia",
+   "teks": "Selama jutaan tahun, putaran bulan melambat, sampai akhirnya terkunci seperti sekarang.",
+   "dibaca": "Selama jutaan tahun, putaran bulan melambat, sampai akhirnya terkunci seperti sekarang.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/168939e76633.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
