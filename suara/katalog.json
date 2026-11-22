@@ -76333,6 +76333,36 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ce446052981f",
+   "suara": "ongky",
+   "teks": "Angka ini mungkin terdengar kecil, tapi dampaknya besar.",
+   "dibaca": "Angka ini mungkin terdengar kecil, tapi dampaknya besar.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/ce446052981f.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b1f4941a3f98",
+   "suara": "ongky",
+   "teks": "Semakin dalam kita mencari, semakin menarik ceritanya.",
+   "dibaca": "Semakin dalam kita mencari, semakin menarik ceritanya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/b1f4941a3f98.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
