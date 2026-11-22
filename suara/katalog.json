@@ -83532,6 +83532,172 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e2545fff9a69",
+   "suara": "hasan",
+   "teks": "Efeknya saling meniadakan, jadi paku itu tidak menarik apa pun.",
+   "dibaca": "Efeknya saling meniadakan, jadi paku itu tidak menarik apa pun.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/e2545fff9a69.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "59cdd6f75ed2",
+   "suara": "hasan",
+   "teks": "Saat besi mendekat, medan ini membuat domain di dalam besi ikut sejajar.",
+   "dibaca": "Saat besi mendekat, medan ini membuat domain di dalam besi ikut sejajar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/59cdd6f75ed2.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a71edaadf81d",
+   "suara": "hasan",
+   "teks": "Pada paku besi biasa, domain-domain ini menghadap ke segala arah.",
+   "dibaca": "Pada paku besi biasa, domain-domain ini menghadap ke segala arah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/a71edaadf81d.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ba3f76e6f0e3",
+   "suara": "hasan",
+   "teks": "Untuk besi, suhu itu sekitar tujuh ratus tujuh puluh derajat Celsius.",
+   "dibaca": "Untuk besi, suhu itu sekitar tujuh ratus tujuh puluh derajat Celsius.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ba3f76e6f0e3.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d3b627fae653",
+   "suara": "hasan",
+   "teks": "Semakin banyak domain yang sejajar, efek magnetik material semakin kuat.",
+   "dibaca": "Semakin banyak domain yang sejajar, efek magnetik material semakin kuat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/d3b627fae653.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ae227cda5e14",
+   "suara": "hasan",
+   "teks": "Pada magnet permanen, susunan sejajar ini terkunci dan sulit kembali acak.",
+   "dibaca": "Pada magnet permanen, susunan sejajar ini terkunci dan sulit kembali acak.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ae227cda5e14.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0db6835078c5",
+   "suara": "hasan",
+   "teks": "Padahal, rahasianya tersembunyi jauh di dalam, sampai ke ukuran atom.",
+   "dibaca": "Padahal, rahasianya tersembunyi jauh di dalam, sampai ke ukuran atom.",
+   "fungsi": [
+    "membantah asumsi",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/hasan/0db6835078c5.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9c5f0c49d140",
+   "suara": "hasan",
+   "teks": "Setiap atom punya elektron, dan elektron berperilaku seperti magnet yang sangat kecil.",
+   "dibaca": "Setiap atom punya elektron, dan elektron berperilaku seperti magnet yang sangat kecil.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/9c5f0c49d140.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "497996047763",
+   "suara": "hasan",
+   "teks": "Dari situ terbentuk kelompok kecil yang arahnya seragam, disebut domain magnetik.",
+   "dibaca": "Dari situ terbentuk kelompok kecil yang arahnya seragam, disebut domain magnetik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/497996047763.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6945b971fd79",
+   "suara": "hasan",
+   "teks": "Jawabannya, pada kebanyakan atom, elektron hidup berpasangan dengan arah yang berlawanan.",
+   "dibaca": "Jawabannya, pada kebanyakan atom, elektron hidup berpasangan dengan arah yang berlawanan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/6945b971fd79.wav",
+   "durasi": 5.44,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "41bc580923c9",
+   "suara": "hasan",
+   "teks": "Ilmuwan menyebutnya interaksi pertukaran, sebuah efek dari fisika kuantum.",
+   "dibaca": "Ilmuwan menyebutnya interaksi pertukaran, sebuah efek dari fisika kuantum.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/41bc580923c9.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
