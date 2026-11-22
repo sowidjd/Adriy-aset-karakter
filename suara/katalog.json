@@ -74525,6 +74525,276 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "66eae73c577b",
+   "suara": "mia",
+   "teks": "Ada satu hal yang sering terlewat.",
+   "dibaca": "Ada satu hal yang sering terlewat.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/66eae73c577b.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "174aa2bd5ae2",
+   "suara": "mia",
+   "teks": "Ini bukan sulap, ini sains.",
+   "dibaca": "Ini bukan sulap, ini sains.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/174aa2bd5ae2.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f646003004a6",
+   "suara": "mia",
+   "teks": "Dan jawabannya ternyata cukup mengejutkan.",
+   "dibaca": "Dan jawabannya ternyata cukup mengejutkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/f646003004a6.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4f1b3bc56268",
+   "suara": "mia",
+   "teks": "Prosesnya jauh lebih cepat dari kedipan mata.",
+   "dibaca": "Prosesnya jauh lebih cepat dari kedipan mata.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/4f1b3bc56268.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "165117b86b61",
+   "suara": "mia",
+   "teks": "Mungkin kamu tidak percaya, tapi ini benar.",
+   "dibaca": "Mungkin kamu tidak percaya, tapi ini benar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/165117b86b61.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a5462db3d4e1",
+   "suara": "mia",
+   "teks": "Bayangkan sebuah kota kecil di dalam tubuhmu.",
+   "dibaca": "Bayangkan sebuah kota kecil di dalam tubuhmu.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/a5462db3d4e1.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "16391b01ba83",
+   "suara": "mia",
+   "teks": "Mirip seperti ponsel yang baterainya hampir habis.",
+   "dibaca": "Mirip seperti ponsel yang baterainya hampir habis.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/16391b01ba83.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "edfadd72c304",
+   "suara": "mia",
+   "teks": "Anggap saja seperti antrean di kasir minimarket.",
+   "dibaca": "Anggap saja seperti antrean di kasir minimarket.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/edfadd72c304.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a9626387a237",
+   "suara": "mia",
+   "teks": "Tapi tunggu dulu, ceritanya belum selesai.",
+   "dibaca": "Tapi tunggu dulu, ceritanya belum selesai.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/a9626387a237.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8bd7c69015bc",
+   "suara": "mia",
+   "teks": "Tubuhmu ternyata bekerja lebih keras dari yang kamu kira.",
+   "dibaca": "Tubuhmu ternyata bekerja lebih keras dari yang kamu kira.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/8bd7c69015bc.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6c133be68704",
+   "suara": "mia",
+   "teks": "Kadang, otak kita tertipu oleh hal yang sederhana.",
+   "dibaca": "Kadang, otak kita tertipu oleh hal yang sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/6c133be68704.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7e869b41a0dd",
+   "suara": "mia",
+   "teks": "Kedengarannya aneh, tapi memang begitu kenyataannya.",
+   "dibaca": "Kedengarannya aneh, tapi memang begitu kenyataannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/7e869b41a0dd.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6a450dafacbf",
+   "suara": "mia",
+   "teks": "Kita jarang memikirkannya, padahal ini terjadi setiap hari.",
+   "dibaca": "Kita jarang memikirkannya, padahal ini terjadi setiap hari.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/mia/6a450dafacbf.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d243daf603f8",
+   "suara": "ongky",
+   "teks": "Ada satu hal yang sering terlewat.",
+   "dibaca": "Ada satu hal yang sering terlewat.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/ongky/d243daf603f8.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a04fd17f9e1f",
+   "suara": "ongky",
+   "teks": "Ini bukan sulap, ini sains.",
+   "dibaca": "Ini bukan sulap, ini sains.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/a04fd17f9e1f.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c47f8e192104",
+   "suara": "ongky",
+   "teks": "Dan jawabannya ternyata cukup mengejutkan.",
+   "dibaca": "Dan jawabannya ternyata cukup mengejutkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/c47f8e192104.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c53ef41a9009",
+   "suara": "ongky",
+   "teks": "Prosesnya jauh lebih cepat dari kedipan mata.",
+   "dibaca": "Prosesnya jauh lebih cepat dari kedipan mata.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/c53ef41a9009.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "33fd587f7152",
+   "suara": "ongky",
+   "teks": "Mungkin kamu tidak percaya, tapi ini benar.",
+   "dibaca": "Mungkin kamu tidak percaya, tapi ini benar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/33fd587f7152.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
