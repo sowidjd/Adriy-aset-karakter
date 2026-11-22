@@ -78733,6 +78733,51 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b79e4fd8258d",
+   "suara": "adriy",
+   "teks": "Magnet permanen terbuat dari material khusus seperti neodymium, ferrite, atau alnico.",
+   "dibaca": "Magnet permanen terbuat dari material khusus seperti neodymium, ferrite, atau alnico.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/b79e4fd8258d.wav",
+   "durasi": 5.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ca8aae9cf8a7",
+   "suara": "ongky",
+   "teks": "Elektron memiliki sifat magnetik yang berhubungan dengan spin dan gerak orbital.",
+   "dibaca": "Elektron memiliki sifat magnetik yang berhubungan dengan spin dan gerak orbital.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/ongky/ca8aae9cf8a7.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2e3fb041a864",
+   "suara": "ongky",
+   "teks": "Di dalam material terdapat atom.",
+   "dibaca": "Di dalam material terdapat atom.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/2e3fb041a864.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
