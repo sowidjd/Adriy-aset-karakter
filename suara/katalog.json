@@ -73760,6 +73760,81 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1cc505582591",
+   "suara": "ongky",
+   "teks": "Dua baris gigi masuk dari jalur berbeda, lalu diarahkan untuk bertemu.",
+   "dibaca": "Dua baris gigi masuk dari jalur berbeda, lalu diarahkan untuk bertemu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/1cc505582591.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "dd60a1e8239e",
+   "suara": "ongky",
+   "teks": "Saat slider ditarik ke arah sebaliknya, jalur yang sama memisahkan gigi-gigi tadi.",
+   "dibaca": "Saat slider ditarik ke arah sebaliknya, jalur yang sama memisahkan gigi-gigi tadi.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/dd60a1e8239e.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5cec0c5c0172",
+   "suara": "ongky",
+   "teks": "Sekilas, resleting cuma punya dua baris gigi dan satu bagian yang kita tarik.",
+   "dibaca": "Sekilas, resleting cuma punya dua baris gigi dan satu bagian yang kita tarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/5cec0c5c0172.wav",
+   "durasi": 5.12,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "400997486b71",
+   "suara": "ongky",
+   "teks": "Satu komponen kecil ternyata bisa melakukan dua fungsi hanya dengan mengubah arah gerak.",
+   "dibaca": "Satu komponen kecil ternyata bisa melakukan dua fungsi hanya dengan mengubah arah gerak.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/400997486b71.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6c4870cc8e52",
+   "suara": "ongky",
+   "teks": "Pernah kepikiran bagaimana benda kecil ini bisa mengunci dua sisi kain hanya dengan satu tarikan?",
+   "dibaca": "Pernah kepikiran bagaimana benda kecil ini bisa mengunci dua sisi kain hanya dengan satu tarikan?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/6c4870cc8e52.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
