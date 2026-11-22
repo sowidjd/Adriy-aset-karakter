@@ -1,0 +1,8 @@
+ADRIY - pakaian pekerja konstruksi / pabrik
+==========================================
+Sumber : lembar gambar dari pemilik (22 Nov 2026), 20 lembar di lembar/
+Pose   : 74 PNG transparan di pose/ (33 badan penuh, 41 setengah badan 'setengah_*')
+Tema   : pabrik kokas, industri, smelter, tambang, konstruksi, K3, teknik sipil
+Latar dihapus dengan BiRefNet (MIT). Beberapa pose setengah badan masih ada sisa
+kecil figur sebelah di tepi (lembar aslinya saling menempel).
+Ukuran tiap pose ada di tata.json -> ukuran.

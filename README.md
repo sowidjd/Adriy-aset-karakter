@@ -20,6 +20,7 @@ Gambar karakter ADRIY untuk video Adriy.project. Repo ini sengaja privat: berisi
 - `angkasa/` (69 pose) astronot — luar angkasa, planet, atmosfer
 - `penyelam/` (41 pose + 4 rusak di `rusak/`) penyelam — laut, hewan laut; ada siklus jalan dan bentuk mulut badan penuh
 - `lab/` (78 pose) jas lab — sains, kimia, biologi, kedokteran; juga style sains
+- `konstruksi/` (74 pose: 33 badan penuh + 41 setengah badan) pekerja lapangan, helm + rompi — pabrik, industri, tambang, konstruksi, K3
 
 Outfit dipilih otomatis per video dari topik (lihat `art_direct` di pipeline.py repo Aidriy).
 

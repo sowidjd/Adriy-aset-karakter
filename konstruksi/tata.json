@@ -1,0 +1,332 @@
+{
+ "keterangan": "ADRIY pekerja lapangan/konstruksi: helm putih, rompi hijau stabilo, kemeja navy, celana kargo krem, sepatu safety. Untuk pabrik, industri, tambang, konstruksi, K3, teknik sipil.",
+ "siap": true,
+ "tinggi": {
+  "jongkok_": 0.62,
+  "duduk_": 0.72
+ },
+ "penuh": {
+  "netral": "berdiri_tangan_saku",
+  "jelaskan": "tunjuk_atas_jelaskan",
+  "sapa": "jempol_bawa_tablet",
+  "tunjuk": "ht_tunjuk_jauh",
+  "ajak": "tunjuk_arah_gulungan",
+  "angkat": "tunjuk_atas_jelaskan",
+  "lihat": "baca_gambar_kerja",
+  "pegang": "jelaskan_tablet",
+  "tunjukkan": "jelaskan_tablet",
+  "sentuh": "jongkok_ukur_besi",
+  "banding": "jongkok_periksa_batu",
+  "pikir": "mikir_dagu_tanya",
+  "tanya": "mikir_dagu_tanya",
+  "kaget": "telepon_bawa_gulungan",
+  "simpulkan": "tangan_silang_tegas",
+  "rayakan": "jempol_bawa_tablet",
+  "senang": "jalan_jempol_kotak_alat",
+  "jalan": "jalan_ransel"
+ },
+ "dekat": {
+  "netral": "setengah_tangan_saku",
+  "jelaskan": "setengah_jelaskan_tablet",
+  "sapa": "setengah_ajak_salaman",
+  "tunjuk": "setengah_marah_tunjuk",
+  "ajak": "setengah_ajak_salaman",
+  "angkat": "setengah_ide_lampu",
+  "kaget": "setengah_cemas_gigit_jari",
+  "pikir": "setengah_mikir_dagu",
+  "tanya": "setengah_mikir_pulpen",
+  "banding": "setengah_jelaskan_tablet_b",
+  "rayakan": "setengah_sorak_kepal",
+  "senang": "setengah_jempol_senyum",
+  "simpulkan": "setengah_kedip_jempol",
+  "tunjukkan": "setengah_ide_tablet",
+  "lihat": "setengah_teropong",
+  "pegang": "setengah_ok_laptop",
+  "sentuh": "setengah_ketik_tablet",
+  "jalan": "setengah_tangan_saku"
+ },
+ "bicara": {},
+ "kedip": null,
+ "ukuran": {
+  "jempol_bawa_tablet": [
+   295,
+   871
+  ],
+  "jalan_ransel_gulungan": [
+   383,
+   873
+  ],
+  "jongkok_teodolit": [
+   451,
+   627
+  ],
+  "ht_tunjuk_jauh": [
+   434,
+   864
+  ],
+  "mikir_dagu_tanya": [
+   274,
+   870
+  ],
+  "jongkok_ukur_besi": [
+   455,
+   586
+  ],
+  "jelaskan_tablet": [
+   399,
+   872
+  ],
+  "telepon_bawa_gulungan": [
+   344,
+   873
+  ],
+  "jongkok_periksa_batu": [
+   411,
+   603
+  ],
+  "catat_buku": [
+   290,
+   866
+  ],
+  "tangan_silang_tegas": [
+   328,
+   863
+  ],
+  "jalan_bawa_tripod_koper": [
+   478,
+   864
+  ],
+  "duduk_minum_kopi": [
+   430,
+   679
+  ],
+  "kendali_drone": [
+   317,
+   869
+  ],
+  "jongkok_laptop": [
+   403,
+   622
+  ],
+  "tunjuk_arah_gulungan": [
+   472,
+   866
+  ],
+  "jalan_ransel": [
+   404,
+   876
+  ],
+  "jalan_baca_gambar": [
+   384,
+   873
+  ],
+  "jalan_ht_tablet": [
+   381,
+   870
+  ],
+  "jalan_jempol_kotak_alat": [
+   421,
+   876
+  ],
+  "jalan_ransel_b": [
+   423,
+   865
+  ],
+  "jalan_tablet": [
+   348,
+   865
+  ],
+  "jalan_telepon_senyum": [
+   434,
+   865
+  ],
+  "jalan_gulungan_senyum": [
+   412,
+   867
+  ],
+  "jalan_ransel_c": [
+   385,
+   866
+  ],
+  "jalan_baca_gambar_b": [
+   393,
+   864
+  ],
+  "jalan_telepon_c": [
+   409,
+   862
+  ],
+  "jalan_gulungan_c": [
+   390,
+   864
+  ],
+  "berdiri_tangan_saku": [
+   457,
+   1518
+  ],
+  "setengah_tangan_saku": [
+   775,
+   1286
+  ],
+  "setengah_tangan_silang": [
+   424,
+   819
+  ],
+  "setengah_mikir_dagu": [
+   420,
+   818
+  ],
+  "setengah_ide_tablet": [
+   460,
+   819
+  ],
+  "setengah_kedip_jempol": [
+   450,
+   818
+  ],
+  "setengah_tangan_silang_b": [
+   422,
+   808
+  ],
+  "setengah_mikir_dagu_b": [
+   392,
+   797
+  ],
+  "setengah_jelaskan_tablet": [
+   481,
+   812
+  ],
+  "setengah_kedip_jempol_b": [
+   450,
+   814
+  ],
+  "setengah_baca_gambar_kerja": [
+   437,
+   797
+  ],
+  "setengah_ide_lampu": [
+   417,
+   794
+  ],
+  "setengah_ketik_tablet": [
+   450,
+   797
+  ],
+  "setengah_kepal_gulungan": [
+   468,
+   796
+  ],
+  "setengah_tangan_silang_c": [
+   469,
+   838
+  ],
+  "setengah_pegang_helm_gulungan": [
+   427,
+   830
+  ],
+  "setengah_ht_bicara": [
+   408,
+   835
+  ],
+  "setengah_sorak_laptop": [
+   462,
+   830
+  ],
+  "setengah_pegang_kamera": [
+   470,
+   826
+  ],
+  "setengah_ajak_salaman": [
+   435,
+   832
+  ],
+  "setengah_mikir_pulpen": [
+   399,
+   826
+  ],
+  "setengah_catat_papan": [
+   456,
+   827
+  ],
+  "setengah_teropong": [
+   434,
+   807
+  ],
+  "setengah_telepon_tablet": [
+   461,
+   815
+  ],
+  "setengah_stop_tangan": [
+   411,
+   816
+  ],
+  "setengah_lihat_jam": [
+   460,
+   803
+  ],
+  "setengah_senyum_tangan_silang": [
+   437,
+   861
+  ],
+  "setengah_mikir_dagu_c": [
+   414,
+   848
+  ],
+  "setengah_jelaskan_tablet_b": [
+   476,
+   847
+  ],
+  "setengah_tunjuk_ide_gulungan": [
+   449,
+   849
+  ],
+  "setengah_marah_tangan_silang": [
+   433,
+   842
+  ],
+  "setengah_pusing_pelipis": [
+   453,
+   842
+  ],
+  "setengah_cemas_gigit_jari": [
+   406,
+   839
+  ],
+  "setengah_lelah_tepuk_dahi": [
+   467,
+   826
+  ],
+  "setengah_marah_tunjuk": [
+   417,
+   864
+  ],
+  "setengah_pusing_pegang_kepala": [
+   478,
+   848
+  ],
+  "setengah_cemas_berkeringat": [
+   407,
+   864
+  ],
+  "setengah_lelah_tutup_mata": [
+   447,
+   856
+  ],
+  "setengah_jempol_senyum": [
+   448,
+   863
+  ],
+  "setengah_sorak_kepal": [
+   420,
+   856
+  ],
+  "setengah_mikir_ide": [
+   426,
+   859
+  ],
+  "setengah_ok_laptop": [
+   473,
+   857
+  ]
+ }
+}
