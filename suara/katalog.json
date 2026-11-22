@@ -74991,6 +74991,203 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b04f578b6aa1",
+   "suara": "hasan",
+   "teks": "Seperti lampu lalu lintas yang berganti warna.",
+   "dibaca": "Seperti lampu lalu lintas yang berganti warna.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/b04f578b6aa1.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6bac874f61f8",
+   "suara": "hasan",
+   "teks": "Ini adalah cara alam bertahan hidup.",
+   "dibaca": "Ini adalah cara alam bertahan hidup.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/6bac874f61f8.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5267dc88f11d",
+   "suara": "hasan",
+   "teks": "Sederhananya, tubuh sedang memberi tanda.",
+   "dibaca": "Sederhananya, tubuh sedang memberi tanda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/5267dc88f11d.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "add66905f5ea",
+   "suara": "hasan",
+   "teks": "Ternyata, ada alasan kenapa hal ini terus terjadi.",
+   "dibaca": "Ternyata, ada alasan kenapa hal ini terus terjadi.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/add66905f5ea.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "01e2f94c2e19",
+   "suara": "hasan",
+   "teks": "Kalau diibaratkan, ini seperti menekan tombol jeda.",
+   "dibaca": "Kalau diibaratkan, ini seperti menekan tombol jeda.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/hasan/01e2f94c2e19.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d00705d26925",
+   "suara": "mia",
+   "teks": "Seperti lampu lalu lintas yang berganti warna.",
+   "dibaca": "Seperti lampu lalu lintas yang berganti warna.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/d00705d26925.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c2310f2786fb",
+   "suara": "mia",
+   "teks": "Ini adalah cara alam bertahan hidup.",
+   "dibaca": "Ini adalah cara alam bertahan hidup.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c2310f2786fb.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0e40911de5ec",
+   "suara": "mia",
+   "teks": "Sederhananya, tubuh sedang memberi tanda.",
+   "dibaca": "Sederhananya, tubuh sedang memberi tanda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0e40911de5ec.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3d84cab4847c",
+   "suara": "mia",
+   "teks": "Ternyata, ada alasan kenapa hal ini terus terjadi.",
+   "dibaca": "Ternyata, ada alasan kenapa hal ini terus terjadi.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/3d84cab4847c.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "68072df56f47",
+   "suara": "mia",
+   "teks": "Kalau diibaratkan, ini seperti menekan tombol jeda.",
+   "dibaca": "Kalau diibaratkan, ini seperti menekan tombol jeda.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/mia/68072df56f47.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cc26f70d00cc",
+   "suara": "ongky",
+   "teks": "Seperti lampu lalu lintas yang berganti warna.",
+   "dibaca": "Seperti lampu lalu lintas yang berganti warna.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/cc26f70d00cc.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c341ff41f8c3",
+   "suara": "ongky",
+   "teks": "Ini adalah cara alam bertahan hidup.",
+   "dibaca": "Ini adalah cara alam bertahan hidup.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/c341ff41f8c3.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3ab4a2e63a41",
+   "suara": "ongky",
+   "teks": "Sederhananya, tubuh sedang memberi tanda.",
+   "dibaca": "Sederhananya, tubuh sedang memberi tanda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/3ab4a2e63a41.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
