@@ -78778,6 +78778,172 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "27adfc1bc15b",
+   "suara": "ongky",
+   "teks": "Bayangkan kita bisa membongkar magnet ini.",
+   "dibaca": "Bayangkan kita bisa membongkar magnet ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/27adfc1bc15b.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "44a96850c96e",
+   "suara": "ongky",
+   "teks": "Medan magnet terbentuk di sekitar magnet.",
+   "dibaca": "Medan magnet terbentuk di sekitar magnet.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/44a96850c96e.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "eb62efeee2b6",
+   "suara": "ongky",
+   "teks": "Kita sering menganggap magnet hanyalah benda biasa dengan dua kutub.",
+   "dibaca": "Kita sering menganggap magnet hanyalah benda biasa dengan dua kutub.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/eb62efeee2b6.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4046e44c8e18",
+   "suara": "ongky",
+   "teks": "Mungkin suatu hari nanti, kita akan tahu jawabannya.",
+   "dibaca": "Mungkin suatu hari nanti, kita akan tahu jawabannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/4046e44c8e18.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7d458e4b07b5",
+   "suara": "ongky",
+   "teks": "Pembongkaran ini adalah visualisasi struktur materialnya.",
+   "dibaca": "Pembongkaran ini adalah visualisasi struktur materialnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/7d458e4b07b5.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d9b13a0bc015",
+   "suara": "ongky",
+   "teks": "Walaupun tidak terlihat, medan ini dapat memengaruhi benda tertentu.",
+   "dibaca": "Walaupun tidak terlihat, medan ini dapat memengaruhi benda tertentu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/d9b13a0bc015.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "17f3e7b3c1e6",
+   "suara": "ongky",
+   "teks": "Ketika banyak domain menjadi lebih sejajar, efek magnetik material semakin kuat.",
+   "dibaca": "Ketika banyak domain menjadi lebih sejajar, efek magnetik material semakin kuat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/17f3e7b3c1e6.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e2f99c0a731f",
+   "suara": "ongky",
+   "teks": "Momen magnetik atom dapat berinteraksi dan membentuk kelompok yang disebut domain magnetik.",
+   "dibaca": "Momen magnetik atom dapat berinteraksi dan membentuk kelompok yang disebut domain magnetik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/e2f99c0a731f.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "79a814648e95",
+   "suara": "ongky",
+   "teks": "Di balik benda sederhana, terdapat dunia mikroskopis dengan susunan magnetik yang luar biasa.",
+   "dibaca": "Di balik benda sederhana, terdapat dunia mikroskopis dengan susunan magnetik yang luar biasa.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/79a814648e95.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e6b6726174d4",
+   "suara": "ongky",
+   "teks": "Pernah nggak kamu melihat benda kecil seperti ini, tetapi mampu menarik benda lain tanpa menyentuhnya?",
+   "dibaca": "Pernah nggak kamu melihat benda kecil seperti ini, tetapi mampu menarik benda lain tanpa menyentuhnya?",
+   "fungsi": [
+    "memberikan analogi",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/e6b6726174d4.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4df9b53b1676",
+   "suara": "ongky",
+   "teks": "Saat besi mendekat, medan magnet menyebabkan perubahan susunan magnetik yang menghasilkan gaya tarik.",
+   "dibaca": "Saat besi mendekat, medan magnet menyebabkan perubahan susunan magnetik yang menghasilkan gaya tarik.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/4df9b53b1676.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
