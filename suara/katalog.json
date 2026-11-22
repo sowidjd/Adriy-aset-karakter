@@ -84301,6 +84301,246 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e729869d64ea",
+   "suara": "mia",
+   "teks": "Jangan lupa tonton sampai habis.",
+   "dibaca": "Jangan lupa tonton sampai habis.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/e729869d64ea.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ea7671f81b21",
+   "suara": "mia",
+   "teks": "Tapi ada satu kejutan kecil.",
+   "dibaca": "Tapi ada satu kejutan kecil.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ea7671f81b21.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "aaa346ac10c4",
+   "suara": "mia",
+   "teks": "Dan bulan bukan satu-satunya.",
+   "dibaca": "Dan bulan bukan satu-satunya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/aaa346ac10c4.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "16bb92f5c5f8",
+   "suara": "mia",
+   "teks": "Kita mulai dari satu pertanyaan.",
+   "dibaca": "Kita mulai dari satu pertanyaan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/16bb92f5c5f8.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ce0c225d5fdd",
+   "suara": "mia",
+   "teks": "Nah, di sinilah kafein masuk.",
+   "dibaca": "Nah, di sinilah kafein masuk.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/ce0c225d5fdd.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c6a38bafa977",
+   "suara": "mia",
+   "teks": "Tapi dari mana sebenarnya bau ini berasal?",
+   "dibaca": "Tapi dari mana sebenarnya bau ini berasal?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/c6a38bafa977.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "30d9c75ae35f",
+   "suara": "mia",
+   "teks": "Kita mulai dari cahaya matahari.",
+   "dibaca": "Kita mulai dari cahaya matahari.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/30d9c75ae35f.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "36be868f3330",
+   "suara": "mia",
+   "teks": "Sekarang kamu tahu rahasianya.",
+   "dibaca": "Sekarang kamu tahu rahasianya.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/36be868f3330.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2640e7290a65",
+   "suara": "mia",
+   "teks": "Jawabannya ada pada gravitasi Bumi.",
+   "dibaca": "Jawabannya ada pada gravitasi Bumi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/2640e7290a65.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cb32f29bb0a8",
+   "suara": "mia",
+   "teks": "Banyak yang menyebutnya sisi gelap bulan.",
+   "dibaca": "Banyak yang menyebutnya sisi gelap bulan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/cb32f29bb0a8.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "42249fdc717c",
+   "suara": "mia",
+   "teks": "Pertama, untuk berburu.",
+   "dibaca": "Pertama, untuk berburu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/42249fdc717c.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "40f04c16efa0",
+   "suara": "mia",
+   "teks": "Apakah pilotnya mengambil jalan memutar?",
+   "dibaca": "Apakah pilotnya mengambil jalan memutar?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/40f04c16efa0.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9d148abe7fea",
+   "suara": "mia",
+   "teks": "Jalur ini disebut lingkaran besar.",
+   "dibaca": "Jalur ini disebut lingkaran besar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9d148abe7fea.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "bce1e561d27f",
+   "suara": "mia",
+   "teks": "Hampir semua orang bermimpi setiap malam.",
+   "dibaca": "Hampir semua orang bermimpi setiap malam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/bce1e561d27f.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b7845d187b6f",
+   "suara": "mia",
+   "teks": "Kita mulai dari cara tidur bekerja.",
+   "dibaca": "Kita mulai dari cara tidur bekerja.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b7845d187b6f.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cc8adbff0264",
+   "suara": "mia",
+   "teks": "Kopi bekerja dengan cara menipu otak.",
+   "dibaca": "Kopi bekerja dengan cara menipu otak.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/cc8adbff0264.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
