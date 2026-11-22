@@ -76138,6 +76138,201 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "62f3b25b2483",
+   "suara": "mia",
+   "teks": "Coba bandingkan dengan sesuatu yang lebih akrab.",
+   "dibaca": "Coba bandingkan dengan sesuatu yang lebih akrab.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/62f3b25b2483.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4b3da1405c61",
+   "suara": "mia",
+   "teks": "Hasilnya ternyata di luar dugaan.",
+   "dibaca": "Hasilnya ternyata di luar dugaan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/4b3da1405c61.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "542952066682",
+   "suara": "mia",
+   "teks": "Tapi di dalamnya, ada proses yang rumit.",
+   "dibaca": "Tapi di dalamnya, ada proses yang rumit.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/542952066682.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "361eaabe231d",
+   "suara": "mia",
+   "teks": "Di tingkat yang lebih kecil, semuanya berbeda.",
+   "dibaca": "Di tingkat yang lebih kecil, semuanya berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/361eaabe231d.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8c7091400b45",
+   "suara": "mia",
+   "teks": "Angka ini mungkin terdengar kecil, tapi dampaknya besar.",
+   "dibaca": "Angka ini mungkin terdengar kecil, tapi dampaknya besar.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/8c7091400b45.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "51e3a212f491",
+   "suara": "mia",
+   "teks": "Semakin dalam kita mencari, semakin menarik ceritanya.",
+   "dibaca": "Semakin dalam kita mencari, semakin menarik ceritanya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/51e3a212f491.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "74ae98f5f993",
+   "suara": "ongky",
+   "teks": "Mari kita perbesar sedikit.",
+   "dibaca": "Mari kita perbesar sedikit.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/74ae98f5f993.wav",
+   "durasi": 1.6,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "14a8023c7f5e",
+   "suara": "ongky",
+   "teks": "Dari luar terlihat biasa saja.",
+   "dibaca": "Dari luar terlihat biasa saja.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/14a8023c7f5e.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4b68c40b5092",
+   "suara": "ongky",
+   "teks": "Sekarang, kita perbesar lagi.",
+   "dibaca": "Sekarang, kita perbesar lagi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/4b68c40b5092.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c8c79b418f43",
+   "suara": "ongky",
+   "teks": "Coba bandingkan dengan sesuatu yang lebih akrab.",
+   "dibaca": "Coba bandingkan dengan sesuatu yang lebih akrab.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/c8c79b418f43.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0c97de00997f",
+   "suara": "ongky",
+   "teks": "Hasilnya ternyata di luar dugaan.",
+   "dibaca": "Hasilnya ternyata di luar dugaan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/0c97de00997f.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "97a26c6ff437",
+   "suara": "ongky",
+   "teks": "Tapi di dalamnya, ada proses yang rumit.",
+   "dibaca": "Tapi di dalamnya, ada proses yang rumit.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/97a26c6ff437.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7dd9655453ed",
+   "suara": "ongky",
+   "teks": "Di tingkat yang lebih kecil, semuanya berbeda.",
+   "dibaca": "Di tingkat yang lebih kecil, semuanya berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/7dd9655453ed.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
