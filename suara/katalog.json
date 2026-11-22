@@ -90701,6 +90701,576 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "548a58a74e87",
+   "suara": "adriy",
+   "teks": "Selamat datang di pabrik kokas.",
+   "dibaca": "Selamat datang di pabrik kokas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/548a58a74e87.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6678169cfaf5",
+   "suara": "adriy",
+   "teks": "Pabrik kokas mengolah batu bara menjadi kokas.",
+   "dibaca": "Pabrik kokas mengolah batu bara menjadi kokas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/6678169cfaf5.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2d27758afca3",
+   "suara": "adriy",
+   "teks": "Kokas adalah batu bara yang sudah dipanaskan tanpa udara.",
+   "dibaca": "Kokas adalah batu bara yang sudah dipanaskan tanpa udara.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/2d27758afca3.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "90c96e6cb7c6",
+   "suara": "adriy",
+   "teks": "Proses ini disebut karbonisasi.",
+   "dibaca": "Proses ini disebut karbonisasi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/90c96e6cb7c6.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "eafea0062a91",
+   "suara": "adriy",
+   "teks": "Batu bara dipanaskan di dalam tungku tertutup selama berjam-jam.",
+   "dibaca": "Batu bara dipanaskan di dalam tungku tertutup selama berjam-jam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/eafea0062a91.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e015f78b7abf",
+   "suara": "adriy",
+   "teks": "Suhu di dalam tungku bisa mencapai lebih dari seribu derajat Celsius.",
+   "dibaca": "Suhu di dalam tungku bisa mencapai lebih dari seribu derajat Celsius.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/e015f78b7abf.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cd99cbc0b27f",
+   "suara": "adriy",
+   "teks": "Karena tidak ada udara, batu bara tidak terbakar menjadi abu.",
+   "dibaca": "Karena tidak ada udara, batu bara tidak terbakar menjadi abu.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/cd99cbc0b27f.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1d451ac2362a",
+   "suara": "adriy",
+   "teks": "Zat yang mudah menguap keluar sebagai gas dan uap.",
+   "dibaca": "Zat yang mudah menguap keluar sebagai gas dan uap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/1d451ac2362a.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3be06ee2858f",
+   "suara": "adriy",
+   "teks": "Yang tersisa adalah kokas yang keras, ringan, dan berpori.",
+   "dibaca": "Yang tersisa adalah kokas yang keras, ringan, dan berpori.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/3be06ee2858f.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "acbfc3390149",
+   "suara": "adriy",
+   "teks": "Kokas dipakai sebagai bahan bakar sekaligus bahan pereduksi di tanur.",
+   "dibaca": "Kokas dipakai sebagai bahan bakar sekaligus bahan pereduksi di tanur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/acbfc3390149.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6767c522fc9d",
+   "suara": "adriy",
+   "teks": "Tanpa kokas, bijih besi dan nikel sulit diolah menjadi logam.",
+   "dibaca": "Tanpa kokas, bijih besi dan nikel sulit diolah menjadi logam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/6767c522fc9d.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d49658d931ae",
+   "suara": "adriy",
+   "teks": "Satu deretan tungku kokas disebut baterai.",
+   "dibaca": "Satu deretan tungku kokas disebut baterai.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/d49658d931ae.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a26222881fce",
+   "suara": "adriy",
+   "teks": "Satu baterai bisa berisi puluhan ruang oven yang berjajar rapat.",
+   "dibaca": "Satu baterai bisa berisi puluhan ruang oven yang berjajar rapat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/a26222881fce.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "470784c57ed1",
+   "suara": "adriy",
+   "teks": "Setiap ruang oven sempit, tinggi, dan panjang.",
+   "dibaca": "Setiap ruang oven sempit, tinggi, dan panjang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/470784c57ed1.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "dbfde2e10d79",
+   "suara": "adriy",
+   "teks": "Di antara ruang oven ada dinding pemanas.",
+   "dibaca": "Di antara ruang oven ada dinding pemanas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/dbfde2e10d79.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "68c0370633ff",
+   "suara": "adriy",
+   "teks": "Gas dibakar di dinding pemanas untuk memanaskan batu bara.",
+   "dibaca": "Gas dibakar di dinding pemanas untuk memanaskan batu bara.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/68c0370633ff.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2429b34946c5",
+   "suara": "adriy",
+   "teks": "Sebelum masuk tungku, beberapa jenis batu bara dicampur dulu.",
+   "dibaca": "Sebelum masuk tungku, beberapa jenis batu bara dicampur dulu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/2429b34946c5.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "59d2d2b20564",
+   "suara": "adriy",
+   "teks": "Pencampuran batu bara ini menentukan kualitas kokas.",
+   "dibaca": "Pencampuran batu bara ini menentukan kualitas kokas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/59d2d2b20564.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9307cb56c0d1",
+   "suara": "adriy",
+   "teks": "Batu bara lalu dihancurkan sampai halus di mesin penghancur.",
+   "dibaca": "Batu bara lalu dihancurkan sampai halus di mesin penghancur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/9307cb56c0d1.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1cfe6915db91",
+   "suara": "adriy",
+   "teks": "Batu bara halus disimpan di menara batu bara.",
+   "dibaca": "Batu bara halus disimpan di menara batu bara.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/1cfe6915db91.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a62d99387a0c",
+   "suara": "adriy",
+   "teks": "Mobil pengisi membawa batu bara dari menara ke atas tungku.",
+   "dibaca": "Mobil pengisi membawa batu bara dari menara ke atas tungku.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/a62d99387a0c.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "36216f4b53bd",
+   "suara": "adriy",
+   "teks": "Batu bara dimasukkan lewat lubang di atas oven.",
+   "dibaca": "Batu bara dimasukkan lewat lubang di atas oven.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/36216f4b53bd.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "86312de02565",
+   "suara": "adriy",
+   "teks": "Setelah terisi penuh, lubang ditutup rapat.",
+   "dibaca": "Setelah terisi penuh, lubang ditutup rapat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/86312de02565.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2c52fa68f720",
+   "suara": "adriy",
+   "teks": "Waktu pemasakan biasanya belasan sampai dua puluhan jam.",
+   "dibaca": "Waktu pemasakan biasanya belasan sampai dua puluhan jam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/2c52fa68f720.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6bbe190b42ff",
+   "suara": "adriy",
+   "teks": "Selama pemasakan, suhu oven harus dijaga stabil.",
+   "dibaca": "Selama pemasakan, suhu oven harus dijaga stabil.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/6bbe190b42ff.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "34e08f16efc5",
+   "suara": "adriy",
+   "teks": "Setelah matang, batu bara berubah menjadi bongkahan kokas yang membara.",
+   "dibaca": "Setelah matang, batu bara berubah menjadi bongkahan kokas yang membara.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/34e08f16efc5.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8ca291310c80",
+   "suara": "adriy",
+   "teks": "Pintu oven dibuka di kedua sisi.",
+   "dibaca": "Pintu oven dibuka di kedua sisi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/8ca291310c80.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1853f7bdc1fc",
+   "suara": "adriy",
+   "teks": "Mesin pendorong mendorong kokas panas keluar dari oven.",
+   "dibaca": "Mesin pendorong mendorong kokas panas keluar dari oven.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/1853f7bdc1fc.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c33c7baeadaa",
+   "suara": "adriy",
+   "teks": "Kokas jatuh ke gerbong pemadam.",
+   "dibaca": "Kokas jatuh ke gerbong pemadam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/c33c7baeadaa.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1a9d48388941",
+   "suara": "adriy",
+   "teks": "Gerbong pemadam membawa kokas ke menara pemadam.",
+   "dibaca": "Gerbong pemadam membawa kokas ke menara pemadam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/1a9d48388941.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b9b8ae9d44c0",
+   "suara": "adriy",
+   "teks": "Di menara pemadam, kokas disiram air dalam jumlah besar.",
+   "dibaca": "Di menara pemadam, kokas disiram air dalam jumlah besar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/b9b8ae9d44c0.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d7af3f3f7877",
+   "suara": "adriy",
+   "teks": "Uap putih yang besar keluar dari menara pemadam.",
+   "dibaca": "Uap putih yang besar keluar dari menara pemadam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/d7af3f3f7877.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a4012a7d4eab",
+   "suara": "adriy",
+   "teks": "Ada juga cara pemadaman kering memakai gas lembam.",
+   "dibaca": "Ada juga cara pemadaman kering memakai gas lembam.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/a4012a7d4eab.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "8fe8c2cae64d",
+   "suara": "adriy",
+   "teks": "Panas dari pemadaman kering bisa dipakai untuk membangkitkan listrik.",
+   "dibaca": "Panas dari pemadaman kering bisa dipakai untuk membangkitkan listrik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/8fe8c2cae64d.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "026d2685635c",
+   "suara": "adriy",
+   "teks": "Setelah dingin, kokas diayak sesuai ukurannya.",
+   "dibaca": "Setelah dingin, kokas diayak sesuai ukurannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/026d2685635c.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "79f3c63d7c0f",
+   "suara": "adriy",
+   "teks": "Kokas lalu dibawa dengan ban berjalan ke tempat penyimpanan.",
+   "dibaca": "Kokas lalu dibawa dengan ban berjalan ke tempat penyimpanan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/79f3c63d7c0f.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6e3cfdce3bd4",
+   "suara": "adriy",
+   "teks": "Gas yang keluar dari oven disebut gas oven kokas atau COG.",
+   "dibaca": "Gas yang keluar dari oven disebut gas oven kokas atau se o ge.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/6e3cfdce3bd4.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "dbe6ad62f8ac",
+   "suara": "adriy",
+   "teks": "Gas ini naik lewat pipa naik, lalu dikumpulkan di pipa pengumpul.",
+   "dibaca": "Gas ini naik lewat pipa naik, lalu dikumpulkan di pipa pengumpul.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/dbe6ad62f8ac.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "pabrik kokas",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
   }
  ]
 }
