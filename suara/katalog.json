@@ -74900,6 +74900,21 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "40148f88d8a6",
+   "suara": "ongky",
+   "teks": "Kita jarang memikirkannya, padahal ini terjadi setiap hari.",
+   "dibaca": "Kita jarang memikirkannya, padahal ini terjadi setiap hari.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/40148f88d8a6.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
