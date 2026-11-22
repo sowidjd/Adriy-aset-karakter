@@ -84541,6 +84541,141 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e03880813600",
+   "suara": "mia",
+   "teks": "Kenapa hidung kita begitu peka dengan bau ini?",
+   "dibaca": "Kenapa hidung kita begitu peka dengan bau ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/e03880813600.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7bdd1424925d",
+   "suara": "mia",
+   "teks": "Kenapa hewan di laut dalam bisa bercahaya?",
+   "dibaca": "Kenapa hewan di laut dalam bisa bercahaya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/7bdd1424925d.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9a3af6c45f8d",
+   "suara": "mia",
+   "teks": "Kemampuan ini disebut bioluminesensi.",
+   "dibaca": "Kemampuan ini disebut bioluminesensi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/9a3af6c45f8d.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a1a1d72fe2c8",
+   "suara": "mia",
+   "teks": "Pertanyaannya, untuk apa mereka bercahaya?",
+   "dibaca": "Pertanyaannya, untuk apa mereka bercahaya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/a1a1d72fe2c8.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5b2b3536e606",
+   "suara": "mia",
+   "teks": "Kedua, untuk bersembunyi.",
+   "dibaca": "Kedua, untuk bersembunyi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5b2b3536e606.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a56c369bd4eb",
+   "suara": "mia",
+   "teks": "Tapi air justru melakukan kebalikannya.",
+   "dibaca": "Tapi air justru melakukan kebalikannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/a56c369bd4eb.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c846d7e5c0e2",
+   "suara": "mia",
+   "teks": "Lalu kenapa air bisa mengembang saat membeku?",
+   "dibaca": "Lalu kenapa air bisa mengembang saat membeku?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/c846d7e5c0e2.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0fb168b22417",
+   "suara": "mia",
+   "teks": "Rahasianya ada pada bentuk molekul air.",
+   "dibaca": "Rahasianya ada pada bentuk molekul air.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/0fb168b22417.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "623c134e70d5",
+   "suara": "mia",
+   "teks": "Tapi ada satu bagian yang bekerja berbeda.",
+   "dibaca": "Tapi ada satu bagian yang bekerja berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/623c134e70d5.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
