@@ -85051,6 +85051,156 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e19696a4c22f",
+   "suara": "mia",
+   "teks": "Bumi berbentuk bulat, sedangkan peta itu datar.",
+   "dibaca": "Bumi berbentuk bulat, sedangkan peta itu datar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/e19696a4c22f.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "66dbd13cd5a0",
+   "suara": "mia",
+   "teks": "Tapi jalur terpendek bukan satu-satunya pertimbangan.",
+   "dibaca": "Tapi jalur terpendek bukan satu-satunya pertimbangan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/66dbd13cd5a0.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "651ce9d8f50e",
+   "suara": "mia",
+   "teks": "Semakin lama kita terjaga, semakin banyak adenosin yang menumpuk.",
+   "dibaca": "Semakin lama kita terjaga, semakin banyak adenosin yang menumpuk.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/651ce9d8f50e.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "cb69b45e9804",
+   "suara": "mia",
+   "teks": "Bakteri ini menghasilkan zat bernama geosmin.",
+   "dibaca": "Bakteri ini menghasilkan zat bernama geosmin.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/cb69b45e9804.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "18ff7fa395da",
+   "suara": "mia",
+   "teks": "Karena cahaya biru adalah warna yang paling jauh menembus air laut.",
+   "dibaca": "Karena cahaya biru adalah warna yang paling jauh menembus air laut.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/18ff7fa395da.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6bf82d3a6d4d",
+   "suara": "mia",
+   "teks": "Setelah kering, tubuh diolesi minyak dan resin pohon.",
+   "dibaca": "Setelah kering, tubuh diolesi minyak dan resin pohon.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/6bf82d3a6d4d.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5815a273ae09",
+   "suara": "mia",
+   "teks": "Keanehan kecil ini ternyata menyelamatkan kehidupan di Bumi.",
+   "dibaca": "Keanehan kecil ini ternyata menyelamatkan kehidupan di Bumi.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/5815a273ae09.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "aec30d915b95",
+   "suara": "mia",
+   "teks": "Lalu bagaimana bau itu bisa terbang sampai ke hidung kita?",
+   "dibaca": "Lalu bagaimana bau itu bisa terbang sampai ke hidung kita?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/mia/aec30d915b95.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b219412f32d1",
+   "suara": "mia",
+   "teks": "Cahaya itu lahir dari reaksi kimia di dalam tubuh hewan.",
+   "dibaca": "Cahaya itu lahir dari reaksi kimia di dalam tubuh hewan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b219412f32d1.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c5814c98fe26",
+   "suara": "mia",
+   "teks": "Predator yang melihat dari bawah jadi sulit menemukan mereka.",
+   "dibaca": "Predator yang melihat dari bawah jadi sulit menemukan mereka.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/c5814c98fe26.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
