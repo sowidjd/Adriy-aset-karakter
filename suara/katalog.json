@@ -74135,6 +74135,201 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c63c860022ed",
+   "suara": "adriy",
+   "teks": "Tapi tunggu dulu, ceritanya belum selesai.",
+   "dibaca": "Tapi tunggu dulu, ceritanya belum selesai.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/c63c860022ed.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3fc6a00378ba",
+   "suara": "adriy",
+   "teks": "Ada satu hal yang sering terlewat.",
+   "dibaca": "Ada satu hal yang sering terlewat.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/adriy/3fc6a00378ba.wav",
+   "durasi": 1.92,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "3dedfabc1215",
+   "suara": "adriy",
+   "teks": "Dan jawabannya ternyata cukup mengejutkan.",
+   "dibaca": "Dan jawabannya ternyata cukup mengejutkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/3dedfabc1215.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7139d82281be",
+   "suara": "adriy",
+   "teks": "Kedengarannya aneh, tapi memang begitu kenyataannya.",
+   "dibaca": "Kedengarannya aneh, tapi memang begitu kenyataannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/7139d82281be.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f53f7920e3fe",
+   "suara": "adriy",
+   "teks": "Mungkin kamu tidak percaya, tapi ini benar.",
+   "dibaca": "Mungkin kamu tidak percaya, tapi ini benar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/f53f7920e3fe.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "bcf62958be8e",
+   "suara": "adriy",
+   "teks": "Ini bukan sulap, ini sains.",
+   "dibaca": "Ini bukan sulap, ini sains.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/bcf62958be8e.wav",
+   "durasi": 2.08,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a7751f2820e5",
+   "suara": "adriy",
+   "teks": "Prosesnya jauh lebih cepat dari kedipan mata.",
+   "dibaca": "Prosesnya jauh lebih cepat dari kedipan mata.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/a7751f2820e5.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "067d08e22e65",
+   "suara": "adriy",
+   "teks": "Kita jarang memikirkannya, padahal ini terjadi setiap hari.",
+   "dibaca": "Kita jarang memikirkannya, padahal ini terjadi setiap hari.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/067d08e22e65.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d841c368d8b3",
+   "suara": "adriy",
+   "teks": "Tubuhmu ternyata bekerja lebih keras dari yang kamu kira.",
+   "dibaca": "Tubuhmu ternyata bekerja lebih keras dari yang kamu kira.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/d841c368d8b3.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a6e3f563e662",
+   "suara": "adriy",
+   "teks": "Kadang, otak kita tertipu oleh hal yang sederhana.",
+   "dibaca": "Kadang, otak kita tertipu oleh hal yang sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/a6e3f563e662.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b98ce711292d",
+   "suara": "adriy",
+   "teks": "Bayangkan sebuah kota kecil di dalam tubuhmu.",
+   "dibaca": "Bayangkan sebuah kota kecil di dalam tubuhmu.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/b98ce711292d.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "20baf5cfe7c8",
+   "suara": "adriy",
+   "teks": "Anggap saja seperti antrean di kasir minimarket.",
+   "dibaca": "Anggap saja seperti antrean di kasir minimarket.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/20baf5cfe7c8.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "85fd2969f68d",
+   "suara": "adriy",
+   "teks": "Mirip seperti ponsel yang baterainya hampir habis.",
+   "dibaca": "Mirip seperti ponsel yang baterainya hampir habis.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/85fd2969f68d.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
   }
  ]
 }
