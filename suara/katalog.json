@@ -77083,6 +77083,51 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c61ab5aa5d2d",
+   "suara": "adriy",
+   "teks": "Sesuatu yang tampak sepele ternyata sangat penting.",
+   "dibaca": "Sesuatu yang tampak sepele ternyata sangat penting.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/c61ab5aa5d2d.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "12621c8753d1",
+   "suara": "adriy",
+   "teks": "Kita sering menganggapnya remeh.",
+   "dibaca": "Kita sering menganggapnya remeh.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/12621c8753d1.wav",
+   "durasi": 1.76,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a7cd637bfa73",
+   "suara": "adriy",
+   "teks": "Padahal, di baliknya ada cerita yang luar biasa.",
+   "dibaca": "Padahal, di baliknya ada cerita yang luar biasa.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/a7cd637bfa73.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "pustaka_suara.py tambah",
+   "dibuat": "2026-11-22"
   }
  ]
 }
