@@ -88300,6 +88300,186 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e25fde5abc47",
+   "suara": "adriy",
+   "teks": "Kemampuan ini disebut bioluminesensi.",
+   "dibaca": "Kemampuan ini disebut bioluminesensi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/e25fde5abc47.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6ea80178c462",
+   "suara": "adriy",
+   "teks": "Pertanyaannya, untuk apa mereka bercahaya?",
+   "dibaca": "Pertanyaannya, untuk apa mereka bercahaya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/6ea80178c462.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a20adeb9ffb0",
+   "suara": "adriy",
+   "teks": "Kedua, untuk bersembunyi.",
+   "dibaca": "Kedua, untuk bersembunyi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/a20adeb9ffb0.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "bb24e6569526",
+   "suara": "adriy",
+   "teks": "Tapi air justru melakukan kebalikannya.",
+   "dibaca": "Tapi air justru melakukan kebalikannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/bb24e6569526.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ab3e98cf5976",
+   "suara": "adriy",
+   "teks": "Lalu kenapa air bisa mengembang saat membeku?",
+   "dibaca": "Lalu kenapa air bisa mengembang saat membeku?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/ab3e98cf5976.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6e2c62ef3e32",
+   "suara": "adriy",
+   "teks": "Rahasianya ada pada bentuk molekul air.",
+   "dibaca": "Rahasianya ada pada bentuk molekul air.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/6e2c62ef3e32.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d44b0cb83fb9",
+   "suara": "adriy",
+   "teks": "Tapi ada satu bagian yang bekerja berbeda.",
+   "dibaca": "Tapi ada satu bagian yang bekerja berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/d44b0cb83fb9.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "80908e3e0cee",
+   "suara": "adriy",
+   "teks": "Tapi dugaan ini masih terus diteliti.",
+   "dibaca": "Tapi dugaan ini masih terus diteliti.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/80908e3e0cee.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ac719cb369d2",
+   "suara": "adriy",
+   "teks": "Lalu bagaimana supaya kita tidak terjebak?",
+   "dibaca": "Lalu bagaimana supaya kita tidak terjebak?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/ac719cb369d2.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "546346b0b795",
+   "suara": "adriy",
+   "teks": "Lalu, dari mana datangnya gaya tarik?",
+   "dibaca": "Lalu, dari mana datangnya gaya tarik?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/546346b0b795.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "78d0b538553a",
+   "suara": "adriy",
+   "teks": "Kenapa otak begitu cepat melupakan mimpi?",
+   "dibaca": "Kenapa otak begitu cepat melupakan mimpi?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/78d0b538553a.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d09050106424",
+   "suara": "adriy",
+   "teks": "Kopi hanya menunda pesan lelah dari otakmu.",
+   "dibaca": "Kopi hanya menunda pesan lelah dari otakmu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/d09050106424.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
