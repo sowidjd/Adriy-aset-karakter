@@ -75778,6 +75778,51 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b071f77e6b9c",
+   "suara": "ongky",
+   "teks": "Ini baru dugaan, tapi cukup masuk akal.",
+   "dibaca": "Ini baru dugaan, tapi cukup masuk akal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/b071f77e6b9c.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e9081bde55d0",
+   "suara": "ongky",
+   "teks": "Lalu, teori mana yang paling masuk akal?",
+   "dibaca": "Lalu, teori mana yang paling masuk akal?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/e9081bde55d0.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "7928f17dd904",
+   "suara": "ongky",
+   "teks": "Faktanya, hal ini sudah dibuktikan lewat penelitian.",
+   "dibaca": "Faktanya, hal ini sudah dibuktikan lewat penelitian.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/7928f17dd904.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
