@@ -76498,6 +76498,261 @@
    "catatan": "",
    "sumber": "pustaka_suara.py tambah",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b19c3fe1c8b5",
+   "suara": "hasan",
+   "teks": "Jadi, bukan cuma perasaanmu saja.",
+   "dibaca": "Jadi, bukan cuma perasaanmu saja.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/hasan/b19c3fe1c8b5.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c2b157c1472b",
+   "suara": "hasan",
+   "teks": "Inilah alasan kenapa kita merasakannya.",
+   "dibaca": "Inilah alasan kenapa kita merasakannya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/hasan/c2b157c1472b.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ea946934ae05",
+   "suara": "hasan",
+   "teks": "Ini juga menjelaskan kenapa hal itu sering terjadi.",
+   "dibaca": "Ini juga menjelaskan kenapa hal itu sering terjadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/ea946934ae05.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4d02e71c818c",
+   "suara": "hasan",
+   "teks": "Ternyata, ini hal yang sangat normal.",
+   "dibaca": "Ternyata, ini hal yang sangat normal.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/4d02e71c818c.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "01b28e9916e7",
+   "suara": "hasan",
+   "teks": "Kalau dilihat dari jauh, polanya baru kelihatan.",
+   "dibaca": "Kalau dilihat dari jauh, polanya baru kelihatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/01b28e9916e7.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6c58baac1726",
+   "suara": "hasan",
+   "teks": "Kalau dilihat dari dekat, bentuknya ternyata unik.",
+   "dibaca": "Kalau dilihat dari dekat, bentuknya ternyata unik.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/hasan/6c58baac1726.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "28001db61057",
+   "suara": "hasan",
+   "teks": "Kamu tidak sendirian, banyak orang merasakan hal yang sama.",
+   "dibaca": "Kamu tidak sendirian, banyak orang merasakan hal yang sama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/28001db61057.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "678a0e462c72",
+   "suara": "hasan",
+   "teks": "Tapi jangan khawatir, dalam banyak kasus ini tidak berbahaya.",
+   "dibaca": "Tapi jangan khawatir, dalam banyak kasus ini tidak berbahaya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/678a0e462c72.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a094328b62cc",
+   "suara": "hasan",
+   "teks": "Kalau terjadi terlalu sering, sebaiknya periksa ke tenaga kesehatan.",
+   "dibaca": "Kalau terjadi terlalu sering, sebaiknya periksa ke tenaga kesehatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/hasan/a094328b62cc.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5a256da97bf7",
+   "suara": "mia",
+   "teks": "Jadi, bukan cuma perasaanmu saja.",
+   "dibaca": "Jadi, bukan cuma perasaanmu saja.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/mia/5a256da97bf7.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "487ee6e27d20",
+   "suara": "mia",
+   "teks": "Inilah alasan kenapa kita merasakannya.",
+   "dibaca": "Inilah alasan kenapa kita merasakannya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/mia/487ee6e27d20.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "1950301f2346",
+   "suara": "mia",
+   "teks": "Ini juga menjelaskan kenapa hal itu sering terjadi.",
+   "dibaca": "Ini juga menjelaskan kenapa hal itu sering terjadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/1950301f2346.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "562709f53dc5",
+   "suara": "mia",
+   "teks": "Ternyata, ini hal yang sangat normal.",
+   "dibaca": "Ternyata, ini hal yang sangat normal.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/562709f53dc5.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "09f920527695",
+   "suara": "mia",
+   "teks": "Kalau dilihat dari jauh, polanya baru kelihatan.",
+   "dibaca": "Kalau dilihat dari jauh, polanya baru kelihatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/09f920527695.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "10b86f75e987",
+   "suara": "mia",
+   "teks": "Kalau dilihat dari dekat, bentuknya ternyata unik.",
+   "dibaca": "Kalau dilihat dari dekat, bentuknya ternyata unik.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/10b86f75e987.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "39961e43ade2",
+   "suara": "mia",
+   "teks": "Kamu tidak sendirian, banyak orang merasakan hal yang sama.",
+   "dibaca": "Kamu tidak sendirian, banyak orang merasakan hal yang sama.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/39961e43ade2.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d3cc6b2ce6d0",
+   "suara": "mia",
+   "teks": "Tapi jangan khawatir, dalam banyak kasus ini tidak berbahaya.",
+   "dibaca": "Tapi jangan khawatir, dalam banyak kasus ini tidak berbahaya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/d3cc6b2ce6d0.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
