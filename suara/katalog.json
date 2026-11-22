@@ -89290,6 +89290,381 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "87c818b00ae5",
+   "suara": "adriy",
+   "teks": "Ruang kosong inilah yang membuat es lebih renggang daripada air.",
+   "dibaca": "Ruang kosong inilah yang membuat es lebih renggang daripada air.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/87c818b00ae5.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "64ef29e2ff9b",
+   "suara": "adriy",
+   "teks": "Padahal, Afrika sebenarnya sekitar empat belas kali lebih luas.",
+   "dibaca": "Padahal, Afrika sebenarnya sekitar empat belas kali lebih luas.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/64ef29e2ff9b.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d5cab31b0fe6",
+   "suara": "adriy",
+   "teks": "Begitu bangun, jangan langsung bergerak atau membuka ponsel.",
+   "dibaca": "Begitu bangun, jangan langsung bergerak atau membuka ponsel.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/d5cab31b0fe6.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "25c022c15326",
+   "suara": "adriy",
+   "teks": "Otakmu hanya sedang berada dalam mode yang tidak dirancang untuk menyimpan.",
+   "dibaca": "Otakmu hanya sedang berada dalam mode yang tidak dirancang untuk menyimpan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/25c022c15326.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e04558d4fdf6",
+   "suara": "adriy",
+   "teks": "Padahal, kopi sebenarnya tidak menambah energi sama sekali.",
+   "dibaca": "Padahal, kopi sebenarnya tidak menambah energi sama sekali.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/e04558d4fdf6.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ab50b20fff1d",
+   "suara": "adriy",
+   "teks": "Rasa kantuknya tidak hilang, hanya saja pesannya tidak sampai.",
+   "dibaca": "Rasa kantuknya tidak hilang, hanya saja pesannya tidak sampai.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/ab50b20fff1d.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "07d1952bd385",
+   "suara": "adriy",
+   "teks": "Tapi besi, nikel, kobalt, dan neodymium berbeda.",
+   "dibaca": "Tapi besi, nikel, kobalt, dan neodymium berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/07d1952bd385.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "67d6ac844ef7",
+   "suara": "adriy",
+   "teks": "Kutub yang berlawanan saling tarik, dan besi pun menempel.",
+   "dibaca": "Kutub yang berlawanan saling tarik, dan besi pun menempel.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/67d6ac844ef7.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "f56b07c8f2ea",
+   "suara": "adriy",
+   "teks": "Itu bukan lampu penyelam lain, melainkan seekor hewan laut.",
+   "dibaca": "Itu bukan lampu penyelam lain, melainkan seekor hewan laut.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/f56b07c8f2ea.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0390c405440f",
+   "suara": "adriy",
+   "teks": "Di bawah sekitar dua ratus meter, laut tinggal remang-remang.",
+   "dibaca": "Di bawah sekitar dua ratus meter, laut tinggal remang-remang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/0390c405440f.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "6ccbb9e20513",
+   "suara": "adriy",
+   "teks": "Di kegelapan inilah, banyak hewan membuat cahayanya sendiri.",
+   "dibaca": "Di kegelapan inilah, banyak hewan membuat cahayanya sendiri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/6ccbb9e20513.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0ff6c3f5230c",
+   "suara": "adriy",
+   "teks": "Natron menyerap air dari tubuh selama sekitar empat puluh hari.",
+   "dibaca": "Natron menyerap air dari tubuh selama sekitar empat puluh hari.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/0ff6c3f5230c.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "221dce5c5def",
+   "suara": "adriy",
+   "teks": "Es batu itu akan mengapung, dan kelihatannya biasa saja.",
+   "dibaca": "Es batu itu akan mengapung, dan kelihatannya biasa saja.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/221dce5c5def.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "15169bbc8d64",
+   "suara": "adriy",
+   "teks": "Tapi saat membeku, setiap molekul terkunci di posisi yang tetap.",
+   "dibaca": "Tapi saat membeku, setiap molekul terkunci di posisi yang tetap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/15169bbc8d64.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "4c99ef03d724",
+   "suara": "adriy",
+   "teks": "Pipa air di negara dingin bisa pecah saat airnya membeku.",
+   "dibaca": "Pipa air di negara dingin bisa pecah saat airnya membeku.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/4c99ef03d724.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "77b12a77b5fc",
+   "suara": "adriy",
+   "teks": "Coba bayangkan kamu mengambil sebuah bola dunia dan seutas tali.",
+   "dibaca": "Coba bayangkan kamu mengambil sebuah bola dunia dan seutas tali.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/77b12a77b5fc.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9d34395dd789",
+   "suara": "adriy",
+   "teks": "Kalau kamu ingin lebih sering ingat mimpi, ada satu cara sederhana.",
+   "dibaca": "Kalau kamu ingin lebih sering ingat mimpi, ada satu cara sederhana.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/9d34395dd789.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "21b134e2295c",
+   "suara": "adriy",
+   "teks": "Kenapa secangkir kopi bisa bikin mata yang tadinya berat langsung terbuka?",
+   "dibaca": "Kenapa secangkir kopi bisa bikin mata yang tadinya berat langsung terbuka?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/21b134e2295c.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "56904934684b",
+   "suara": "adriy",
+   "teks": "Kafein bisa masuk ke gembok yang sama, tapi tidak membuka pesan kantuk.",
+   "dibaca": "Kafein bisa masuk ke gembok yang sama, tapi tidak membuka pesan kantuk.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/56904934684b.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e9ca529196af",
+   "suara": "adriy",
+   "teks": "Ada juga bau lain sebelum badai datang, yang lebih tajam dan segar.",
+   "dibaca": "Ada juga bau lain sebelum badai datang, yang lebih tajam dan segar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/e9ca529196af.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "d9a959d92f38",
+   "suara": "adriy",
+   "teks": "Hal sederhana yang kita sukai ternyata punya cerita sains yang luar biasa.",
+   "dibaca": "Hal sederhana yang kita sukai ternyata punya cerita sains yang luar biasa.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/d9a959d92f38.wav",
+   "durasi": 4.96,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "a61bd894f8b3",
+   "suara": "adriy",
+   "teks": "Bayangkan kita bisa membongkar magnet ini, lapis demi lapis.",
+   "dibaca": "Bayangkan kita bisa membongkar magnet ini, lapis demi lapis.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/a61bd894f8b3.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "c034f153ff78",
+   "suara": "adriy",
+   "teks": "Lalu tiba-tiba, di depanmu muncul cahaya biru kecil yang berkedip.",
+   "dibaca": "Lalu tiba-tiba, di depanmu muncul cahaya biru kecil yang berkedip.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/c034f153ff78.wav",
+   "durasi": 4.8,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "82fb8fae9317",
+   "suara": "adriy",
+   "teks": "Tapi semakin dalam kita turun, cahaya matahari semakin cepat menghilang.",
+   "dibaca": "Tapi semakin dalam kita turun, cahaya matahari semakin cepat menghilang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/82fb8fae9317.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5d396a4f0e14",
+   "suara": "adriy",
+   "teks": "Dan yang mengejutkan, sebagian besar hewan di laut dalam ternyata bisa bercahaya.",
+   "dibaca": "Dan yang mengejutkan, sebagian besar hewan di laut dalam ternyata bisa bercahaya.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/5d396a4f0e14.wav",
+   "durasi": 5.28,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
