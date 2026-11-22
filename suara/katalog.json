@@ -89140,6 +89140,156 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9075c657d043",
+   "suara": "adriy",
+   "teks": "Caranya sederhana, bulatkan harga ke atas di kepalamu.",
+   "dibaca": "Caranya sederhana, bulatkan harga ke atas di kepalamu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/9075c657d043.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "877a12bf9a6e",
+   "suara": "adriy",
+   "teks": "Dengan begitu, kamu menilai harga dengan lebih jujur.",
+   "dibaca": "Dengan begitu, kamu menilai harga dengan lebih jujur.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/877a12bf9a6e.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "ab0b036fd766",
+   "suara": "adriy",
+   "teks": "Di dalam tanah, hidup bakteri bernama Streptomyces.",
+   "dibaca": "Di dalam tanah, hidup bakteri bernama Streptomyces.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/ab0b036fd766.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "91ea6bdd4594",
+   "suara": "adriy",
+   "teks": "Peneliti di MIT merekam tetesan hujan dengan kamera super cepat.",
+   "dibaca": "Peneliti di MIT merekam tetesan hujan dengan kamera super cepat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/91ea6bdd4594.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "2a084519b059",
+   "suara": "adriy",
+   "teks": "Padahal bulan berputar, hanya saja dengan cara yang sangat istimewa.",
+   "dibaca": "Padahal bulan berputar, hanya saja dengan cara yang sangat istimewa.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/2a084519b059.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "91775c398b7f",
+   "suara": "adriy",
+   "teks": "Bulan butuh sekitar dua puluh tujuh hari untuk sekali mengelilingi Bumi.",
+   "dibaca": "Bulan butuh sekitar dua puluh tujuh hari untuk sekali mengelilingi Bumi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/91775c398b7f.wav",
+   "durasi": 4.16,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "13ea95b7eea9",
+   "suara": "adriy",
+   "teks": "Tarikan itu bekerja seperti rem yang pelan tapi tidak pernah berhenti.",
+   "dibaca": "Tarikan itu bekerja seperti rem yang pelan tapi tidak pernah berhenti.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/13ea95b7eea9.wav",
+   "durasi": 4.64,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "9e7bfb465fd1",
+   "suara": "adriy",
+   "teks": "Di permukaan, laut terlihat terang dan biru.",
+   "dibaca": "Di permukaan, laut terlihat terang dan biru.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/9e7bfb465fd1.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b56c14267009",
+   "suara": "adriy",
+   "teks": "Dari situ, mereka mengembangkan proses pengawetan yang jauh lebih rumit.",
+   "dibaca": "Dari situ, mereka mengembangkan proses pengawetan yang jauh lebih rumit.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/b56c14267009.wav",
+   "durasi": 4.32,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e827b9ab9c92",
+   "suara": "adriy",
+   "teks": "Resin ini membantu melindungi kulit dan menahan masuknya kelembapan.",
+   "dibaca": "Resin ini membantu melindungi kulit dan menahan masuknya kelembapan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/e827b9ab9c92.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
