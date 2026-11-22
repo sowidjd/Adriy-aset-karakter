@@ -73325,6 +73325,156 @@
    "catatan": "",
    "sumber": "lengkapi_pustaka.py",
    "dibuat": "2026-11-22"
+  },
+  {
+   "id": "07a54571d545",
+   "suara": "mia",
+   "teks": "Pengetahuan kecil bisa mengubah cara kita melihat dunia.",
+   "dibaca": "Pengetahuan kecil bisa mengubah cara kita melihat dunia.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/07a54571d545.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "11bd196d4f69",
+   "suara": "mia",
+   "teks": "Otak kita butuh istirahat supaya tetap fokus.",
+   "dibaca": "Otak kita butuh istirahat supaya tetap fokus.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/11bd196d4f69.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "0fa4d719584a",
+   "suara": "mia",
+   "teks": "Notifikasi kecil bisa membuat fokus kita buyar.",
+   "dibaca": "notifikasi kecil bisa membuat fokus kita buyar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/0fa4d719584a.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "070fdfd2676c",
+   "suara": "mia",
+   "teks": "Teknologi ini sudah ada di sekitar kita setiap hari.",
+   "dibaca": "Teknologi ini sudah ada di sekitar kita setiap hari.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/070fdfd2676c.wav",
+   "durasi": 3.36,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "722942fd096e",
+   "suara": "mia",
+   "teks": "Ratusan tahun lalu, hal ini dianggap mustahil.",
+   "dibaca": "Ratusan tahun lalu, hal ini dianggap mustahil.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/722942fd096e.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5fa987757e6c",
+   "suara": "mia",
+   "teks": "Tanpa kita sadari, kita sangat bergantung pada teknologi ini.",
+   "dibaca": "Tanpa kita sadari, kita sangat bergantung pada teknologi ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/5fa987757e6c.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "e8da5d31726e",
+   "suara": "mia",
+   "teks": "Dulu, orang punya cara yang sangat berbeda untuk melakukannya.",
+   "dibaca": "Dulu, orang punya cara yang sangat berbeda untuk melakukannya.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/mia/e8da5d31726e.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "5ab8abfbcf90",
+   "suara": "mia",
+   "teks": "Ponsel kita ternyata lebih pintar dari komputer zaman dulu.",
+   "dibaca": "Ponsel kita ternyata lebih pintar dari komputer zaman dulu.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/mia/5ab8abfbcf90.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "bd1555d3d180",
+   "suara": "mia",
+   "teks": "Satu kesalahan kecil justru melahirkan penemuan besar.",
+   "dibaca": "Satu kesalahan kecil justru melahirkan penemuan besar.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/bd1555d3d180.wav",
+   "durasi": 3.84,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
+  },
+  {
+   "id": "b6f319ee0b36",
+   "suara": "mia",
+   "teks": "Semakin kita tahu, semakin kita sadar banyak yang belum kita tahu.",
+   "dibaca": "Semakin kita tahu, semakin kita sadar banyak yang belum kita tahu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/mia/b6f319ee0b36.wav",
+   "durasi": 4.48,
+   "kategori": "",
+   "catatan": "",
+   "sumber": "lengkapi_pustaka.py",
+   "dibuat": "2026-11-22"
   }
  ]
 }
